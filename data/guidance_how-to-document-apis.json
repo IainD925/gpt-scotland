@@ -1,0 +1,377 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/how-to-document-apis",
+    "content_id":  "71442439-cd0f-41ab-b35a-f3636eab5066",
+    "description":  "Structuring, designing and publishing your API documentation",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eAPI documentation helps developers and technical architects:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ediscover your API\u003c/li\u003e\n  \u003cli\u003eknow if they can use your API\u003c/li\u003e\n  \u003cli\u003eunderstand what your API is for\u003c/li\u003e\n  \u003cli\u003eintegrate with your API\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eTo help your users use and understand your API, it’s important that your API documentation is more than just an API reference page or an auto-generated API specification.\u003c/p\u003e\n\n\u003cp\u003eThis guidance helps you write clear, well-structured API documentation for developers and technical architects.\u003c/p\u003e\n\n\u003cp\u003eThe Central Digital and Data Office (CDDO) technical writing team provides training on structuring and writing API documentation. Email \u003ca href=\"mailto:technical-writers@digital.cabinet-office.gov.uk\" class=\"govuk-link\"\u003etechnical-writers@digital.cabinet-office.gov.uk\u003c/a\u003e if you’re interested.\u003c/p\u003e\n\n\u003ch2 id=\"understand-the-needs-of-your-users\"\u003eUnderstand the needs of your users\u003c/h2\u003e\n\n\u003cp\u003eStart with \u003ca href=\"https://www.gov.uk/service-manual/user-research\" class=\"govuk-link\"\u003euser research\u003c/a\u003e and defining \u003ca href=\"https://www.gov.uk/guidance/content-design/user-needs\" class=\"govuk-link\"\u003euser needs\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eUser research helps you structure and write your documentation based on what your developer and technical architect users need, instead of how your team thinks about your API.\u003c/p\u003e\n\n\u003cp\u003eUser research also helps you understand your users’ technical ability, understanding of related topics, and familiarity with terms or acronyms your team uses. This helps you write documentation that’s clear to your users.\u003c/p\u003e\n\n\u003cp\u003eYou can learn more about user needs and content in the Government Digital Service (GDS) \u003ca rel=\"external\" href=\"https://www.futurelearn.com/courses/introduction-to-content-design\" class=\"govuk-link\"\u003eIntroduction to Content Design course\u003c/a\u003e on FutureLearn.\u003c/p\u003e\n\n\u003ch2 id=\"structure-your-documentation\"\u003eStructure your documentation\u003c/h2\u003e\n\n\u003cp\u003eYou should structure your API documentation to:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003etell users what your API does\u003c/li\u003e\n  \u003cli\u003egive a conceptual overview of how your API works, if your API is complicated\u003c/li\u003e\n  \u003cli\u003eget your users started by taking them through a simple request and response\u003c/li\u003e\n  \u003cli\u003egive task-based guidance that takes a user through using the API to complete common tasks, and integrate and test the API\u003c/li\u003e\n  \u003cli\u003einclude an API reference that lists every detail of your API\u003c/li\u003e\n  \u003cli\u003esupport your users with information on versioning, API status and getting support\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eDo not structure your documentation by user type or experience level. Research shows users find it hard to know which user category they belong to, which makes it more difficult for them to find the content they need.\u003c/p\u003e\n\n\u003cp\u003eYou can look at API documentation for similar APIs to yours, or look at documentation from other products such as \u003ca rel=\"external\" href=\"https://frontend.design-system.service.gov.uk/#gov-uk-frontend\" class=\"govuk-link\"\u003eGOV.UK Frontend\u003c/a\u003e, \u003ca rel=\"external\" href=\"https://stripe.com/docs/api\" class=\"govuk-link\"\u003eStripe\u003c/a\u003e or \u003ca rel=\"external\" href=\"https://developer.mailchimp.com/documentation/mailchimp/\" class=\"govuk-link\"\u003eMailChimp\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eIf you provide client libraries to interface with your API, you may need to produce separate documentation for each client library. For example, \u003ca rel=\"external\" href=\"https://www.notifications.service.gov.uk/documentation\" class=\"govuk-link\"\u003eGOV.UK Notify has separate documentation for each of its client libraries\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"introduce-your-api\"\u003eIntroduce your API\u003c/h3\u003e\n\n\u003cp\u003eStart your documentation with a short overview of:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ewhat your API does and does not do\u003c/li\u003e\n  \u003cli\u003ewhether your API is in the alpha, beta or live phase\u003c/li\u003e\n  \u003cli\u003ethe benefits of using the API, so users can compare it to other APIs\u003c/li\u003e\n  \u003cli\u003ewhether it’s free to use\u003c/li\u003e\n  \u003cli\u003ewhether your users need to build or buy anything before they use it (technical prerequisites)\u003c/li\u003e\n  \u003cli\u003ewho can use your API, and any restrictions on using it or its data\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eAvoid trying to sell your API. Describe features as benefits for your users instead.\u003c/p\u003e\n\n\u003cp\u003eKeep your introduction short, so your users can read and understand it easily. For example see the \u003ca rel=\"external\" href=\"https://docs.cloud.service.gov.uk/#gov-uk-platform-as-a-service\" class=\"govuk-link\"\u003eGOV.UK Platform as a Service (PaaS) introduction page\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"give-a-conceptual-overview-of-how-your-api-works\"\u003eGive a conceptual overview of how your API works\u003c/h3\u003e\n\n\u003cp\u003eInclude a section about how your API works conceptually, if your API is complicated and users must:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eunderstand and use a sequence of API requests and responses\u003c/li\u003e\n  \u003cli\u003eunderstand how different backend systems interact\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eOnly include this section if you’ve discovered a need for it in your research and tested it thoroughly. This is because conceptual information can:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eget in the way of developers finding the task-based guidance they’re looking for\u003c/li\u003e\n  \u003cli\u003ebe ignored or only partially read by developers\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou should write this section as an explanation of flow or a sequence of steps, using numbered steps if possible. For example, see \u003ca rel=\"external\" href=\"https://dcs-pilot-docs.cloudapps.digital/integrating-with-the-dcs/#how-the-dcs-works\" class=\"govuk-link\"\u003eHow the Document Checking Service works\u003c/a\u003e or \u003ca rel=\"external\" href=\"https://docs.payments.service.gov.uk/payment_flow/#how-gov-uk-pay-works\" class=\"govuk-link\"\u003eHow GOV.UK Pay works\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"get-your-users-started\"\u003eGet your users started\u003c/h3\u003e\n\n\u003cp\u003eProvide a ‘Get started’ section to take your users through the quickest and easiest way of getting an example response from your API.\u003c/p\u003e\n\n\u003cp\u003eYou can use a short, numbered list about making a test request and response with sample code. If your API uses authentication and authorisation, include a step on getting a test API key.\u003c/p\u003e\n\n\u003cp\u003eDo not include every possible request variable or response parameter, or multiple examples. Link to more detailed explanations elsewhere in your documentation if you need to.\u003c/p\u003e\n\n\u003cp\u003eAt the top of your ‘Get started’ section, you should include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe URL of the API, for example \u003ccode\u003ehttps://catfinder.api.gov.uk/\u003c/code\u003e\n\u003c/li\u003e\n  \u003cli\u003eany HTTP headers your user must include in each request\u003c/li\u003e\n  \u003cli\u003ethe format of requests and responses, for example JSON\u003c/li\u003e\n  \u003cli\u003ehow to apply authentication and authorisation if your API uses them\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eDo not explain the basics of how APIs work, or how authentication and authorisation work. You can link to external explanations by following the \u003ca href=\"https://www.gov.uk/guidance/content-design/links#linking-policy\" class=\"govuk-link\"\u003eGOV.UK external linking policy\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eLink to your browser-based \u003ca rel=\"external\" href=\"https://smartbear.com/learn/api-design/what-is-an-api-sandbox/\" class=\"govuk-link\"\u003eAPI ‘sandbox’\u003c/a\u003e if you have one, so your users can try out requests and responses.\u003c/p\u003e\n\n\u003ch3 id=\"write-task-based-guidance\"\u003eWrite task-based guidance\u003c/h3\u003e\n\n\u003cp\u003eTask-based guidance helps users complete the most common integration tasks, based on the user needs from your research. Most of your documentation should be in this format.\u003c/p\u003e\n\n\u003cp\u003eGood examples include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://docs.payments.service.gov.uk/refunding_payments/#refund-a-payment\" class=\"govuk-link\"\u003eRefund a payment\u003c/a\u003e - using a REST API\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://docs.cloud.service.gov.uk/deploying_apps.html#deploying-apps\" class=\"govuk-link\"\u003eDeploying apps\u003c/a\u003e - using a native API\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYour team’s developer, user researcher and technical writer should work together to identify the most common tasks your developer users need to complete.\u003c/p\u003e\n\n\u003cp\u003eEach task-based guidance section should:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ehelp users complete one task\u003c/li\u003e\n  \u003cli\u003ehave a front-loaded title that starts with a verb\u003c/li\u003e\n  \u003cli\u003einclude example code for a request and response\u003c/li\u003e\n  \u003cli\u003einclude descriptions for the request parameters and response fields that relate specifically to the task\u003c/li\u003e\n  \u003cli\u003eavoid duplicating basic information about the API - link to your ‘Get started’ section instead\u003c/li\u003e\n  \u003cli\u003elink to any tasks that users need to complete afterwards\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eTask-based guidance should be more detailed than just a description of an endpoint and method. You should guide users through the task by:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003etalking directly to your user - use ‘you’ and active verbs\u003c/li\u003e\n  \u003cli\u003eusing the active voice and plain language\u003c/li\u003e\n  \u003cli\u003edescribing the task not the technology - tell your users what they need to do, instead of describing how the system works\u003c/li\u003e\n  \u003cli\u003eusing numbered steps wherever you can\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eKeep task-based guidance concise. Do not include every possible request or list complete API responses. You can link to your API reference for users who need more detail.\u003c/p\u003e\n\n\u003cp\u003eFor each task, you should tell users what to do if they have a particular need - for example a common alternate request, they get an error, or something goes wrong in the API flow. Add a front-loaded heading and section for each need. Include these on a page with the task - do not create ‘troubleshooting’ or ‘FAQ’ pages.\u003c/p\u003e\n\n\u003ch4 id=\"write-about-testing-the-api\"\u003eWrite about testing the API\u003c/h4\u003e\n\n\u003cp\u003eOne of your sections of task-based guidance should help your users successfully test your API, especially if they want to use your API in a production environment with real data.\u003c/p\u003e\n\n\u003cp\u003eExplain how a user can test whether their interactions with your API are working properly, including how to run the tests in a test environment.\u003c/p\u003e\n\n\u003cp\u003eIf you have a sandbox environment where developers can experiment with your API, you should clearly explain the limitations of your sandbox environment compared to your production environment.\u003c/p\u003e\n\n\u003cp\u003eFor example, if your sandbox environment only allows stateless testing, your users should know it is not as representative as stateful testing in production.\u003c/p\u003e\n\n\u003ch3 id=\"include-an-api-reference\"\u003eInclude an API reference\u003c/h3\u003e\n\n\u003cp\u003eUse an API reference page to list your API endpoints, methods, requests, responses and errors. You should auto-generate your API reference rather than writing it by hand, so it’s easier to keep your API reference in sync with your API code.\u003c/p\u003e\n\n\u003cp\u003eFollow the guidance on \u003ca href=\"https://www.gov.uk/guidance/writing-api-reference-documentation\" class=\"govuk-link\"\u003ewriting API reference documentation\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"support-your-users\"\u003eSupport your users\u003c/h3\u003e\n\n\u003cp\u003eYou should include sections that help your users with general rules about using your API, and what to do if there’s a problem.\u003c/p\u003e\n\n\u003ch4 id=\"rate-limits-and-timeouts\"\u003eRate limits and timeouts\u003c/h4\u003e\n\n\u003cp\u003eIf your API uses rate or record limiting, explain how many requests users can make within a set period.\u003c/p\u003e\n\n\u003cp\u003eEven if it’s unlikely a user will meet the maximum number of requests, you must still explain:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ewhat happens if users exceed the limit, including the type of error message they can expect\u003c/li\u003e\n  \u003cli\u003ehow to correct the error\u003c/li\u003e\n  \u003cli\u003ehow long they need to wait before they can make requests again\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFor example, the \u003ca rel=\"external\" href=\"https://govukpay-docs.cloudapps.digital/api_reference/#rate-limits\" class=\"govuk-link\"\u003eGOV.UK Pay API documentation\u003c/a\u003e explains that the user will see a particular error code, but they will be able to make another request after 1 second has passed.\u003c/p\u003e\n\n\u003ch4 id=\"versioning\"\u003eVersioning\u003c/h4\u003e\n\n\u003cp\u003eTell users:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ehow \u003ca href=\"https://www.gov.uk/guidance/gds-api-technical-and-data-standards#when-iterating-your-api\" class=\"govuk-link\"\u003eversioning works for your API\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003ehow to keep up to date\u003c/li\u003e\n  \u003cli\u003ewhere you’ll publish information about what’s changed when you release a new version\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou can also version your documentation, so users can switch between documentation for different versions.\u003c/p\u003e\n\n\u003ch4 id=\"support\"\u003eSupport\u003c/h4\u003e\n\n\u003cp\u003eYour support section should help users to:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003econtact the API development team\u003c/li\u003e\n  \u003cli\u003etell you about issues or gaps in your documentation\u003c/li\u003e\n  \u003cli\u003econtribute to development, if appropriate\u003c/li\u003e\n  \u003cli\u003efind any supporting information or guidance, for example product blog posts\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou should explain how users can report any vulnerabilities or security concerns and how you respond to these reports. You can also ask users not to publicly disclose any issue until it has been addressed by your development team.\u003c/p\u003e\n\n\u003cp\u003eFor example see the \u003ca rel=\"external\" href=\"https://dcs-pilot-docs.cloudapps.digital/support/#support\" class=\"govuk-link\"\u003esupport section of the Document Checking Service documentation\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch4 id=\"status\"\u003eStatus\u003c/h4\u003e\n\n\u003cp\u003eInclude or link to a status section that tells users whether your API is available, and provides them with regular updates when there’s an issue or incident.\u003c/p\u003e\n\n\u003ch2 id=\"write-your-documentation\"\u003eWrite your documentation\u003c/h2\u003e\n\n\u003cp\u003eTechnical documentation should be written in the same style as other GOV.UK content. This means you should write in short sentences using plain language, and follow:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style\" class=\"govuk-link\"\u003eGOV.UK style\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003eguidance on \u003ca href=\"https://www.gov.uk/guidance/content-design/writing-for-gov-uk\" class=\"govuk-link\"\u003ewriting for GOV.UK\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003eguidance on making your content accessible\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eOnly use technical terms without explanation if you have evidence showing your users are familiar with them.\u003c/p\u003e\n\n\u003ch3 id=\"format-code-snippets\"\u003eFormat code snippets\u003c/h3\u003e\n\n\u003cp\u003eCode snippets are small blocks of reusable code.\u003c/p\u003e\n\n\u003cp\u003eYou must make it easy to tell the difference between code snippets and non-code text, for example by rendering snippets in a fixed-width font. You might also find it helpful to provide a light background colour to make it stand apart from standard text.\u003c/p\u003e\n\n\u003cp\u003eFor example, the \u003ca rel=\"external\" href=\"https://github.com/alphagov/tech-docs-template\" class=\"govuk-link\"\u003eTechnical Documentation Template\u003c/a\u003e uses a light grey background for inline code and code blocks.\u003c/p\u003e\n\n\u003cp\u003eMake sure that code snippets:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ework if users copy and paste them - minimise placeholder variables or make them obvious\u003c/li\u003e\n  \u003cli\u003eonly contain code - do not include line numbers or a Terminal prompt, to make copying and pasting easier\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"writing-about-third-party-products\"\u003eWriting about third-party products\u003c/h3\u003e\n\n\u003cp\u003eAvoid writing your own version of third-party documentation. You should link to the third-party’s own documentation instead, so you do not need to update your own version every time their version changes.\u003c/p\u003e\n\n\u003ch2 id=\"help-users-navigate-your-documentation\"\u003eHelp users navigate your documentation\u003c/h2\u003e\n\n\u003cp\u003eAPI documentation can become long and complicated. Consider how to help your users find the part of your API documentation they need with a navigation. For example, the \u003ca rel=\"external\" href=\"https://github.com/alphagov/tech-docs-template\" class=\"govuk-link\"\u003eTechnical Documentation Template\u003c/a\u003e uses fixed navigation so a user can move to different sections, and can render content as either single or multiple pages. This is a common documentation navigation design used by organisations including \u003ca rel=\"external\" href=\"https://stripe.com/docs/api\" class=\"govuk-link\"\u003eStripe\u003c/a\u003e and \u003ca rel=\"external\" href=\"https://www.dropbox.com/developers/documentation/http/overview\" class=\"govuk-link\"\u003eDropbox\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eResearch shows that developers use Ctrl+F frequently to search documentation. But if you have a lot of documentation, you should add search functionality. The \u003ca rel=\"external\" href=\"https://github.com/alphagov/tech-docs-template\" class=\"govuk-link\"\u003eTechnical Documentation Template\u003c/a\u003e has an inbuilt search function.\u003c/p\u003e\n\n\u003cp\u003eAdd metadata to help your users find your documentation. Consider including the name of the API, whether it’s stable or in alpha, the base URL, version number, and availability information.\u003c/p\u003e\n\n\u003ch2 id=\"publish-your-documentation\"\u003ePublish your documentation\u003c/h2\u003e\n\n\u003cp\u003eWhen your API reaches the \u003ca href=\"https://www.gov.uk/guidance/managing-your-api-alpha\" class=\"govuk-link\"\u003ealpha phase\u003c/a\u003e, host your documentation \u003ca href=\"https://www.gov.uk/guidance/get-an-api-domain-on-govuk#hosting-your-api-documentation\" class=\"govuk-link\"\u003eon a subdirectory of your .api.gov.uk domain\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eYou must not publish alpha, beta or live API documentation:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eon a service.gov.uk domain\u003c/li\u003e\n  \u003cli\u003eoutside of .gov.uk - for example on a third-party service such as GitHub or GitHub Pages\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eUse the \u003ca rel=\"external\" href=\"https://design-system.service.gov.uk/\" class=\"govuk-link\"\u003eGOV.UK Design System\u003c/a\u003e to make sure your documentation’s design and functionality is consistent with GOV.UK and meets user needs.\u003c/p\u003e\n\n\u003cp\u003eThe \u003ca rel=\"external\" href=\"https://github.com/alphagov/tech-docs-template\" class=\"govuk-link\"\u003eTechnical Documentation Template\u003c/a\u003e allows you to publish documentation with a GOV.UK theme. It uses a static site generator called \u003ca rel=\"external\" href=\"https://middlemanapp.com/\" class=\"govuk-link\"\u003eMiddleman\u003c/a\u003e. The content can be written in HTML or Markdown and is stored as code, which allows it to be kept in version control systems such as Git. This industry approach in treating documentation as code is often referred to as \u003ca rel=\"external\" href=\"https://technology.blog.gov.uk/2017/08/25/why-we-use-a-docs-as-code-approach-for-technical-documentation/\" class=\"govuk-link\"\u003e‘\u003c/a\u003e\u003ca rel=\"external\" href=\"https://technology.blog.gov.uk/2017/08/25/why-we-use-a-docs-as-code-approach-for-technical-documentation/\" class=\"govuk-link\"\u003edocs-as-code\u003c/a\u003e\u003ca rel=\"external\" href=\"https://technology.blog.gov.uk/2017/08/25/why-we-use-a-docs-as-code-approach-for-technical-documentation/\" class=\"govuk-link\"\u003e’\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eFollow the \u003ca href=\"https://www.gov.uk/government/collections/api-design-guidance\" class=\"govuk-link\"\u003eAPI design guidance\u003c/a\u003e for more guidance on when and how to publish your documentation as your API develops.\u003c/p\u003e\n\n\u003ch2 id=\"test-your-documentation\"\u003eTest your documentation\u003c/h2\u003e\n\n\u003cp\u003eTest your documentation regularly to make sure the content continues to meet user needs.\u003c/p\u003e\n\n\u003cp\u003ePublish your documentation as early as possible to get feedback from users. You should regularly test active API documentation, especially if you introduce any changes that affect how a user would consume the documentation or use your API.\u003c/p\u003e\n\n\u003cp\u003eFor example, you can ask them to complete common scenarios with your API and see if the instructions you have provided in the documentation help them to complete a task. By observing your users following your documented instructions, you can see whether your documentation is incomplete, unclear, or helping users effectively.\u003c/p\u003e\n\n\u003cp\u003eYou can also test your users’ understanding of the language you use in your documentation with comprehension testing. Common ways to test comprehension include asking users to \u003ca rel=\"external\" href=\"https://userresearch.blog.gov.uk/2014/09/02/a-simple-technique-for-evaluating-content/\" class=\"govuk-link\"\u003ehighlight parts of your documentation\u003c/a\u003e that make it easier or harder to understand a concept or use your API.\u003c/p\u003e\n\n\u003cp\u003eYou can also interview users to find out how comfortable they are with your API’s subject area and how your API works. You can even \u003ca rel=\"external\" href=\"https://insidegovuk.blog.gov.uk/2017/11/14/using-ab-testing-to-measurably-improve-common-user-journeys/\" class=\"govuk-link\"\u003erun\u003c/a\u003e\u003ca rel=\"external\" href=\"https://insidegovuk.blog.gov.uk/2017/11/14/using-ab-testing-to-measurably-improve-common-user-journeys/\" class=\"govuk-link\"\u003e A/B tests to test variations of content\u003c/a\u003e before publishing.\u003c/p\u003e\n\n\u003cp\u003eThe HMRC API documentation team has also experimented with using pop-up surveys to get immediate feedback from developers using their documentation. The team then uses the responses to iterate the documentation.\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Updated to a new version of the guidance.",
+                                               "public_timestamp":  "2022-01-17T08:53:33.000+00:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2019-02-15T10:04:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "2fb482e7-3c4d-496f-887d-f8a55a15e89a"
+                                                 ],
+                    "first_public_at":  "2019-02-15T10:04:00.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2019-02-15T10:04:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/how-to-document-apis",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/how-to-document-apis",
+                                                     "base_path":  "/guidance/how-to-document-apis",
+                                                     "content_id":  "71442439-cd0f-41ab-b35a-f3636eab5066",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2022-01-17T08:53:33Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Documenting APIs",
+                                                     "web_url":  "https://www.gov.uk/guidance/how-to-document-apis",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/api-design-guidance",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/api-design-guidance",
+                                                   "base_path":  "/government/collections/api-design-guidance",
+                                                   "content_id":  "8866170f-22f6-446a-ad7c-3733519dfa2c",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/how-to-document-apis",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/how-to-document-apis",
+                                                                                       "base_path":  "/guidance/how-to-document-apis",
+                                                                                       "content_id":  "71442439-cd0f-41ab-b35a-f3636eab5066",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2022-01-17T08:53:33Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Documenting APIs",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/how-to-document-apis",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2022-07-11T14:18:52Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "API design guidance",
+                                                   "web_url":  "https://www.gov.uk/government/collections/api-design-guidance",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "OT1329",
+                                            "api_path":  "/api/content/government/organisations/central-digital-and-data-office",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/central-digital-and-data-office",
+                                            "base_path":  "/government/organisations/central-digital-and-data-office",
+                                            "content_id":  "2fb482e7-3c4d-496f-887d-f8a55a15e89a",
+                                            "details":  {
+                                                            "acronym":  "CDDO",
+                                                            "brand":  "department-for-science-innovation-and-technology",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Central Digital \u003cbr/\u003e\u0026amp; Data Office"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Central Digital and Data Office",
+                                            "web_url":  "https://www.gov.uk/government/organisations/central-digital-and-data-office",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "OT1056",
+                                                                       "api_path":  "/api/content/government/organisations/government-digital-service",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+                                                                       "base_path":  "/government/organisations/government-digital-service",
+                                                                       "content_id":  "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+                                                                       "details":  {
+                                                                                       "acronym":  "GDS",
+                                                                                       "brand":  "department-for-science-innovation-and-technology",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Government Digital Service"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Government Digital Service",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/government-digital-service",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "OT1329",
+                                                              "api_path":  "/api/content/government/organisations/central-digital-and-data-office",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/central-digital-and-data-office",
+                                                              "base_path":  "/government/organisations/central-digital-and-data-office",
+                                                              "content_id":  "2fb482e7-3c4d-496f-887d-f8a55a15e89a",
+                                                              "details":  {
+                                                                              "acronym":  "CDDO",
+                                                                              "brand":  "department-for-science-innovation-and-technology",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Central Digital \u003cbr/\u003e\u0026amp; Data Office"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Central Digital and Data Office",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/central-digital-and-data-office",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/managing-your-api-beta",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/managing-your-api-beta",
+                                                              "base_path":  "/guidance/managing-your-api-beta",
+                                                              "content_id":  "f1de8666-4909-4f7c-b849-251e72112e44",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-11-27T11:08:33Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Managing your API beta",
+                                                              "web_url":  "https://www.gov.uk/guidance/managing-your-api-beta",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/using-graphql-for-your-api",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/using-graphql-for-your-api",
+                                                              "base_path":  "/guidance/using-graphql-for-your-api",
+                                                              "content_id":  "f938d2f9-ceb7-420c-9399-b0b97a172e09",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-10-06T14:56:55Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Using GraphQL for your API",
+                                                              "web_url":  "https://www.gov.uk/guidance/using-graphql-for-your-api",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/collections/api-design-guidance",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/collections/api-design-guidance",
+                                                              "base_path":  "/government/collections/api-design-guidance",
+                                                              "content_id":  "8866170f-22f6-446a-ad7c-3733519dfa2c",
+                                                              "document_type":  "document_collection",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-07-11T14:18:52Z",
+                                                              "schema_name":  "document_collection",
+                                                              "title":  "API design guidance",
+                                                              "web_url":  "https://www.gov.uk/government/collections/api-design-guidance",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/managing-your-api-alpha",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/managing-your-api-alpha",
+                                                              "base_path":  "/guidance/managing-your-api-alpha",
+                                                              "content_id":  "2a40e1e8-fcbb-443a-9f24-af663bced934",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-11-27T11:08:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Managing your API alpha",
+                                                              "web_url":  "https://www.gov.uk/guidance/managing-your-api-alpha",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/writing-api-reference-documentation",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/writing-api-reference-documentation",
+                                                              "base_path":  "/guidance/writing-api-reference-documentation",
+                                                              "content_id":  "0f6f85df-1a02-49f3-af97-41e3bd39dece",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2019-02-15T10:04:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Writing API reference documentation",
+                                                              "web_url":  "https://www.gov.uk/guidance/writing-api-reference-documentation",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/government/technology-guidance-technology-guidance-apis",
+                                     "api_url":  "https://www.gov.uk/api/content/government/technology-guidance-technology-guidance-apis",
+                                     "base_path":  "/government/technology-guidance-technology-guidance-apis",
+                                     "content_id":  "f695028c-ca84-41e4-ba72-d17878eadf35",
+                                     "details":  {
+                                                     "internal_name":  "APIs [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/apis-and-app-development",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/apis-and-app-development",
+                                                                             "base_path":  "/government/apis-and-app-development",
+                                                                             "content_id":  "34dfe08a-a416-4052-9952-4266ffb08dba",
+                                                                             "details":  {
+                                                                                             "internal_name":  "APIs and application development",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/government/government-technology-and-digital-services",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/government/government-technology-and-digital-services",
+                                                                                                                     "base_path":  "/government/government-technology-and-digital-services",
+                                                                                                                     "content_id":  "90c9b9f1-0a4f-4639-b1e9-2bfb23d611bd",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Government technology and digital services",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  false
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "parent_taxons":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "beta",
+                                                                                                                     "public_updated_at":  "2018-08-28T10:56:47Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Government technology and digital services",
+                                                                                                                     "web_url":  "https://www.gov.uk/government/government-technology-and-digital-services",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "beta",
+                                                                             "public_updated_at":  "2018-08-20T09:26:15Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "APIs and app development",
+                                                                             "web_url":  "https://www.gov.uk/government/apis-and-app-development",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "beta",
+                                     "public_updated_at":  "2018-08-20T09:26:15Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "APIs",
+                                     "web_url":  "https://www.gov.uk/government/technology-guidance-technology-guidance-apis",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2022-01-17T08:53:33+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "13754-1647446267.538-10.13.2.54-2208",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Documenting APIs",
+    "updated_at":  "2024-12-12T10:27:34+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

@@ -1,0 +1,455 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/ecological-momentary-assessment",
+    "content_id":  "ff366f41-cf84-43b1-abef-892de750f40c",
+    "description":  "Using an ecological momentary assessment to evaluate your digital health product.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eThis guidance is part of a \u003ca href=\"https://www.gov.uk/government/collections/evaluating-digital-health-products\" class=\"govuk-link\"\u003ecollection of guidance on evaluating digital health products\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eDigital technologies have made it possible to collect data in new ways. Ecological momentary assessments (\u003cabbr title=\"ecological momentary assessments\"\u003eEMAs\u003c/abbr\u003e) study people’s thoughts and behaviour in their daily lives by repeatedly collecting data in an individual’s normal environment, at or close to the time they carry out that behaviour.\u003c/p\u003e\n\n\u003cp\u003eThis can be done automatically by sensors or by notifications sent at prespecified intervals to prompt users to answer questions. This is often more accurate than older data collection methods that require people to recall their behaviour or feelings days, weeks or months later.\u003c/p\u003e\n\n\u003cp\u003e\u003cabbr title=\"ecological momentary assessments\"\u003eEMAs\u003c/abbr\u003e are particularly useful for understanding changes in an individual (for example, changes in mood or alcohol consumption over time).\u003c/p\u003e\n\n\u003cp\u003e\u003cabbr title=\"ecological momentary assessments\"\u003eEMAs\u003c/abbr\u003e can also bring together data from multiple participants to help you understand how individuals differ in their responses to a particular intervention (between-person processes). The use of \u003cabbr title=\"ecological momentary assessment\"\u003eEMA\u003c/abbr\u003e then provides a more in-depth understanding of the effect of your digital product or service.\u003c/p\u003e\n\n\u003ch2 id=\"what-to-use-it-for\"\u003eWhat to use it for\u003c/h2\u003e\n\n\u003cp\u003eYou can use \u003cabbr title=\"ecological momentary assessments\"\u003eEMAs\u003c/abbr\u003e at any stage of the digital product or service development process to measure the outcomes of interest. For example, \u003cabbr title=\"ecological momentary assessments\"\u003eEMAs\u003c/abbr\u003e can be used:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eduring product development (formative or iterative evaluation)\u003c/li\u003e\n  \u003cli\u003eonce you have a product, to describe how well it works (summative evaluation)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eWhether \u003cabbr title=\"ecological momentary assessments\"\u003eEMAs\u003c/abbr\u003e are a suitable option will depend on:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ewhat you want to find out (for example, do you expect the outcome you’re measuring to fluctuate over time)\u003c/li\u003e\n  \u003cli\u003ehow you want to measure it\u003c/li\u003e\n  \u003cli\u003ehow often you need to measure it\u003c/li\u003e\n  \u003cli\u003ewhether users are able to provide the data you need (for example, do they have access to a suitable device and are they available to complete surveys in response to multiple prompts)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eRead more information on \u003ca href=\"https://www.gov.uk/guidance/define-how-your-product-works-evaluating-digital-health-products\" class=\"govuk-link\"\u003edeciding what outcomes to measure\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"pros\"\u003ePros\u003c/h2\u003e\n\n\u003cp\u003eThe benefits of an \u003cabbr title=\"ecological momentary assessment\"\u003eEMA\u003c/abbr\u003e include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eit reduces the problem of users having to remember how they felt or what they did (recall bias), because you are asking them in the moment – so data tend to be more accurate\u003c/li\u003e\n  \u003cli\u003eit is usually an efficient and easy way for you to collect the data once it is set up\u003c/li\u003e\n  \u003cli\u003eyou often need fewer participants than you would in a traditional survey study, as each participant provides data several times\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"cons\"\u003eCons\u003c/h2\u003e\n\n\u003cp\u003eThe drawbacks of an \u003cabbr title=\"ecological momentary assessment\"\u003eEMA\u003c/abbr\u003e include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eit can be annoying for participants if the \u003cabbr title=\"ecological momentary assessment\"\u003eEMA\u003c/abbr\u003e needs them to input substantial information frequently\u003c/li\u003e\n  \u003cli\u003eyou might end up with significant missing data\u003c/li\u003e\n  \u003cli\u003eyou need specific skills to analyse \u003cabbr title=\"ecological momentary assessment\"\u003eEMA\u003c/abbr\u003e data\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"how-to-carry-out-ecological-momentary-assessment\"\u003eHow to carry out ecological momentary assessment\u003c/h2\u003e\n\n\u003cp\u003e\u003cabbr title=\"ecological momentary assessments\"\u003eEMAs\u003c/abbr\u003e can collect data automatically (passive data collection) or using self-report by the user (active data collection).\u003c/p\u003e\n\n\u003cp\u003eIf you have a digital product that makes use of motion sensors, \u003cabbr title=\"Global Positioning System\"\u003eGPS\u003c/abbr\u003e or usage data, you are already collecting \u003cabbr title=\"ecological momentary assessment\"\u003eEMA\u003c/abbr\u003e data. For example, usage data, such as the number of logins, is a type of automatically-collected measure of user engagement, with multiple measurements over time in users’ daily lives. Read more about \u003ca href=\"https://www.gov.uk/guidance/design-your-evaluation-evaluating-digital-health-products\" class=\"govuk-link\"\u003edata collection through digital technology\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"why-might-you-use-an-ema\"\u003eWhy might you use an \u003cabbr title=\"ecological momentary assessment\"\u003eEMA\u003c/abbr\u003e?\u003c/h2\u003e\n\n\u003cp\u003eFor example, if you want to measure physical activity, you could ask your participants to fill in a weekly questionnaire of how much physical activity they have undertaken. People tend to overestimate their physical activity and underestimate their calorie intake, so the results will probably not be accurate. You can use \u003cabbr title=\"ecological momentary assessments\"\u003eEMAs\u003c/abbr\u003e instead.\u003c/p\u003e\n\n\u003cp\u003eYou could send prompts to the user’s mobile 3 times (or more) a day, asking them at each assessment how much physical activity they have completed since the last prompt. It is more likely that they will recall their activity levels more accurately.\u003c/p\u003e\n\n\u003cp\u003eThere are different ways of delivering \u003cabbr title=\"ecological momentary assessments\"\u003eEMAs\u003c/abbr\u003e (sampling methods):\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eevent-contingent sampling – participants are asked to record information during or after a specific event, such as immediately after they used your app\u003c/li\u003e\n  \u003cli\u003einterval-contingent sampling – participants are sent a prompt to complete a survey at specific times, for example, at 9am and 9pm every day for 30 days\u003c/li\u003e\n  \u003cli\u003esignal-contingent sampling – participants are prompted to answer some questions at random times\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou could also use motion sensors to assess physical activity without any conscious input from the user. Automatically-collected data can reduce participant burden and tends to be more accurate, so it is important to consider this when designing your evaluation.\u003c/p\u003e\n\n\u003cp\u003eAs \u003cabbr title=\"ecological momentary assessments\"\u003eEMAs\u003c/abbr\u003e involve the collection of multiple data points over time for a single individual, data tend to be analysed using correlational, hierarchical, multilevel or time series analysis.\u003c/p\u003e\n\n\u003ch2 id=\"example-exploring-what-factors-increase-engagement-with-an-alcohol-reduction-app\"\u003eExample: exploring what factors increase engagement with an alcohol reduction app\u003c/h2\u003e\n\n\u003cp\u003ePerski and colleagues (2019), \u003ca rel=\"external\" href=\"https://mhealth.jmir.org/2019/10/e14098/\" class=\"govuk-link\"\u003eDo daily fluctuations in psychological and app-related variables predict engagement with an alcohol reduction app? A series of N-of-1 studies\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eResearchers wanted to investigate what factors promote user engagement with an alcohol reduction app and if different factors are important for different individuals.\u003c/p\u003e\n\n\u003cp\u003eThey had previously conducted a \u003ca href=\"https://www.gov.uk/guidance/randomised-controlled-trial-comparative-studies\" class=\"govuk-link\"\u003erandomised controlled trial\u003c/a\u003e, which found that some variables seemed to predict higher engagement with the app at the group level. They used \u003cabbr title=\"ecological momentary assessments\"\u003eEMAs\u003c/abbr\u003e to gain a more in-depth picture of the influences on user engagement.\u003c/p\u003e\n\n\u003cp\u003ePassive and active data collection were used. The main outcome was daily behavioural engagement with the app, defined as the daily frequency of logins and time spent per login. Researchers also thought that the subjective experience of engagement (for example, attention, enjoyment, interest) was important, but had to balance the data collected with the burden on participants. They decided only to collect data on behavioural engagement as this could be measured automatically via the app.\u003c/p\u003e\n\n\u003cp\u003eThe predictors of higher engagement with the app, collected via brief text message surveys, were:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003emotivation to reduce alcohol consumption\u003c/li\u003e\n  \u003cli\u003eperceived usefulness of the app\u003c/li\u003e\n  \u003cli\u003ealcohol consumption\u003c/li\u003e\n  \u003cli\u003eperceived lack of time\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eUsers could choose whether to receive a daily reminder to engage with the app. If they chose this, the timing of the reminder was also taken into account as a potential driver of momentary app engagement.\u003c/p\u003e\n\n\u003cp\u003eThe team conducted a power analysis and worked out how many \u003cabbr title=\"ecological momentary assessments\"\u003eEMAs\u003c/abbr\u003e were required (sampling frequency). It was estimated they needed at least 2 \u003cabbr title=\"ecological momentary assessments\"\u003eEMAs\u003c/abbr\u003e per day for each participant (morning and evening) over 28 days (56 data points per individual) to detect an effect of how useful someone perceives the app to be when they engage with it. Nine participants took part in the study.\u003c/p\u003e\n\n\u003cp\u003eThe results showed that, for some participants, perceived usefulness of the app or motivation to cut down on drinking was a key predictor of engagement. This means that, at times when participants rated the app’s usefulness or their motivation to cut down as greater than usual, they were more likely to engage with the app or spend more time on it.\u003c/p\u003e\n\n\u003cp\u003eSimilarities were found across participants, but some predictors were only important for specific individuals. For example, the reminder predicted engagement with the app for some, but not all, participants who had selected to receive reminders. The authors interpreted the findings as suggesting that different users are likely to benefit from different strategies to help promote engagement with the app.\u003c/p\u003e\n\n\u003ch2 id=\"more-information-and-resources\"\u003eMore information and resources\u003c/h2\u003e\n\n\u003cp\u003eShiffman and others (2007), \u003ca rel=\"external\" href=\"https://www.annualreviews.org/doi/pdf/10.1146/annurev.clinpsy.3.022806.091415\" class=\"govuk-link\"\u003eEcological momentary assessment\u003c/a\u003e. An overview of \u003cabbr title=\"ecological momentary assessment\"\u003eEMA\u003c/abbr\u003e, including different designs and practical issues to consider.\u003c/p\u003e\n\n\u003cp\u003eDunton (2018), \u003ca rel=\"external\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5161656/\" class=\"govuk-link\"\u003eEcological momentary assessment in physical activity research\u003c/a\u003e. This article explains the benefits of using \u003cabbr title=\"ecological momentary assessment\"\u003eEMA\u003c/abbr\u003e to assess the effects of an intervention. It focuses on physical activity but also applies to different outcomes.\u003c/p\u003e\n\n\u003cp\u003eShatte and Teague (2020), \u003ca rel=\"external\" href=\"https://pubmed.ncbi.nlm.nih.gov/32334522/\" class=\"govuk-link\"\u003eSchema: an open-source, distributed mobile platform for deploying mhealth research tools and interventions\u003c/a\u003e. This resource introduces an open-source, app-based platform that can be used to set up \u003cabbr title=\"ecological momentary assessment\"\u003eEMA\u003c/abbr\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"examples-of-ecological-momentary-assessment-in-digital-health\"\u003eExamples of ecological momentary assessment in digital health\u003c/h3\u003e\n\n\u003cp\u003eWahl and others (2020), \u003ca rel=\"external\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6996745/\" class=\"govuk-link\"\u003eWhy we eat what we eat: assessing dispositional and in-the-moment eating motives by using ecological momentary assessment\u003c/a\u003e. \u003cabbr title=\"ecological momentary assessment\"\u003eEMA\u003c/abbr\u003e was used to explore the motives for consuming food in-the-moment, which are not captured when assessed by traditional survey methods.\u003c/p\u003e\n\n\u003cp\u003eLiu and Lou (2018), \u003ca rel=\"external\" href=\"https://academic.oup.com/tbm/article/9/4/711/5160124\" class=\"govuk-link\"\u003eDeveloping a smartphone-based ecological momentary assessment protocol to collect biopsychosocial data with community-dwelling late-middle-aged and older adults\u003c/a\u003e. This study reports on the development and testing of phone-based \u003cabbr title=\"ecological momentary assessment\"\u003eEMA\u003c/abbr\u003e protocol assessing various measures: EEG, daily activities, emotions.\u003c/p\u003e\n\n\u003cp\u003eHuckins and others (2020), \u003ca rel=\"external\" href=\"https://www.jmir.org/preprint/20185\" class=\"govuk-link\"\u003eMental health and behavior during the early phases of the COVID-19 pandemic: a longitudinal mobile smartphone and ecological momentary assessment study in college students\u003c/a\u003e. The authors assessed mental health and behaviours during the COVID-19 pandemic using \u003cabbr title=\"ecological momentary assessment\"\u003eEMA\u003c/abbr\u003e, and compared them with data from a previous, pre-pandemic term.\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2020-07-16T12:24:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "e85f9a3f-451d-4a3e-9b63-17b13149269f"
+                                                 ],
+                    "first_public_at":  "2020-07-16T12:24:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2020-07-16T12:24:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/ecological-momentary-assessment",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/ecological-momentary-assessment",
+                                                     "base_path":  "/guidance/ecological-momentary-assessment",
+                                                     "content_id":  "ff366f41-cf84-43b1-abef-892de750f40c",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2020-07-16T11:24:00Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Ecological momentary assessment",
+                                                     "web_url":  "https://www.gov.uk/guidance/ecological-momentary-assessment",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/evaluating-digital-health-products",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/evaluating-digital-health-products",
+                                                   "base_path":  "/government/collections/evaluating-digital-health-products",
+                                                   "content_id":  "9f286c51-0fa2-43c0-abc3-988f75423e36",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/ecological-momentary-assessment",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/ecological-momentary-assessment",
+                                                                                       "base_path":  "/guidance/ecological-momentary-assessment",
+                                                                                       "content_id":  "ff366f41-cf84-43b1-abef-892de750f40c",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2020-07-16T11:24:00Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Ecological momentary assessment",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/ecological-momentary-assessment",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2021-10-19T09:59:42Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Evaluating digital health products",
+                                                   "web_url":  "https://www.gov.uk/government/collections/evaluating-digital-health-products",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  true,
+                                                         "ended_on":  null,
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "OT1341",
+                                            "api_path":  "/api/content/government/organisations/office-for-health-improvement-and-disparities",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/office-for-health-improvement-and-disparities",
+                                            "base_path":  "/government/organisations/office-for-health-improvement-and-disparities",
+                                            "content_id":  "e85f9a3f-451d-4a3e-9b63-17b13149269f",
+                                            "details":  {
+                                                            "acronym":  "OHID",
+                                                            "brand":  "department-of-health",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/6155e1378fa8f5297cc029fc/s960_39vs-at-night.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/6155e1378fa8f52985dd7449/s300_39vs-at-night.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Office for Health\u003cbr/\u003eImprovement \u003cbr/\u003e\u0026amp; Disparities"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Office for Health Improvement and Disparities",
+                                            "web_url":  "https://www.gov.uk/government/organisations/office-for-health-improvement-and-disparities",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA480",
+                                                                       "api_path":  "/api/content/government/organisations/public-health-england",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/public-health-england",
+                                                                       "base_path":  "/government/organisations/public-health-england",
+                                                                       "content_id":  "1343f283-19e9-4fbb-86b1-58c7549d874b",
+                                                                       "details":  {
+                                                                                       "acronym":  "PHE",
+                                                                                       "brand":  "department-of-health",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db2de5274a7908e352ef/s960_sign5.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5a37db2d40f0b649cceb18bf/s300_sign5.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Public Health \u003cbr/\u003eEngland"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "split",
+                                                                                                                         "updated_at":  "2021-10-01T00:00:00.000+01:00",
+                                                                                                                         "url":  "https://www.gov.uk/phe"
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Public Health England",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/public-health-england",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "OT1341",
+                                                              "api_path":  "/api/content/government/organisations/office-for-health-improvement-and-disparities",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/office-for-health-improvement-and-disparities",
+                                                              "base_path":  "/government/organisations/office-for-health-improvement-and-disparities",
+                                                              "content_id":  "e85f9a3f-451d-4a3e-9b63-17b13149269f",
+                                                              "details":  {
+                                                                              "acronym":  "OHID",
+                                                                              "brand":  "department-of-health",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/6155e1378fa8f5297cc029fc/s960_39vs-at-night.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/6155e1378fa8f52985dd7449/s300_39vs-at-night.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Office for Health\u003cbr/\u003eImprovement \u003cbr/\u003e\u0026amp; Disparities"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Office for Health Improvement and Disparities",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/office-for-health-improvement-and-disparities",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/n-of-1-study-comparative-studies",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/n-of-1-study-comparative-studies",
+                                                              "base_path":  "/guidance/n-of-1-study-comparative-studies",
+                                                              "content_id":  "35ecf26a-388f-490c-8711-88a5b7294440",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-07-16T11:24:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "N-of-1 study: comparative studies",
+                                                              "web_url":  "https://www.gov.uk/guidance/n-of-1-study-comparative-studies",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/carry-out-your-evaluation-evaluating-digital-health-products",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/carry-out-your-evaluation-evaluating-digital-health-products",
+                                                              "base_path":  "/guidance/carry-out-your-evaluation-evaluating-digital-health-products",
+                                                              "content_id":  "975b6fb7-2db1-4739-8df0-1d7ef8932f2d",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-01-30T17:00:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Carry out your evaluation: evaluating digital health products",
+                                                              "web_url":  "https://www.gov.uk/guidance/carry-out-your-evaluation-evaluating-digital-health-products",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/crossover-randomised-controlled-trial-comparative-studies",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/crossover-randomised-controlled-trial-comparative-studies",
+                                                              "base_path":  "/guidance/crossover-randomised-controlled-trial-comparative-studies",
+                                                              "content_id":  "99c498b4-1fc0-47f1-8687-8d8f5eba36ab",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-05-04T08:30:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Crossover randomised controlled trial: comparative studies",
+                                                              "web_url":  "https://www.gov.uk/guidance/crossover-randomised-controlled-trial-comparative-studies",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/use-your-results-evaluating-digital-health-products",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/use-your-results-evaluating-digital-health-products",
+                                                              "base_path":  "/guidance/use-your-results-evaluating-digital-health-products",
+                                                              "content_id":  "8c34fb91-5703-435d-bc42-02c7816a451f",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-01-30T17:00:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Use your results: evaluating digital health products",
+                                                              "web_url":  "https://www.gov.uk/guidance/use-your-results-evaluating-digital-health-products",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/analyse-your-data-evaluating-digital-health-products",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/analyse-your-data-evaluating-digital-health-products",
+                                                              "base_path":  "/guidance/analyse-your-data-evaluating-digital-health-products",
+                                                              "content_id":  "5226537a-65f8-4429-8aad-862ac1b6efb5",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-01-30T17:00:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Analyse your data: evaluating digital health products",
+                                                              "web_url":  "https://www.gov.uk/guidance/analyse-your-data-evaluating-digital-health-products",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/health-and-social-care/health-improvement",
+                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care/health-improvement",
+                                     "base_path":  "/health-and-social-care/health-improvement",
+                                     "content_id":  "42350cb9-f4ab-4e4c-abfb-b5662f3d14f4",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Health improvement",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/health-and-social-care/public-health",
+                                                                             "api_url":  "https://www.gov.uk/api/content/health-and-social-care/public-health",
+                                                                             "base_path":  "/health-and-social-care/public-health",
+                                                                             "content_id":  "d6a4884e-769d-4b81-8ba5-b64394362d92",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Public health",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/health-and-social-care",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care",
+                                                                                                                     "base_path":  "/health-and-social-care",
+                                                                                                                     "content_id":  "8124ead8-8ebc-4faf-88ad-dd5cbcc92ba8",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Health and social care",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:30:51Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Health and social care",
+                                                                                                                     "web_url":  "https://www.gov.uk/health-and-social-care",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-17T15:15:14Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Public health",
+                                                                             "web_url":  "https://www.gov.uk/health-and-social-care/public-health",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-17T15:16:49Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Health improvement",
+                                     "web_url":  "https://www.gov.uk/health-and-social-care/health-improvement",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/health-and-social-care/health-protection-services-research-testing-and-standards",
+                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care/health-protection-services-research-testing-and-standards",
+                                     "base_path":  "/health-and-social-care/health-protection-services-research-testing-and-standards",
+                                     "content_id":  "b19e0be5-22a3-4d79-b693-e42d7f3a608f",
+                                     "details":  {
+                                                     "internal_name":  "Research, testing and standards [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/health-and-social-care/health-protection",
+                                                                             "api_url":  "https://www.gov.uk/api/content/health-and-social-care/health-protection",
+                                                                             "base_path":  "/health-and-social-care/health-protection",
+                                                                             "content_id":  "30ba2d05-d0d6-4978-a5d6-707511894111",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Health protection",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/health-and-social-care/public-health",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care/public-health",
+                                                                                                                     "base_path":  "/health-and-social-care/public-health",
+                                                                                                                     "content_id":  "d6a4884e-769d-4b81-8ba5-b64394362d92",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Public health",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  false
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "parent_taxons":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-17T15:15:14Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Public health",
+                                                                                                                     "web_url":  "https://www.gov.uk/health-and-social-care/public-health",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2019-03-11T14:19:39Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Health protection",
+                                                                             "web_url":  "https://www.gov.uk/health-and-social-care/health-protection",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-08-22T12:56:17Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Research, testing and standards",
+                                     "web_url":  "https://www.gov.uk/health-and-social-care/health-protection-services-research-testing-and-standards",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2020-07-16T12:24:00+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "26872-1666167973.113-10.13.1.109-2321",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Ecological momentary assessment",
+    "updated_at":  "2024-07-04T14:57:24+01:00",
+    "withdrawn_notice":  {
+
+                         }
+}

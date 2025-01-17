@@ -1,0 +1,457 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/housing-market-and-house-price-information-notes-and-definitions",
+    "content_id":  "5c829107-7631-11e4-a3cb-005056011aef",
+    "description":  "Information for local authorities and data analysts, including methodology, the Communities and Local Government House Price Index, the Regulated Mortgage Survey",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  634886,
+                                            "filename":  "141407.pdf",
+                                            "id":  "6916602",
+                                            "number_of_pages":  8,
+                                            "title":  "[Withdrawn] Experimental monthly house price index methodology - full report",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6331c0908fa8f51d257aa73a/141407.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  302228,
+                                            "filename":  "141410.pdf",
+                                            "id":  "6916603",
+                                            "number_of_pages":  15,
+                                            "title":  "[Withdrawn] The \u0027Hedonic\u0027 model used in the Office of the Deputy Prime Minister\u0027s house price indices: a  description of the regression model developed for the ODPM House Price Index",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6331c09c8fa8f51d1f833964/141410.pdf"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003ch2 id=\"overview\"\u003eOverview\u003c/h2\u003e\n\n\u003cp\u003eThis guidance is to be read in conjunction with the \u003ca href=\"https://www.gov.uk/government/organisations/department-for-communities-and-local-government/series/housing-market\" class=\"govuk-link\"\u003eseries on housing market and house price information\u003c/a\u003e which includes the latest statistical releases and sets of live tables.\u003c/p\u003e\n\n\u003cp\u003eThe Department for Communities and Local Government (\u003cabbr title=\"Department for Communities and Local Government\"\u003eDCLG\u003c/abbr\u003e) is interested in monitoring house prices and housing market information to identify areas of high and low demand and to look at levels of housing affordability. The monthly house price index is a weighted average of prices for a standard mix of dwellings.\u003c/p\u003e\n\n\u003ch2 id=\"history-and-context\"\u003eHistory and context\u003c/h2\u003e\n\n\u003cp\u003eThe data used for this is a survey known as the Regulated Mortgage Survey (\u003cabbr title=\"Regulated Mortgage Survey\"\u003eRMS\u003c/abbr\u003e). From 1993 to 2002, the sample size ranged from 26,000 to 36,000 cases per year. Since 2001 a number of lenders have started supplying 100 per cent of completions instead of a five per cent sample. This allowed us to launch the more reliable monthly house price index in September 2003, with a monthly series starting from February 2002. The number of cases included in the calculations, currently averages over 25,000 cases per month.  We estimate that in 2007 we obtained data for 60 per cent of all UK mortgages for house purchase.\u003c/p\u003e\n\n\u003cp\u003eThe questionnaire on which the survey is based has been revised from time to time, notably in 1982 when the question on the previous tenure of borrowers was extended to identify sitting tenants. The method of analysis was introduced in the second quarter of 1968 and most of the detailed series now published have their origins in this period.  A description of the current methodology can be found below.\u003c/p\u003e\n\n\u003cp\u003eFrom 1969 to 1992 the index reflected dwellings mortgaged by building societies. From 1981 sales to local authority sitting tenants were excluded and from 1982 sales to all sitting tenants were excluded. From 1983 the standard mix of dwellings was updated annually to reflect the mix of dwellings purchased during the previous three years. In the early 1990s many of the larger building societies converted to banks and an index limited to building society mortgages could no longer be assumed to be representative of all house purchases. So from 1993 the index was extended to include both banks and building societies and was re-named the All Lenders index.  Since then the survey has been revised occasionally with the current version, the \u003cabbr title=\"Regulated Mortgage Survey\"\u003eRMS\u003c/abbr\u003e, starting in August 2005.\u003c/p\u003e\n\n\u003cp\u003eFigures from the \u003cabbr title=\"Regulated Mortgage Survey\"\u003eRMS\u003c/abbr\u003e are subject to random sampling errors. Approximate coefficients of variation of the average dwelling prices, advances and incomes in each series vary according to the sample size.\u003c/p\u003e\n\n\u003cp\u003eThe Statistical Release features the latest house prices and house price annual rates of change figures based on completions data reported by a wide range of mortgage lenders. Tables include: house price indices; house price annual rate of change figures; mix-adjusted average house prices - both for the UK and for the regions, and by type of buyer at the UK level. A commentary is included to highlight the most significant aspects of the latest data.\u003c/p\u003e\n\n\u003cp\u003eThe release is usually published at 09.30 hrs on the second Tuesday of each month with release dates given six months in advance. The release is shown in the Housing market document series.\u003c/p\u003e\n\n\u003ch2 id=\"live-tables\"\u003eLive tables\u003c/h2\u003e\n\n\u003cp\u003eLive tables are available for the latest mix-adjusted house prices, house price annual rate of change figures and simple average house prices, mortgages and incomes using data from the \u003cabbr title=\"Regulated Mortgage Survey\"\u003eRMS\u003c/abbr\u003e.\u003c/p\u003e\n\n\u003cp\u003eLive tables are also available for mean, median and lower quartile house prices based on HM Land Registry data providing comprehensive coverage of all residential property transactions in England and Wales. Data from HM Land Registry is also used, along with earnings data from the Office for National Statistics, to show affordability at the district level.\u003c/p\u003e\n\n\u003cp\u003eLive tables are available for other housing market data including house prices from Halifax, Nationwide and Land Registry, property transactions from HM Revenue and Customs and land prices from Valuation Office.\u003c/p\u003e\n\n\u003cp\u003eYou will find all the live tables listed in the \u003ca href=\"https://www.gov.uk/government/organisations/department-for-communities-and-local-government/series/housing-market\" class=\"govuk-link\"\u003eHousing market document series\u003c/a\u003e, or  you can search by name if you know the table you are looking for.\u003c/p\u003e\n\n\u003ch2 id=\"monthly-house-price-index-methodology\"\u003eMonthly house price index methodology\u003c/h2\u003e\n\n\u003ch3 id=\"history-of-the-price-index\"\u003eHistory of the price index\u003c/h3\u003e\n\n\u003cp\u003eThe mix-adjusted house price index is a weighted average of prices for a standard mix of dwellings. From 1969 to 1992 the index reflected dwellings mortgaged by building societies. From 1983 the standard mix of dwellings was updated annually to reflect the types of dwellings purchased during the previous three years.\u003c/p\u003e\n\n\u003cp\u003eIn the early 1990s many of the larger building societies converted to banks and an index limited to building society mortgages could no longer be assumed to be representative of all house purchases. So from 1993 the index was extended to include both banks and building societies and was re-named the All Lenders index. It was based on a five per cent sample survey of all lenders.\u003c/p\u003e\n\n\u003cp\u003eSince 2001 a number of lenders (but not all) submitted details of all their completions instead of a five per cent sample. Data from 2003 through to August 2005 reflects the results of this enlarged sample. From September 2005, the survey became 100 per cent for those lenders taking part and changed to take data from the Financial Services Authority data collection.\u003c/p\u003e\n\n\u003cp\u003eIts name was changed to the Regulated Mortgage Survey (\u003cabbr title=\"Regulated Mortgage Survey\"\u003eRMS\u003c/abbr\u003e). Data covering 1993 to 2002 are based on a sample size ranging from 26,000 to 36,000 per annum. From mid-2003 to August 2005 the survey covered about 25,000 mortgage completions per month. The \u003cabbr title=\"Regulated Mortgage Survey\"\u003eRMS\u003c/abbr\u003e is larger and by the end of 2005 was covering about 40,000 mortgage completions a month. During 2006 about 50,000 mortgage completions a month were covered.\u003c/p\u003e\n\n\u003cp\u003eDuring 2007 there were around 50,000 records per month supplied by about 60 lenders. In the 6 months to May 2010 there were 32 lenders on average contributing to the house price index, providing around 23,000 records per month\u003c/p\u003e\n\n\u003cp\u003eThe questionnaire on which the survey is based has been revised from time to time. For example, in 1982 when the question on the previous tenure of borrowers was extended to identify sitting tenants. The present method of analysis was introduced in the second quarter of 1968 and most of the detailed series now published have their origins in this period, although the mix-adjustment was modernised in 2003 when the monthly series was introduced.\u003c/p\u003e\n\n\u003ch3 id=\"regulated-mortgage-survey\"\u003eRegulated Mortgage Survey\u003c/h3\u003e\n\n\u003cp\u003eThe Regulated Mortgage Survey (\u003cabbr title=\"Regulated Mortgage Survey\"\u003eRMS\u003c/abbr\u003e) is a monthly Communities and Local Government and Council of Mortgage Lenders survey, which collects house price information from mortgage lenders for properties that reached completion during the month and for which they provided the mortgage.\u003c/p\u003e\n\n\u003cp\u003eOther data collected includes locality, type of dwelling, size, whether or not the property is new and whether the buyer was a first time buyer or not.\u003c/p\u003e\n\n\u003cp\u003eThe data are used primarily to determine a monthly mix-adjusted house price index - but also provides valuable additional information on the housing market.\u003c/p\u003e\n\n\u003ch3 id=\"monthly-house-price-index\"\u003eMonthly house price index\u003c/h3\u003e\n\n\u003cp\u003eCommunities and Local Government launched a new, monthly house price index in September 2003.\u003c/p\u003e\n\n\u003cp\u003eThanks to electronic data transfer, many lenders have now switched to supplying 100 per cent of their completions instead of a five per cent sample. Consequently 25,000 completions per month are included in the new monthly index.\u003c/p\u003e\n\n\u003cp\u003eThe new index covers purchases for owner-occupation and for buy-to-let. Re-mortgages are not included because the price of a property represents a valuation, which is not necessarily the same as a negotiated marketprice. Purchases by sitting tenants are also omitted because they are below market level.\u003c/p\u003e\n\n\u003cp\u003e\u003cabbr title=\"Department for Communities and Local Government\"\u003eDCLG\u003c/abbr\u003e has also improved the underlying index methodology (assisted by methodologists from the Office for National Statistics, \u003cabbr title=\"Office for National Statistics\"\u003eONS\u003c/abbr\u003e). The overall structure of the new index reflects the recommendations of a cross-cutting House Price Working Group (comprising representatives from Communities and Local Government, the Office for National Statistics, HM Treasury, the Bank of England and Land Registry).\u003c/p\u003e\n\n\u003cp\u003eFor further information on the House Price Working Group, and its findings and recommendations, see the \u003cabbr title=\"Office for National Statistics\"\u003eONS\u003c/abbr\u003e article in the October 2002 issue of Economic Trends, \u003ca rel=\"external\" href=\"http://www.ons.gov.uk/ons/rel/elmr/economic-trends--discontinued-/no--588--october-2002/an-improved-house-price-index--update-on-developments.pdf\" class=\"govuk-link\"\u003eAn improved House Price Index - an update on developments (PDF, 3 pages, 15KB).\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eA regression model is used in the new index to produce price estimates for about 100,000 cells. The benefits of this approach are that it gives greater flexibility:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eno need for minimum sample per cell\u003c/li\u003e\n  \u003cli\u003epartial data can be used\u003c/li\u003e\n  \u003cli\u003ebetter mix adjustment\u003c/li\u003e\n  \u003cli\u003emore detail on location and dwelling size\u003c/li\u003e\n  \u003cli\u003ecan add new variables\u003c/li\u003e\n  \u003cli\u003ein order to select the price estimation model, a range of alternative models were compared and tested to ensure that:\u003c/li\u003e\n  \u003cli\u003ehouse prices are log-normally distributed\u003c/li\u003e\n  \u003cli\u003eno key variables are omitted\u003c/li\u003e\n  \u003cli\u003ethe modelled means are comparable with the actual means\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe preferred model was a main effects model including seven explanatory variables and several two-way interactions between these variables:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003edwelling type\u003c/li\u003e\n  \u003cli\u003eis dwelling old or new?\u003c/li\u003e\n  \u003cli\u003eis buyer a first-time buyer?\u003c/li\u003e\n  \u003cli\u003enumber of habitable rooms\u003c/li\u003e\n  \u003cli\u003ecounty (or London borough)\u003c/li\u003e\n  \u003cli\u003etype of local authority (based on an \u003cabbr title=\"Office for National Statistics\"\u003eONS\u003c/abbr\u003e classification)\u003c/li\u003e\n  \u003cli\u003etype of neighbourhood\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eWeights are calculated once a year (in January) based on the relative numbers of transactions during the previous three years. However, because these transaction weights are applied to average cell prices, the net effect is that the index uses expenditure weights.\u003c/p\u003e\n\n\u003cp\u003eThe index is an annual chain-linked Laspeyres-type index, like the Retail Prices Index.\u003c/p\u003e\n\n\u003cp\u003eHouse price indices for the UK and the Government Office Regions are published in a monthly press release. A quarterly report will carry more in-depth analysis and a wider range of indices and other house price indicators. A seasonally-adjusted series will be constructed in due course, but a run of between two to five years of the new data will be needed before the parameters required for seasonal adjustment can be reliably determined.\u003c/p\u003e\n\n\u003cp\u003eThe ultimate target is to create a house price index that reflects cash purchases as well as mortgaged purchases. Unfortunately the Land Registry is the only possible source of information on completed cash purchases - and there are two major deficiencies in the Land Registry data:\u003c/p\u003e\n\n\u003cp\u003ea) the excessive time lag between completion and the time details are received by Land Registry\nb) the limited range of information available for each property purchased.\u003c/p\u003e\n\n\u003cp\u003eLand Registry’s long-term plans for ‘e-conveyancing’ and the proposed development of a National Property Databank (by the Valuation Office) may help overcome these problems\nthe Halifax and Nationwide house price indices still have an important role to play. Their indices are based on mortgage approvals - so reflect house prices at least one month ahead of completion. Moreover, since the Halifax and Nationwide use only their own in-house data they can process it immediately and do not have to await the receipt of data from other lenders. Consequently the Halifax and Nationwide indices continue to provide a much earlier indicator of house price trends than our new index.\u003c/p\u003e\n\n\u003cp\u003eLenders participate in the Survey of Mortgage Lenders on a voluntary basis so we cannot insist either that they switch to 100 per cent or that they must do so by a particular point in time.\u003c/p\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/6331c0908fa8f51d257aa73a/141407.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/6331c090e90e0711da8b2b5c/thumbnail_141407.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/6331c0908fa8f51d257aa73a/141407.pdf\"\u003e[Withdrawn] Experimental monthly house price index methodology - full report\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e620 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e8 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n\u003c/div\u003e\u003c/section\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/6331c09c8fa8f51d1f833964/141410.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/6331c09cd3bf7f56770cac67/thumbnail_141410.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/6331c09c8fa8f51d1f833964/141410.pdf\"\u003e[Withdrawn] The \u0027Hedonic\u0027 model used in the Office of the Deputy Prime Minister\u0027s house price indices: a  description of the regression model developed for the ODPM House Price Index\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e295 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e15 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n\u003c/div\u003e\u003c/section\u003e\n\n\u003ch2 id=\"house-prices-data-notes-definitions-and-methodology\"\u003eHouse prices data: Notes, definitions and methodology\u003c/h2\u003e\n\n\u003cp\u003eFor definition of a dwelling, type of dwelling, tenure and general definition of a household see Definitions of general housing terms.\u003c/p\u003e\n\n\u003ch3 id=\"first-time-buyerformer-owner-occupier\"\u003eFirst time buyer/former owner occupier\u003c/h3\u003e\n\n\u003cp\u003eIn the statistics presented a former owner occupier household is a household that was in owner occupation immediately prior to making a house purchase.\nFirst time buyers, in our statistics from the Regulated Mortgage Survey, are households that move into owner occupation without having to sell a property. Therefore numbers will include some buyers who have previously owned a property before, but are not in owner occupation at the time of purchase. Estimates from the CLG Survey of English Housing suggest that around 20 per cent of stated first time buyers may fall into this category. The other 80 per cent will be ‘genuine’ first time buyers (ie those who have never owned a property before).\u003c/p\u003e\n\n\u003ch3 id=\"mix-adjusted-house-prices\"\u003eMix-adjusted house prices\u003c/h3\u003e\n\n\u003cp\u003eThe house price index is mix-adjusted to allow for the fact that different houses are sold in different periods. House prices are modeled using a combination of factors that produce a model containing a large number of “cells” (variable combinations such as first time buyer, old dwelling, and detached house in London). Once the monthly price estimates for all cells have been determined by the model, they are combined with their appropriate weights to produce that month’s mix-adjusted average prices for all the required output categories. Weights are calculated once a year based on the relative numbers of transactions during the previous three years, given by the Land Registry data. The index is an annual chain-linked Laspeyres-type index, like the Retail Prices Index as published by the Office for National Statistics.\u003c/p\u003e\n\n\u003ch3 id=\"new-dwellings\"\u003eNew dwellings\u003c/h3\u003e\n\n\u003cp\u003eNew dwellings are defined as those that never previously existed. So conversions of buildings (e.g. out houses, barns) into living accommodation are not counted as “new” dwellings.\u003c/p\u003e\n\n\u003ch3 id=\"land-registry\"\u003eLand Registry\u003c/h3\u003e\n\n\u003cp\u003eHer Majesty’s Land Registry (Land Registry) was established in 1862. It is a non-ministerial government department that collects data on transactions in property and land in England and Wales. The Land Registry data on residential house price transactions feeds into some of our live tables. This dataset only includes residential transactions at full market value. This means it excludes:\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003eAll commercial transactions\u003c/li\u003e\n  \u003cli\u003eTransfer, conveyances, assignments or lease at a premium with nominal rent which are:\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cul\u003e\n  \u003cli\u003eRight to Buy sales at a discount\u003c/li\u003e\n  \u003cli\u003esubject to a lease\u003c/li\u003e\n  \u003cli\u003esubject to an existing mortgage\u003c/li\u003e\n  \u003cli\u003eto effect the sale of a share in a property\u003c/li\u003e\n  \u003cli\u003eby way of a gift\u003c/li\u003e\n  \u003cli\u003eby way of exchange\u003c/li\u003e\n  \u003cli\u003eunder a Compulsory Purchase Order\u003c/li\u003e\n  \u003cli\u003eunder a court order\u003c/li\u003e\n  \u003cli\u003eto Trustees\u003c/li\u003e\n  \u003cli\u003eVesting Deeds\u003c/li\u003e\n  \u003cli\u003eTransmissions or Assents\u003c/li\u003e\n  \u003cli\u003eof more than one property\u003c/li\u003e\n  \u003cli\u003eleases for seven years or less\u003c/li\u003e\n  \u003cli\u003eMortgage Lending\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"income\"\u003eIncome\u003c/h3\u003e\n\n\u003cp\u003eThe income of borrowers is the total declared income on which the mortgage is based. It may overstate/understate the borrowers’ true income and may include more than one income.\u003c/p\u003e\n\n\u003ch3 id=\"buy-to-let-mortgage\"\u003eBuy to let mortgage\u003c/h3\u003e\n\n\u003cp\u003eA buy to let mortgage is a mortgage vehicle that is used by a borrower to obtain money to buy a property in the private sector with the purpose of letting the property to a tenant.\u003c/p\u003e\n\n\u003ch3 id=\"mortgage-payments\"\u003eMortgage Payments\u003c/h3\u003e\n\n\u003cp\u003eMortgage payments results are analysed by Communities and Local Government from data collected in the Family Resources Survey (FRS), a survey commissioned by the Department for Work and Pensions. The published data are for England, as for the SEH data. Payments include both interest and the repayment of capital, if there was any. Insurance premiums relating to endowment mortgages are included, as are similar payments for pension or PEP mortgages and the like.\u003c/p\u003e\n\n\u003cp\u003eCare is needed in interpreting the figures as some are based on small samples and are therefore subject to substantial sampling error. The figures are shown grossed, using the Department for Work and Pensions own grossing factors.\u003c/p\u003e\n\n\u003cp\u003eFurther information is published by the Department for Work and Pensions in FRS annual reports. Data from the Expenditure and Food Survey (EFS) also continue to be published annually in a report entitled Family Spending. Unpublished FRS and EFS data on incomes, rents and mortgage payments can be obtained from:\u003c/p\u003e\n\n\u003cdiv class=\"address\"\u003e\u003cdiv class=\"adr org fn\"\u003e\u003cp\u003e\n\nDCLG Housing Analysis and Surveys Division\n\u003cbr\u003eZone 4/J2\n\u003cbr\u003eEland House\n\u003cbr\u003eLondon SW1E 5DU\n\u003cbr\u003e\n\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e\n\n\u003ch2 id=\"contacts\"\u003eContacts\u003c/h2\u003e\n\n\u003cp\u003eEmail: \u003ca href=\"mailto:housing.statistics@communities.gsi.gov.uk\" class=\"govuk-link\"\u003ehousing.statistics@communities.gsi.gov.uk\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eTelephone: +44 (0) 303 444 2270\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2012-11-14T18:30:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "c45c316a-a4f5-42c7-b94d-d7f1821be18e"
+                                                 ],
+                    "first_public_at":  "2012-11-14T18:30:00.000+00:00",
+                    "national_applicability":  {
+                                                   "england":  {
+                                                                   "applicable":  true,
+                                                                   "label":  "England"
+                                                               },
+                                                   "northern_ireland":  {
+                                                                            "alternative_url":  "",
+                                                                            "applicable":  false,
+                                                                            "label":  "Northern Ireland"
+                                                                        },
+                                                   "scotland":  {
+                                                                    "alternative_url":  "",
+                                                                    "applicable":  false,
+                                                                    "label":  "Scotland"
+                                                                },
+                                                   "wales":  {
+                                                                 "alternative_url":  "",
+                                                                 "applicable":  false,
+                                                                 "label":  "Wales"
+                                                             }
+                                               },
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+                                                "22e3ce74-bf0c-4647-93c0-eb571355852b"
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2012-11-14T18:30:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/housing-market-and-house-price-information-notes-and-definitions",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/housing-market-and-house-price-information-notes-and-definitions",
+                                                     "base_path":  "/guidance/housing-market-and-house-price-information-notes-and-definitions",
+                                                     "content_id":  "5c829107-7631-11e4-a3cb-005056011aef",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2012-11-14T18:30:00Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Housing market and house price information: notes and definitions",
+                                                     "web_url":  "https://www.gov.uk/guidance/housing-market-and-house-price-information-notes-and-definitions",
+                                                     "withdrawn":  true
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "base_path":  "/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "content_id":  "591c83aa-3b74-437d-a342-612bddd97572",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2015-05-08T00:00:00+00:00",
+                                                         "started_on":  "2010-05-12T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2010 to 2015 Conservative and Liberal Democrat coalition government",
+                                         "web_url":  "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government"
+                                     }
+                                 ],
+                  "lead_organisations":  [
+                                             {
+                                                 "analytics_identifier":  "D4",
+                                                 "api_path":  "/api/content/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                 "api_url":  "https://www.gov.uk/api/content/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                 "base_path":  "/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                 "content_id":  "2e7868a8-38f5-4ff6-b62f-9a15d1c22d28",
+                                                 "details":  {
+                                                                 "acronym":  "",
+                                                                 "brand":  "department-for-communities-and-local-government",
+                                                                 "default_news_image":  {
+                                                                                            "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db37ed915d5a62fdc789/s960_2_Marsham_Street_960x640.jpg",
+                                                                                            "url":  "https://assets.publishing.service.gov.uk/media/5a37db36e5274a79051c927d/s300_2_Marsham_Street_960x640.jpg"
+                                                                                        },
+                                                                 "logo":  {
+                                                                              "crest":  "single-identity",
+                                                                              "formatted_title":  "Ministry of Housing,\u003cbr/\u003eCommunities \u0026amp;\u003cbr/\u003eLocal Government (2018 to 2021)"
+                                                                          },
+                                                                 "organisation_govuk_status":  {
+                                                                                                   "status":  "changed_name",
+                                                                                                   "updated_at":  "2021-09-20T00:00:00.000+01:00",
+                                                                                                   "url":  "http://www.communities.gov.uk/"
+                                                                                               }
+                                                             },
+                                                 "document_type":  "organisation",
+                                                 "links":  {
+
+                                                           },
+                                                 "locale":  "en",
+                                                 "schema_name":  "organisation",
+                                                 "title":  "Ministry of Housing, Communities \u0026 Local Government (2018 to 2021)",
+                                                 "web_url":  "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                 "withdrawn":  false
+                                             }
+                                         ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D1342",
+                                            "api_path":  "/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+                                            "base_path":  "/government/organisations/department-for-levelling-up-housing-and-communities",
+                                            "content_id":  "c45c316a-a4f5-42c7-b94d-d7f1821be18e",
+                                            "details":  {
+                                                            "acronym":  "DLUHC",
+                                                            "brand":  "department-for-levelling-up-housing-and-communities",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52983494766/s960_2_Marsham_Street_960x640.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52985dd7453/s300_2_Marsham_Street_960x640.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Department for Levelling Up,\u003cbr/\u003eHousing \u0026amp; Communities"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "changed_name",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  ""
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Department for Levelling Up, Housing and Communities ",
+                                            "web_url":  "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+                                            "withdrawn":  false
+                                        },
+                                        {
+                                            "analytics_identifier":  "D4",
+                                            "api_path":  "/api/content/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                            "base_path":  "/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                            "content_id":  "2e7868a8-38f5-4ff6-b62f-9a15d1c22d28",
+                                            "details":  {
+                                                            "acronym":  "",
+                                                            "brand":  "department-for-communities-and-local-government",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db37ed915d5a62fdc789/s960_2_Marsham_Street_960x640.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5a37db36e5274a79051c927d/s300_2_Marsham_Street_960x640.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Ministry of Housing,\u003cbr/\u003eCommunities \u0026amp;\u003cbr/\u003eLocal Government (2018 to 2021)"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "changed_name",
+                                                                                              "updated_at":  "2021-09-20T00:00:00.000+01:00",
+                                                                                              "url":  "http://www.communities.gov.uk/"
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Ministry of Housing, Communities \u0026 Local Government (2018 to 2021)",
+                                            "web_url":  "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "D4",
+                                                                       "api_path":  "/api/content/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                                       "base_path":  "/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                                       "content_id":  "2e7868a8-38f5-4ff6-b62f-9a15d1c22d28",
+                                                                       "details":  {
+                                                                                       "acronym":  "",
+                                                                                       "brand":  "department-for-communities-and-local-government",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db37ed915d5a62fdc789/s960_2_Marsham_Street_960x640.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5a37db36e5274a79051c927d/s300_2_Marsham_Street_960x640.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Ministry of Housing,\u003cbr/\u003eCommunities \u0026amp;\u003cbr/\u003eLocal Government (2018 to 2021)"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "changed_name",
+                                                                                                                         "updated_at":  "2021-09-20T00:00:00.000+01:00",
+                                                                                                                         "url":  "http://www.communities.gov.uk/"
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Ministry of Housing, Communities \u0026 Local Government (2018 to 2021)",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D1342",
+                                                              "api_path":  "/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+                                                              "base_path":  "/government/organisations/department-for-levelling-up-housing-and-communities",
+                                                              "content_id":  "c45c316a-a4f5-42c7-b94d-d7f1821be18e",
+                                                              "details":  {
+                                                                              "acronym":  "DLUHC",
+                                                                              "brand":  "department-for-levelling-up-housing-and-communities",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52983494766/s960_2_Marsham_Street_960x640.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52985dd7453/s300_2_Marsham_Street_960x640.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Department for Levelling Up,\u003cbr/\u003eHousing \u0026amp; Communities"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "changed_name",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  ""
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Department for Levelling Up, Housing and Communities ",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/government/statistics/annual-uk-property-transactions-statistics-2013",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/statistics/annual-uk-property-transactions-statistics-2013",
+                                                              "base_path":  "/government/statistics/annual-uk-property-transactions-statistics-2013",
+                                                              "content_id":  "5e973b89-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "national_statistics",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2015-06-30T08:30:21Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Annual UK Property Transactions Statistics 2015",
+                                                              "web_url":  "https://www.gov.uk/government/statistics/annual-uk-property-transactions-statistics-2013",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/statistics/assessment-report-property-transactions-in-the-uk",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/statistics/assessment-report-property-transactions-in-the-uk",
+                                                              "base_path":  "/government/statistics/assessment-report-property-transactions-in-the-uk",
+                                                              "content_id":  "5e974064-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "official_statistics",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2012-06-30T23:00:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Assessment report: property transactions in the UK",
+                                                              "web_url":  "https://www.gov.uk/government/statistics/assessment-report-property-transactions-in-the-uk",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/statistics/quality-report-uk-annual-property-transactions-count",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/statistics/quality-report-uk-annual-property-transactions-count",
+                                                              "base_path":  "/government/statistics/quality-report-uk-annual-property-transactions-count",
+                                                              "content_id":  "5e9c8c61-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "official_statistics",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2013-10-21T13:57:40Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Quality report: UK annual property transactions count",
+                                                              "web_url":  "https://www.gov.uk/government/statistics/quality-report-uk-annual-property-transactions-count",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/statistics/quality-report-uk-annual-property-transactions-statistics",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/statistics/quality-report-uk-annual-property-transactions-statistics",
+                                                              "base_path":  "/government/statistics/quality-report-uk-annual-property-transactions-statistics",
+                                                              "content_id":  "5e9c8974-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "official_statistics",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2013-09-23T23:00:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Quality report: UK annual property transactions statistics",
+                                                              "web_url":  "https://www.gov.uk/government/statistics/quality-report-uk-annual-property-transactions-statistics",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/collections/housing-market",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/collections/housing-market",
+                                                              "base_path":  "/government/collections/housing-market",
+                                                              "content_id":  "5eb62390-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "document_collection",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2013-02-19T11:55:00Z",
+                                                              "schema_name":  "document_collection",
+                                                              "title":  "Housing market",
+                                                              "web_url":  "https://www.gov.uk/government/collections/housing-market",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/housing-local-and-community/housing-and-communities",
+                                     "api_url":  "https://www.gov.uk/api/content/housing-local-and-community/housing-and-communities",
+                                     "base_path":  "/housing-local-and-community/housing-and-communities",
+                                     "content_id":  "4ad66168-274d-4d83-9195-f4ab0ccc97cb",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Housing and communities (level 2)",
+                                                     "notes_for_editors":  "",
+                                                     "url_override":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/housing-local-and-community",
+                                                                             "api_url":  "https://www.gov.uk/api/content/housing-local-and-community",
+                                                                             "base_path":  "/housing-local-and-community",
+                                                                             "content_id":  "4794066e-e3cc-425e-8cc4-e7ff3edb4c39",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Housing, local and community",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:32:02Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Housing, local and community",
+                                                                             "web_url":  "https://www.gov.uk/housing-local-and-community",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2022-02-14T14:24:18Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Housing and communities",
+                                     "web_url":  "https://www.gov.uk/housing-local-and-community/housing-and-communities",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2012-11-14T18:30:00+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1706713518.981-10.13.30.176-698",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Housing market and house price information: notes and definitions",
+    "updated_at":  "2024-10-30T14:37:41+00:00",
+    "withdrawn_notice":  {
+                             "explanation":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eThis guidance is withdrawn as it is out of date.\u003c/p\u003e\n\u003c/div\u003e",
+                             "withdrawn_at":  "2022-09-26T15:19:51Z"
+                         }
+}

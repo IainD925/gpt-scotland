@@ -1,0 +1,671 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/clinical-trials-for-medicines-manage-your-authorisation-report-safety-issues",
+    "content_id":  "5f5ea66c-7631-11e4-a3cb-005056011aef",
+    "description":  "Change your protocol, update your authorisation, report safety issues, submit safety updates and complete your end-of-trial study report.",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "webupdates@mhra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  44020,
+                                            "filename":  "Common_errors_seen_at_validation.pdf",
+                                            "id":  "7906513",
+                                            "number_of_pages":  1,
+                                            "title":  "Common issues identified during clinical trial applications guidance ",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a74af3be5274a529406957c/Common_errors_seen_at_validation.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "webupdates@mhra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/msword",
+                                            "file_size":  22528,
+                                            "filename":  "Contact_person_and_contact_details_template.doc",
+                                            "id":  "7906514",
+                                            "title":  "Contact person and contact details template",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7edb1940f0b62305b839bf/Contact_person_and_contact_details_template.doc"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "webupdates@mhra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                            "file_size":  851039,
+                                            "filename":  "eSUSAR_registration.docx",
+                                            "id":  "7906515",
+                                            "title":  "eSUSAR registration form",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5c5ac8bee5274a31522b1435/eSUSAR_registration.docx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "webupdates@mhra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/msword",
+                                            "file_size":  61952,
+                                            "filename":  "declaration_end_trial_form_final_29.09.21.doc",
+                                            "id":  "7906517",
+                                            "title":  "end of trial declaration form ",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/615587d9e90e07197e166295/declaration_end_trial_form_final_29.09.21.doc"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "webupdates@mhra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  67131,
+                                            "filename":  "DSUR-Guideline-08June2021.pdf",
+                                            "id":  "7906518",
+                                            "number_of_pages":  4,
+                                            "title":  "Guidance document",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60c796efe90e0743a02cb066/DSUR-Guideline-08June2021.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "webupdates@mhra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/msword",
+                                            "file_size":  90112,
+                                            "filename":  "substantial_amendment_notification_form_.doc",
+                                            "id":  "7906519",
+                                            "title":  "Substantial amendment notification form",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/61769f918fa8f52979b6caaf/substantial_amendment_notification_form_.doc"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "webupdates@mhra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  164191,
+                                            "filename":  "User_reference_guide___Paying_online_before_submitting_an_annual_safety_report.pdf",
+                                            "id":  "7906528",
+                                            "number_of_pages":  3,
+                                            "title":  "paying online before submitting an annual safety report ",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6602e62cf1d3a0666832ae01/User_reference_guide___Paying_online_before_submitting_an_annual_safety_report.pdf"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cdiv class=\"call-to-action\"\u003e\n  \u003cp\u003eAs of 1 January 2022 the combined review service, formerly known as Combined Ways of Working (CWoW), is now the way that all new Clinical Trials of Investigational Medicinal Products (CTIMPs) applications are prepared, submitted and reviewed. Combined review offers a single application route and co-ordinated review leading to a single UK decision for CTIMPs.\u003c/p\u003e\n\n  \u003cp\u003ePlease note: CTIMP initial applications via combined review should be started and submitted using the new part of Integrated Research Application System (\u003ca rel=\"external\" href=\"http://myresearchproject.org.uk/CWOW\" class=\"govuk-link\"\u003eIRAS\u003c/a\u003e) and not in the standard part of IRAS.  While the regulatory requirements and fees remain the same, the application submission, processing and assessment steps outlined below refer to non-combined review applications. For Combined review applications please refer to the \u003ca rel=\"external\" href=\"https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/clinical-trials-investigational-medicinal-products-ctimps/combined-ways-working-pilot/\" class=\"govuk-link\"\u003eHealth Research Authority website\u003c/a\u003e.\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cdiv class=\"call-to-action\"\u003e\n  \u003ch2 id=\"clinical-trials-and-coronavirus-covid-19\"\u003eClinical Trials and coronavirus (COVID-19)\u003c/h2\u003e\n  \u003cp\u003eWe have published guidance on \u003ca href=\"https://www.gov.uk/guidance/managing-clinical-trials-during-coronavirus-covid-19\" class=\"govuk-link\"\u003emanaging clinical trials\u003c/a\u003e during the COVID-19 outbreak, and on \u003ca href=\"https://www.gov.uk/guidance/clinical-trials-applications-for-coronavirus-covid-19\" class=\"govuk-link\"\u003eclinical trials applications for COVID-19\u003c/a\u003e.\u003c/p\u003e\n\u003c/div\u003e\n\n\u003ch2 id=\"amending-your-trial-protocol-or-other-documentation\"\u003eAmending your trial protocol or other documentation\u003c/h2\u003e\n\n\u003cp\u003eOnly substantial amendments need to be submitted to the MHRA. Changes count as a substantial amendment to your clinical trial authorisation if the amendment is likely to affect to a significant degree\u003c/p\u003e\n\n\u003cp\u003e(a) the safety or physical or mental integrity of the subjects of the trial,\u003c/p\u003e\n\n\u003cp\u003e(b) the scientific value of the trial,\u003c/p\u003e\n\n\u003cp\u003e(c) the conduct or management of the trial, or\u003c/p\u003e\n\n\u003cp\u003e(d) the quality or safety of any investigational medicinal product used in the trial.\u003c/p\u003e\n\n\u003cp\u003eFor clinical trials authorised via the combined review process you should prepare and submit using new part of Integrated Research Application System (\u003ca rel=\"external\" href=\"http://www.myresearchproject.org.uk/CWOW\" class=\"govuk-link\"\u003eIRAS\u003c/a\u003e).\u003c/p\u003e\n\n\u003cp\u003eFor clinical trials not approved or yet transitioned over to the combined review process, you should continue to use MHRA submissions. \u003ca href=\"https://www.gov.uk/guidance/register-to-make-submissions-to-the-mhra\" class=\"govuk-link\"\u003eFurther details on how to register and submit via this platform.\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eYou need to send the following documents to the Medicines and Healthcare products Regulatory Agency (MHRA):\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eCovering letter detailing the trial reference numbers (IRAS ID, \u003cabbr title=\"clinical trial authorisation\"\u003eCTA\u003c/abbr\u003e number, EudraCT etc) along with Purchase Order Number, outlining the substantial changes (if there have been any non-substantial changes please also outline these separately)\u003c/li\u003e\n  \u003cli\u003eA PDF copy of the locked \u003ca rel=\"external\" href=\"https://www.myresearchproject.org.uk/help/hlpamendments.aspx#Amendment-Tool\" class=\"govuk-link\"\u003eAmendment tool\u003c/a\u003e. You should ensure that the amendment tool contains a clear description of the substantial amendment and reasons for the proposed changes. Alternatively, for ‘bulk’ amendments (where the same change affects many trials), the substantial amendment notification form** can be completed and submitted. The form is available \u003ca rel=\"external\" href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1028249/substantial_amendment_notification_form_.doc\" class=\"govuk-link\"\u003ehere\u003c/a\u003e.\u003c/li\u003e\n  \u003cli\u003ePDF file of the \u003ca href=\"https://www.gov.uk/guidance/clinical-trials-for-medicines-apply-for-authorisation-in-the-uk#clinicaltrialapplication\" class=\"govuk-link\"\u003eClinical Trial Authorisation application form\u003c/a\u003e* generated in IRAS with changes highlighted, if the amendment affects the information previously submitted.\u003c/li\u003e\n  \u003cli\u003eList of the proposed changes to the protocol or any other documents (e.g. IMPD) compared to the current MHRA-approved document, showing previous and new wording where applicable and a rationale to justify each substantial change. If applicable the following should be provided:\n    \u003cul\u003e\n      \u003cli\u003eSummaries of data\u003c/li\u003e\n      \u003cli\u003eUpdated overall risk benefit assessment\u003c/li\u003e\n      \u003cli\u003ePossible consequences for subjects already in the trial\u003c/li\u003e\n      \u003cli\u003ePossible consequences for the evaluation of results\u003c/li\u003e\n    \u003c/ul\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"assessment-process\"\u003eAssessment process\u003c/h2\u003e\n\n\u003cp\u003eWe will assess your application within 35 days. If you consider your trial requires an expedited assessment (for example, patient safety reasons), this should be stated in the covering letter along with the rationale for the expedited assessment request.\u003c/p\u003e\n\n\u003ch3 id=\"invalid-applications\"\u003eInvalid applications\u003c/h3\u003e\n\n\u003cp\u003eIf your application does not meet the requirements it will not be assessed. You will be told the reasons why your application is invalid.\u003c/p\u003e\n\n\u003cp\u003eCheck the \u003ca rel=\"external\" href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/318027/Common_errors_seen_at_validation.pdf\" class=\"govuk-link\"\u003eCommon issues identified during clinical trial applications guidance\u003c/a\u003e (PDF, 43KB, 1 page) to ensure you’re submitting a valid application.\u003c/p\u003e\n\n\u003cp\u003eFor queries about electronic documents and submissions email \u003ca href=\"mailto:CT.Submission@mhra.gov.uk\" class=\"govuk-link\"\u003eCT.Submission@mhra.gov.uk\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"withdraw-your-application-before-the-final-decision\"\u003eWithdraw your application before the final decision\u003c/h3\u003e\n\n\u003cp\u003eYou may withdraw your application at any point before an assessment decision on your substantial amendment is reached. To withdraw your application you should send an email to \u003ca href=\"mailto:clintrialhelpline@mhra.gov.uk\" class=\"govuk-link\"\u003eclintrialhelpline@mhra.gov.uk\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eFor applications that have gone through the Combined Review process, please refer to the guidance on the \u003ca rel=\"external\" href=\"https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/clinical-trials-investigational-medicinal-products-ctimps/combined-ways-working-pilot/step-step-guide-using-iras-combined-ways-working-cwow/#withdrawing\" class=\"govuk-link\"\u003eHRA website\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"outcome-of-assessment\"\u003eOutcome of assessment\u003c/h3\u003e\n\n\u003cp\u003eWe will tell you the outcome of your application by email.\u003c/p\u003e\n\n\u003cp\u003eIf your application is not successful, we will tell you why and you may resubmit your application.\u003c/p\u003e\n\n\u003ch2 id=\"fees\"\u003eFees\u003c/h2\u003e\n\n\u003cp\u003eThere are different fees based on your \u003ca href=\"https://www.gov.uk/government/publications/mhra-fees/current-mhra-fees\" class=\"govuk-link\"\u003etype of clinical trial application\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003ePlease see the \u003ca href=\"https://www.gov.uk/guidance/make-a-payment-to-mhra\" class=\"govuk-link\"\u003eMake a payment to MHRA page\u003c/a\u003e on how to pay relevant fees.\u003c/p\u003e\n\n\u003cp\u003eInvoices for Clinical Trial Authorisation applications, Substantial Amendment applications, and Annual Safety Reports are sent directly to the applicant shortly after a valid submission has been established. The covering letter for the application should clearly highlight your Purchase Order (PO) number where available. The applicant is the person listed in section C1 of the Clinical Trial Application form, or section D1 of the Amendment form. We are unable to address the invoice to someone other than those listed in the sections above.\u003c/p\u003e\n\n\u003cp\u003eIt is the responsibility of the applicant to ensure timely payment of invoices for their submissions. Invoices must be settled on receipt of invoice. Penalty fees may be incurred for non-payment, details of the penalties are set out in the \u003ca rel=\"external\" href=\"https://www.legislation.gov.uk/uksi/2016/190/contents\" class=\"govuk-link\"\u003eFees Regulations\u003c/a\u003e. Non-payment may also result in suspension of any licence or authorisation, followed by legal proceedings for unpaid amounts, as a debt due to the Crown.\u003c/p\u003e\n\n\u003cp\u003eYou can contact MHRA Finance Department on 020 3080 6533 or email \u003ca href=\"mailto:Sales.Invoices@mhra.gov.uk\" class=\"govuk-link\"\u003eSales.Invoices@mhra.gov.uk\u003c/a\u003e for more information on how to pay fees.\u003c/p\u003e\n\n\u003ch2 id=\"change-your-contact-details\"\u003eChange your contact details\u003c/h2\u003e\n\n\u003cp\u003eFor applications that have gone through the Combined Review process, please refer to the \u003ca rel=\"external\" href=\"https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/clinical-trials-investigational-medicinal-products-ctimps/combined-ways-working-pilot/step-step-guide-using-iras-combined-ways-working-cwow/#amendment\" class=\"govuk-link\"\u003eHRA website\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eYou should send an email entitled ‘Change to Contact Details of the contact person \u003cabbr title=\"clinical trial authorisation\"\u003eCTA\u003c/abbr\u003e Number XXXXX/XXXX/XXX-XXXX – EudraCT Number XXXX/XXXXXX/XX – IRAS ID XXXXXXX’.\u003c/p\u003e\n\n\u003cp\u003eEmail: \u003ca href=\"mailto:CT.Submission@mhra.gov.uk\" class=\"govuk-link\"\u003eCT.Submission@mhra.gov.uk\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eThe email should be sent by the contact person listed on the current application form, or other authorised persons and must include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eIRAS ID and/or EudraCT number\u003c/li\u003e\n  \u003cli\u003e\n\u003cabbr title=\"clinical trial authorisation\"\u003eCTA\u003c/abbr\u003e number\u003c/li\u003e\n  \u003cli\u003edetails of the previous contact person and/or contact details\u003c/li\u003e\n  \u003cli\u003edetails of the new contact person and/or contact details\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe new contact person or details should be updated on an updated application form. A copy of the updated application form should be included in the next substantial amendment.\u003c/p\u003e\n\n\u003ch3 id=\"change-of-legal-representative\"\u003eChange of legal representative\u003c/h3\u003e\n\n\u003cp\u003eFor applications that have gone through the Combined Review process, please refer to the \u003ca rel=\"external\" href=\"https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/clinical-trials-investigational-medicinal-products-ctimps/combined-ways-working-pilot/step-step-guide-using-iras-combined-ways-working-cwow/#amendment\" class=\"govuk-link\"\u003eHRA website\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eIf you want to change the legal representative for your study, you must submit a substantial amendment to the MHRA. You may include other changes along with this amendment but must ensure the covering letter clearly highlights there is also a change of legal representative. The submission must include a Clinical Trial Application form updated with the details of the new legal representative along the amendment tool.\u003c/p\u003e\n\n\u003cp\u003eThere is no fee for this kind of submission unless other, additional amendments to the trial documentation are included.\u003c/p\u003e\n\n\u003ch3 id=\"change-of-sponsor\"\u003eChange of Sponsor\u003c/h3\u003e\n\n\u003cp\u003eFor applications that have gone through the Combined Review process, please refer to the \u003ca rel=\"external\" href=\"https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/clinical-trials-investigational-medicinal-products-ctimps/combined-ways-working-pilot/step-step-guide-using-iras-combined-ways-working-cwow/#amendment\" class=\"govuk-link\"\u003eHRA website\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eIf you want to change the Sponsor for your study, you must submit a substantial amendment to the MHRA. You must not include any other changes with this amendment.\u003c/p\u003e\n\n\u003cp\u003eYou can’t submit any other substantial amendments until you have confirmation from the MHRA that the Sponsor has been changed.\u003c/p\u003e\n\n\u003cp\u003eYou must include these documents with your submission:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ea cover letter that includes the date of transfer of responsibilities\u003c/li\u003e\n  \u003cli\u003ea letter on headed company paper from the current Sponsor confirming the transfer of the study\u003c/li\u003e\n  \u003cli\u003ea letter on headed company paper from the new Sponsor confirming that they accept the role of Sponsor for this study\u003c/li\u003e\n  \u003cli\u003ean amendment form\u003c/li\u003e\n  \u003cli\u003ean updated PDF file of the clinical trial application form signed by the new Sponsor or person acting on behalf of the Sponsor\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eOther trial related documents should not be submitted as part of this submission, e.g. protocol. There is no fee for a change of Sponsor amendment. The applicant will receive an administrative letter confirming that the change has been registered. You don’t need to wait for MHRA confirmation before making the Sponsor change.\u003c/p\u003e\n\n\u003ch2 id=\"clinical-trials-named-contact\"\u003eClinical trials named contact\u003c/h2\u003e\n\n\u003cp\u003eEffective from 27 June 2016, persons other than the applicant named in the trial application form, who call or email the MHRA CTU helpline, reporting to be from the Sponsor/applicant company knowing the EudraCT number and security word/phrase (previously provided to the MHRA by the named applicant) for a trial, may obtain information on that trial.\u003c/p\u003e\n\n\u003cp\u003eFor ongoing studies, the applicant named in section C.1 of the application form should notify the Clinical Trials Unit of their chosen security word/phrase by emailing \u003ca href=\"mailto:clintrialhelpline@mhra.gov.uk\" class=\"govuk-link\"\u003eclintrialhelpline@mhra.gov.uk\u003c/a\u003e with ‘Clinical Trials named contact’ as the subject line and listing the EudraCT number(s) in the body of the email.\u003c/p\u003e\n\n\u003cp\u003eFor new applications, the applicant named in section C.1 of the application form is requested to include the security word/phrase in the cover letter for the submission.\u003c/p\u003e\n\n\u003ch2 id=\"reference-safety-information--updated-guidance\"\u003eReference Safety Information – updated guidance\u003c/h2\u003e\n\n\u003cp\u003ePublished guidance such as \u003ca rel=\"external\" href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52010XC0330(01)\" class=\"govuk-link\"\u003eCT1\u003c/a\u003e and \u003ca rel=\"external\" href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52011XC0611(01)\" class=\"govuk-link\"\u003eCT3\u003c/a\u003e and the \u003ca rel=\"external\" href=\"https://www.hma.eu/fileadmin/dateien/Human_Medicines/01-About_HMA/Working_Groups/CTFG/2017_11_CTFG_Question_and_Answer_on_Reference_Safety_Information_2017.pdf\" class=\"govuk-link\"\u003e\u003cabbr title=\"Clinical Trials Facilitation Group\"\u003eCTFG\u003c/abbr\u003e Q\u0026amp;A\u003c/a\u003e on Reference Safety Information (\u003cabbr title=\"reference safety information\"\u003eRSI\u003c/abbr\u003e) remain applicable as a source of materials for understanding what the obligations entail in so far as they relate to the UK as a sovereign regulator.  This will also help facilitate acceptance of the \u003cabbr title=\"reference safety information\"\u003eRSI\u003c/abbr\u003e in multinational clinical trials.\u003c/p\u003e\n\n\u003cp\u003eAdditional guidance can be found here: \u003ca rel=\"external\" href=\"https://mhrainspectorate.blog.gov.uk/2021/02/05/reference-safety-information-rsi-for-clinical-trials-part-iii/\" class=\"govuk-link\"\u003eReference Safety Information (\u003cabbr title=\"reference safety information\"\u003eRSI\u003c/abbr\u003e) for Clinical Trials- Part III - MHRA Inspectorate (blog.gov.uk)\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"uk-specific-clarifications\"\u003eUK-specific clarifications:\u003c/h3\u003e\n\n\u003cul\u003e\n  \u003cli\u003eAs per current expectations, for trials that are being conducted in the UK, an \u003cabbr title=\"reference safety information\"\u003eRSI\u003c/abbr\u003e cannot be used for expectedness until it has approval from the MHRA. Thus, if additional \u003cabbr title=\"suspected unexpected serious adverse reactions\"\u003eSUSARs\u003c/abbr\u003e occur before the new \u003cabbr title=\"reference safety information\"\u003eRSI\u003c/abbr\u003e is approved, these should be reported as \u003cabbr title=\"suspected unexpected serious adverse reactions\"\u003eSUSARs\u003c/abbr\u003e in the usual expedited manner. If Sponsors wish to harmonise the implementation date of an \u003cabbr title=\"reference safety information\"\u003eRSI\u003c/abbr\u003e in a trial that includes EU and UK sites, then this can be the date where approval has been granted in all member states and the UK. In the interest of efficiency and harmonisation for multinational trials it is recommended that amendments including changes to the \u003cabbr title=\"reference safety information\"\u003eRSI\u003c/abbr\u003e are submitted to the UK and EU at the same time\u003c/li\u003e\n  \u003cli\u003eThe \u003cabbr title=\"reference safety information\"\u003eRSI\u003c/abbr\u003e approved by the regulatory authority  at the time of occurrence of the ‘suspected’ SAR should be used to assess expectedness for both initial and  follow up reports\u003c/li\u003e\n  \u003cli\u003eFor \u003cabbr title=\"Developmental Safety Update Reports\"\u003eDSURs\u003c/abbr\u003e the Sponsor is reminded to use the \u003cabbr title=\"reference safety information\"\u003eRSI\u003c/abbr\u003e that was approved at the beginning of the reporting period by both the MHRA and European Member States.\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"urgent-safety-measures\"\u003eUrgent Safety Measures\u003c/h2\u003e\n\n\u003cp\u003eIn order to determine whether the action you are taking is an Urgent Safety Measure (\u003cabbr title=\"Urgent safety measures\"\u003eUSM\u003c/abbr\u003e) please refer to regulation 30 of the Statutory Instrument (SI) 2004 Number 1031 (as amended).\u003c/p\u003e\n\n\u003cp\u003eCall the MHRA’s Clinical Trials Unit on 020 3080 6456 to discuss the issue with a medical assessor, ideally within 24 hours of measures being taken. Please call no later than 3 days from the date the measures are taken.\u003c/p\u003e\n\n\u003cp\u003eInformation you will be asked for on the call:\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003eThe IRAS ID and/or the EudraCT number of;\n  a. The trials for which \u003cabbr title=\"Urgent safety measures\"\u003eUSM\u003c/abbr\u003e action has been taken,\n  b. Other ongoing trials with the same Investigational Medicinal Product(s) (IMP(s))\n  c. Trials run by a different Sponsor affected by the \u003cabbr title=\"Urgent safety measures\"\u003eUSM\u003c/abbr\u003e action\u003c/li\u003e\n  \u003cli\u003eThe affected IMP(s) - commercial or developmental names\u003c/li\u003e\n  \u003cli\u003eNature of the safety concern and whether it has been reported as a \u003cabbr title=\"suspected unexpected serious adverse reaction\"\u003eSUSAR\u003c/abbr\u003e\n\u003c/li\u003e\n  \u003cli\u003eWhich USMs have been taken and when\u003c/li\u003e\n  \u003cli\u003eThe number of UK subjects who are currently receiving the IMP, the number of subjects who received it and the number affected by the \u003cabbr title=\"Urgent safety measures\"\u003eUSM\u003c/abbr\u003e\n\u003c/li\u003e\n  \u003cli\u003eContact details in case of further questions\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eWhere this information is not available during the initial call it should be provided as soon as possible.\u003c/p\u003e\n\n\u003cp\u003eAfter discussing the \u003cabbr title=\"Urgent safety measures\"\u003eUSM\u003c/abbr\u003e with the MHRA assessor via phone you must provide the MHRA with written notification of the measures taken and discussed with the medical assessor, within 3 days from the date the measures were taken. For trials not approved via Combined Review you will be instructed to send an email to the medical assessor who assessed the \u003cabbr title=\"Urgent safety measures\"\u003eUSM\u003c/abbr\u003e over the phone, \u003ca href=\"mailto:clintrialhelpline@mhra.gov.uk\" class=\"govuk-link\"\u003eclintrialhelpline@mhra.gov.uk\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eIf at least one of the trials covered by the \u003cabbr title=\"Urgent safety measures\"\u003eUSM\u003c/abbr\u003e has gone through the Combined Review process, then the \u003cabbr title=\"Urgent safety measures\"\u003eUSM\u003c/abbr\u003e written notification should be submitted via the \u003ca rel=\"external\" href=\"http://www.myresearchproject.org.uk/cwow\" class=\"govuk-link\"\u003eIntegrated Research Application System (IRAS)\u003c/a\u003e. More information can be found on the \u003ca rel=\"external\" href=\"https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/clinical-trials-investigational-medicinal-products-ctimps/combined-ways-working-pilot/step-step-guide-using-iras-combined-ways-working-cwow/#reporting\" class=\"govuk-link\"\u003eHealth Research Authority (HRA) website\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eNotification of a substantial amendment (Amendment tool plus any updated document including the changes agreed with the medical assessor) is also required. The substantial amendment covering the changes made as part of the \u003cabbr title=\"Urgent safety measures\"\u003eUSM\u003c/abbr\u003e should be submitted within approximately two weeks of notification to the MHRA.\u003c/p\u003e\n\n\u003cp\u003eAny potential reason for delay to submission of the substantial amendment should be discussed and agreed with the medical assessor at the time of initial notification or through a follow up call.\u003c/p\u003e\n\n\u003cp\u003eThe \u003cabbr title=\"Urgent safety measures\"\u003eUSM\u003c/abbr\u003e-related substantial amendment must not include changes different from those required as an urgent safety measure. This is due to the fact that unrelated changes may result in rejection.\u003c/p\u003e\n\n\u003cp\u003ePlease submit your substantial amendment using \u003ca href=\"https://www.gov.uk/guidance/register-to-make-submissions-to-the-mhra\" class=\"govuk-link\"\u003eMHRA Submissions\u003c/a\u003e via the Human Medicines Tile. Please select ‘Clinical Trial’ as the Regulatory Activity and ‘CT - Amendment’ from the Regulatory sub activity dropdown list.\u003c/p\u003e\n\n\u003cp\u003eIf your trial has gone through the Combined Review process, then the substantial amendment should be submitted via IRAS. More information on how to submit a substantial amendment via \u003ca rel=\"external\" href=\"https://www.myresearchproject.org.uk/CWOW\" class=\"govuk-link\"\u003eIRAS\u003c/a\u003e can be found on \u003ca rel=\"external\" href=\"https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/clinical-trials-investigational-medicinal-products-ctimps/combined-ways-working-pilot/step-step-guide-using-iras-combined-ways-working-cwow/#amendment\" class=\"govuk-link\"\u003eHRA’s website\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eIf you are not able to report a \u003cabbr title=\"Urgent safety measures\"\u003eUSM\u003c/abbr\u003e to the MHRA via the phone please send an email to \u003ca href=\"mailto:clintrialhelpline@mhra.gov.uk\" class=\"govuk-link\"\u003eclintrialhelpline@mhra.gov.uk\u003c/a\u003e within 3 days of taking urgent measures. The subject of the email will be ‘\u003cabbr title=\"Urgent safety measures\"\u003eUSM\u003c/abbr\u003e for trial IRAS ID/EudraCT number’. Please explain in the email the \u003cabbr title=\"Urgent safety measures\"\u003eUSM\u003c/abbr\u003e implemented, the reason and why you did not report it via phone. An MHRA assessor will contact you and provide advice regarding further actions.\u003c/p\u003e\n\n\u003ch2 id=\"suspected-unexpected-serious-adverse-reactions-susars\"\u003eSuspected Unexpected Serious Adverse Reactions (\u003cabbr title=\"suspected unexpected serious adverse reactions\"\u003eSUSARs\u003c/abbr\u003e)\u003c/h2\u003e\n\n\u003cp\u003eThe Sponsor of the trial or any other person to whom the Sponsor has delegated this responsibility to must report all suspected unexpected serious adverse reactions (\u003cabbr title=\"suspected unexpected serious adverse reactions\"\u003eSUSARs\u003c/abbr\u003e) which happen during the course of the trial to the MHRA.\u003c/p\u003e\n\n\u003cp\u003eFatal or life-threatening \u003cabbr title=\"suspected unexpected serious adverse reactions\"\u003eSUSARs\u003c/abbr\u003e must be reported as soon as possible, but no later than 7 days after you are first aware of the reaction. Any additional relevant information must be sent within 8 days of the initial report.\u003c/p\u003e\n\n\u003cp\u003eNon-fatal or non-life-threatening \u003cabbr title=\"suspected unexpected serious adverse reactions\"\u003eSUSARs\u003c/abbr\u003e must be reported as soon as possible but no later than 15 days after you are first aware of the reaction.\u003c/p\u003e\n\n\u003cp\u003eThe Sponsor of a ‘trial performed in the UK’ (UK trial) must report the following UK-relevant \u003cabbr title=\"suspected unexpected serious adverse reactions\"\u003eSUSARs\u003c/abbr\u003e to the MHRA:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eAll \u003cabbr title=\"suspected unexpected serious adverse reactions\"\u003eSUSARs\u003c/abbr\u003e occurring in that trial in UK sites\u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eAll \u003cabbr title=\"suspected unexpected serious adverse reactions\"\u003eSUSARs\u003c/abbr\u003e occurring in that trial in sites outside the UK\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003eAll \u003cabbr title=\"suspected unexpected serious adverse reactions\"\u003eSUSARs\u003c/abbr\u003e originating in a non-UK trial of the same medicinal product if the trial is run by the same Sponsor of the trial running in the UK\u003c/li\u003e\n  \u003cli\u003eAll \u003cabbr title=\"suspected unexpected serious adverse reactions\"\u003eSUSARs\u003c/abbr\u003e originating in  a non-UK trial of the same medicinal product  if the Sponsor of the trial outside the UK is either part of the same mother company or develops the medicinal product jointly, on the basis of a formal agreement, with the Sponsor of the UK trial.\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou must keep detailed records of all adverse reactions relating to a clinical trial. The MHRA may require you to send copies of records if there is an investigation.\u003c/p\u003e\n\n\u003cp\u003eFurther information can be found in \u003ca rel=\"external\" href=\"https://www.legislation.gov.uk/uksi/2004/1031/pdfs/uksi_20041031_en.pdf\" class=\"govuk-link\"\u003eThe Medicines for Human Use (Clinical Trials) Regulations 2004, Statutory Instrument 2004 No.1031\u003c/a\u003e.\u003c/p\u003e\n\n\u003cdiv class=\"call-to-action\"\u003e\n  \u003cp\u003eReport a \u003cabbr title=\"suspected unexpected serious adverse reaction\"\u003eSUSAR\u003c/abbr\u003e to the MHRA in one of the following ways:\u003c/p\u003e\n\n  \u003cul\u003e\n    \u003cli\u003eusing \u003ca rel=\"external\" href=\"https://icsrsubmissions.mhra.gov.uk/login\" class=\"govuk-link\"\u003eICSR Submissions\u003c/a\u003e, which replaces the EudraVigilance website (EVWEB). The ICSR Submissions route is used to submit single reports.\u003c/li\u003e\n    \u003cli\u003eusing the \u003ca href=\"https://www.gov.uk/guidance/register-to-make-submissions-to-the-mhra#registering-to-use-the-vigilance-systems-mhra-gateway-and-icsr-submissions\" class=\"govuk-link\"\u003eMHRA Gateway\u003c/a\u003e, which replaces the Eudravigilance Gateway. The Gateway route is used to submit bulk reports. To gain access to the MHRA Gateway you need to register to another portal called \u003ca href=\"https://www.gov.uk/guidance/register-to-make-submissions-to-the-mhra\" class=\"govuk-link\"\u003eMHRA Submissions\u003c/a\u003e.\u003c/li\u003e\n  \u003c/ul\u003e\n\u003c/div\u003e\n\n\u003cp\u003eIf applicable, you will need to dual report UK-relevant \u003cabbr title=\"suspected unexpected serious adverse reactions\"\u003eSUSARs\u003c/abbr\u003e to the European Medicines Agency’s (EMA’s) Eudravigilance Clinical Trial Module (EVCTM), as well as to other National Competent Authorities, using the European submission routes.\u003c/p\u003e\n\n\u003ch2 id=\"development-safety-update-reports-dsurs\"\u003eDevelopment Safety Update Reports (\u003cabbr title=\"Developmental Safety Update Reports\"\u003eDSURs\u003c/abbr\u003e)\u003c/h2\u003e\n\n\u003cdiv class=\"call-to-action\"\u003e\n  \u003cp\u003e\u003ca href=\"https://www.gov.uk/government/publications/mhra-fees/current-mhra-fees#clinical-trials-application-fees\" class=\"govuk-link\"\u003eMHRA fees\u003c/a\u003e include charges to annual safety reports - which are applicable to both Annual Progress Reports and \u003cabbr title=\"Developmental Safety Update Reports\"\u003eDSURs\u003c/abbr\u003e.\u003c/p\u003e\n\n  \u003cp\u003eFrom 1 June 2024, we will only be accepting online payment of this fee via \u003ca rel=\"external\" href=\"https://products.payments.service.gov.uk/pay/abbc9729dc244d2c82b02e25420454f8\" class=\"govuk-link\"\u003eMHRA Pay\u003c/a\u003e prior to submission of an annual safety report. Receipts generated will be sent by email and must be included in the submission as proof of payment.\u003c/p\u003e\n\n  \u003ch3 id=\"failure-to-provide-evidence-of-payment-will-result-in-the-submission-being-made-invalid\"\u003eFailure to provide evidence of payment will result in the submission being made invalid.\u003c/h3\u003e\n\u003c/div\u003e\n\n\u003cp\u003eFurther information can be found on \u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/6602e62cf1d3a0666832ae01/User_reference_guide___Paying_online_before_submitting_an_annual_safety_report.pdf\"\u003epaying online before submitting an annual safety report \u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e160 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e3 pages\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003cp\u003eEach submission must contain a cover letter, the annual safety report, as well as a receipt confirming the fee has been paid*.\u003c/p\u003e\n\n\u003cp\u003eThe cover letter must include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ea listing of all the IRAS IDs and/or EudraCT numbers of trials covered by the annual safety report\u003c/li\u003e\n  \u003cli\u003ean email address for correspondence\u003c/li\u003e\n  \u003cli\u003ethe submission reference number in the format: ‘\u003cabbr title=\"Developmental Safety Update Report\"\u003eDSUR\u003c/abbr\u003e-[5 digit MHRA company number]-[IMP name]-[Payment date DD/MM/YYYY]’\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003e\u003cabbr title=\"Developmental Safety Update Reports\"\u003eDSURs\u003c/abbr\u003e should take into account all new available safety information received during the reporting period. The \u003cabbr title=\"Developmental Safety Update Report\"\u003eDSUR\u003c/abbr\u003e should include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ean analysis of the patients’ safety in the concerned clinical trial(s) with an appraisal of its ongoing risk/benefit\u003c/li\u003e\n  \u003cli\u003ea line listing of all suspected serious adverse reactions (including all \u003cabbr title=\"suspected unexpected serious adverse reactions\"\u003eSUSARs\u003c/abbr\u003e) that occurred in the trial(s), including all \u003cabbr title=\"suspected unexpected serious adverse reactions\"\u003eSUSARs\u003c/abbr\u003e from third countries\u003c/li\u003e\n  \u003cli\u003ean aggregate summary tabulation of \u003cabbr title=\"suspected unexpected serious adverse reactions\"\u003eSUSARs\u003c/abbr\u003e that occurred in the concerned trial(s)\u003c/li\u003e\n  \u003cli\u003eRegion-specific information as per Guideline on how to increase transparency (see below)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFull details of what to include in a \u003cabbr title=\"Developmental Safety Update Report\"\u003eDSUR\u003c/abbr\u003e can be found in the \u003ca rel=\"external\" href=\"https://database.ich.org/sites/default/files/E2F_Guideline.pdf\" class=\"govuk-link\"\u003eICH E2F guidance\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003e*Submissions that reflect a fee waiver will be considered valid.\u003c/p\u003e\n\n\u003ch3 id=\"submitting-your-report\"\u003eSubmitting your report\u003c/h3\u003e\n\n\u003cp\u003eIf your \u003cabbr title=\"Developmental Safety Update Report\"\u003eDSUR\u003c/abbr\u003e covers several trials, the report is to be submitted once. It must not be submitted multiple times to reflect each trial - this causes duplication in review and leads to multiple fee charges. Sponsors who delegate different contract research organisations (CROs) to submit their \u003cabbr title=\"Developmental Safety Update Report\"\u003eDSUR\u003c/abbr\u003e for separate trials will need to take into consideration multiple fees.\u003c/p\u003e\n\n\u003ch3 id=\"clinical-trials-approved-through-the-non-combined-review-process\"\u003eClinical Trials approved through the non-Combined Review Process\u003c/h3\u003e\n\n\u003cp\u003eIf your clinical trial was approved through the non-Combined Review process, you must submit your \u003cabbr title=\"Developmental Safety Update Report\"\u003eDSUR\u003c/abbr\u003e using MHRA Submissions via the Human Medicines Tile. Please select ‘Development Safety Update Report’ as the Regulatory Activity and ‘Original Submission’ from the Regulatory Sub Activity dropdown list. Acknowledgements of receipt are generated by MHRA Submissions where a confirmation of submission is emailed to the reporter.\u003c/p\u003e\n\n\u003ch3 id=\"clinical-trials-approved-through-the-combined-review-process\"\u003eClinical Trials approved through the Combined Review Process\u003c/h3\u003e\n\n\u003cp\u003eIf at least one of the trials covered by the \u003cabbr title=\"Developmental Safety Update Report\"\u003eDSUR\u003c/abbr\u003e has gone through the Combined Review process, then your \u003cabbr title=\"Developmental Safety Update Report\"\u003eDSUR\u003c/abbr\u003e must be submitted via the \u003ca rel=\"external\" href=\"https://myresearchproject.org.uk/CWOW\" class=\"govuk-link\"\u003eIntegrated Research Application System (IRAS)\u003c/a\u003e platform. The \u003cabbr title=\"Developmental Safety Update Report\"\u003eDSUR\u003c/abbr\u003e must not be submitted again via MHRA Submissions to account for the other trials that have not been approved by Combined Review. More information can be found on the \u003ca rel=\"external\" href=\"https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/clinical-trials-investigational-medicinal-products-ctimps/combined-ways-working-pilot/step-step-guide-using-iras-combined-ways-working-cwow/#reporting\" class=\"govuk-link\"\u003eHealth Research Authority (HRA) website\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eAt the end of the \u003cabbr title=\"Developmental Safety Update Report\"\u003eDSUR\u003c/abbr\u003e reporting period the Sponsor may assess the new safety information that has been generated and submit any proposed safety changes to the Investigator’s Brochure as a substantial amendment. This amendment must be supported by the \u003cabbr title=\"Developmental Safety Update Report\"\u003eDSUR\u003c/abbr\u003e and approved before the reference safety information (\u003cabbr title=\"reference safety information\"\u003eRSI\u003c/abbr\u003e) is changed.\u003c/p\u003e\n\n\u003ch3 id=\"guideline-on-how-to-increase-transparency-when-presenting-safety-information-in-the-development-safety-update-report-dsur-region-specific-requirements-for-canada-and-the-united-kingdom\"\u003eGuideline on how to increase transparency when presenting safety information in the Development Safety Update Report (\u003cabbr title=\"Developmental Safety Update Report\"\u003eDSUR\u003c/abbr\u003e): region-specific requirements for Canada and the United Kingdom\u003c/h3\u003e\n\n\u003cp\u003eIn order to increase the transparency of the data included in \u003cabbr title=\"Developmental Safety Update Reports\"\u003eDSURs\u003c/abbr\u003e prepared by manufacturers and/or marketing authorisation holders of an investigational drug the MHRA and Health Canada are asking that the region-specific information section of the \u003cabbr title=\"Developmental Safety Update Report\"\u003eDSUR\u003c/abbr\u003e is used to explain how safety data were reviewed during the reporting period.\u003c/p\u003e\n\n\u003cp\u003ePlease see \u003ca rel=\"external\" href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/993808/DSUR-Guideline-08June2021.pdf\" class=\"govuk-link\"\u003eGuidance document\u003c/a\u003e (PDF, 65.6KB, 4 pages) for more details.\u003c/p\u003e\n\n\u003ch3 id=\"shortenedannual-safety-reports\"\u003eShortened annual safety reports\u003c/h3\u003e\n\n\u003cp\u003eThis is suitable for:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003etrials where the potential risk associated with the investigational drug is no higher than that of standard medical care\u003c/li\u003e\n  \u003cli\u003eindividual trials which are not part of a multi-study development programme.\u003c/li\u003e\n  \u003cli\u003ephase 4 national (UK only) trials of licensed products that commanded a low fee from the MHRA and where all participants have completed treatment and are only in follow-up.\u003c/li\u003e\n  \u003cli\u003etrials involving investigational drugs;\n    \u003cul\u003e\n      \u003cli\u003eif they relate to the licensed range of indications, dosage and form or,\u003c/li\u003e\n      \u003cli\u003ethey involve off-label use (such as in paediatrics and oncology, etc), if this off-label use is established practice and supported by sufficient published evidence and/or guidelines.\u003c/li\u003e\n    \u003c/ul\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eAs an alternative to producing a full \u003cabbr title=\"Developmental Safety Update Report\"\u003eDSUR\u003c/abbr\u003e for these trials you may use the \u003ca rel=\"external\" href=\"https://www.hra.nhs.uk/documents/1013/annual-report-form-for-ctimps.docx\" class=\"govuk-link\"\u003eHealth Research Authority Annual Progress Report\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003ePlease indicate in your cover letter that this is an Annual Progress Report (APR) in lieu of a full \u003cabbr title=\"Developmental Safety Update Report\"\u003eDSUR\u003c/abbr\u003e and include the IRAS IDs and/or EudraCT numbers. You should include a list of all serious adverse reactions in section 6 of the APR.\u003c/p\u003e\n\n\u003ch2 id=\"suspend-or-terminate-a-trial\"\u003eSuspend or terminate a trial\u003c/h2\u003e\n\n\u003cp\u003eThe MHRA has the authority to make amendments to an authorisation or in certain circumstances suspend or terminate a trial. The Sponsor can contact the MHRA to put a trial on temporary halt or terminate a trial.\u003c/p\u003e\n\n\u003ch3 id=\"suspend-a-trial-temporarily\"\u003eSuspend a trial temporarily\u003c/h3\u003e\n\n\u003cp\u003eIf you suspend a trial temporarily you must notify the MHRA.\u003c/p\u003e\n\n\u003cp\u003eThe notification should be made as a substantial amendment using the amendment tool, clearly explaining what has been stopped and the reasons for the suspension.\u003c/p\u003e\n\n\u003cp\u003eSubstantial amendments relating to temporary suspension must be submitted using MHRA Submissions via the Human Medicines Tile. Please select ‘Clinical Trial’ as the Regulatory Activity and ‘CT – Amendment’ from the Regulatory sub activity dropdown list.\u003c/p\u003e\n\n\u003cp\u003eFor applications that have gone through the Combined Review process, please refer to the \u003ca rel=\"external\" href=\"https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/clinical-trials-investigational-medicinal-products-ctimps/combined-ways-working-pilot/step-step-guide-using-iras-combined-ways-working-cwow/#amendment\" class=\"govuk-link\"\u003eHRA website\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eTo restart a trial that has been temporarily suspended, you must make the request as a substantial amendment using the notification of amendment form, providing evidence that it is safe to restart the trial.\u003c/p\u003e\n\n\u003ch3 id=\"early-termination-of-a-trial\"\u003eEarly termination of a trial\u003c/h3\u003e\n\n\u003cp\u003eComplete the \u003ca rel=\"external\" href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1022119/declaration_end_trial_form_final_29.09.21.doc\" class=\"govuk-link\"\u003eend of trial declaration form\u003c/a\u003e (MS Word Document, 60.5KB) and include a brief explanation of the reasons for ending the trial, particularly where the trial has been terminated early. This form must be submitted using MHRA Submissions via the Human Medicines Tile. Please select ‘Clinical Trial’ as the Regulatory Activity and ‘CT –EOT’ from the Regulatory sub activity dropdown list.\u003c/p\u003e\n\n\u003cp\u003eFor applications that have gone through the Combined Review process, please refer to the \u003ca rel=\"external\" href=\"https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/clinical-trials-investigational-medicinal-products-ctimps/combined-ways-working-pilot/step-step-guide-using-iras-combined-ways-working-cwow/#reporting\" class=\"govuk-link\"\u003eHRA website\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"end-of-trial\"\u003eEnd of trial\u003c/h2\u003e\n\n\u003cp\u003eA declaration of the \u003ca rel=\"external\" href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1022119/declaration_end_trial_form_final_29.09.21.doc\" class=\"govuk-link\"\u003eend of a clinical trial\u003c/a\u003e must be sent to the MHRA within 90 days of the global end of the trial and within 15 days of the global premature end of the trial. The submission must include an end of trial form and a covering letter.\u003c/p\u003e\n\n\u003cp\u003eThe legislation only requires the global end of trial to be submitted; however, a facility to inform us of the local (UK) end of trial via the end of trial notification form also exists. Local end of trial notifications will not be acknowledged and the MHRA Submissions automatic email confirmation should be considered as evidence of submission. If a local end of trial is submitted, we would still expect to receive relevant safety updates and substantial amendments for the ongoing trial until the global end of trial notification is received.\u003c/p\u003e\n\n\u003cp\u003eIf you wish to request an exemption to this requirement this must be done via a substantial amendment for approval. The amendment must clearly state to what documents your proposal relates and provide a robust rationale for the request. All safety documentation must be submitted unless there are no other trials ongoing with the same product in the UK.\u003c/p\u003e\n\n\u003cp\u003eAny trial activities (such as follow-ups, visits) must be completed before the submission of the global end of trial declaration form.\u003c/p\u003e\n\n\u003cp\u003eIt is not possible to submit amendments to the trial or the \u003cabbr title=\"Developmental Safety Update Report\"\u003eDSUR\u003c/abbr\u003e once the declaration of the global end of the trial form has been received by the MHRA. If the end of trial declaration has been received within a reporting period, or within 60 days following the data lock point, the corresponding \u003cabbr title=\"Developmental Safety Update Report\"\u003eDSUR\u003c/abbr\u003e will not be required.\u003c/p\u003e\n\n\u003cp\u003eYou must submit your end of trial declarations using MHRA Submissions via the Human Medicines Tile. Please select ‘Clinical Trial’ as the Regulatory Activity and ‘CT – EOT’ from the Regulatory sub activity dropdown list.\u003c/p\u003e\n\n\u003cp\u003eIf your trial has gone through the Combined Review process, then the end of trial declaration should be submitted via \u003ca rel=\"external\" href=\"https://www.myresearchproject.org.uk/CWOW\" class=\"govuk-link\"\u003eIRAS\u003c/a\u003e. More information on how to submit an end of trial via IRAS can be found on \u003ca rel=\"external\" href=\"https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/clinical-trials-investigational-medicinal-products-ctimps/combined-ways-working-pilot/step-step-guide-using-iras-combined-ways-working-cwow/#reporting\" class=\"govuk-link\"\u003eHRA’s website\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"clinical-trial-summary-results\"\u003eClinical trial summary results\u003c/h3\u003e\n\n\u003cp\u003eThe time frame for publishing the summary of results is within one year of the end of trial. Please also see guidance on \u003ca href=\"https://www.gov.uk/guidance/completed-paediatric-studies-submission-processing-and-assessment\" class=\"govuk-link\"\u003eCompleted Paediatric Studies - submission, processing and assessment\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eWhere applicable, you should publish your summary results within this timeframe in the public register (or registers) where you have registered your clinical trial.\u003c/p\u003e\n\n\u003cp\u003eYou do not need to submit this clinical trial summary report to the MHRA as well however, you must send a short confirmatory email to \u003ca href=\"mailto:CT.Submission@mhra.gov.uk\" class=\"govuk-link\"\u003eCT.Submission@mhra.gov.uk\u003c/a\u003e. The subject line of the email notification must state ‘End of trial: result-related information: EudraCT XXXX-XXXXXX-XX’ and/or IRAS ID XXXXXXX’  once the result-related information has been uploaded to the public register. If your clinical trial is not on a public register or the results will not be published in the register (for example an adult phase I study), summary results should be submitted via MHRA Submissions. An acknowledgement letter will not be sent for this submission.\u003c/p\u003e\n\n\u003cp\u003eIf your trial has gone through the Combined Review process, then the end of trial declaration should be submitted via \u003ca rel=\"external\" href=\"https://www.myresearchproject.org.uk/CWOW\" class=\"govuk-link\"\u003eIRAS\u003c/a\u003e. More information on how to submit an end of trial via IRAS can be found on \u003ca rel=\"external\" href=\"https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/clinical-trials-investigational-medicinal-products-ctimps/combined-ways-working-pilot/step-step-guide-using-iras-combined-ways-working-cwow/#reporting\" class=\"govuk-link\"\u003eHRA’s website\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eYou should also submit a final report to the Research Ethics Committee within the same timeframe for reporting the summary of results.\u003c/p\u003e\n\n\u003cp\u003eSponsors of trials conducted in UK that are already registered in the EU Register are able to submit results to EudraCT. Steps to follow are described in the EMA webpage \u003ca rel=\"external\" href=\"https://eudract.ema.europa.eu/multimedia_tutorials.html\" class=\"govuk-link\"\u003e‘Tutorials on posting results’\u003c/a\u003e. The MHRA will not be able to update the status of your study in the EU system.\u003c/p\u003e\n\n\u003ch2 id=\"contact\"\u003eContact\u003c/h2\u003e\n\n\u003cp\u003eFor information about your submission, including status and tracking enquiries, contact the clinical trials helpline on 020 3080 6456 (Monday to Friday 8:30am to 4.30pm) or email \u003ca href=\"mailto:clintrialhelpline@mhra.gov.uk\" class=\"govuk-link\"\u003eclintrialhelpline@mhra.gov.uk\u003c/a\u003e. See \u003ca href=\"https://www.gov.uk/guidance/clinical-trials-for-medicines-manage-your-authorisation-report-safety-issues#clinical-trials-named-contact\" class=\"govuk-link\"\u003eClinical trials named contact\u003c/a\u003e for further information.\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Updated to add attachment paying_online_before_submitting_an_annual_safety_report.pdf",
+                                               "public_timestamp":  "2024-03-26T15:21:11.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated to include new DSUR guidance ",
+                                               "public_timestamp":  "2024-03-25T16:59:11.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Information about the grace period for users of the eSUSAR website to continue collecting historical reports has been removed because it was open until 31 October 2022.",
+                                               "public_timestamp":  "2022-11-08T15:38:32.000+00:00"
+                                           },
+                                           {
+                                               "note":  "One of the SUSAR reporting routes has been removed from the Suspected Unexpected Serious Adverse Reactions (SUSARs) section.",
+                                               "public_timestamp":  "2022-08-09T11:27:46.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Update following transition to the combined review service",
+                                               "public_timestamp":  "2022-02-07T11:13:25.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated note regarding CTIMP applications",
+                                               "public_timestamp":  "2021-10-26T12:08:13.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated information regarding changes to a trial\u0027s protocol or documentation.",
+                                               "public_timestamp":  "2021-10-25T13:46:32.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated information on the combined review process.",
+                                               "public_timestamp":  "2021-10-21T14:45:39.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added guidance on how to increase transparency when presenting safety information in the Development Safety Update Report (DSUR)",
+                                               "public_timestamp":  "2021-07-06T14:07:41.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated guidance on the submission of summary results.",
+                                               "public_timestamp":  "2021-03-18T15:21:29.000+00:00"
+                                           },
+                                           {
+                                               "note":  "This document has been updated due to the end of the Brexit transition period to provide information on reporting safety issues and managing authorisations.",
+                                               "public_timestamp":  "2021-01-01T13:21:50.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Changes to end of trial section. Updates on end of trial legislation, local (UK) end of trial and exemptions.",
+                                               "public_timestamp":  "2019-10-18T13:09:11.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated \u0027End of trial\u0027 guidance to include new EMA information reminding all sponsors of clinical trials conducted in the EU of their obligation to make summaries of results of concluded trials publicly available in the EU Clinical Trials Database (EudraCT).",
+                                               "public_timestamp":  "2019-07-03T14:06:55.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated additional text under “Submit development safety update reports (DSURs)”",
+                                               "public_timestamp":  "2019-03-07T14:07:28.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated the eSUSAR registration form.",
+                                               "public_timestamp":  "2019-02-06T11:53:00.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated the guidance on changing legal representative or sponsor.",
+                                               "public_timestamp":  "2018-12-11T09:53:40.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Added substantial new information under \u0027Urgent Safety Measures\u0027 section.",
+                                               "public_timestamp":  "2018-11-29T16:00:35.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated Reference Safety Information - updated guidance section",
+                                               "public_timestamp":  "2018-03-28T14:21:30.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added note about using CESP submission details as evidence of DSUR submission",
+                                               "public_timestamp":  "2018-03-19T09:41:56.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Edited the grey box at the top of the page which was about the EudraVigilance cutover period and now contains information on reference safety information.\r\n\r\nAlso changed text in grey box above DSURs.",
+                                               "public_timestamp":  "2017-12-05T17:00:30.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated text in Urgent Safety Measure section",
+                                               "public_timestamp":  "2017-12-01T13:17:13.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Added information about how to submit SUSARs during the EudraVigilance cutover period, 8-21 November",
+                                               "public_timestamp":  "2017-10-12T16:50:52.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Information about proof of payment requirements updated.",
+                                               "public_timestamp":  "2017-03-31T12:04:22.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated contact information for fees section.",
+                                               "public_timestamp":  "2017-01-24T09:38:25.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated contact information.",
+                                               "public_timestamp":  "2017-01-03T11:17:31.000+00:00"
+                                           },
+                                           {
+                                               "note":  "clinical trials named contact information",
+                                               "public_timestamp":  "2016-07-12T13:39:05.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2014-12-18T00:00:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "240f72bd-9a4d-4f39-94d9-77235cadde8e"
+                                                 ],
+                    "first_public_at":  "2014-12-18T00:00:00.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2014-12-18T00:00:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/clinical-trials-for-medicines-manage-your-authorisation-report-safety-issues",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/clinical-trials-for-medicines-manage-your-authorisation-report-safety-issues",
+                                                     "base_path":  "/guidance/clinical-trials-for-medicines-manage-your-authorisation-report-safety-issues",
+                                                     "content_id":  "5f5ea66c-7631-11e4-a3cb-005056011aef",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2024-03-26T15:21:11Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Clinical trials for medicines: manage your authorisation, report safety issues",
+                                                     "web_url":  "https://www.gov.uk/guidance/clinical-trials-for-medicines-manage-your-authorisation-report-safety-issues",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/clinical-trials-for-medicines",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/clinical-trials-for-medicines",
+                                                   "base_path":  "/government/collections/clinical-trials-for-medicines",
+                                                   "content_id":  "4dfda159-a98b-4fe9-94cc-964cf3bd65a0",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/clinical-trials-for-medicines-manage-your-authorisation-report-safety-issues",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/clinical-trials-for-medicines-manage-your-authorisation-report-safety-issues",
+                                                                                       "base_path":  "/guidance/clinical-trials-for-medicines-manage-your-authorisation-report-safety-issues",
+                                                                                       "content_id":  "5f5ea66c-7631-11e4-a3cb-005056011aef",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2024-03-26T15:21:11Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Clinical trials for medicines: manage your authorisation, report safety issues",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/clinical-trials-for-medicines-manage-your-authorisation-report-safety-issues",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2014-12-18T18:17:00Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Clinical trials for medicines",
+                                                   "web_url":  "https://www.gov.uk/government/collections/clinical-trials-for-medicines",
+                                                   "withdrawn":  false
+                                               },
+                                               {
+                                                   "api_path":  "/api/content/government/collections/medicines-clinical-trials",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/medicines-clinical-trials",
+                                                   "base_path":  "/government/collections/medicines-clinical-trials",
+                                                   "content_id":  "86443e27-1b35-4658-b6ea-cd609269d626",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/clinical-trials-for-medicines-manage-your-authorisation-report-safety-issues",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/clinical-trials-for-medicines-manage-your-authorisation-report-safety-issues",
+                                                                                       "base_path":  "/guidance/clinical-trials-for-medicines-manage-your-authorisation-report-safety-issues",
+                                                                                       "content_id":  "5f5ea66c-7631-11e4-a3cb-005056011aef",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2024-03-26T15:21:11Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Clinical trials for medicines: manage your authorisation, report safety issues",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/clinical-trials-for-medicines-manage-your-authorisation-report-safety-issues",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2023-09-21T13:10:00Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Medicines: clinical trials",
+                                                   "web_url":  "https://www.gov.uk/government/collections/medicines-clinical-trials",
+                                                   "withdrawn":  false
+                                               },
+                                               {
+                                                   "api_path":  "/api/content/government/collections/services-and-information",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/services-and-information",
+                                                   "base_path":  "/government/collections/services-and-information",
+                                                   "content_id":  "9d1aca0a-6c2c-4314-8196-811649a88e10",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/clinical-trials-for-medicines-manage-your-authorisation-report-safety-issues",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/clinical-trials-for-medicines-manage-your-authorisation-report-safety-issues",
+                                                                                       "base_path":  "/guidance/clinical-trials-for-medicines-manage-your-authorisation-report-safety-issues",
+                                                                                       "content_id":  "5f5ea66c-7631-11e4-a3cb-005056011aef",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2024-03-26T15:21:11Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Clinical trials for medicines: manage your authorisation, report safety issues",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/clinical-trials-for-medicines-manage-your-authorisation-report-safety-issues",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2023-03-29T16:28:44Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Services and information",
+                                                   "web_url":  "https://www.gov.uk/government/collections/services-and-information",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "base_path":  "/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "content_id":  "591c83aa-3b74-437d-a342-612bddd97572",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2015-05-08T00:00:00+00:00",
+                                                         "started_on":  "2010-05-12T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2010 to 2015 Conservative and Liberal Democrat coalition government",
+                                         "web_url":  "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government"
+                                     }
+                                 ],
+                  "lead_organisations":  [
+                                             {
+                                                 "analytics_identifier":  "EA63",
+                                                 "api_path":  "/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                 "api_url":  "https://www.gov.uk/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                 "base_path":  "/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                 "content_id":  "240f72bd-9a4d-4f39-94d9-77235cadde8e",
+                                                 "details":  {
+                                                                 "acronym":  "MHRA",
+                                                                 "brand":  "department-of-health",
+                                                                 "default_news_image":  null,
+                                                                 "logo":  {
+                                                                              "crest":  "single-identity",
+                                                                              "formatted_title":  "Medicines \u0026amp; Healthcare products\u003cbr/\u003eRegulatory Agency"
+                                                                          },
+                                                                 "organisation_govuk_status":  {
+                                                                                                   "status":  "live",
+                                                                                                   "updated_at":  null,
+                                                                                                   "url":  null
+                                                                                               }
+                                                             },
+                                                 "document_type":  "organisation",
+                                                 "links":  {
+
+                                                           },
+                                                 "locale":  "en",
+                                                 "schema_name":  "organisation",
+                                                 "title":  "Medicines and Healthcare products Regulatory Agency",
+                                                 "web_url":  "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                 "withdrawn":  false
+                                             }
+                                         ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "EA63",
+                                            "api_path":  "/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                            "base_path":  "/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                            "content_id":  "240f72bd-9a4d-4f39-94d9-77235cadde8e",
+                                            "details":  {
+                                                            "acronym":  "MHRA",
+                                                            "brand":  "department-of-health",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Medicines \u0026amp; Healthcare products\u003cbr/\u003eRegulatory Agency"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Medicines and Healthcare products Regulatory Agency",
+                                            "web_url":  "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA63",
+                                                                       "api_path":  "/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                                       "base_path":  "/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                                       "content_id":  "240f72bd-9a4d-4f39-94d9-77235cadde8e",
+                                                                       "details":  {
+                                                                                       "acronym":  "MHRA",
+                                                                                       "brand":  "department-of-health",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Medicines \u0026amp; Healthcare products\u003cbr/\u003eRegulatory Agency"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Medicines and Healthcare products Regulatory Agency",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "EA63",
+                                                              "api_path":  "/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                              "base_path":  "/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                              "content_id":  "240f72bd-9a4d-4f39-94d9-77235cadde8e",
+                                                              "details":  {
+                                                                              "acronym":  "MHRA",
+                                                                              "brand":  "department-of-health",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Medicines \u0026amp; Healthcare products\u003cbr/\u003eRegulatory Agency"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Medicines and Healthcare products Regulatory Agency",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related_guides":  [
+                                         {
+                                             "api_path":  "/api/content/guidance/clinical-trials-for-medicines-apply-for-authorisation-in-the-uk",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/clinical-trials-for-medicines-apply-for-authorisation-in-the-uk",
+                                             "base_path":  "/guidance/clinical-trials-for-medicines-apply-for-authorisation-in-the-uk",
+                                             "content_id":  "5f5ea58c-7631-11e4-a3cb-005056011aef",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2024-08-27T10:43:37Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Clinical trials for medicines: apply for authorisation in the UK",
+                                             "web_url":  "https://www.gov.uk/guidance/clinical-trials-for-medicines-apply-for-authorisation-in-the-uk",
+                                             "withdrawn":  false
+                                         }
+                                     ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/clinical-trials-for-medicines-apply-for-authorisation-in-the-uk",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/clinical-trials-for-medicines-apply-for-authorisation-in-the-uk",
+                                                              "base_path":  "/guidance/clinical-trials-for-medicines-apply-for-authorisation-in-the-uk",
+                                                              "content_id":  "5f5ea58c-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-08-27T10:43:37Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Clinical trials for medicines: apply for authorisation in the UK",
+                                                              "web_url":  "https://www.gov.uk/guidance/clinical-trials-for-medicines-apply-for-authorisation-in-the-uk",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/managing-clinical-trials-during-coronavirus-covid-19",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/managing-clinical-trials-during-coronavirus-covid-19",
+                                                              "base_path":  "/guidance/managing-clinical-trials-during-coronavirus-covid-19",
+                                                              "content_id":  "4f70892c-d1f1-468e-a7d7-b0eec4f88776",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-11-16T11:07:27Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Managing clinical trials during Coronavirus (COVID-19)",
+                                                              "web_url":  "https://www.gov.uk/guidance/managing-clinical-trials-during-coronavirus-covid-19",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/guidance-on-150-day-assessment-for-national-applications-for-medicines",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/guidance-on-150-day-assessment-for-national-applications-for-medicines",
+                                                              "base_path":  "/guidance/guidance-on-150-day-assessment-for-national-applications-for-medicines",
+                                                              "content_id":  "55151b40-ca0a-4d47-a71b-b5f9cb07811d",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-12-31T17:01:58Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "150-day assessment for national applications for medicines",
+                                                              "web_url":  "https://www.gov.uk/guidance/guidance-on-150-day-assessment-for-national-applications-for-medicines",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/guidance-on-substantial-amendments-to-a-clinical-trial",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/guidance-on-substantial-amendments-to-a-clinical-trial",
+                                                              "base_path":  "/guidance/guidance-on-substantial-amendments-to-a-clinical-trial",
+                                                              "content_id":  "0a68f0be-ef32-406d-a7c6-d892bfa6e5c6",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-12-31T23:01:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Guidance on substantial amendments to a clinical trial",
+                                                              "web_url":  "https://www.gov.uk/guidance/guidance-on-substantial-amendments-to-a-clinical-trial",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/common-issues-identified-during-clinical-trial-applications",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/common-issues-identified-during-clinical-trial-applications",
+                                                              "base_path":  "/government/publications/common-issues-identified-during-clinical-trial-applications",
+                                                              "content_id":  "d1f6ff7b-24b0-4bb8-8332-b3d1e2ae378e",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2023-11-06T15:14:10Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Common issues identified during clinical trial applications",
+                                                              "web_url":  "https://www.gov.uk/government/publications/common-issues-identified-during-clinical-trial-applications",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/health-and-social-care/medicines-medical-devices-blood-clinical-trials-investigations",
+                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care/medicines-medical-devices-blood-clinical-trials-investigations",
+                                     "base_path":  "/health-and-social-care/medicines-medical-devices-blood-clinical-trials-investigations",
+                                     "content_id":  "6949bbe9-60c0-4782-9cdf-873db42514d3",
+                                     "details":  {
+                                                     "internal_name":  "Clinical trials and investigations [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/health-and-social-care/medicines-medical-devices-blood",
+                                                                             "api_url":  "https://www.gov.uk/api/content/health-and-social-care/medicines-medical-devices-blood",
+                                                                             "base_path":  "/health-and-social-care/medicines-medical-devices-blood",
+                                                                             "content_id":  "cebc01ee-f70a-4397-a552-622e10b62508",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Medicines and medical devices [T] (level 2, health theme)",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/health-and-social-care",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care",
+                                                                                                                     "base_path":  "/health-and-social-care",
+                                                                                                                     "content_id":  "8124ead8-8ebc-4faf-88ad-dd5cbcc92ba8",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Health and social care",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:30:51Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Health and social care",
+                                                                                                                     "web_url":  "https://www.gov.uk/health-and-social-care",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2019-02-06T16:16:55Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Medicines, medical devices",
+                                                                             "web_url":  "https://www.gov.uk/health-and-social-care/medicines-medical-devices-blood",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-08-22T12:56:19Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Clinical trials and investigations",
+                                     "web_url":  "https://www.gov.uk/health-and-social-care/medicines-medical-devices-blood-clinical-trials-investigations",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2024-03-26T15:21:11+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1713893765.415-10.13.33.117-628",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Clinical trials for medicines: manage your authorisation, report safety issues",
+    "updated_at":  "2024-12-31T17:01:58+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

@@ -1,0 +1,606 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/electricity-demand-reduction-pilot",
+    "content_id":  "5fde564b-7631-11e4-a3cb-005056011aef",
+    "description":  "Organisations received financial support for implementing energy efficiency projects through the Electricity Demand Reduction pilot if they delivered electricity savings at peak times.",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  338429,
+                                            "filename":  "summary_of_remaining_web_chat_queries.pdf",
+                                            "id":  "3626824",
+                                            "number_of_pages":  15,
+                                            "title":  "Questions from web-chat with DECC on 28 August 2014",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7dbb2540f0b65d88634109/summary_of_remaining_web_chat_queries.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  94097,
+                                            "filename":  "Successful_bidders_in_EDR_Pilot_Auction_29_January_2015.pdf",
+                                            "id":  "3626825",
+                                            "number_of_pages":  2,
+                                            "title":  "Successful bidders in Electricity Demand Reduction (EDR) pilot auction 29 January 2015",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a804482e5274a2e8ab4f2a3/Successful_bidders_in_EDR_Pilot_Auction_29_January_2015.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  181504,
+                                            "filename":  "EDR_Pilot_Auction_Table.pdf",
+                                            "id":  "3626826",
+                                            "number_of_pages":  4,
+                                            "title":  "Successful bidders in EDR phase II auction",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7f4037e5274a2e87db4b6a/EDR_Pilot_Auction_Table.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  366798,
+                                            "filename":  "EDR_Pilot_Data_Report_Feb_2017.pdf",
+                                            "id":  "3626827",
+                                            "number_of_pages":  21,
+                                            "title":  "Pilot data report",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7f8137e5274a2e87db6409/EDR_Pilot_Data_Report_Feb_2017.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  745223,
+                                            "filename":  "EDR_Pilot_-_Interim_Evaluation_Findings_Report_Feb_2017.pdf",
+                                            "id":  "3626828",
+                                            "number_of_pages":  48,
+                                            "title":  "Interim evaluation findings report",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7f2c0d40f0b62305b8584e/EDR_Pilot_-_Interim_Evaluation_Findings_Report_Feb_2017.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  437168,
+                                            "filename":  "EDR_Pilot_-_Interim_Evaluation_Findings_Report_Appendicies_Feb_2017.pdf",
+                                            "id":  "3626829",
+                                            "number_of_pages":  21,
+                                            "title":  "Interim evaluation findings report appendices",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a80890bed915d74e33fafb8/EDR_Pilot_-_Interim_Evaluation_Findings_Report_Appendicies_Feb_2017.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  681095,
+                                            "filename":  "edr-final-evaluation-report__3_.pdf",
+                                            "id":  "3626830",
+                                            "number_of_pages":  66,
+                                            "title":  "Electricity Demand Reduction final pilot evaluation report",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5d6cde24e5274a170d7e7d81/edr-final-evaluation-report__3_.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1336082,
+                                            "filename":  "edr-final-evaluation-report-technical-appendices.pdf",
+                                            "id":  "3626831",
+                                            "number_of_pages":  143,
+                                            "title":  "Electricity Demand Reduction final pilot evaluation report: technical appendices",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5d35d31440f0b604de59fd8f/edr-final-evaluation-report-technical-appendices.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  475725,
+                                            "filename":  "Deemed_Metering_Final_Report_April_2017.pdf",
+                                            "id":  "3626832",
+                                            "number_of_pages":  20,
+                                            "title":  "Deemed metering report",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5d341adfed915d2fe1abfb4f/Deemed_Metering_Final_Report_April_2017.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  47350,
+                                            "filename":  "edr-wps-data-tables.xlsx",
+                                            "id":  "3626833",
+                                            "title":  "Electricity Demand Reduction (EDR) wider population survey data tables",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5d341b14e5274a14f6df1b4d/edr-wps-data-tables.xlsx"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003ch2 id=\"the-electricity-demand-reduction-edr-pilot\"\u003eThe Electricity Demand Reduction (\u003cabbr title=\"Electricity Demand Reduction\"\u003eEDR\u003c/abbr\u003e) pilot\u003c/h2\u003e\n\n\u003cp\u003eWe tested whether projects that deliver lasting electricity savings at peak could in future compete for funding with generation, demand side response (\u003cabbr title=\"demand side response\"\u003eDSR\u003c/abbr\u003e) and storage in the GB Capacity Market. Savings could be made by improving motor or pump systems, replacing old light fittings with LEDs or making any other improvement to a building or electrical equipment which would deliver lasting peak time electricity savings.\u003c/p\u003e\n\n\u003cp\u003eSome background on the \u003cabbr title=\"Electricity Demand Reduction\"\u003eEDR\u003c/abbr\u003e project, including research reports and Impact Assessments, can be found in Appendix 1 of the \u003ca href=\"https://www.gov.uk/government/publications/2010-to-2015-government-policy-energy-demand-reduction-in-industry-business-and-the-public-sector/\" class=\"govuk-link\"\u003e2010-2015 government policy report on energy demand reduction in industry, business and the public sector\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eThe second phase the \u003cabbr title=\"Electricity Demand Reduction\"\u003eEDR\u003c/abbr\u003e Pilot was launched on 16 June 2015 with £6 million of funding available. It concluded in December 2018.\u003c/p\u003e\n\n\u003ch2 id=\"successful-bidders-in-edr-phase-ii-auction\"\u003eSuccessful bidders in \u003cabbr title=\"Electricity Demand Reduction\"\u003eEDR\u003c/abbr\u003e phase II auction\u003c/h2\u003e\n\n\u003cp\u003eThe Electricity Demand Reduction (\u003cabbr title=\"Electricity Demand Reduction\"\u003eEDR\u003c/abbr\u003e) Pilot Phase II auction was held on Thursday 21 January 2016.\u003c/p\u003e\n\n\u003cp\u003e22 organisations across Great Britain were awarded a total of £4.74 million for a total of 31 projects to reduce demand for electricity through efficiency schemes at peak times. The successful organisations were required to deliver peak capacity savings totalling at least 23,307 kW across Great Britain from November to February during either 2016-17 or 2017-18. The auction process was observed, and approved, by an independent external monitor.\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7f4037e5274a2e87db4b6a/EDR_Pilot_Auction_Table.pdf\"\u003eSuccessful bidders in EDR phase II auction\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e177 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e4 pages\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003ch2 id=\"phase-ii-participants\"\u003ePhase II Participants\u003c/h2\u003e\n\u003cdiv class=\"call-to-action\"\u003e\n  \u003cp\u003eThe application period for the \u003cabbr title=\"Electricity Demand Reduction\"\u003eEDR\u003c/abbr\u003e Pilot Phase II has now closed\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cp\u003eIf you missed the \u003cabbr title=\"Electricity Demand Reduction\"\u003eEDR\u003c/abbr\u003e Pilot Phase II application window but would like to keep abreast of any \u003cabbr title=\"Electricity Demand Reduction\"\u003eEDR\u003c/abbr\u003e-related news, please email us at \u003ca href=\"mailto:enquiries@beis.gov.uk\" class=\"govuk-link\"\u003eenquiries@beis.gov.uk\u003c/a\u003e asking to be added to our stakeholder list.\u003c/p\u003e\n\n\u003cp\u003eVisit the \u003ca href=\"https://www.gov.uk/government/collections/electricity-demand-reduction-pilot-supporting-information-and-documents\" class=\"govuk-link\"\u003e\u003cabbr title=\"Electricity Demand Reduction\"\u003eEDR\u003c/abbr\u003e Pilot: Supporting information page\u003c/a\u003e for supporting documents and bite-size ‘How to…’ videos offering an overview of Phase II of the \u003cabbr title=\"Electricity Demand Reduction\"\u003eEDR\u003c/abbr\u003e Pilot.\u003c/p\u003e\n\n\u003ch2 id=\"evaluation-of-the-electricity-demand-reduction-edr-pilot\"\u003eEvaluation of the Electricity Demand Reduction (\u003cabbr title=\"Electricity Demand Reduction\"\u003eEDR\u003c/abbr\u003e) Pilot\u003c/h2\u003e\n\n\u003ch3 id=\"pilot-data-interim-evaluation-findings-report-final-evaluation-report-appendices-wider-population-survey-and-deemed-metering-final-process-report\"\u003ePilot Data, Interim Evaluation Findings Report, Final Evaluation Report, Appendices, Wider Population Survey and Deemed Metering Final Process Report\u003c/h3\u003e\n\n\u003cp\u003eThe pilot data report includes outcome data from each of the key stages of the scheme process to December 2016, from registration to full participation.\u003c/p\u003e\n\n\u003cp\u003eThe interim evaluation findings report presents the interim findings to September, 2016. The evaluation combines robust theory-based evaluation and analytical approaches to provide credible evidence as to whether, how and why the scheme influenced organisation behaviour. The findings provide insights for 2 key elements of the evaluation:\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003ethe impact and contribution of the pilot scheme\u003c/li\u003e\n  \u003cli\u003ethe scheme process\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eThe findings detailed in this report have provided key learning to the delivery of the scheme, and future evaluation work will continue to inform the policy area.\u003c/p\u003e\n\n\u003cp\u003eThe final evaluation report presents all project and research findings conducted up to winter 2017. The findings provide two key insights:\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003ethe viability of \u003cabbr title=\"Electricity Demand Reduction\"\u003eEDR\u003c/abbr\u003e in the Capacity Market, and whether it could compete effectively\u003c/li\u003e\n  \u003cli\u003ewider lessons for related policies.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eThe findings detailed in this report have provided key learning for the Call for Evidence on facilitating energy efficiency in the electricity system. The Appendices include details on the methodology and the Wider Population Survey data tables show the survey responses. The Deemed Metering report of a sample of Pilot Phase I projects provides understanding on how accurately Measurement and Verification (\u003cabbr title=\"Measurement and Verification\"\u003eM\u0026amp;V\u003c/abbr\u003e) documentation, particularly the Deemed Savings Calculator (DSC) used by \u003cabbr title=\"Electricity Demand Reduction\"\u003eEDR\u003c/abbr\u003e Pilot participants, reflects the actual kW savings delivered by pilot participants.\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5d6cde24e5274a170d7e7d81/edr-final-evaluation-report__3_.pdf\"\u003eElectricity Demand Reduction final pilot evaluation report\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e665 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e66 pages\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5d35d31440f0b604de59fd8f/edr-final-evaluation-report-technical-appendices.pdf\"\u003eElectricity Demand Reduction final pilot evaluation report: technical appendices\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e1.27 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e143 pages\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5d341b14e5274a14f6df1b4d/edr-wps-data-tables.xlsx\"\u003eElectricity Demand Reduction (EDR) wider population survey data tables\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003eMS Excel Spreadsheet\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e46.2 KB\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5d341adfed915d2fe1abfb4f/Deemed_Metering_Final_Report_April_2017.pdf\"\u003eDeemed metering report\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e465 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e20 pages\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7f8137e5274a2e87db6409/EDR_Pilot_Data_Report_Feb_2017.pdf\"\u003ePilot data report\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e358 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e21 pages\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7f2c0d40f0b62305b8584e/EDR_Pilot_-_Interim_Evaluation_Findings_Report_Feb_2017.pdf\"\u003eInterim evaluation findings report\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e728 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e48 pages\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a80890bed915d74e33fafb8/EDR_Pilot_-_Interim_Evaluation_Findings_Report_Appendicies_Feb_2017.pdf\"\u003eInterim evaluation findings report appendices\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e427 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e21 pages\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003ch2 id=\"further-help\"\u003eFurther help\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003eEmail us at \u003ca href=\"mailto:enquiries@beis.gov.uk\" class=\"govuk-link\"\u003eenquiries@beis.gov.uk\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"phase-i-archive\"\u003ePhase I archive\u003c/h2\u003e\n\n\u003cp\u003ePhase I of the \u003cabbr title=\"Electricity Demand Reduction\"\u003eEDR\u003c/abbr\u003e Pilot has now been completed. The \u003ca href=\"https://www.gov.uk/government/publications/electricity-demand-reduction-pilot-guidance-and-forms\" class=\"govuk-link\"\u003eguidance and supporting documents have been archived\u003c/a\u003e\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Final evaluation report with technical appendices and data tables added, along with Deemed Metering report",
+                                               "public_timestamp":  "2019-07-22T18:29:08.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Evaluation of the Electricity Demand Reduction (EDR) Pilot – Pilot Data and Interim Evaluation Findings Report.",
+                                               "public_timestamp":  "2017-02-09T09:47:49.000+00:00"
+                                           },
+                                           {
+                                               "note":  "amendment to winners list",
+                                               "public_timestamp":  "2016-01-29T12:30:45.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Successful bidders in EDR phase II auction.",
+                                               "public_timestamp":  "2016-01-28T12:25:09.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated text.",
+                                               "public_timestamp":  "2015-06-16T11:00:16.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Text updated.",
+                                               "public_timestamp":  "2015-03-19T11:13:17.000+00:00"
+                                           },
+                                           {
+                                               "note":  "EDR auction results. ",
+                                               "public_timestamp":  "2015-02-04T10:09:21.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Completion of the EDR auction. ",
+                                               "public_timestamp":  "2015-01-29T13:34:09.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Added details of forthcoming workshop.",
+                                               "public_timestamp":  "2014-10-08T08:06:42.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Outstanding webchat answers published.",
+                                               "public_timestamp":  "2014-09-09T14:14:14.000+01:00"
+                                           },
+                                           {
+                                               "note":  "EDR web chat transcript",
+                                               "public_timestamp":  "2014-08-29T10:51:24.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2014-07-29T10:14:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "6315817c-ef11-4905-bb4d-b6dca8e9052c"
+                                                 ],
+                    "first_public_at":  "2014-07-29T10:14:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2014-07-29T10:14:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/electricity-demand-reduction-pilot",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/electricity-demand-reduction-pilot",
+                                                     "base_path":  "/guidance/electricity-demand-reduction-pilot",
+                                                     "content_id":  "5fde564b-7631-11e4-a3cb-005056011aef",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2019-07-22T17:29:08Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Electricity Demand Reduction pilot",
+                                                     "web_url":  "https://www.gov.uk/guidance/electricity-demand-reduction-pilot",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "base_path":  "/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "content_id":  "591c83aa-3b74-437d-a342-612bddd97572",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2015-05-08T00:00:00+00:00",
+                                                         "started_on":  "2010-05-12T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2010 to 2015 Conservative and Liberal Democrat coalition government",
+                                         "web_url":  "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government"
+                                     }
+                                 ],
+                  "lead_organisations":  [
+                                             {
+                                                 "analytics_identifier":  "D11",
+                                                 "api_path":  "/api/content/government/organisations/department-of-energy-climate-change",
+                                                 "api_url":  "https://www.gov.uk/api/content/government/organisations/department-of-energy-climate-change",
+                                                 "base_path":  "/government/organisations/department-of-energy-climate-change",
+                                                 "content_id":  "d65d4203-01f5-4920-a3b1-f614bfd8e83e",
+                                                 "details":  {
+                                                                 "acronym":  "DECC",
+                                                                 "brand":  "department-of-energy-climate-change",
+                                                                 "default_news_image":  {
+                                                                                            "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db14e5274a7908e352c6/s960_department-of-energy-climate-change.jpg",
+                                                                                            "url":  "https://assets.publishing.service.gov.uk/media/5a37db14ed915d5a5f966071/s300_department-of-energy-climate-change.jpg"
+                                                                                        },
+                                                                 "logo":  {
+                                                                              "crest":  "single-identity",
+                                                                              "formatted_title":  "Department \u003cbr/\u003eof Energy \u0026amp;\u003cbr/\u003eClimate Change"
+                                                                          },
+                                                                 "organisation_govuk_status":  {
+                                                                                                   "status":  "merged",
+                                                                                                   "updated_at":  "2016-07-15T00:00:00.000+01:00",
+                                                                                                   "url":  "http://www.decc.gov.uk/"
+                                                                                               }
+                                                             },
+                                                 "document_type":  "organisation",
+                                                 "links":  {
+
+                                                           },
+                                                 "locale":  "en",
+                                                 "schema_name":  "organisation",
+                                                 "title":  "Department of Energy \u0026 Climate Change",
+                                                 "web_url":  "https://www.gov.uk/government/organisations/department-of-energy-climate-change",
+                                                 "withdrawn":  false
+                                             }
+                                         ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D1380",
+                                            "api_path":  "/api/content/government/organisations/department-for-energy-security-and-net-zero",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-energy-security-and-net-zero",
+                                            "base_path":  "/government/organisations/department-for-energy-security-and-net-zero",
+                                            "content_id":  "6315817c-ef11-4905-bb4d-b6dca8e9052c",
+                                            "details":  {
+                                                            "acronym":  "DESNZ",
+                                                            "brand":  "department-for-business-innovation-skills",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/656df1fd1104cf000dfa74a1/s960_whitehall-place-exterior-960x640.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/656df1fd0f12ef07a53e01be/s300_whitehall-place-exterior-960x640.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Department for\u003cbr/\u003eEnergy Security\u003cbr/\u003e\u0026amp; Net Zero"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Department for Energy Security and Net Zero",
+                                            "web_url":  "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+                                            "withdrawn":  false
+                                        },
+                                        {
+                                            "analytics_identifier":  "D1198",
+                                            "api_path":  "/api/content/government/organisations/department-for-business-energy-and-industrial-strategy",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-business-energy-and-industrial-strategy",
+                                            "base_path":  "/government/organisations/department-for-business-energy-and-industrial-strategy",
+                                            "content_id":  "2bde479a-97f2-42b5-986a-287a623c2a1c",
+                                            "details":  {
+                                                            "acronym":  "BEIS",
+                                                            "brand":  "department-for-business-innovation-skills",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37dab9ed915d5a62fdc6b1/s960_beis-sign-1vs.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5a37dab9ed915d5a5f965fd5/s300_beis-sign-1vs.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Department for\u003cbr/\u003eBusiness, Energy\u003cbr/\u003e\u0026amp; Industrial Strategy"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "split",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  ""
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Department for Business, Energy \u0026 Industrial Strategy",
+                                            "web_url":  "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "D11",
+                                                                       "api_path":  "/api/content/government/organisations/department-of-energy-climate-change",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/department-of-energy-climate-change",
+                                                                       "base_path":  "/government/organisations/department-of-energy-climate-change",
+                                                                       "content_id":  "d65d4203-01f5-4920-a3b1-f614bfd8e83e",
+                                                                       "details":  {
+                                                                                       "acronym":  "DECC",
+                                                                                       "brand":  "department-of-energy-climate-change",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db14e5274a7908e352c6/s960_department-of-energy-climate-change.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5a37db14ed915d5a5f966071/s300_department-of-energy-climate-change.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Department \u003cbr/\u003eof Energy \u0026amp;\u003cbr/\u003eClimate Change"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "merged",
+                                                                                                                         "updated_at":  "2016-07-15T00:00:00.000+01:00",
+                                                                                                                         "url":  "http://www.decc.gov.uk/"
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Department of Energy \u0026 Climate Change",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/department-of-energy-climate-change",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D1380",
+                                                              "api_path":  "/api/content/government/organisations/department-for-energy-security-and-net-zero",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-energy-security-and-net-zero",
+                                                              "base_path":  "/government/organisations/department-for-energy-security-and-net-zero",
+                                                              "content_id":  "6315817c-ef11-4905-bb4d-b6dca8e9052c",
+                                                              "details":  {
+                                                                              "acronym":  "DESNZ",
+                                                                              "brand":  "department-for-business-innovation-skills",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/656df1fd1104cf000dfa74a1/s960_whitehall-place-exterior-960x640.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/656df1fd0f12ef07a53e01be/s300_whitehall-place-exterior-960x640.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Department for\u003cbr/\u003eEnergy Security\u003cbr/\u003e\u0026amp; Net Zero"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Department for Energy Security and Net Zero",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/electricity-demand-reduction-pilot-phase-ii-participant-handbook-and-additional-guidance",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/electricity-demand-reduction-pilot-phase-ii-participant-handbook-and-additional-guidance",
+                                                              "base_path":  "/government/publications/electricity-demand-reduction-pilot-phase-ii-participant-handbook-and-additional-guidance",
+                                                              "content_id":  "84891045-28c6-4a6c-9e37-a21b6f47a1e7",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2016-02-08T10:18:58Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Electricity Demand Reduction Pilot: Phase II Participant Handbook and additional guidance",
+                                                              "web_url":  "https://www.gov.uk/government/publications/electricity-demand-reduction-pilot-phase-ii-participant-handbook-and-additional-guidance",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/electricity-demand-reduction-pilot-phase-ii-measurement-and-verification-manual-and-forms",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/electricity-demand-reduction-pilot-phase-ii-measurement-and-verification-manual-and-forms",
+                                                              "base_path":  "/government/publications/electricity-demand-reduction-pilot-phase-ii-measurement-and-verification-manual-and-forms",
+                                                              "content_id":  "bcbd28f0-b3c0-46e9-96fc-c0b7b3a724b8",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2015-07-09T12:50:52Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Electricity Demand Reduction Pilot: Phase II Measurement and Verification manual and forms",
+                                                              "web_url":  "https://www.gov.uk/government/publications/electricity-demand-reduction-pilot-phase-ii-measurement-and-verification-manual-and-forms",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/collections/electricity-demand-reduction-pilot-supporting-information-and-documents",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/collections/electricity-demand-reduction-pilot-supporting-information-and-documents",
+                                                              "base_path":  "/government/collections/electricity-demand-reduction-pilot-supporting-information-and-documents",
+                                                              "content_id":  "2f10b123-a1b6-4e17-9259-84e222b36733",
+                                                              "document_type":  "document_collection",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2015-08-07T15:59:33Z",
+                                                              "schema_name":  "document_collection",
+                                                              "title":  "Electricity Demand Reduction Pilot: supporting information and documents",
+                                                              "web_url":  "https://www.gov.uk/government/collections/electricity-demand-reduction-pilot-supporting-information-and-documents",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/environment/climate-change-energy",
+                                     "api_url":  "https://www.gov.uk/api/content/environment/climate-change-energy",
+                                     "base_path":  "/environment/climate-change-energy",
+                                     "content_id":  "62e08e6f-9161-42c6-b9dd-0cf8fcab2c69",
+                                     "details":  {
+                                                     "internal_name":  "Climate change and energy (level 2, content from policy areas)",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/environment",
+                                                                             "api_url":  "https://www.gov.uk/api/content/environment",
+                                                                             "base_path":  "/environment",
+                                                                             "content_id":  "3cf97f69-84de-41ae-bc7b-7e2cc238fa58",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Environment",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T13:39:00Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Environment",
+                                                                             "web_url":  "https://www.gov.uk/environment",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-05T16:13:08Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Climate change and energy",
+                                     "web_url":  "https://www.gov.uk/environment/climate-change-energy",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/business-and-industry/energy-demand-reduction-in-industry-business-and-the-public-sector",
+                                     "api_url":  "https://www.gov.uk/api/content/business-and-industry/energy-demand-reduction-in-industry-business-and-the-public-sector",
+                                     "base_path":  "/business-and-industry/energy-demand-reduction-in-industry-business-and-the-public-sector",
+                                     "content_id":  "a2b7ae2a-4e00-47ef-8d13-77e395cce800",
+                                     "details":  {
+                                                     "internal_name":  "Energy demand reduction",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/business-and-industry/business-and-the-environment",
+                                                                             "api_url":  "https://www.gov.uk/api/content/business-and-industry/business-and-the-environment",
+                                                                             "base_path":  "/business-and-industry/business-and-the-environment",
+                                                                             "content_id":  "13fb7519-c48e-4577-90f8-aaf483fa0c03",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Business and the environment",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/business-and-industry",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/business-and-industry",
+                                                                                                                     "base_path":  "/business-and-industry",
+                                                                                                                     "content_id":  "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Business and industry",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-03T15:41:02Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Business and industry",
+                                                                                                                     "web_url":  "https://www.gov.uk/business-and-industry",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-03T19:57:48Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Business and the environment",
+                                                                             "web_url":  "https://www.gov.uk/business-and-industry/business-and-the-environment",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-03T15:41:04Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Energy demand reduction",
+                                     "web_url":  "https://www.gov.uk/business-and-industry/energy-demand-reduction-in-industry-business-and-the-public-sector",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2019-07-22T18:29:08+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1713907991.653-10.13.33.117-628",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Electricity Demand Reduction pilot",
+    "updated_at":  "2024-11-18T13:23:22+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

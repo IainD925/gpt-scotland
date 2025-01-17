@@ -1,0 +1,137 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/government/people/geoff-smyth",
+    "content_id":  "7051bd57-a960-4a31-988f-90c579b20305",
+    "description":  "Geoff Smyth is a member of the Board at the Regulator of Social Housing. He is currently chair of Origin Broadband and an independent management consultant.",
+    "details":  {
+                    "body":  "\u003cp\u003eGeoff Smyth is a member of the Board at the Regulator of Social Housing.\u003c/p\u003e\n\n\u003cp\u003eHe is currently chair of Origin Broadband and an independent management consultant.\u003c/p\u003e\n\n",
+                    "full_name":  "Geoff Smyth",
+                    "image":  {
+                                  "alt_text":  "Geoff Smyth",
+                                  "url":  "https://assets.publishing.service.gov.uk/media/677d3ec1d721a08c00665513/s465_geoff_smyth.png"
+                              },
+                    "privy_counsellor":  false
+                },
+    "document_type":  "person",
+    "first_published_at":  "2021-06-08T09:17:29+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/government/people/geoff-smyth",
+                                                     "api_url":  "https://www.gov.uk/api/content/government/people/geoff-smyth",
+                                                     "base_path":  "/government/people/geoff-smyth",
+                                                     "content_id":  "7051bd57-a960-4a31-988f-90c579b20305",
+                                                     "document_type":  "person",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2023-02-17T16:18:28Z",
+                                                     "schema_name":  "person",
+                                                     "title":  "Geoff Smyth",
+                                                     "web_url":  "https://www.gov.uk/government/people/geoff-smyth",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "role_appointments":  [
+                                            {
+                                                "content_id":  "151693c3-a690-4043-a48e-b4f70b3c5992",
+                                                "details":  {
+                                                                "current":  true,
+                                                                "ended_on":  null,
+                                                                "person_appointment_order":  6891,
+                                                                "started_on":  "2021-07-01T00:00:00+01:00"
+                                                            },
+                                                "document_type":  "role_appointment",
+                                                "links":  {
+                                                              "person":  [
+                                                                             {
+                                                                                 "api_path":  "/api/content/government/people/geoff-smyth",
+                                                                                 "api_url":  "https://www.gov.uk/api/content/government/people/geoff-smyth",
+                                                                                 "base_path":  "/government/people/geoff-smyth",
+                                                                                 "content_id":  "7051bd57-a960-4a31-988f-90c579b20305",
+                                                                                 "details":  {
+                                                                                                 "body":  "\u003cp\u003eGeoff Smyth is a member of the Board at the Regulator of Social Housing.\u003c/p\u003e\n\n\u003cp\u003eHe is currently chair of Origin Broadband and an independent management consultant.\u003c/p\u003e\n\n",
+                                                                                                 "image":  {
+                                                                                                               "alt_text":  "Geoff Smyth",
+                                                                                                               "url":  "https://assets.publishing.service.gov.uk/media/677d3ec1d721a08c00665513/s465_geoff_smyth.png"
+                                                                                                           }
+                                                                                             },
+                                                                                 "document_type":  "person",
+                                                                                 "links":  {
+
+                                                                                           },
+                                                                                 "locale":  "en",
+                                                                                 "public_updated_at":  "2023-02-17T16:18:28Z",
+                                                                                 "schema_name":  "person",
+                                                                                 "title":  "Geoff Smyth",
+                                                                                 "web_url":  "https://www.gov.uk/government/people/geoff-smyth",
+                                                                                 "withdrawn":  false
+                                                                             }
+                                                                         ],
+                                                              "role":  [
+                                                                           {
+                                                                               "content_id":  "b0d70013-95d7-4370-a8f2-0f82f490cfea",
+                                                                               "details":  {
+                                                                                               "body":  "\n",
+                                                                                               "role_payment_type":  null
+                                                                                           },
+                                                                               "document_type":  "board_member_role",
+                                                                               "links":  {
+                                                                                             "ordered_parent_organisations":  [
+                                                                                                                                  {
+                                                                                                                                      "analytics_identifier":  "PB1218",
+                                                                                                                                      "api_path":  "/api/content/government/organisations/regulator-of-social-housing",
+                                                                                                                                      "api_url":  "https://www.gov.uk/api/content/government/organisations/regulator-of-social-housing",
+                                                                                                                                      "base_path":  "/government/organisations/regulator-of-social-housing",
+                                                                                                                                      "content_id":  "0e8892fa-d676-43c4-9f51-9674e1830892",
+                                                                                                                                      "details":  {
+                                                                                                                                                      "acronym":  "RSH",
+                                                                                                                                                      "brand":  "ministry-of-housing-communities-local-government",
+                                                                                                                                                      "default_news_image":  "@{high_resolution_url=https://assets.publishing.service.gov.uk/media/667012bdfed5bd09e5195ab2/s960_Untitled_design__24_.png; url=https://assets.publishing.service.gov.uk/media/667012bdfed5bd09e5195ab1/s300_Untitled_design__24_.png}",
+                                                                                                                                                      "logo":  "@{crest=single-identity; formatted_title=Regulator of \u003cbr/\u003eSocial Housing}",
+                                                                                                                                                      "organisation_govuk_status":  "@{status=live; updated_at=; url=}"
+                                                                                                                                                  },
+                                                                                                                                      "document_type":  "organisation",
+                                                                                                                                      "links":  {
+
+                                                                                                                                                },
+                                                                                                                                      "locale":  "en",
+                                                                                                                                      "schema_name":  "organisation",
+                                                                                                                                      "title":  "Regulator of Social Housing",
+                                                                                                                                      "web_url":  "https://www.gov.uk/government/organisations/regulator-of-social-housing",
+                                                                                                                                      "withdrawn":  false
+                                                                                                                                  }
+                                                                                                                              ]
+                                                                                         },
+                                                                               "locale":  "en",
+                                                                               "public_updated_at":  "2021-06-08T08:49:06Z",
+                                                                               "schema_name":  "role",
+                                                                               "title":  "Member of the Board",
+                                                                               "withdrawn":  false
+                                                                           }
+                                                                       ]
+                                                          },
+                                                "locale":  "en",
+                                                "public_updated_at":  "2021-07-02T08:28:54Z",
+                                                "schema_name":  "role_appointment",
+                                                "title":  "Geoff Smyth - Member of the Board",
+                                                "withdrawn":  false
+                                            }
+                                        ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2023-02-17T16:18:28+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1736261254.704-10.13.22.132-2855",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "collections",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "person",
+    "title":  "Geoff Smyth",
+    "updated_at":  "2025-01-07T14:48:34+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

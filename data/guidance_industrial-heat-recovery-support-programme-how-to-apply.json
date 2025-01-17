@@ -1,0 +1,943 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/industrial-heat-recovery-support-programme-how-to-apply",
+    "content_id":  "0ebe98ac-2410-42e4-9c87-2f329d93be51",
+    "description":  "The Industrial Heat Recovery Support (IHRS) programme was designed to encourage and support investment in heat recovery technologies.",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1017930,
+                                            "filename":  "1_Programme_Guidance_Note_PV8_June2020.pdf",
+                                            "id":  "7313385",
+                                            "number_of_pages":  42,
+                                            "title":  "Industrial Heat Recovery Support (IHRS) programme: guidance note",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5ef21e6ad3bf7f713c3a3441/1_Programme_Guidance_Note_PV8_June2020.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  269256,
+                                            "filename":  "App_Reg_V3.5.xlsx",
+                                            "id":  "7313386",
+                                            "title":  " Application registration: form",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5ee72c79d3bf7f1eb4a1b529/App_Reg_V3.5.xlsx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  286916,
+                                            "filename":  "4_Checkpoint_0_Form_PV2.0.xlsx",
+                                            "id":  "7313387",
+                                            "title":  "Checkpoint 0: form",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5c4de0ede5274a6e55ec074b/4_Checkpoint_0_Form_PV2.0.xlsx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  305159,
+                                            "filename":  "6_Checkpoint_1_Form_PV2.0.xlsx",
+                                            "id":  "7313388",
+                                            "title":  "Checkpoint 1: form",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5c4de104e5274a6e55ec074c/6_Checkpoint_1_Form_PV2.0.xlsx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  311216,
+                                            "filename":  "8_Checkpoint_2_Form_PV2.0.xlsx",
+                                            "id":  "7313389",
+                                            "title":  "Checkpoint 2: form",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5c4de11ee5274a6e55ec074d/8_Checkpoint_2_Form_PV2.0.xlsx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  290340,
+                                            "filename":  "10_Checkpoint_3_Form_PV2.0.xlsx",
+                                            "id":  "7313390",
+                                            "title":  "Checkpoint 3: form",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5c4de133e5274a6e55ec074e/10_Checkpoint_3_Form_PV2.0.xlsx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  536509,
+                                            "filename":  "12_Phase_1_Application_Workbook_PV2.0.xlsx",
+                                            "id":  "7313391",
+                                            "title":  "Phase 1 Application: workbook",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5c4de14b40f0b6172bad84ae/12_Phase_1_Application_Workbook_PV2.0.xlsx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  639584,
+                                            "filename":  "14_Phase_2_Application_Workbook_PV2.0.xlsx",
+                                            "id":  "7313392",
+                                            "title":  "Phase 2 Application: workbook",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5c4de16140f0b61720ae8336/14_Phase_2_Application_Workbook_PV2.0.xlsx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  783578,
+                                            "filename":  "18_Grant_Funding_Agreement_PV5.0.pdf",
+                                            "id":  "7313393",
+                                            "number_of_pages":  56,
+                                            "title":  "Draft: Grant funding agreement",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5c65710ae5274a31618c4f46/18_Grant_Funding_Agreement_PV5.0.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  301404,
+                                            "filename":  "17_Grant_Offer_Letter_PV5.0.pdf",
+                                            "id":  "7313394",
+                                            "number_of_pages":  17,
+                                            "title":  "Draft: Grant offer letter",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5c6570f6e5274a3164e894f8/17_Grant_Offer_Letter_PV5.0.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  289370,
+                                            "filename":  "19_Checkpoint_0_Example_Paper_PV4.0.xlsx",
+                                            "id":  "7313395",
+                                            "title":  "EXAMPLE Checkpoint 0 form: paper",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5c4de7b5e5274a6e71c6a2cd/19_Checkpoint_0_Example_Paper_PV4.0.xlsx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  554971,
+                                            "filename":  "20_Phase_1_Application_Workbook_Example_Paper_PV4.0.xlsx",
+                                            "id":  "7313396",
+                                            "title":  "EXAMPLE Phase 1 Application workbook: paper",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5c4de7f6e5274a6e43feb721/20_Phase_1_Application_Workbook_Example_Paper_PV4.0.xlsx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  308546,
+                                            "filename":  "21_Checkpoint_1_Example_Food_PV4.0.xlsx",
+                                            "id":  "7313397",
+                                            "title":  "EXAMPLE Checkpoint 1 form: food",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5c4def0de5274a6e4c61d1d2/21_Checkpoint_1_Example_Food_PV4.0.xlsx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  558658,
+                                            "filename":  "22_Phase_1_Application_Workbook_Example_Food_PV4.0.xlsx",
+                                            "id":  "7313398",
+                                            "title":  "EXAMPLE Phase 1 Application Workbook: food",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5c4df0a3ed915d38ad37834c/22_Phase_1_Application_Workbook_Example_Food_PV4.0.xlsx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  314106,
+                                            "filename":  "23_Checkpoint_2_Example_Wood_PV4.0.xlsx",
+                                            "id":  "7313399",
+                                            "title":  "EXAMPLE Checkpoint 2 form: wood",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5c4df0fde5274a6e71c6a2ce/23_Checkpoint_2_Example_Wood_PV4.0.xlsx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  663812,
+                                            "filename":  "24_Phase_2_Application_Workbook_Example_Wood_PV4.0.xlsx",
+                                            "id":  "7313400",
+                                            "title":  "EXAMPLE Phase 2 Application Workbook: wood",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5c4df138ed915d389a2a9d84/24_Phase_2_Application_Workbook_Example_Wood_PV4.0.xlsx"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  418127,
+                                            "filename":  "16_Questions_and_Answers_PV8_June2020.pdf",
+                                            "id":  "7313401",
+                                            "number_of_pages":  17,
+                                            "title":  "Questions / answers about the programme ",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5ef2202e86650c1293836d45/16_Questions_and_Answers_PV8_June2020.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/zip",
+                                            "file_size":  8060540,
+                                            "filename":  "IHRS_Guidance_Resources.zip",
+                                            "id":  "7313402",
+                                            "title":  "IHRS guidance resources",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5d247b14ed915d32ec161e19/IHRS_Guidance_Resources.zip"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  217173,
+                                            "filename":  "ihrs-successful-applicants.pdf",
+                                            "id":  "7313403",
+                                            "number_of_pages":  14,
+                                            "title":  "IHRS successful applications",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/609b93c2d3bf7f288288cc7c/ihrs-successful-applicants.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  306424,
+                                            "filename":  "solutia-case-study.pdf",
+                                            "id":  "7313404",
+                                            "number_of_pages":  5,
+                                            "title":  "Solutia UK Heat Recovery Project: case study",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5eb3c2cfe90e07082fa57caf/solutia-case-study.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  171109,
+                                            "filename":  "basell-case-study__1_.pdf",
+                                            "id":  "7313405",
+                                            "number_of_pages":  4,
+                                            "title":  "Basell’s Carrington Heat Recovery and Integration Project: case study",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5fc607678fa8f5474d282a49/basell-case-study__1_.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  847783,
+                                            "filename":  "iggesund-paperboard-case-study.pdf",
+                                            "id":  "7313406",
+                                            "number_of_pages":  4,
+                                            "title":  "Iggesund Paperboard gets the paper: case study",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5eb3c30cd3bf7f5d3ff869f7/iggesund-paperboard-case-study.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  398690,
+                                            "filename":  "wainwright-phase-1-case-study.pdf",
+                                            "id":  "7313407",
+                                            "number_of_pages":  5,
+                                            "title":  "John Wainwright \u0026 Co. Ltd (Avonmouth Asphalt Plant): case study",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5eb3c33cd3bf7f5d43765c8f/wainwright-phase-1-case-study.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  224227,
+                                            "filename":  "ihrs-case-study-advance-tapes.pdf",
+                                            "id":  "7313408",
+                                            "number_of_pages":  5,
+                                            "title":  "Advance Tapes: case study",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5fc6063fe90e0762a2d0f8eb/ihrs-case-study-advance-tapes.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  285949,
+                                            "filename":  "ihrs-case-study-castle-cement-padeswood.pdf",
+                                            "id":  "7313409",
+                                            "number_of_pages":  4,
+                                            "title":  "Castle Cement Padeswood: case study",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5fc606c5d3bf7f7f54806a4c/ihrs-case-study-castle-cement-padeswood.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  639562,
+                                            "filename":  "Esseco_Case_Study.pdf",
+                                            "id":  "7313410",
+                                            "number_of_pages":  7,
+                                            "title":  "Esseco: case study",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5fc606da8fa8f547537061bb/Esseco_Case_Study.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  812516,
+                                            "filename":  "ihrs-case-study-wienerberger-kingsbury.pdf",
+                                            "id":  "7313411",
+                                            "number_of_pages":  4,
+                                            "title":  "Wienerberger (Kingsbury): case study",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5ff49102e90e0776a21a8cad/ihrs-case-study-wienerberger-kingsbury.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  296268,
+                                            "filename":  "ihrs-case-study-british-sugar.pdf",
+                                            "id":  "7313412",
+                                            "number_of_pages":  4,
+                                            "title":  "British Sugar: case study Phase 1",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/609b9239e90e0735727c814b/ihrs-case-study-british-sugar.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  119822,
+                                            "filename":  "ihrs-case-study-cargill.pdf",
+                                            "id":  "7313413",
+                                            "number_of_pages":  4,
+                                            "title":  "Cargill: case study",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/609b925bd3bf7f288aaa5bed/ihrs-case-study-cargill.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1054398,
+                                            "filename":  "ihrs-case-study-jj-bioenergy.pdf",
+                                            "id":  "7313414",
+                                            "number_of_pages":  4,
+                                            "title":  "JJ Bioenergy Ltd heat recovery project: case study",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/611b85b6e90e070540bae168/ihrs-case-study-jj-bioenergy.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  193967,
+                                            "filename":  "ihrs-case-study-pilkington.pdf",
+                                            "id":  "7313415",
+                                            "number_of_pages":  4,
+                                            "title":  "Pilkington Technology Management Ltd: case study",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/611b85ee8fa8f53dc274c760/ihrs-case-study-pilkington.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  256953,
+                                            "filename":  "ihrs-case-study-yeo-valley.pdf",
+                                            "id":  "7313416",
+                                            "number_of_pages":  4,
+                                            "title":  "Yeo Valley: case study",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/611b863e8fa8f53dc88ae8b7/ihrs-case-study-yeo-valley.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  330423,
+                                            "filename":  "ihrs-case-study-jobling-purser.pdf",
+                                            "id":  "7313417",
+                                            "number_of_pages":  4,
+                                            "title":  "Jobling Purser: case study",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/61963623d3bf7f0555071b44/ihrs-case-study-jobling-purser.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  272182,
+                                            "filename":  "ihrs-case-study-dc-intelligence-ltd.pdf",
+                                            "id":  "7313418",
+                                            "number_of_pages":  4,
+                                            "title":  "DC Intelligence Ltd: case study",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/619636388fa8f5037cc5dfaf/ihrs-case-study-dc-intelligence-ltd.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1336499,
+                                            "filename":  "ihrs-case-study-long-clawson.pdf",
+                                            "id":  "7313419",
+                                            "number_of_pages":  4,
+                                            "title":  "Long Clawson: case study",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6196364cd3bf7f0560be62b3/ihrs-case-study-long-clawson.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  424714,
+                                            "filename":  "british-sugar-ihrs-ph2-case-study.pdf",
+                                            "id":  "7313420",
+                                            "number_of_pages":  5,
+                                            "title":  "British Sugar: case study Phase 2",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6418d4f08fa8f547cab447e7/british-sugar-ihrs-ph2-case-study.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  259343,
+                                            "filename":  "david-nieper-ltd-ihrs-case-study.pdf",
+                                            "id":  "7313421",
+                                            "number_of_pages":  5,
+                                            "title":  "David Nieper Ltd: case study",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6418d502d3bf7f7ff81b8823/david-nieper-ltd-ihrs-case-study.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  232046,
+                                            "filename":  "ngf-ltd-ihrs-case-study.pdf",
+                                            "id":  "7313422",
+                                            "number_of_pages":  5,
+                                            "title":  "NGF Ltd: case study",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6418d4dcd3bf7f7ff49e4535/ngf-ltd-ihrs-case-study.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  234181,
+                                            "filename":  "smart-systems-extrusion-ihrs-case-study.pdf",
+                                            "id":  "7313423",
+                                            "number_of_pages":  5,
+                                            "title":  "Smart Systems Extrusion: case study ",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6418d5438fa8f547c4c3dba6/smart-systems-extrusion-ihrs-case-study.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  295897,
+                                            "filename":  "northcot-brick-ihrs-case-study.pdf",
+                                            "id":  "7313424",
+                                            "number_of_pages":  5,
+                                            "title":  "Northcot Brick: case study ",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6418d58a8fa8f547c7ffd66e/northcot-brick-ihrs-case-study.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  259962,
+                                            "filename":  "smart-systems-paint-lines-ihrs-case-study.pdf",
+                                            "id":  "7313425",
+                                            "number_of_pages":  5,
+                                            "title":  "Smart Systems Paint Lines: case study ",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6418d5bc8fa8f547c5fbd127/smart-systems-paint-lines-ihrs-case-study.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  373422,
+                                            "filename":  "wienerberger-kingsbury-phase-2-ihrs-case-study.pdf",
+                                            "id":  "7313426",
+                                            "number_of_pages":  5,
+                                            "title":  "Wienerberger (Kingsbury) Phase 2: case study ",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6418d5e9e90e0769eead1426/wienerberger-kingsbury-phase-2-ihrs-case-study.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  286263,
+                                            "filename":  "milver-metal-ihrs-case-study.pdf",
+                                            "id":  "7313450",
+                                            "number_of_pages":  4,
+                                            "title":  "Milver Metal: case study",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/64512115faf4aa0012e131aa/milver-metal-ihrs-case-study.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  244864,
+                                            "filename":  "wienerberger-broomfleet-ihrs-case-study.pdf",
+                                            "id":  "7313486",
+                                            "number_of_pages":  4,
+                                            "title":  "Wienerberger Broomfleet: case study",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/64512330c33b46000cf5e567/wienerberger-broomfleet-ihrs-case-study.pdf"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cdiv class=\"call-to-action\"\u003e\n  \u003ch2 id=\"programme-closed\"\u003eProgramme closed\u003c/h2\u003e\n\n  \u003cp\u003eThe \u003cabbr title=\"Industrial Heat Recovery Support\"\u003eIHRS\u003c/abbr\u003e Programme closed to applications in July 2020, and completed in March 2022.\u003c/p\u003e\n\u003c/div\u003e\n\n\u003ch2 id=\"about-the-programme\"\u003eAbout the programme\u003c/h2\u003e\n\n\u003cp\u003eThe Industrial Heat Recovery Support (\u003cabbr title=\"Industrial Heat Recovery Support\"\u003eIHRS\u003c/abbr\u003e) programme was designed to encourage and support investment in heat recovery technologies. This means helping businesses identify and invest in opportunities for recovering and reusing heat that would otherwise be wasted. Recovered waste heat can be used in many ways, helping businesses lower their fuel costs, reduce waste heat and cut emissions. Usage includes:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ewithin the same industrial facility\u003c/li\u003e\n  \u003cli\u003eby another end-user (for example a heat network)\u003c/li\u003e\n  \u003cli\u003eby converting the waste heat to power\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe programme objectives were to:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eincrease industry confidence to invest in technologies to recover heat from industrial processes\u003c/li\u003e\n  \u003cli\u003eincrease deployment of such technologies in England and Wales\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFunding (from a total pot of £18 million) was allocated through a competitive process. Scoring criteria is provided in the programme guidance documents.\u003c/p\u003e\n\n\u003cp\u003eThe programme was split into 2 phases:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ePhase 1: conceptualise and define the areas where your business could reuse waste heat; assess costs and benefits\u003c/li\u003e\n  \u003cli\u003ePhase 2: the delivery stage: detailed design, procurement, construction, commissioning, operation start-up and monitoring and evaluation\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eProjects were funded from 3 different entry points:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003efeasibility study and preliminary engineering (Phase 1); or\u003c/li\u003e\n  \u003cli\u003epreliminary engineering only (for applicants who have already undertaken a feasibility study independent of the \u003cabbr title=\"Industrial Heat Recovery Support\"\u003eIHRS\u003c/abbr\u003e) (Phase 1); or\u003c/li\u003e\n  \u003cli\u003edetailed design and delivery (Phase 2)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eAll grant funding was provided in line with state aid rules.\u003c/p\u003e\n\n\u003ch2 id=\"successful-applicants\"\u003eSuccessful applicants\u003c/h2\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/609b93c2d3bf7f288288cc7c/ihrs-successful-applicants.pdf\"\u003eIHRS successful applications\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e212 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e14 pages\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003cp\u003eThis document provides:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ea record of successful applicants\u003c/li\u003e\n  \u003cli\u003etheir sectors, regions and heat recovery technologies\u003c/li\u003e\n  \u003cli\u003ethe grant funding committed in each assessment window\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"case-studies\"\u003eCase studies\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5fc6063fe90e0762a2d0f8eb/ihrs-case-study-advance-tapes.pdf\"\u003eAdvance Tapes: case study\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e219 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e5 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5fc607678fa8f5474d282a49/basell-case-study__1_.pdf\"\u003eBasell’s Carrington Heat Recovery and Integration Project: case study\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e167 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e4 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/609b9239e90e0735727c814b/ihrs-case-study-british-sugar.pdf\"\u003eBritish Sugar: case study Phase 1\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e289 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e4 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/6418d4f08fa8f547cab447e7/british-sugar-ihrs-ph2-case-study.pdf\"\u003eBritish Sugar: case study Phase 2\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e415 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e5 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/609b925bd3bf7f288aaa5bed/ihrs-case-study-cargill.pdf\"\u003eCargill: case study\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e117 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e4 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5fc606c5d3bf7f7f54806a4c/ihrs-case-study-castle-cement-padeswood.pdf\"\u003eCastle Cement Padeswood: case study\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e279 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e4 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/6418d502d3bf7f7ff81b8823/david-nieper-ltd-ihrs-case-study.pdf\"\u003eDavid Nieper Ltd: case study\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e253 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e5 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/619636388fa8f5037cc5dfaf/ihrs-case-study-dc-intelligence-ltd.pdf\"\u003eDC Intelligence Ltd: case study\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e266 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e4 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5fc606da8fa8f547537061bb/Esseco_Case_Study.pdf\"\u003eEsseco: case study\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e625 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e7 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5eb3c30cd3bf7f5d3ff869f7/iggesund-paperboard-case-study.pdf\"\u003eIggesund Paperboard gets the paper: case study\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e828 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e4 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/611b85b6e90e070540bae168/ihrs-case-study-jj-bioenergy.pdf\"\u003eJJ Bioenergy Ltd heat recovery project: case study\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e1.01 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e4 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/61963623d3bf7f0555071b44/ihrs-case-study-jobling-purser.pdf\"\u003eJobling Purser: case study\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e323 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e4 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5eb3c33cd3bf7f5d43765c8f/wainwright-phase-1-case-study.pdf\"\u003eJohn Wainwright \u0026amp; Co. Ltd (Avonmouth Asphalt Plant): case study\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e389 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e5 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/6196364cd3bf7f0560be62b3/ihrs-case-study-long-clawson.pdf\"\u003eLong Clawson: case study\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e1.27 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e4 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/64512115faf4aa0012e131aa/milver-metal-ihrs-case-study.pdf\"\u003eMilver Metal: case study\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e280 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e4 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/6418d4dcd3bf7f7ff49e4535/ngf-ltd-ihrs-case-study.pdf\"\u003eNGF Ltd: case study\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e227 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e5 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/6418d58a8fa8f547c7ffd66e/northcot-brick-ihrs-case-study.pdf\"\u003eNorthcot Brick: case study \u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e289 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e5 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/611b85ee8fa8f53dc274c760/ihrs-case-study-pilkington.pdf\"\u003ePilkington Technology Management Ltd: case study\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e189 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e4 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/6418d5438fa8f547c4c3dba6/smart-systems-extrusion-ihrs-case-study.pdf\"\u003eSmart Systems Extrusion: case study \u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e229 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e5 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/6418d5bc8fa8f547c5fbd127/smart-systems-paint-lines-ihrs-case-study.pdf\"\u003eSmart Systems Paint Lines: case study \u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e254 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e5 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5eb3c2cfe90e07082fa57caf/solutia-case-study.pdf\"\u003eSolutia UK Heat Recovery Project: case study\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e299 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e5 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/64512330c33b46000cf5e567/wienerberger-broomfleet-ihrs-case-study.pdf\"\u003eWienerberger Broomfleet: case study\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e239 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e4 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5ff49102e90e0776a21a8cad/ihrs-case-study-wienerberger-kingsbury.pdf\"\u003eWienerberger (Kingsbury): case study\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e793 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e4 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/6418d5e9e90e0769eead1426/wienerberger-kingsbury-phase-2-ihrs-case-study.pdf\"\u003eWienerberger (Kingsbury) Phase 2: case study \u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e365 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e5 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/611b863e8fa8f53dc88ae8b7/ihrs-case-study-yeo-valley.pdf\"\u003eYeo Valley: case study\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e251 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e4 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"application-guidance\"\u003eApplication guidance\u003c/h2\u003e\n\n\u003cp\u003eThe Programme Guidance Note / Questions and Answers document provide an overview of the \u003cabbr title=\"Industrial Heat Recovery Support\"\u003eIHRS\u003c/abbr\u003e:\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5ef21e6ad3bf7f713c3a3441/1_Programme_Guidance_Note_PV8_June2020.pdf\"\u003eIndustrial Heat Recovery Support (IHRS) programme: guidance note\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e994 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e42 pages\u003c/span\u003e)\u003c/span\u003e\u003cbr\u003e\n\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5ef2202e86650c1293836d45/16_Questions_and_Answers_PV8_June2020.pdf\"\u003eQuestions / answers about the programme \u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e408 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e17 pages\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003cp\u003eThis zip file contains the application forms and workbooks, guidance, and Grant Offer Letter and Grant Funding Agreement templates.\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5d247b14ed915d32ec161e19/IHRS_Guidance_Resources.zip\"\u003eIHRS guidance resources\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Zip archive\" class=\"gem-c-attachment-link__abbr\"\u003eZIP\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e7.69 MB\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003ch2 id=\"programme-scope\"\u003eProgramme scope\u003c/h2\u003e\n\n\u003cp\u003eThe programme was open to:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ecompanies in all industrial manufacturing sectors as set out in the Office of National Statistics (\u003cabbr title=\"Office of National Statistics\"\u003eONS\u003c/abbr\u003e) \u003ca rel=\"external\" href=\"http://resources.companieshouse.gov.uk/sic/\" class=\"govuk-link\"\u003eStandard Industrial Classification (\u003cabbr title=\"Standard Industrial Classification\"\u003eSIC\u003c/abbr\u003e) codes\u003c/a\u003e 10 to 33\u003c/li\u003e\n  \u003cli\u003edata centres (\u003cabbr title=\"Standard Industrial Classification\"\u003eSIC\u003c/abbr\u003e Code 63110), given their emerging significance and high impact potential\u003c/li\u003e\n  \u003cli\u003ethird party companies, to apply as the main applicant, on behalf of sites operated by companies within the eligible \u003cabbr title=\"Standard Industrial Classification\"\u003eSIC\u003c/abbr\u003e codes\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe delivery partner was ICF.\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Added case studies for Milver Metal and Wienerberger Broomfleet.",
+                                               "public_timestamp":  "2023-05-03T16:54:33.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added series of 7 new case studies.",
+                                               "public_timestamp":  "2023-03-21T09:53:09.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Case studies for DC Intelligence Ltd, Jobling Purser and Long Clawson added.",
+                                               "public_timestamp":  "2021-11-18T11:35:48.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Added case studies for JJ Bioenergy, Pilkington, Yeo Valley.",
+                                               "public_timestamp":  "2021-08-17T11:09:12.000+01:00"
+                                           },
+                                           {
+                                               "note":  "List of successful applicants updated, and case studies for British Sugar and Cargill PLC case studies added. ",
+                                               "public_timestamp":  "2021-05-12T10:49:55.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Programme closed to applications as of 31 July 2020.",
+                                               "public_timestamp":  "2020-12-01T09:42:02.000+00:00"
+                                           },
+                                           {
+                                               "note":  "IHRS Successful Applicants document updated with results of Phase 1 Assessment window 7, and Phase 2 Assessment Window 6, February to March 2020.",
+                                               "public_timestamp":  "2020-07-30T14:59:31.000+01:00"
+                                           },
+                                           {
+                                               "note":  "IHRS guidance and questions/answers documents updated.",
+                                               "public_timestamp":  "2020-06-23T16:40:49.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Application registration form updated.",
+                                               "public_timestamp":  "2020-06-15T09:22:09.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Case studies of established projects added.",
+                                               "public_timestamp":  "2020-05-12T13:34:39.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Next closing date for submission of applications updated to 31 July 2020.",
+                                               "public_timestamp":  "2020-04-01T08:01:42.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Successful applications for October-November windows added.",
+                                               "public_timestamp":  "2020-01-03T08:16:15.000+00:00"
+                                           },
+                                           {
+                                               "note":  "List of successful applicants updated.",
+                                               "public_timestamp":  "2019-11-05T08:51:27.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Programme funding allocations and list of successful applications updated.",
+                                               "public_timestamp":  "2019-09-03T16:48:37.000+01:00"
+                                           },
+                                           {
+                                               "note":  "IHRS programme extended by a year to March 2022; 2 new assessment windows added; third parties can now apply as main applicants on behalf of sites operated by companies within the eligible SIC codes",
+                                               "public_timestamp":  "2019-07-09T13:14:45.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Latest successful applications added.",
+                                               "public_timestamp":  "2019-07-01T16:01:43.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Guidance note and timetable updated. ",
+                                               "public_timestamp":  "2019-05-08T16:41:09.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2018-07-20T00:00:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "6315817c-ef11-4905-bb4d-b6dca8e9052c"
+                                                 ],
+                    "first_public_at":  "2018-07-20T00:00:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2018-07-20T00:00:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/industrial-heat-recovery-support-programme-how-to-apply",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/industrial-heat-recovery-support-programme-how-to-apply",
+                                                     "base_path":  "/guidance/industrial-heat-recovery-support-programme-how-to-apply",
+                                                     "content_id":  "0ebe98ac-2410-42e4-9c87-2f329d93be51",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2023-05-03T15:54:33Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Industrial Heat Recovery Support programme (closed): successful projects and case studies",
+                                                     "web_url":  "https://www.gov.uk/guidance/industrial-heat-recovery-support-programme-how-to-apply",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D1380",
+                                            "api_path":  "/api/content/government/organisations/department-for-energy-security-and-net-zero",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-energy-security-and-net-zero",
+                                            "base_path":  "/government/organisations/department-for-energy-security-and-net-zero",
+                                            "content_id":  "6315817c-ef11-4905-bb4d-b6dca8e9052c",
+                                            "details":  {
+                                                            "acronym":  "DESNZ",
+                                                            "brand":  "department-for-business-innovation-skills",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/656df1fd1104cf000dfa74a1/s960_whitehall-place-exterior-960x640.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/656df1fd0f12ef07a53e01be/s300_whitehall-place-exterior-960x640.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Department for\u003cbr/\u003eEnergy Security\u003cbr/\u003e\u0026amp; Net Zero"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Department for Energy Security and Net Zero",
+                                            "web_url":  "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+                                            "withdrawn":  false
+                                        },
+                                        {
+                                            "analytics_identifier":  "D1198",
+                                            "api_path":  "/api/content/government/organisations/department-for-business-energy-and-industrial-strategy",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-business-energy-and-industrial-strategy",
+                                            "base_path":  "/government/organisations/department-for-business-energy-and-industrial-strategy",
+                                            "content_id":  "2bde479a-97f2-42b5-986a-287a623c2a1c",
+                                            "details":  {
+                                                            "acronym":  "BEIS",
+                                                            "brand":  "department-for-business-innovation-skills",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37dab9ed915d5a62fdc6b1/s960_beis-sign-1vs.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5a37dab9ed915d5a5f965fd5/s300_beis-sign-1vs.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Department for\u003cbr/\u003eBusiness, Energy\u003cbr/\u003e\u0026amp; Industrial Strategy"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "split",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  ""
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Department for Business, Energy \u0026 Industrial Strategy",
+                                            "web_url":  "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "D1198",
+                                                                       "api_path":  "/api/content/government/organisations/department-for-business-energy-and-industrial-strategy",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-business-energy-and-industrial-strategy",
+                                                                       "base_path":  "/government/organisations/department-for-business-energy-and-industrial-strategy",
+                                                                       "content_id":  "2bde479a-97f2-42b5-986a-287a623c2a1c",
+                                                                       "details":  {
+                                                                                       "acronym":  "BEIS",
+                                                                                       "brand":  "department-for-business-innovation-skills",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37dab9ed915d5a62fdc6b1/s960_beis-sign-1vs.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5a37dab9ed915d5a5f965fd5/s300_beis-sign-1vs.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Department for\u003cbr/\u003eBusiness, Energy\u003cbr/\u003e\u0026amp; Industrial Strategy"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "split",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  ""
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Department for Business, Energy \u0026 Industrial Strategy",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D1380",
+                                                              "api_path":  "/api/content/government/organisations/department-for-energy-security-and-net-zero",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-energy-security-and-net-zero",
+                                                              "base_path":  "/government/organisations/department-for-energy-security-and-net-zero",
+                                                              "content_id":  "6315817c-ef11-4905-bb4d-b6dca8e9052c",
+                                                              "details":  {
+                                                                              "acronym":  "DESNZ",
+                                                                              "brand":  "department-for-business-innovation-skills",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/656df1fd1104cf000dfa74a1/s960_whitehall-place-exterior-960x640.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/656df1fd0f12ef07a53e01be/s300_whitehall-place-exterior-960x640.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Department for\u003cbr/\u003eEnergy Security\u003cbr/\u003e\u0026amp; Net Zero"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Department for Energy Security and Net Zero",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/government/case-studies/bristol-government-worker-jumps-at-the-green-deal",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/case-studies/bristol-government-worker-jumps-at-the-green-deal",
+                                                              "base_path":  "/government/case-studies/bristol-government-worker-jumps-at-the-green-deal",
+                                                              "content_id":  "5e949c11-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "case_study",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2013-09-19T08:05:18Z",
+                                                              "schema_name":  "case_study",
+                                                              "title":  "Bristol government worker jumps at the Green Deal",
+                                                              "web_url":  "https://www.gov.uk/government/case-studies/bristol-government-worker-jumps-at-the-green-deal",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/energy-company-obligation-2022-2026-innovation-guidance",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/energy-company-obligation-2022-2026-innovation-guidance",
+                                                              "base_path":  "/government/publications/energy-company-obligation-2022-2026-innovation-guidance",
+                                                              "content_id":  "9d4936c0-59fe-4f9d-af1e-6bd6d1960ad1",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-09-06T10:59:19Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Energy Company Obligation, 2022 to 2026: innovation guidance",
+                                                              "web_url":  "https://www.gov.uk/government/publications/energy-company-obligation-2022-2026-innovation-guidance",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/case-studies/now-we-have-a-warm-house-and-are-using-less-gas-thanks-to-external-wall-insulation",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/case-studies/now-we-have-a-warm-house-and-are-using-less-gas-thanks-to-external-wall-insulation",
+                                                              "base_path":  "/government/case-studies/now-we-have-a-warm-house-and-are-using-less-gas-thanks-to-external-wall-insulation",
+                                                              "content_id":  "5e949e9d-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "case_study",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2013-09-19T08:34:30Z",
+                                                              "schema_name":  "case_study",
+                                                              "title":  "‘Now we have a warm house and are using less gas thanks to external wall insulation’",
+                                                              "web_url":  "https://www.gov.uk/government/case-studies/now-we-have-a-warm-house-and-are-using-less-gas-thanks-to-external-wall-insulation",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/getting-a-green-deal-information-for-householders-and-landlords",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/getting-a-green-deal-information-for-householders-and-landlords",
+                                                              "base_path":  "/guidance/getting-a-green-deal-information-for-householders-and-landlords",
+                                                              "content_id":  "5d2cb21c-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2013-03-26T14:49:40Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Getting a Green Deal: information for householders and landlords",
+                                                              "web_url":  "https://www.gov.uk/guidance/getting-a-green-deal-information-for-householders-and-landlords",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/environment/low-carbon-technologies",
+                                     "api_url":  "https://www.gov.uk/api/content/environment/low-carbon-technologies",
+                                     "base_path":  "/environment/low-carbon-technologies",
+                                     "content_id":  "5812ef82-6a5c-43b8-9d76-b3f7d8019945",
+                                     "details":  {
+                                                     "internal_name":  "Low carbon technologies [P]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/environment/climate-change-energy-energy-infrastructure",
+                                                                             "api_url":  "https://www.gov.uk/api/content/environment/climate-change-energy-energy-infrastructure",
+                                                                             "base_path":  "/environment/climate-change-energy-energy-infrastructure",
+                                                                             "content_id":  "899d76d6-4d59-409e-a7a4-2a7e47c9361b",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Energy infrastructure [T]",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/environment",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/environment",
+                                                                                                                     "base_path":  "/environment",
+                                                                                                                     "content_id":  "3cf97f69-84de-41ae-bc7b-7e2cc238fa58",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Environment",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T13:39:00Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Environment",
+                                                                                                                     "web_url":  "https://www.gov.uk/environment",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-05T16:13:09Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Energy infrastructure",
+                                                                             "web_url":  "https://www.gov.uk/environment/climate-change-energy-energy-infrastructure",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-05T16:13:09Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Low carbon technologies",
+                                     "web_url":  "https://www.gov.uk/environment/low-carbon-technologies",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2023-05-03T16:54:33+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1713908000.649-10.13.33.117-628",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Industrial Heat Recovery Support programme (closed): successful projects and case studies",
+    "updated_at":  "2024-11-18T13:23:05+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

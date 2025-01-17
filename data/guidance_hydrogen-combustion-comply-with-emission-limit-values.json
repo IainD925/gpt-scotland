@@ -1,0 +1,552 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/hydrogen-combustion-comply-with-emission-limit-values",
+    "content_id":  "b583ec2f-1e21-44b8-8872-66f8100b17b5",
+    "description":  "How to comply with emission limit values (ELVs) for hydrogen combustion plant greater than 1 megawatt thermal input (MWth).",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003ch2 id=\"who-this-guidance-is-for\"\u003e1. Who this guidance is for\u003c/h2\u003e\n\n\u003cp\u003eThis guidance on emerging techniques is for combustion plant within the scope of the:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32010L0075\" class=\"govuk-link\"\u003eIndustrial Emissions Directive (\u003cabbr title=\"Industrial Emissions Directive\"\u003eIED\u003c/abbr\u003e)\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://eippcb.jrc.ec.europa.eu/reference\" class=\"govuk-link\"\u003ebest available technique (\u003cabbr title=\"best available techniques\"\u003eBAT\u003c/abbr\u003e) reference (\u003cabbr title=\"best available techniques reference documents\"\u003eBREF\u003c/abbr\u003e) documents\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2193\" class=\"govuk-link\"\u003eMedium Combustion Plant Directive (\u003cabbr title=\"Medium Combustion Plant Directive\"\u003eMCPD\u003c/abbr\u003e)\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe environmental regulators developed this guidance as there are no \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e for hydrogen combustion in the legislation. The guidance is meant to set out what the regulators expect until there is enough uptake for them to understand what is achievable for air pollutant emissions. When appropriate, they will develop \u003cabbr title=\"best available techniques\"\u003eBAT\u003c/abbr\u003e documents and associated emission levels (\u003cabbr title=\"associated emission levels\"\u003eAELs\u003c/abbr\u003e) which will guide the permitting process in the legislation.\u003c/p\u003e\n\n\u003cp\u003eUnlike combustion of conventional fuels, combustion of hydrogen produces no direct emissions of carbon dioxide. Therefore, it is a credible avenue for low-carbon combustion processes. However, it is important not to compromise local air quality in the transition to low-carbon fuels.\u003c/p\u003e\n\n\u003cp\u003eThis guidance sets out \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e for oxides of nitrogen (\u003cabbr title=\"oxides of nitrogen\"\u003eNOx\u003c/abbr\u003e) and carbon monoxide (\u003cabbr title=\"carbon monoxide\"\u003eCO\u003c/abbr\u003e), as appropriate, for combustion of hydrogen within the scope of:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eplant covered by the \u003ca rel=\"external\" href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2193\" class=\"govuk-link\"\u003e\u003cabbr title=\"Medium Combustion Plant Directive\"\u003eMCPD\u003c/abbr\u003e\u003c/a\u003e, referred to as medium combustion plant (\u003cabbr title=\"medium combustion plant\"\u003eMCP\u003c/abbr\u003e)\u003c/li\u003e\n  \u003cli\u003eplant covered within the scope of Chapter III of the \u003ca rel=\"external\" href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32010L0075\" class=\"govuk-link\"\u003e\u003cabbr title=\"Industrial Emissions Directive\"\u003eIED\u003c/abbr\u003e\u003c/a\u003e, referred to as large combustion plant (\u003cabbr title=\"large combustion plant\"\u003eLCP\u003c/abbr\u003e)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe combustion of hydrogen results in a change in the flue gas volume. Therefore, you need to use a correction factor to achieve equivalence with \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e defined for natural gas on a mass per unit volume basis, as described in the \u003ca rel=\"external\" href=\"https://etn.global/wp-content/uploads/2023/03/ETN-Proposed-NOx-emissions-reporting-for-hydrogen-containing-fuels-Position-paper-March2023.pdf\" class=\"govuk-link\"\u003eETN Position Paper, 2023\u003c/a\u003e. Figure 1 in the ETN Position Paper provides a range of \u003cabbr title=\"emission limit value\"\u003eELV\u003c/abbr\u003e correction values related to the hydrogen content of a natural gas/hydrogen blended fuel, up to a maximum of 1.37 at 100% hydrogen. This correction factor of 1.37 is applied to \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e for combustion of natural gas, as set out in the \u003ca rel=\"external\" href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2193\" class=\"govuk-link\"\u003e\u003cabbr title=\"Medium Combustion Plant Directive\"\u003eMCPD\u003c/abbr\u003e\u003c/a\u003e and \u003ca rel=\"external\" href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32010L0075\" class=\"govuk-link\"\u003e\u003cabbr title=\"Industrial Emissions Directive\"\u003eIED\u003c/abbr\u003e\u003c/a\u003e, to get \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e for the combustion of hydrogen.\u003c/p\u003e\n\n\u003ch2 id=\"definitions-of-existing-new-and-new-new-plant\"\u003e2. Definitions of existing, new and new-new plant\u003c/h2\u003e\n\n\u003cp\u003eIn this guidance, the following definitions apply to hydrogen combustion plant.\u003c/p\u003e\n\n\u003ch3 id=\"existing\"\u003eExisting\u003c/h3\u003e\n\n\u003cp\u003eFor \u003cabbr title=\"large combustion plant\"\u003eLCP\u003c/abbr\u003e, ‘existing plant’ means plant with a permit for combustion of a conventional fuel that was put into operation before 8 January 2014. This is specified in \u003ca rel=\"external\" href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32010L0075\" class=\"govuk-link\"\u003e\u003cabbr title=\"Industrial Emissions Directive\"\u003eIED\u003c/abbr\u003e\u003c/a\u003e Article 30(2).\u003c/p\u003e\n\n\u003cp\u003eFor \u003cabbr title=\"medium combustion plant\"\u003eMCP\u003c/abbr\u003e, ‘existing plant’ means plant put into operation before 20 December 2018. This is specified in \u003ca rel=\"external\" href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2193\" class=\"govuk-link\"\u003e\u003cabbr title=\"Medium Combustion Plant Directive\"\u003eMCPD\u003c/abbr\u003e\u003c/a\u003e Article 3(6).\u003c/p\u003e\n\n\u003ch3 id=\"new\"\u003eNew\u003c/h3\u003e\n\n\u003cp\u003eFor \u003cabbr title=\"large combustion plant\"\u003eLCP\u003c/abbr\u003e, ‘new plant’ means plant with a permit for combustion of a conventional fuel that was put into operation on or after 8 January 2014 (as specified in \u003ca rel=\"external\" href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32010L0075\" class=\"govuk-link\"\u003e\u003cabbr title=\"Industrial Emissions Directive\"\u003eIED\u003c/abbr\u003e\u003c/a\u003e Article 30(2)), but before 1 January 2025.\u003c/p\u003e\n\n\u003cp\u003eFor \u003cabbr title=\"medium combustion plant\"\u003eMCP\u003c/abbr\u003e, ‘new plant’ means plant put into operation after 20 December 2018 (as specified in \u003ca rel=\"external\" href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2193\" class=\"govuk-link\"\u003e\u003cabbr title=\"Medium Combustion Plant Directive\"\u003eMCPD\u003c/abbr\u003e\u003c/a\u003e Article 3(6)) but before 1 January 2025.\u003c/p\u003e\n\n\u003ch3 id=\"new-new\"\u003eNew-new\u003c/h3\u003e\n\n\u003cp\u003e‘New-new’ means plant with a permit for combustion of hydrogen or a hydrogen and natural gas blend put into operation after 1 January 2025.\u003c/p\u003e\n\n\u003ch3 id=\"changing-from-one-definition-to-another\"\u003eChanging from one definition to another\u003c/h3\u003e\n\n\u003cp\u003eIn certain circumstances, such as substantial refurbishment, existing plant will be redefined as new-new. It may be necessary for plant to go through a lot of retrofitting to transition to hydrogen firing. For guidance on refurbishment, contact your regulator.\u003c/p\u003e\n\n\u003ch2 id=\"minimum-elvs-for-hydrogen-as-a-single-fuel\"\u003e3. Minimum \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e for hydrogen as a single fuel\u003c/h2\u003e\n\n\u003cp\u003eTable 1 (for existing plant) and Table 2 (for new plant) give the \u003cabbr title=\"oxides of nitrogen\"\u003eNOx\u003c/abbr\u003e \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e you must meet for combustion of hydrogen by plant and thermal input.\u003c/p\u003e\n\n\u003cp\u003eIn this guidance, for all plant the reference conditions for \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e are:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e273.15K\u003c/li\u003e\n  \u003cli\u003e101.3kPa\u003c/li\u003e\n  \u003cli\u003edry\u003c/li\u003e\n  \u003cli\u003e3% oxygen for boilers\u003c/li\u003e\n  \u003cli\u003e15% oxygen for gas turbines and engines\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"table-1-elvs-for-existing-plant-using-100-hydrogen-fuel\"\u003eTable 1. \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e for existing plant using 100% hydrogen fuel\u003c/h3\u003e\n\n\u003ctable\u003e\n  \u003cthead\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"col\"\u003ePlant type and thermal input\u003c/th\u003e\n      \u003cth scope=\"col\" class=\"cell-text-right\"\u003e\n\u003cabbr title=\"oxides of nitrogen\"\u003eNOx\u003c/abbr\u003e \u003cabbr title=\"emission limit value\"\u003eELV\u003c/abbr\u003e (mg/Nm\u003csup\u003e3\u003c/sup\u003e)\u003c/th\u003e\n    \u003c/tr\u003e\n  \u003c/thead\u003e\n  \u003ctbody\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eGas turbines: greater than or equal to 50MWth\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e68.5\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eBoilers: greater than or equal to 50MWth\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e137\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eGas engines: greater than or equal to 50MWth\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e137\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eGas turbines: greater than 5MWth and less than 50MWth\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e205.5\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eBoilers: greater than 5MWth and less than 50MWth\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e274\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eGas engines: greater than 5MWth and less than 50MWth\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e260.3\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eGas turbines: greater than or equal to 1MWth and less than or equal to 5MWth\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e205.5\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eBoilers: greater than or equal to 1MWth and less than or equal to 5MWth\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e342.5\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eGas engines: greater than or equal to 1MWth and less than or equal to 5MWth\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e260.3\u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e\n\n\u003ch3 id=\"table-2-elvs-for-new-plant-using-100-hydrogen-fuel\"\u003eTable 2. \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e for new plant using 100% hydrogen fuel\u003c/h3\u003e\n\n\u003ctable\u003e\n  \u003cthead\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"col\"\u003ePlant type and thermal input\u003c/th\u003e\n      \u003cth scope=\"col\" class=\"cell-text-right\"\u003e\n\u003cabbr title=\"oxides of nitrogen\"\u003eNOx\u003c/abbr\u003e \u003cabbr title=\"emission limit value\"\u003eELV\u003c/abbr\u003e (mg/Nm\u003csup\u003e3\u003c/sup\u003e)\u003c/th\u003e\n    \u003c/tr\u003e\n  \u003c/thead\u003e\n  \u003ctbody\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eGas turbines: greater than or equal to 50MWth\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e68.5\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eBoilers: greater than or equal to 50MWth\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e137\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eGas engines: greater than or equal to 50MWth\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e102.8\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eGas turbines: greater than 5MWth and less than 50MWth\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e68.5\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eBoilers: greater than 5MWth and less than 50MWth\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e137\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eGas engines: greater than 5MWth and less than 50MWth\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e130.2\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eGas turbines: greater than or equal to 1MWth and less than or equal to 5MWth\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e68.5\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eBoilers: greater than or equal to 1MWth and less than or equal to 5MWth\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e137\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eGas engines: greater than or equal to 1MWth and less than or equal to 5MWth\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e130.2\u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e\n\n\u003cp\u003eWhere permitted \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e are lower than those outlined in the applicable directive because of air quality constraints, you must apply the appropriate factor from Table 2 or Table 3 to the permitted \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e to get \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e for combustion of hydrogen.\u003c/p\u003e\n\n\u003ch2 id=\"minimum-elvs-for-hydrogen-as-a-blended-fuel\"\u003e4. Minimum \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e for hydrogen as a blended fuel\u003c/h2\u003e\n\n\u003cp\u003eThe relationship between composition of hydrogen in fuel (by volume) and flue gas volume per net thermal energy input is not linear. Therefore, you must use a banding system for \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e from fuel blends.\u003c/p\u003e\n\n\u003cp\u003eTable 3 gives the \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e you must meet. You must achieve an \u003cabbr title=\"emission limit value\"\u003eELV\u003c/abbr\u003e for both \u003cabbr title=\"oxides of nitrogen\"\u003eNOx\u003c/abbr\u003e and \u003cabbr title=\"carbon monoxide\"\u003eCO\u003c/abbr\u003e for combustion of blended fuels. Table 3 sets out \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e for both pollutants.\u003c/p\u003e\n\n\u003ch3 id=\"table-3-elvs-for-fuel-blends-of-hydrogen-with-natural-gas\"\u003eTable 3. \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e for fuel blends of hydrogen with natural gas\u003c/h3\u003e\n\n\u003ctable\u003e\n  \u003cthead\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"col\"\u003eSubstitution of hydrogen (% v/v)          \u003c/th\u003e\n      \u003cth scope=\"col\" class=\"cell-text-right\"\u003ePollutant \u003cabbr title=\"emission limit value\"\u003eELV\u003c/abbr\u003e expressed as a percentage of the analogous natural gas \u003cabbr title=\"emission limit value\"\u003eELV\u003c/abbr\u003e\n\u003c/th\u003e\n    \u003c/tr\u003e\n  \u003c/thead\u003e\n  \u003ctbody\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e0 to 20%\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e100%\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eGreater than 20% to 50%\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e107%\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eGreater than 50% to 75%\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e115%\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eGreater than 75% to 90%\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e125%\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eGreater than 90% to 95%\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e130%\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eGreater than 95% to 100%\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e137%\u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e\n\n\u003cp\u003eHere is an example to help you calculate \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e based on the information set out in Table 3.\u003c/p\u003e\n\n\u003cdiv class=\"example\"\u003e\n  \u003cp\u003e\u003cstrong\u003eExample\u003c/strong\u003e\u003c/p\u003e\n\n  \u003cp\u003eA 100 \u003cabbr title=\"megawatt thermal\"\u003eMWth\u003c/abbr\u003e gas turbine which would previously have been subject to a \u003cabbr title=\"oxides of nitrogen\"\u003eNOx\u003c/abbr\u003e \u003cabbr title=\"emission limit value\"\u003eELV\u003c/abbr\u003e of 50 mg/Nm\u003csup\u003e3\u003c/sup\u003e and a \u003cabbr title=\"carbon monoxide\"\u003eCO\u003c/abbr\u003e \u003cabbr title=\"emission limit value\"\u003eELV\u003c/abbr\u003e of 100 mg/Nm\u003csup\u003e3\u003c/sup\u003e for natural gas is proposed to switch to a fuel blend of 85% hydrogen with 15% natural gas. The \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e which now must be complied with are 62.5 mg/Nm\u003csup\u003e3\u003c/sup\u003e for \u003cabbr title=\"oxides of nitrogen\"\u003eNOx\u003c/abbr\u003e and 125 mg/Nm\u003csup\u003e3\u003c/sup\u003e for \u003cabbr title=\"carbon monoxide\"\u003eCO\u003c/abbr\u003e.\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cp\u003eWhere permitted \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e are lower than those outlined in the applicable directive because of air quality constraints, you must apply the appropriate factor from Table 3 to the permitted \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e to get \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e for combustion of hydrogen and natural gas as a blended fuel. This is as specified in the previous section for use of hydrogen as a single fuel.\u003c/p\u003e\n\n\u003cp\u003eWhen you use a blend of natural gas from the transmission and distribution system and hydrogen, you must sum the volumetric component of hydrogen in the natural gas with the volume of hydrogen which is added. This total volumetric component of hydrogen in the fuel will inform the \u003cabbr title=\"emission limit value\"\u003eELV\u003c/abbr\u003e which you must meet.\u003c/p\u003e\n\n\u003ch2 id=\"provisions-for-setting-elvs\"\u003e5. Provisions for setting \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e\n\u003c/h2\u003e\n\n\u003cp\u003eYou must determine provisions for setting \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e for combustion of hydrogen, based on Annex V of the \u003ca rel=\"external\" href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32010L0075\" class=\"govuk-link\"\u003e\u003cabbr title=\"Industrial Emissions Directive\"\u003eIED\u003c/abbr\u003e\u003c/a\u003e and Annex II of the \u003ca rel=\"external\" href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2193\" class=\"govuk-link\"\u003e\u003cabbr title=\"Medium Combustion Plant Directive\"\u003eMCPD\u003c/abbr\u003e\u003c/a\u003e, in line with either:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe relevant agency guidance\u003c/li\u003e\n  \u003cli\u003ethe guidance \u003ca rel=\"external\" href=\"https://www.energy-uk.org.uk/publications/jep-ied-compliance-protocol-lcp-bref-update-2022/\" class=\"govuk-link\"\u003e\u003cabbr title=\"Industrial Emissions Directive\"\u003eIED\u003c/abbr\u003e Compliance Protocol for Utility Boilers and Gas Turbines, 2022\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"compliance-with-elvs\"\u003e6. Compliance with \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e\n\u003c/h2\u003e\n\n\u003cp\u003eYou must meet the requirements for monitoring as set out in Annex V, Part 3 of the \u003ca rel=\"external\" href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32010L0075\" class=\"govuk-link\"\u003e\u003cabbr title=\"Industrial Emissions Directive\"\u003eIED\u003c/abbr\u003e\u003c/a\u003e or Annex III, Part 1 of the \u003ca rel=\"external\" href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2193\" class=\"govuk-link\"\u003e\u003cabbr title=\"Medium Combustion Plant Directive\"\u003eMCPD\u003c/abbr\u003e\u003c/a\u003e, as applicable.\u003c/p\u003e\n\n\u003cp\u003eFor continuous measurements, you will have complied with the \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e set out in this guidance if the evaluation of the measurement results indicates, for operating hours within a calendar year, that you have met all the following conditions.\u003c/p\u003e\n\n\u003col class=\"steps\"\u003e\n\u003cli\u003e\n\u003cp\u003eNo validated monthly average value exceeds the relevant ELV. Where a fuel blend is used, the relevant ELV is determined based on the corresponding monthly average volumetric component of hydrogen.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eNo validated daily average value exceeds 110% of the relevant ELV. Where a fuel blend is used, the relevant ELV is determined based on the corresponding daily average volumetric component of hydrogen.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e95% of validated hourly average values over the year do not exceed 200% of the relevant ELV. Where a fuel blend is used, the relevant ELV is determined based on the ELV corresponding to the highest volumetric component of hydrogen in any operating hour of the year.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eThe validated average values are determined as set out in point 10 of \u003ca rel=\"external\" href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32010L0075\" class=\"govuk-link\"\u003e\u003cabbr title=\"Industrial Emissions Directive\"\u003eIED\u003c/abbr\u003e\u003c/a\u003e Annex V, Part 3 and relevant section of Part 4.\u003c/p\u003e\n\n\u003cp\u003eWhere continuous measurements are not required, you will have complied with the \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e set out in this guidance if you do not exceed \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e in either the:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eresults of each of the series of measurements\u003c/li\u003e\n  \u003cli\u003eother procedures defined and determined according to the rules laid down by the competent authorities\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"cost-benefit-analysis-where-plant-cannot-meet-these-elvs\"\u003e7. Cost-benefit analysis where plant cannot meet these \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e\n\u003c/h2\u003e\n\n\u003cp\u003eYou may not be able to achieve the \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e set out in this guidance on plant put into operation before 1 January 2025 due to technical or economic reasons that you can demonstrate. If so, the regulator will set \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e after considering your cost-benefit analysis, using a process that is consistent with that described in \u003ca rel=\"external\" href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32010L0075\" class=\"govuk-link\"\u003e\u003cabbr title=\"Industrial Emissions Directive\"\u003eIED\u003c/abbr\u003e\u003c/a\u003e Article 15(4). This will be based on the following.\u003c/p\u003e\n\n\u003col class=\"steps\"\u003e\n\u003cli\u003e\n\u003cp\u003eThe cost of additional harm of NOx and any ammonia emissions over a period of 25 years, compared to the costs associated with secondary abatement techniques (unless such techniques are demonstrably technically unsuitable). You must consider the impact on plant efficiency associated with secondary abatement techniques. A shorter period will be permissible if you can provide evidence of a committed closure date.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eThe additional costs of harm must be based on the additional NOx and any ammonia emissions associated with the proposed achievable NOx ELV case, compared to the relevant ELVs set out in this guidance.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eYou must not attribute costs of benefits to any changes in CO\u003csub\u003e2\u003c/sub\u003e emissions based on the UK government valuation of greenhouse gas emissions, as this is not based on cost of harm. In the case of point 1 in this section, the operator must propose lowest technically feasible emission limit. They must review this limit every 4 years using these principles, until BAT-AELs for hydrogen combustion are set up.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eAll plant put into operation after 1 January 2025 (new-new plant) must meet the \u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e for new plant.\u003c/p\u003e\n\n\u003ch2 id=\"contact-your-regulator\"\u003e8. Contact your regulator\u003c/h2\u003e\n\n\u003cp\u003eThe guidance on \u003ca href=\"https://www.gov.uk/guidance/medium-combustion-plant-mcp-comply-with-emission-limit-values\" class=\"govuk-link\"\u003emedium combustion plant (\u003cabbr title=\"medium combustion plant\"\u003eMCP\u003c/abbr\u003e): comply with emission limit values\u003c/a\u003e gives more information about monitoring, reporting, emission limits and the standards which apply across the \u003cabbr title=\"United Kingdom\"\u003eUK\u003c/abbr\u003e.\u003c/p\u003e\n\n\u003cp\u003eIf you have any questions, contact your regulator.\u003c/p\u003e\n\n\u003ch3 id=\"england\"\u003eEngland\u003c/h3\u003e\n\n\u003cp\u003eContact the Environment Agency.\u003c/p\u003e\n\n\u003cdiv class=\"contact contact\" id=\"contact_144\"\u003e\n    \u003cp class=\"govuk-body\"\u003eGeneral enquiries\u003c/p\u003e\n\n    \u003cp class=\"govuk-body govuk-!-margin-bottom-4\"\u003e\n      National Customer Contact Centre \u003cbr\u003ePO Box 544\u003cbr\u003eRotherham\u003cbr\u003eS60 1BY\n    \u003c/p\u003e\n\n    \u003cdiv\u003e\n        \u003cp class=\"govuk-body govuk-!-margin-bottom-4\"\u003e\n          Email \u003ca class=\"govuk-link\" href=\"mailto:enquiries@environment-agency.gov.uk\"\u003eenquiries@environment-agency.gov.uk\u003c/a\u003e\n        \u003c/p\u003e\n\n\n        \u003cp class=\"govuk-body govuk-!-margin-bottom-4\"\u003e\n          Telephone 03708 506 506\n        \u003c/p\u003e\n        \u003cp class=\"govuk-body govuk-!-margin-bottom-4\"\u003e\n          Telephone from outside the UK (Monday to Friday, 8am to 6pm GMT) +44 (0) 114 282 5312\n        \u003c/p\u003e\n    \u003c/div\u003e\n\n    \u003cp class=\"govuk-body\"\u003eMonday to Friday, 8am to 6pm.\u003c/p\u003e\n\n\u003c/div\u003e\n\n\u003ch3 id=\"wales\"\u003eWales\u003c/h3\u003e\n\n\u003cp\u003eContact \u003ca rel=\"external\" href=\"https://naturalresourceswales.gov.uk/about-us/contact-us\" class=\"govuk-link\"\u003eNatural Resources Wales\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"scotland\"\u003eScotland\u003c/h3\u003e\n\n\u003cp\u003eContact the \u003ca rel=\"external\" href=\"https://www2.sepa.scot/contactus\" class=\"govuk-link\"\u003eScottish Environment Protection Agency\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"northern-ireland\"\u003eNorthern Ireland\u003c/h3\u003e\n\n\u003cp\u003eIf you have a question about combustion plant policy, contact the \u003ca rel=\"external\" href=\"https://www.daera-ni.gov.uk/contacts/cipp\" class=\"govuk-link\"\u003eChemicals and Industrial Pollution Policy (CIPP) Branch\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eIf you have a question about permitting for a part A or B installation, contact the \u003ca rel=\"external\" href=\"https://www.daera-ni.gov.uk/contacts/industrial-pollution-and-radiochemical-inspectorate-ipri\" class=\"govuk-link\"\u003eIndustrial Pollution and Radiochemical Inspectorate (IPRI)\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eIf you have a question about a part C permit or installation, contact the relevant \u003ca rel=\"external\" href=\"http://www.nidirect.gov.uk/contacts/local-councils-in-northern-ireland\" class=\"govuk-link\"\u003edistrict council\u003c/a\u003e.\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Updated section 1 to refer to the ETN Position Paper from March 2023.",
+                                               "public_timestamp":  "2024-10-21T14:37:06.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2024-10-14T00:00:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "16628142-57b2-4611-bc03-5912785acee3",
+                                                     "83926803-2033-4cf6-8b8b-53a82d3aaa74",
+                                                     "6b012ebf-20c4-4125-929f-8867ad2a2b4e",
+                                                     "f4eaf4ab-3bf0-4c6e-b35c-852eaaa695d9"
+                                                 ],
+                    "first_public_at":  "2024-10-14T00:00:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2024-10-14T00:00:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/hydrogen-combustion-comply-with-emission-limit-values",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/hydrogen-combustion-comply-with-emission-limit-values",
+                                                     "base_path":  "/guidance/hydrogen-combustion-comply-with-emission-limit-values",
+                                                     "content_id":  "b583ec2f-1e21-44b8-8872-66f8100b17b5",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2024-10-21T13:37:06Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Hydrogen combustion: comply with emission limit values",
+                                                     "web_url":  "https://www.gov.uk/guidance/hydrogen-combustion-comply-with-emission-limit-values",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/technical-guidance-for-regulated-industry-sectors-environmental-permitting",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/technical-guidance-for-regulated-industry-sectors-environmental-permitting",
+                                                   "base_path":  "/government/collections/technical-guidance-for-regulated-industry-sectors-environmental-permitting",
+                                                   "content_id":  "5f445af3-7631-11e4-a3cb-005056011aef",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/hydrogen-combustion-comply-with-emission-limit-values",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/hydrogen-combustion-comply-with-emission-limit-values",
+                                                                                       "base_path":  "/guidance/hydrogen-combustion-comply-with-emission-limit-values",
+                                                                                       "content_id":  "b583ec2f-1e21-44b8-8872-66f8100b17b5",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2024-10-21T13:37:06Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Hydrogen combustion: comply with emission limit values",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/hydrogen-combustion-comply-with-emission-limit-values",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2024-10-14T08:17:51Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Technical guidance for regulated industry sectors: environmental permitting",
+                                                   "web_url":  "https://www.gov.uk/government/collections/technical-guidance-for-regulated-industry-sectors-environmental-permitting",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2024-starmer-labour-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2024-starmer-labour-government",
+                                         "base_path":  "/government/2024-starmer-labour-government",
+                                         "content_id":  "9dbff654-cdeb-4ebe-9a12-cd4cc20a033e",
+                                         "details":  {
+                                                         "current":  true,
+                                                         "ended_on":  null,
+                                                         "started_on":  "2024-07-05T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2024 Starmer Labour government",
+                                         "web_url":  "https://www.gov.uk/government/2024-starmer-labour-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "EA199",
+                                            "api_path":  "/api/content/government/organisations/environment-agency",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/environment-agency",
+                                            "base_path":  "/government/organisations/environment-agency",
+                                            "content_id":  "16628142-57b2-4611-bc03-5912785acee3",
+                                            "details":  {
+                                                            "acronym":  "EA",
+                                                            "brand":  "department-for-environment-food-rural-affairs",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/62c56ed9e90e0774833f5583/s960_EA-officer-high-viz-jacket_960x640.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/62c56ed9d3bf7f30034430da/s300_EA-officer-high-viz-jacket_960x640.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "formatted_title":  "Environment Agency",
+                                                                         "image":  {
+                                                                                       "alt_text":  "Environment Agency",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/61fd3365e90e0768a8e97523/environment-agency-logo-480w.png"
+                                                                                   }
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Environment Agency",
+                                            "web_url":  "https://www.gov.uk/government/organisations/environment-agency",
+                                            "withdrawn":  false
+                                        },
+                                        {
+                                            "analytics_identifier":  "OT1103",
+                                            "api_path":  "/api/content/government/organisations/natural-resources-wales",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/natural-resources-wales",
+                                            "base_path":  "/government/organisations/natural-resources-wales",
+                                            "content_id":  "83926803-2033-4cf6-8b8b-53a82d3aaa74",
+                                            "details":  {
+                                                            "acronym":  "",
+                                                            "brand":  "wales-office",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "formatted_title":  "Natural \u003cbr/\u003eResources \u003cbr/\u003eWales"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "exempt",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  "http://naturalresourceswales.gov.uk/"
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Natural Resources Wales",
+                                            "web_url":  "https://www.gov.uk/government/organisations/natural-resources-wales",
+                                            "withdrawn":  false
+                                        },
+                                        {
+                                            "analytics_identifier":  "D591",
+                                            "api_path":  "/api/content/government/organisations/department-of-the-environment",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/department-of-the-environment",
+                                            "base_path":  "/government/organisations/department-of-the-environment",
+                                            "content_id":  "6b012ebf-20c4-4125-929f-8867ad2a2b4e",
+                                            "details":  {
+                                                            "acronym":  "",
+                                                            "brand":  null,
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Department of the Environment"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "devolved",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  ""
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Department of the Environment (Northern Ireland)",
+                                            "web_url":  "https://www.gov.uk/government/organisations/department-of-the-environment",
+                                            "withdrawn":  false
+                                        },
+                                        {
+                                            "analytics_identifier":  "DA1020",
+                                            "api_path":  "/api/content/government/organisations/the-scottish-government",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/the-scottish-government",
+                                            "base_path":  "/government/organisations/the-scottish-government",
+                                            "content_id":  "f4eaf4ab-3bf0-4c6e-b35c-852eaaa695d9",
+                                            "details":  {
+                                                            "acronym":  "The Scottish Government",
+                                                            "brand":  null,
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "formatted_title":  "Scottish \u003cbr/\u003eGovernment"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "exempt",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  "http://www.gov.scot/"
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "The Scottish Government",
+                                            "web_url":  "https://www.gov.uk/government/organisations/the-scottish-government",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA199",
+                                                                       "api_path":  "/api/content/government/organisations/environment-agency",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/environment-agency",
+                                                                       "base_path":  "/government/organisations/environment-agency",
+                                                                       "content_id":  "16628142-57b2-4611-bc03-5912785acee3",
+                                                                       "details":  {
+                                                                                       "acronym":  "EA",
+                                                                                       "brand":  "department-for-environment-food-rural-affairs",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/62c56ed9e90e0774833f5583/s960_EA-officer-high-viz-jacket_960x640.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/62c56ed9d3bf7f30034430da/s300_EA-officer-high-viz-jacket_960x640.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "formatted_title":  "Environment Agency",
+                                                                                                    "image":  {
+                                                                                                                  "alt_text":  "Environment Agency",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/61fd3365e90e0768a8e97523/environment-agency-logo-480w.png"
+                                                                                                              }
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Environment Agency",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/environment-agency",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "EA199",
+                                                              "api_path":  "/api/content/government/organisations/environment-agency",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/environment-agency",
+                                                              "base_path":  "/government/organisations/environment-agency",
+                                                              "content_id":  "16628142-57b2-4611-bc03-5912785acee3",
+                                                              "details":  {
+                                                                              "acronym":  "EA",
+                                                                              "brand":  "department-for-environment-food-rural-affairs",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/62c56ed9e90e0774833f5583/s960_EA-officer-high-viz-jacket_960x640.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/62c56ed9d3bf7f30034430da/s300_EA-officer-high-viz-jacket_960x640.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "formatted_title":  "Environment Agency",
+                                                                                           "image":  {
+                                                                                                         "alt_text":  "Environment Agency",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/61fd3365e90e0768a8e97523/environment-agency-logo-480w.png"
+                                                                                                     }
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Environment Agency",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/environment-agency",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related_guides":  [
+                                         {
+                                             "api_path":  "/api/content/guidance/medium-combustion-plant-mcp-comply-with-emission-limit-values",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/medium-combustion-plant-mcp-comply-with-emission-limit-values",
+                                             "base_path":  "/guidance/medium-combustion-plant-mcp-comply-with-emission-limit-values",
+                                             "content_id":  "fd606061-d807-44f4-a7c2-675f8e004097",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2024-07-23T08:39:07Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Medium combustion plant (MCP): comply with emission limit values",
+                                             "web_url":  "https://www.gov.uk/guidance/medium-combustion-plant-mcp-comply-with-emission-limit-values",
+                                             "withdrawn":  false
+                                         }
+                                     ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/environment/low-carbon-technologies",
+                                     "api_url":  "https://www.gov.uk/api/content/environment/low-carbon-technologies",
+                                     "base_path":  "/environment/low-carbon-technologies",
+                                     "content_id":  "5812ef82-6a5c-43b8-9d76-b3f7d8019945",
+                                     "details":  {
+                                                     "internal_name":  "Low carbon technologies [P]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/environment/climate-change-energy-energy-infrastructure",
+                                                                             "api_url":  "https://www.gov.uk/api/content/environment/climate-change-energy-energy-infrastructure",
+                                                                             "base_path":  "/environment/climate-change-energy-energy-infrastructure",
+                                                                             "content_id":  "899d76d6-4d59-409e-a7a4-2a7e47c9361b",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Energy infrastructure [T]",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/environment",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/environment",
+                                                                                                                     "base_path":  "/environment",
+                                                                                                                     "content_id":  "3cf97f69-84de-41ae-bc7b-7e2cc238fa58",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Environment",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T13:39:00Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Environment",
+                                                                                                                     "web_url":  "https://www.gov.uk/environment",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-05T16:13:09Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Energy infrastructure",
+                                                                             "web_url":  "https://www.gov.uk/environment/climate-change-energy-energy-infrastructure",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-05T16:13:09Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Low carbon technologies",
+                                     "web_url":  "https://www.gov.uk/environment/low-carbon-technologies",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/environment/environmental-permits",
+                                     "api_url":  "https://www.gov.uk/api/content/environment/environmental-permits",
+                                     "base_path":  "/environment/environmental-permits",
+                                     "content_id":  "4e561949-4a26-49c2-918d-6ad2972c4d33",
+                                     "details":  {
+                                                     "internal_name":  "Environmental permits [T] (level 2, environment theme)",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/environment",
+                                                                             "api_url":  "https://www.gov.uk/api/content/environment",
+                                                                             "base_path":  "/environment",
+                                                                             "content_id":  "3cf97f69-84de-41ae-bc7b-7e2cc238fa58",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Environment",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T13:39:00Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Environment",
+                                                                             "web_url":  "https://www.gov.uk/environment",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-05T16:13:05Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Environmental permits",
+                                     "web_url":  "https://www.gov.uk/environment/environmental-permits",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/business-and-industry/energy-industry-and-infrastructure-licensing-and-regulation",
+                                     "api_url":  "https://www.gov.uk/api/content/business-and-industry/energy-industry-and-infrastructure-licensing-and-regulation",
+                                     "base_path":  "/business-and-industry/energy-industry-and-infrastructure-licensing-and-regulation",
+                                     "content_id":  "092c86a5-717e-4bea-be43-4a5d8695a113",
+                                     "details":  {
+                                                     "internal_name":  "Energy industry and infrastructure licensing and regulation [P]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/business-and-industry/business-regulation",
+                                                                             "api_url":  "https://www.gov.uk/api/content/business-and-industry/business-regulation",
+                                                                             "base_path":  "/business-and-industry/business-regulation",
+                                                                             "content_id":  "33bc0eed-62c7-4b0b-9a93-626c9e10c025",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Business regulation [P]",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/business-and-industry",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/business-and-industry",
+                                                                                                                     "base_path":  "/business-and-industry",
+                                                                                                                     "content_id":  "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Business and industry",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-03T15:41:02Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Business and industry",
+                                                                                                                     "web_url":  "https://www.gov.uk/business-and-industry",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-03T15:41:03Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Business regulation",
+                                                                             "web_url":  "https://www.gov.uk/business-and-industry/business-regulation",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-03T15:41:03Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Energy industry and infrastructure licensing and regulation",
+                                     "web_url":  "https://www.gov.uk/business-and-industry/energy-industry-and-infrastructure-licensing-and-regulation",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2024-10-21T14:37:06+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1729517826.776-10.13.21.70-2457",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Hydrogen combustion: comply with emission limit values",
+    "updated_at":  "2024-10-21T14:37:07+01:00",
+    "withdrawn_notice":  {
+
+                         }
+}

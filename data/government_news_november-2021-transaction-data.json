@@ -1,0 +1,229 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/government/news/november-2021-transaction-data",
+    "content_id":  "4fb48e8e-8b4d-4a8f-8043-f21da8980b85",
+    "description":  "This data provides information about the number and types of applications that HM Land Registry completed in November 2021.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\n\u003cdiv role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\"\u003e\n\u003cp\u003ePlease note this data shows what HM Land Registry has been able to process during the time period covered and is not necessarily a reflection of market activity.\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cp\u003eIn November:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eHM Land Registry completed more than 1,840,700 applications to change or query the Land Register\u003c/li\u003e\n  \u003cli\u003ethe South East topped the table of regional applications with 424,106\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eHM Land Registry completed 1,840,720 applications in November compared with 1,771,848 in October and 1,710,237 last November 2020, of which:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e345,740 were applications for register updates compared with 341,065 in October\u003c/li\u003e\n  \u003cli\u003e973,605 were applications for an official copy of a register compared with 952,922 in October\u003c/li\u003e\n  \u003cli\u003e241,525 were search and hold queries (official searches) compared with 223,284 in October\u003c/li\u003e\n  \u003cli\u003e16,310 were postal applications from non-account holders compared with 16,368 in October\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"applications-by-region-and-country\"\u003eApplications by region and country\u003c/h2\u003e\n\n\u003ctable\u003e\n  \u003cthead\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"col\"\u003eRegion/country\u003c/th\u003e\n      \u003cth scope=\"col\" class=\"cell-text-right\"\u003eSeptember applications\u003c/th\u003e\n      \u003cth scope=\"col\" class=\"cell-text-right\"\u003eOctober applications\u003c/th\u003e\n      \u003cth scope=\"col\" class=\"cell-text-right\"\u003eNovember applications\u003c/th\u003e\n    \u003c/tr\u003e\n  \u003c/thead\u003e\n  \u003ctbody\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eSouth East\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e383,237\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e416,242\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e424,106\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eGreater London\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e292,204\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e318,722\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e339,450\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eNorth West\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e196,939\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e204,223\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e210,391\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eSouth West\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e162,228\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e174,735\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e179,377\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eWest Midlands\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e141,022\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e147,428\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e153,843\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eYorkshire and the Humber\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e133,245\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e141,442\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e145,836\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eEast Midlands\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e119,935\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e128,444\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e133,801\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eNorth\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e83,033\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e85,165\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e89,629\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eEast Anglia\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e70,143\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e74,178\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e79,696\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eIsles of Scilly\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e47\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e55\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e42\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eWales\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e77,548\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e81,121\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e84,468\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eEngland and Wales (not assigned)\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e99\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e93\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e81\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eTotal\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e1,659,680\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e1,771,848\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e1,840,720\u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e\n\n\u003ch2 id=\"top-5-local-authority-areas\"\u003eTop 5 local authority areas\u003c/h2\u003e\n\n\u003ch3 id=\"november-2021-applications\"\u003eNovember 2021 applications\u003c/h3\u003e\n\n\u003ctable class=\"js-barchart-table mc-auto-outdent\"\u003e\n  \u003cthead\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"col\"\u003eTop 5 local authority areas\u003c/th\u003e\n      \u003cth scope=\"col\" class=\"cell-text-right\"\u003eNovember applications\u003c/th\u003e\n    \u003c/tr\u003e\n  \u003c/thead\u003e\n  \u003ctbody\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eBirmingham\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e26,401\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eCity of Westminster\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e22,426\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eLeeds\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e20,943\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eBuckinghamshire\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e19,191\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eCornwall\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e18,751\u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e\n\n\u003ch3 id=\"october-2021-applications\"\u003eOctober 2021 applications\u003c/h3\u003e\n\n\u003ctable class=\"js-barchart-table mc-auto-outdent\"\u003e\n  \u003cthead\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"col\"\u003eTop 5 local authority areas\u003c/th\u003e\n      \u003cth scope=\"col\" class=\"cell-text-right\"\u003eOctober applications\u003c/th\u003e\n    \u003c/tr\u003e\n  \u003c/thead\u003e\n  \u003ctbody\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eBirmingham\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e25,637\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eCity of Westminster\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e22,426\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eLeeds\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e19,870\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eBuckinghamshire\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e18,390\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eCornwall\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e18,150\u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e\n\n\u003ch2 id=\"top-5-customers\"\u003eTop 5 customers\u003c/h2\u003e\n\n\u003ch3 id=\"november-2021-applications-1\"\u003eNovember 2021 applications\u003c/h3\u003e\n\n\u003ctable class=\"js-barchart-table mc-auto-outdent\"\u003e\n  \u003cthead\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"col\"\u003eTop 5 customers\u003c/th\u003e\n      \u003cth scope=\"col\" class=\"cell-text-right\"\u003eNovember applications\u003c/th\u003e\n    \u003c/tr\u003e\n  \u003c/thead\u003e\n  \u003ctbody\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eInfotrack Limited\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e117,295\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eEnact\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e41,912\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eO’Neill Patient\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e33,107\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eOptima Legal Services\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e31,739\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eHBOS PLC Bank\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e18,556\u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e\n\n\u003ch3 id=\"october-2021-applications-1\"\u003eOctober 2021 applications\u003c/h3\u003e\n\n\u003ctable class=\"js-barchart-table mc-auto-outdent\"\u003e\n  \u003cthead\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"col\"\u003eTop 5 customers\u003c/th\u003e\n      \u003cth scope=\"col\" class=\"cell-text-right\"\u003eOctober applications\u003c/th\u003e\n    \u003c/tr\u003e\n  \u003c/thead\u003e\n  \u003ctbody\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eInfotrack Limited\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e114,963\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eEnact\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e41,978\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eO’Neill Patient\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e33,468\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eOptima Legal Services\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e33,095\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eTM Group (UK) Ltd\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e20,939\u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e\n\n\u003ch2 id=\"access-the-data\"\u003eAccess the data\u003c/h2\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://use-land-property-data.service.gov.uk/datasets/td/download\"\u003eAccess the full dataset on our Use land and property data service\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"next-publication\"\u003eNext publication\u003c/h2\u003e\n\n\u003cp\u003eWe publish Transaction Data on the 15th working day of each month. The December data will be published at 11am on Monday 24 January 2022.\u003c/p\u003e\n",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2021-12-20T11:30:04.349+00:00"
+                                           }
+                                       ],
+                    "image":  {
+                                  "alt_text":  "",
+                                  "caption":  "",
+                                  "credit":  "NicoElNino/Shutterstock.com",
+                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/61c05debd3bf7f0558fdc46d/man-pointing-at-a-cloud-on-a-screen.jpg",
+                                  "url":  "https://assets.publishing.service.gov.uk/media/61c05dea8fa8f5037d67b99f/man-pointing-at-a-cloud-on-a-screen.jpg"
+                              },
+                    "political":  false
+                },
+    "document_type":  "news_story",
+    "first_published_at":  "2021-12-20T11:30:04+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/government/news/november-2021-transaction-data",
+                                                     "api_url":  "https://www.gov.uk/api/content/government/news/november-2021-transaction-data",
+                                                     "base_path":  "/government/news/november-2021-transaction-data",
+                                                     "content_id":  "4fb48e8e-8b4d-4a8f-8043-f21da8980b85",
+                                                     "document_type":  "news_story",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2021-12-20T11:30:04Z",
+                                                     "schema_name":  "news_article",
+                                                     "title":  "November 2021 Transaction Data",
+                                                     "web_url":  "https://www.gov.uk/government/news/november-2021-transaction-data",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2019-to-2022-johnson-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2019-to-2022-johnson-conservative-government",
+                                         "base_path":  "/government/2019-to-2022-johnson-conservative-government",
+                                         "content_id":  "4ed901ec-c8ce-42d5-a2aa-6d7f462480df",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2022-09-06T00:00:00+00:00",
+                                                         "started_on":  "2019-07-24T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2019 to 2022 Johnson Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2019-to-2022-johnson-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D69",
+                                            "api_path":  "/api/content/government/organisations/land-registry",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/land-registry",
+                                            "base_path":  "/government/organisations/land-registry",
+                                            "content_id":  "5c54ae52-341b-499e-a6dd-67f04633b8cf",
+                                            "details":  {
+                                                            "acronym":  "HM Land Registry",
+                                                            "brand":  "ministry-of-housing-communities-local-government",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37dad8ed915d5a5f96600a/s960_HMLR960640.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5a37dad7ed915d5a5f966009/s300_HMLR960640.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "formatted_title":  "HM Land Registry",
+                                                                         "image":  {
+                                                                                       "alt_text":  "HM Land Registry",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/59fa00e440f0b62eeb2ec8df/HMLR_logo.png"
+                                                                                   }
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "HM Land Registry",
+                                            "web_url":  "https://www.gov.uk/government/organisations/land-registry",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D69",
+                                                              "api_path":  "/api/content/government/organisations/land-registry",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/land-registry",
+                                                              "base_path":  "/government/organisations/land-registry",
+                                                              "content_id":  "5c54ae52-341b-499e-a6dd-67f04633b8cf",
+                                                              "details":  {
+                                                                              "acronym":  "HM Land Registry",
+                                                                              "brand":  "ministry-of-housing-communities-local-government",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37dad8ed915d5a5f96600a/s960_HMLR960640.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/5a37dad7ed915d5a5f966009/s300_HMLR960640.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "formatted_title":  "HM Land Registry",
+                                                                                           "image":  {
+                                                                                                         "alt_text":  "HM Land Registry",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/59fa00e440f0b62eeb2ec8df/HMLR_logo.png"
+                                                                                                     }
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "HM Land Registry",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/land-registry",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/housing-local-and-community/land-registration-data",
+                                     "api_url":  "https://www.gov.uk/api/content/housing-local-and-community/land-registration-data",
+                                     "base_path":  "/housing-local-and-community/land-registration-data",
+                                     "content_id":  "48884dec-6f44-43b2-ae45-9392ff604959",
+                                     "details":  {
+                                                     "internal_name":  "Land Registration Data [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/housing-local-and-community/land-registration",
+                                                                             "api_url":  "https://www.gov.uk/api/content/housing-local-and-community/land-registration",
+                                                                             "base_path":  "/housing-local-and-community/land-registration",
+                                                                             "content_id":  "82730dd2-4ead-4ae6-943b-2c910e758279",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Land registration [T] (level 2, housing theme)",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/housing-local-and-community",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/housing-local-and-community",
+                                                                                                                     "base_path":  "/housing-local-and-community",
+                                                                                                                     "content_id":  "4794066e-e3cc-425e-8cc4-e7ff3edb4c39",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Housing, local and community",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:32:02Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Housing, local and community",
+                                                                                                                     "web_url":  "https://www.gov.uk/housing-local-and-community",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-08-22T12:54:41Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Land registration",
+                                                                             "web_url":  "https://www.gov.uk/housing-local-and-community/land-registration",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-08-22T12:54:42Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Land Registration Data ",
+                                     "web_url":  "https://www.gov.uk/housing-local-and-community/land-registration-data",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2021-12-20T11:30:04+00:00",
+    "publishing_app":  "content-publisher",
+    "publishing_request_id":  "21-1730284973.132-10.13.25.23-706",
+    "publishing_scheduled_at":  "2021-12-20T11:30:00+00:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  4,
+    "schema_name":  "news_article",
+    "title":  "November 2021 Transaction Data",
+    "updated_at":  "2025-01-06T11:09:27+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

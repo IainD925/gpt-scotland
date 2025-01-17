@@ -1,0 +1,197 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/government/people/gurpreet-dehal",
+    "content_id":  "5bb1d26f-3323-4bd2-a7ca-0d78d5dda94f",
+    "description":  "Gurpreet has pursued a portfolio career since 2014, with non executive roles in Higher Education, multi-academy trusts, financial services (including advising government on access to dormant assets), infrastructure and an NHS commissioning group. His current roles are with the Defence Audit and Risk Assurance Committee (DARAC), Defence Infrastructure Organisation (DIO), the London Legacy Development Corporation and the University of Derby. Gurpreet’s prior executive career was in financial risk management and investment banking global operations, with senior leadership positions at Merrill Lynch and Credit Suisse from 2006 to 2014.",
+    "details":  {
+                    "body":  "\u003cp\u003eGurpreet has pursued a portfolio career since 2014, with non executive roles in Higher Education, multi-academy trusts, financial services (including advising government on access to dormant assets), infrastructure and an NHS commissioning group.\u003c/p\u003e\n\n\u003cp\u003eHis current roles are with the Defence Audit and Risk Assurance Committee (DARAC), Defence Infrastructure Organisation (DIO), the London Legacy Development Corporation and the University of Derby.\u003c/p\u003e\n\n\u003cp\u003eGurpreet’s prior executive career was in financial risk management and investment banking global operations, with senior leadership positions at Merrill Lynch and Credit Suisse from 2006 to 2014.\u003c/p\u003e\n",
+                    "full_name":  "Gurpreet Dehal",
+                    "image":  {
+                                  "alt_text":  "Gurpreet Dehal",
+                                  "url":  "https://assets.publishing.service.gov.uk/media/63e258d98fa8f50e8deac20d/s465_GDehal_pic__1_.jpg"
+                              },
+                    "privy_counsellor":  false
+                },
+    "document_type":  "person",
+    "first_published_at":  "2016-03-10T12:54:24+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/government/people/gurpreet-dehal",
+                                                     "api_url":  "https://www.gov.uk/api/content/government/people/gurpreet-dehal",
+                                                     "base_path":  "/government/people/gurpreet-dehal",
+                                                     "content_id":  "5bb1d26f-3323-4bd2-a7ca-0d78d5dda94f",
+                                                     "document_type":  "person",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2023-02-07T13:57:45Z",
+                                                     "schema_name":  "person",
+                                                     "title":  "Gurpreet Dehal",
+                                                     "web_url":  "https://www.gov.uk/government/people/gurpreet-dehal",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "role_appointments":  [
+                                            {
+                                                "content_id":  "7ecd4c2d-84ec-4b00-be77-e9e8b0222216",
+                                                "details":  {
+                                                                "current":  true,
+                                                                "ended_on":  null,
+                                                                "person_appointment_order":  3218,
+                                                                "started_on":  "2016-03-10T00:00:00+00:00"
+                                                            },
+                                                "document_type":  "role_appointment",
+                                                "links":  {
+                                                              "person":  [
+                                                                             {
+                                                                                 "api_path":  "/api/content/government/people/gurpreet-dehal",
+                                                                                 "api_url":  "https://www.gov.uk/api/content/government/people/gurpreet-dehal",
+                                                                                 "base_path":  "/government/people/gurpreet-dehal",
+                                                                                 "content_id":  "5bb1d26f-3323-4bd2-a7ca-0d78d5dda94f",
+                                                                                 "details":  {
+                                                                                                 "body":  "\u003cp\u003eGurpreet has pursued a portfolio career since 2014, with non executive roles in Higher Education, multi-academy trusts, financial services (including advising government on access to dormant assets), infrastructure and an NHS commissioning group.\u003c/p\u003e\n\n\u003cp\u003eHis current roles are with the Defence Audit and Risk Assurance Committee (DARAC), Defence Infrastructure Organisation (DIO), the London Legacy Development Corporation and the University of Derby.\u003c/p\u003e\n\n\u003cp\u003eGurpreet’s prior executive career was in financial risk management and investment banking global operations, with senior leadership positions at Merrill Lynch and Credit Suisse from 2006 to 2014.\u003c/p\u003e\n",
+                                                                                                 "image":  {
+                                                                                                               "alt_text":  "Gurpreet Dehal",
+                                                                                                               "url":  "https://assets.publishing.service.gov.uk/media/63e258d98fa8f50e8deac20d/s465_GDehal_pic__1_.jpg"
+                                                                                                           }
+                                                                                             },
+                                                                                 "document_type":  "person",
+                                                                                 "links":  {
+
+                                                                                           },
+                                                                                 "locale":  "en",
+                                                                                 "public_updated_at":  "2023-02-07T13:57:45Z",
+                                                                                 "schema_name":  "person",
+                                                                                 "title":  "Gurpreet Dehal",
+                                                                                 "web_url":  "https://www.gov.uk/government/people/gurpreet-dehal",
+                                                                                 "withdrawn":  false
+                                                                             }
+                                                                         ],
+                                                              "role":  [
+                                                                           {
+                                                                               "content_id":  "c61e9ce2-d493-483f-9ddc-bddd937ec3fb",
+                                                                               "details":  {
+                                                                                               "body":  "\u003cp\u003eCommissioners support the Chair in meeting the terms of reference for the Independent Dormant Assets Commission.\u003c/p\u003e\n",
+                                                                                               "role_payment_type":  null
+                                                                                           },
+                                                                               "document_type":  "board_member_role",
+                                                                               "links":  {
+                                                                                             "ordered_parent_organisations":  [
+                                                                                                                                  {
+                                                                                                                                      "analytics_identifier":  "PB1185",
+                                                                                                                                      "api_path":  "/api/content/government/organisations/dormant-assets-commission",
+                                                                                                                                      "api_url":  "https://www.gov.uk/api/content/government/organisations/dormant-assets-commission",
+                                                                                                                                      "base_path":  "/government/organisations/dormant-assets-commission",
+                                                                                                                                      "content_id":  "ec2d53a1-0d51-4c9c-8d14-31cfee762922",
+                                                                                                                                      "details":  {
+                                                                                                                                                      "acronym":  "",
+                                                                                                                                                      "brand":  "cabinet-office",
+                                                                                                                                                      "default_news_image":  "@{high_resolution_url=https://assets.publishing.service.gov.uk/media/5a37db3440f0b649cfaf7c3d/s960_Dormant_assets_commission_coins.jpeg; url=https://assets.publishing.service.gov.uk/media/5a37db34e5274a7908e352fd/s300_Dormant_assets_commission_coins.jpeg}",
+                                                                                                                                                      "logo":  "@{crest=single-identity; formatted_title=Independent Dormant Assets Commission}",
+                                                                                                                                                      "organisation_govuk_status":  "@{status=live; updated_at=; url=}"
+                                                                                                                                                  },
+                                                                                                                                      "document_type":  "organisation",
+                                                                                                                                      "links":  {
+
+                                                                                                                                                },
+                                                                                                                                      "locale":  "en",
+                                                                                                                                      "schema_name":  "organisation",
+                                                                                                                                      "title":  "Independent Dormant Assets Commission ",
+                                                                                                                                      "web_url":  "https://www.gov.uk/government/organisations/dormant-assets-commission",
+                                                                                                                                      "withdrawn":  false
+                                                                                                                                  }
+                                                                                                                              ]
+                                                                                         },
+                                                                               "locale":  "en",
+                                                                               "public_updated_at":  "2023-06-07T15:58:11Z",
+                                                                               "schema_name":  "role",
+                                                                               "title":  "Dormant Assets Commissioner",
+                                                                               "withdrawn":  false
+                                                                           }
+                                                                       ]
+                                                          },
+                                                "locale":  "en",
+                                                "public_updated_at":  "2018-06-07T14:26:30Z",
+                                                "schema_name":  "role_appointment",
+                                                "title":  "Gurpreet Dehal - Dormant Assets Commissioner",
+                                                "withdrawn":  false
+                                            },
+                                            {
+                                                "content_id":  "dea72959-14e4-4e3a-9002-59f226763a0c",
+                                                "details":  {
+                                                                "current":  true,
+                                                                "ended_on":  null,
+                                                                "person_appointment_order":  2,
+                                                                "started_on":  "2023-06-01T00:00:00+01:00"
+                                                            },
+                                                "document_type":  "role_appointment",
+                                                "links":  {
+                                                              "person":  [
+                                                                             {
+                                                                                 "api_path":  "/api/content/government/people/gurpreet-dehal",
+                                                                                 "api_url":  "https://www.gov.uk/api/content/government/people/gurpreet-dehal",
+                                                                                 "base_path":  "/government/people/gurpreet-dehal",
+                                                                                 "content_id":  "5bb1d26f-3323-4bd2-a7ca-0d78d5dda94f",
+                                                                                 "details":  {
+                                                                                                 "body":  "\u003cp\u003eGurpreet has pursued a portfolio career since 2014, with non executive roles in Higher Education, multi-academy trusts, financial services (including advising government on access to dormant assets), infrastructure and an NHS commissioning group.\u003c/p\u003e\n\n\u003cp\u003eHis current roles are with the Defence Audit and Risk Assurance Committee (DARAC), Defence Infrastructure Organisation (DIO), the London Legacy Development Corporation and the University of Derby.\u003c/p\u003e\n\n\u003cp\u003eGurpreet’s prior executive career was in financial risk management and investment banking global operations, with senior leadership positions at Merrill Lynch and Credit Suisse from 2006 to 2014.\u003c/p\u003e\n",
+                                                                                                 "image":  {
+                                                                                                               "alt_text":  "Gurpreet Dehal",
+                                                                                                               "url":  "https://assets.publishing.service.gov.uk/media/63e258d98fa8f50e8deac20d/s465_GDehal_pic__1_.jpg"
+                                                                                                           }
+                                                                                             },
+                                                                                 "document_type":  "person",
+                                                                                 "links":  {
+
+                                                                                           },
+                                                                                 "locale":  "en",
+                                                                                 "public_updated_at":  "2023-02-07T13:57:45Z",
+                                                                                 "schema_name":  "person",
+                                                                                 "title":  "Gurpreet Dehal",
+                                                                                 "web_url":  "https://www.gov.uk/government/people/gurpreet-dehal",
+                                                                                 "withdrawn":  false
+                                                                             }
+                                                                         ],
+                                                              "role":  [
+                                                                           {
+                                                                               "content_id":  "8b71b02b-c462-4c47-8e44-a6bfe5f868e7",
+                                                                               "details":  {
+                                                                                               "body":  "\u003cp\u003eNon-Executive Directors provide independent scrutiny for departments, supporting them in maintaining good governance and providing advice on policy matters and cross-government initiatives.\u003c/p\u003e\n",
+                                                                                               "role_payment_type":  null
+                                                                                           },
+                                                                               "document_type":  "board_member_role",
+                                                                               "links":  {
+
+                                                                                         },
+                                                                               "locale":  "en",
+                                                                               "public_updated_at":  "2023-06-07T15:58:38Z",
+                                                                               "schema_name":  "role",
+                                                                               "title":  "Non-Executive Director for the Defence Audit and Risk Assurance Committee",
+                                                                               "withdrawn":  false
+                                                                           }
+                                                                       ]
+                                                          },
+                                                "locale":  "en",
+                                                "public_updated_at":  "2023-06-07T15:59:21Z",
+                                                "schema_name":  "role_appointment",
+                                                "title":  "Gurpreet Dehal - Non-Executive Director for the Defence Audit and Risk Assurance Committee",
+                                                "withdrawn":  false
+                                            }
+                                        ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2023-02-07T13:57:45+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1700066492.731-10.13.35.135-698",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "collections",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "person",
+    "title":  "Gurpreet Dehal",
+    "updated_at":  "2023-11-29T13:15:11+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

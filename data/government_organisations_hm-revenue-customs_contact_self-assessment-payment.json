@@ -1,0 +1,433 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/government/organisations/hm-revenue-customs/contact/self-assessment-payment",
+    "content_id":  "2d2713c3-c807-4895-96c5-6b2720505eda",
+    "description":  "Contact HMRC for advice on how to make Self Assessment payments",
+    "details":  {
+                    "contact_form_links":  [
+                                               {
+                                                   "description":  "\u003cp\u003eThe quickest way to pay your bill is online.\u003c/p\u003e\n",
+                                                   "link":  "https://www.gov.uk/pay-self-assessment-tax-bill",
+                                                   "title":  "Pay your Self Assessment bill online"
+                                               }
+                                           ],
+                    "contact_groups":  [
+                                           {
+                                               "slug":  "self-assessment",
+                                               "title":  "Self Assessment"
+                                           },
+                                           {
+                                               "slug":  "paying",
+                                               "title":  "Paying "
+                                           }
+                                       ],
+                    "description":  "Contact HMRC for advice on how to make Self Assessment payments",
+                    "email_addresses":  [
+
+                                        ],
+                    "language":  "en",
+                    "more_info_contact_form":  "\u003ch3 id=\"other-ways-to-pay-your-self-assessment-bill-online\"\u003eOther ways to pay your Self Assessment bill online\u003c/h3\u003e\n\n\u003cp\u003eYou can pay using:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/log-in-register-hmrc-online-services\"\u003eHMRC’s online services\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003ethe \u003ca href=\"https://www.gov.uk/guidance/download-the-hmrc-app\"\u003eofficial HMRC app\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"single-or-composite-chaps-payments\"\u003eSingle or composite CHAPS payments\u003c/h3\u003e\n\n\u003cp\u003eYou can make a \u003ca rel=\"external\" href=\"https://www.tax.service.gov.uk/guidance/Apply-to-make-a-multiple-or-composite-CHAPS-payment/start/about-this-form\"\u003esingle or composite CHAPS payment\u003c/a\u003e for more than one Self Assessment reference (called a ‘multiple’ or ‘composite’ payment).\u003c/p\u003e\n\n\u003cp\u003eIf HMRC needs to contact you about anything confidential they’ll reply by phone or post.\u003c/p\u003e\n",
+                    "more_info_email_address":  "\n",
+                    "more_info_phone_number":  "\n",
+                    "more_info_post_address":  "\n",
+                    "more_info_webchat":  "\n",
+                    "phone_numbers":  [
+                                          {
+                                              "best_time_to_call":  "\n",
+                                              "description":  "\u003cp\u003eYou cannot pay your bill using this number. If you need help submitting your payment you can call us.\u003c/p\u003e\n\n\u003cp\u003eYou’ll need your Self Assessment Unique Taxpayer Reference (UTR) when you call.\u003c/p\u003e\n",
+                                              "fax":  "",
+                                              "international_phone":  "+44 15 0647 6066",
+                                              "number":  "0300 200 3401",
+                                              "open_hours":  "\u003cp\u003eMonday to Friday: 8am to 6pm\u003c/p\u003e\n\n\u003cp\u003eClosed on Saturdays, Sundays and bank holidays.\u003c/p\u003e\n",
+                                              "textphone":  "",
+                                              "title":  "Payment Enquiries"
+                                          }
+                                      ],
+                    "post_addresses":  [
+                                           {
+                                               "description":  "\u003cp\u003eIf you cannot pay online you can post a cheque with your Self Assessment payment slip.\u003c/p\u003e\n\n\u003cp\u003eYou can \u003ca rel=\"external\" href=\"http://www.hmrc.gov.uk/payinghmrc/payslip-sa.htm\"\u003eprint a payslip\u003c/a\u003e if you do not have one.\u003c/p\u003e\n\n\u003cp\u003eYou do not need to include a street name, city name or PO box when writing to this address.\u003c/p\u003e\n\n\u003cp\u003eCouriers should use a \u003ca href=\"https://www.gov.uk/government/organisations/hm-revenue-customs/contact/couriers\"\u003edifferent address\u003c/a\u003e.\u003c/p\u003e\n",
+                                               "locality":  "",
+                                               "postal_code":  "BX5 5BD",
+                                               "region":  "",
+                                               "street_address":  "Direct",
+                                               "title":  "HMRC",
+                                               "world_location":  "United Kingdom"
+                                           }
+                                       ],
+                    "query_response_time":  false,
+                    "quick_links":  [
+                                        {
+                                            "title":  "Pay your Self Assessment tax bill",
+                                            "url":  "https://www.gov.uk/pay-self-assessment-tax-bill"
+                                        },
+                                        {
+                                            "title":  "If you cannot pay your tax bill on time",
+                                            "url":  "https://www.gov.uk/difficulties-paying-hmrc"
+                                        }
+                                    ],
+                    "slug":  "self-assessment-payment",
+                    "title":  "Self Assessment: payments"
+                },
+    "document_type":  "contact",
+    "first_published_at":  "2015-12-16T12:32:19+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/government/organisations/hm-revenue-customs/contact/self-assessment-payment",
+                                                     "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs/contact/self-assessment-payment",
+                                                     "base_path":  "/government/organisations/hm-revenue-customs/contact/self-assessment-payment",
+                                                     "content_id":  "2d2713c3-c807-4895-96c5-6b2720505eda",
+                                                     "document_type":  "contact",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2024-10-09T10:56:15Z",
+                                                     "schema_name":  "contact",
+                                                     "title":  "Self Assessment: payments",
+                                                     "web_url":  "https://www.gov.uk/government/organisations/hm-revenue-customs/contact/self-assessment-payment",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D25",
+                                            "api_path":  "/api/content/government/organisations/hm-revenue-customs",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+                                            "base_path":  "/government/organisations/hm-revenue-customs",
+                                            "content_id":  "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+                                            "details":  {
+                                                            "acronym":  "HMRC",
+                                                            "brand":  "hm-revenue-customs",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "hmrc",
+                                                                         "formatted_title":  "HM Revenue\u003cbr/\u003e\u0026amp; Customs"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "HM Revenue \u0026 Customs",
+                                            "web_url":  "https://www.gov.uk/government/organisations/hm-revenue-customs",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "parent":  [
+                                 {
+                                     "api_path":  "/api/content/government/organisations/hm-revenue-customs/contact",
+                                     "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs/contact",
+                                     "base_path":  "/government/organisations/hm-revenue-customs/contact",
+                                     "content_id":  "b110c03c-3f8d-4327-906b-17ebd872e6a6",
+                                     "document_type":  "finder",
+                                     "links":  {
+                                                   "parent":  [
+                                                                  {
+                                                                      "analytics_identifier":  "D25",
+                                                                      "api_path":  "/api/content/government/organisations/hm-revenue-customs",
+                                                                      "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+                                                                      "base_path":  "/government/organisations/hm-revenue-customs",
+                                                                      "content_id":  "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+                                                                      "details":  {
+                                                                                      "acronym":  "HMRC",
+                                                                                      "brand":  "hm-revenue-customs",
+                                                                                      "default_news_image":  {
+                                                                                                                 "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+                                                                                                                 "url":  "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+                                                                                                             },
+                                                                                      "logo":  {
+                                                                                                   "crest":  "hmrc",
+                                                                                                   "formatted_title":  "HM Revenue\u003cbr/\u003e\u0026amp; Customs"
+                                                                                               },
+                                                                                      "organisation_govuk_status":  {
+                                                                                                                        "status":  "live",
+                                                                                                                        "updated_at":  null,
+                                                                                                                        "url":  null
+                                                                                                                    }
+                                                                                  },
+                                                                      "document_type":  "organisation",
+                                                                      "links":  {
+
+                                                                                },
+                                                                      "locale":  "en",
+                                                                      "schema_name":  "organisation",
+                                                                      "title":  "HM Revenue \u0026 Customs",
+                                                                      "web_url":  "https://www.gov.uk/government/organisations/hm-revenue-customs",
+                                                                      "withdrawn":  false
+                                                                  }
+                                                              ]
+                                               },
+                                     "locale":  "en",
+                                     "public_updated_at":  "2021-01-21T11:25:07Z",
+                                     "schema_name":  "finder",
+                                     "title":  "Contact HM Revenue \u0026 Customs",
+                                     "web_url":  "https://www.gov.uk/government/organisations/hm-revenue-customs/contact",
+                                     "withdrawn":  false
+                                 }
+                             ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D25",
+                                                              "api_path":  "/api/content/government/organisations/hm-revenue-customs",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+                                                              "base_path":  "/government/organisations/hm-revenue-customs",
+                                                              "content_id":  "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+                                                              "details":  {
+                                                                              "acronym":  "HMRC",
+                                                                              "brand":  "hm-revenue-customs",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "hmrc",
+                                                                                           "formatted_title":  "HM Revenue\u003cbr/\u003e\u0026amp; Customs"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "HM Revenue \u0026 Customs",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/hm-revenue-customs",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related":  [
+                                  {
+                                      "api_path":  "/api/content/government/organisations/hm-revenue-customs/contact/business-payment-support-service",
+                                      "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs/contact/business-payment-support-service",
+                                      "base_path":  "/government/organisations/hm-revenue-customs/contact/business-payment-support-service",
+                                      "content_id":  "3daf13c4-d639-4557-9edb-f741da629ee9",
+                                      "details":  {
+                                                      "contact_form_links":  [
+                                                                                 {
+                                                                                     "description":  "\u003cp\u003eAsk HMRC’s digital assistant to get help if you’re having problems paying what you owe for:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eSelf Assessment\u003c/li\u003e\n  \u003cli\u003eVAT\u003c/li\u003e\n  \u003cli\u003eEmployer’s PAYE\u003c/li\u003e\n  \u003cli\u003eCorporation Tax\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIf the digital assistant cannot help you, you can ask to transfer to a webchat with an HMRC adviser if they’re available.\u003c/p\u003e\n\n\u003cdiv role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\"\u003e\n\u003cp\u003eThe HMRC adviser will not be able to transfer you to another webchat team.\u003c/p\u003e\n\u003c/div\u003e\n",
+                                                                                     "link":  "https://www.tax.service.gov.uk/ask-hmrc/chat/payment-problems",
+                                                                                     "title":  "Ask HMRC online"
+                                                                                 }
+                                                                             ],
+                                                      "description":  "Contact HMRC if you\u0027re having problems making a payment",
+                                                      "email_addresses":  [
+
+                                                                          ],
+                                                      "phone_numbers":  [
+                                                                            {
+                                                                                "best_time_to_call":  "\n",
+                                                                                "description":  "\u003cp\u003eCall if you have missed your Self Assessment payment deadline.\u003c/p\u003e\n",
+                                                                                "fax":  "",
+                                                                                "international_phone":  "",
+                                                                                "number":  "0300 200 3820",
+                                                                                "open_hours":  "\u003cp\u003eOur phone line opening hours are:\u003c/p\u003e\n\n\u003cp\u003eMonday to Friday: 8am to 6pm\u003c/p\u003e\n\n\u003cp\u003eClosed weekends and bank holidays.\u003c/p\u003e\n\n\u003cp\u003eYou can also find out information in either your:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/personal-tax-account\"\u003epersonal tax account\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/sign-in-to-your-hmrc-business-tax-account\"\u003ebusiness tax account\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n",
+                                                                                "textphone":  "",
+                                                                                "title":  "Self Assessment payment "
+                                                                            },
+                                                                            {
+                                                                                "best_time_to_call":  "\n",
+                                                                                "description":  "\u003cp\u003eCall if you have missed your VAT payment deadline.\u003c/p\u003e\n",
+                                                                                "fax":  "",
+                                                                                "international_phone":  "",
+                                                                                "number":  "0300 200 3831",
+                                                                                "open_hours":  "\u003cp\u003eOur phone line opening hours are:\u003c/p\u003e\n\n\u003cp\u003eMonday to Friday: 8am to 6pm\u003c/p\u003e\n\n\u003cp\u003eClosed weekends and bank holidays.\u003c/p\u003e\n\n\u003cp\u003eYou can also find out information in either your:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/personal-tax-account\"\u003epersonal tax account\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/sign-in-to-your-hmrc-business-tax-account\"\u003ebusiness tax account\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n",
+                                                                                "textphone":  "",
+                                                                                "title":  "VAT payment"
+                                                                            },
+                                                                            {
+                                                                                "best_time_to_call":  "\n",
+                                                                                "description":  "\u003cp\u003eCall if you have missed your PAYE payment deadline.\u003c/p\u003e\n",
+                                                                                "fax":  "",
+                                                                                "international_phone":  "",
+                                                                                "number":  "0300 200 3810",
+                                                                                "open_hours":  "\u003cp\u003eOur phone line opening hours are:\u003c/p\u003e\n\n\u003cp\u003eMonday to Friday: 8am to 6pm\u003c/p\u003e\n\n\u003cp\u003eClosed weekends and bank holidays.\u003c/p\u003e\n\n\u003cp\u003eYou can also find out information in either your:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/personal-tax-account\"\u003epersonal tax account\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/sign-in-to-your-hmrc-business-tax-account\"\u003ebusiness tax account\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n",
+                                                                                "textphone":  "",
+                                                                                "title":  "PAYE payment"
+                                                                            },
+                                                                            {
+                                                                                "best_time_to_call":  "\n",
+                                                                                "description":  "\u003cp\u003eCall if you have missed your Corporation Tax payment deadline.\u003c/p\u003e\n",
+                                                                                "fax":  "",
+                                                                                "international_phone":  "",
+                                                                                "number":  "0300 200 3840",
+                                                                                "open_hours":  "\u003cp\u003eOur phone line opening hours are:\u003c/p\u003e\n\n\u003cp\u003eMonday to Friday: 8am to 6pm\u003c/p\u003e\n\n\u003cp\u003eClosed weekends and bank holidays.\u003c/p\u003e\n\n\u003cp\u003eYou can also find out information in either your:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/personal-tax-account\"\u003epersonal tax account\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/sign-in-to-your-hmrc-business-tax-account\"\u003ebusiness tax account\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n",
+                                                                                "textphone":  "",
+                                                                                "title":  "Corporation Tax payment"
+                                                                            }
+                                                                        ],
+                                                      "post_addresses":  [
+
+                                                                         ],
+                                                      "title":  "Payment problems"
+                                                  },
+                                      "document_type":  "contact",
+                                      "links":  {
+
+                                                },
+                                      "locale":  "en",
+                                      "public_updated_at":  "2024-02-08T09:15:04Z",
+                                      "schema_name":  "contact",
+                                      "title":  "Payment problems",
+                                      "web_url":  "https://www.gov.uk/government/organisations/hm-revenue-customs/contact/business-payment-support-service",
+                                      "withdrawn":  false
+                                  },
+                                  {
+                                      "api_path":  "/api/content/government/organisations/hm-revenue-customs/contact/self-assessment",
+                                      "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs/contact/self-assessment",
+                                      "base_path":  "/government/organisations/hm-revenue-customs/contact/self-assessment",
+                                      "content_id":  "8c478876-b659-4fde-a5ca-2e59dd080168",
+                                      "details":  {
+                                                      "contact_form_links":  [
+                                                                                 {
+                                                                                     "description":  "\n",
+                                                                                     "link":  "https://www.gov.uk/self-assessment-tax-returns",
+                                                                                     "title":  "Find guidance on Self Assessment tax returns"
+                                                                                 }
+                                                                             ],
+                                                      "description":  "Contact HMRC for advice on Self Assessment and to change your personal details",
+                                                      "email_addresses":  [
+
+                                                                          ],
+                                                      "phone_numbers":  [
+                                                                            {
+                                                                                "best_time_to_call":  "\n",
+                                                                                "description":  "\u003ch3 id=\"help-with-online-services\"\u003eHelp with online services\u003c/h3\u003e\n\n\u003cp\u003eContact \u003ca href=\"https://www.gov.uk/government/organisations/hm-revenue-customs/contact/online-services-helpdesk\"\u003eHMRC’s online services helpdesk\u003c/a\u003e if you:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eare having problems submitting your return online\u003c/li\u003e\n  \u003cli\u003ehave lost your online service username or password\u003c/li\u003e\n  \u003cli\u003eget any error messages in your online account or on a form\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"help-with-general-enquiries\"\u003eHelp with general enquiries\u003c/h3\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/get-help-hmrc-extra-support\"\u003eGet help from HMRC if you need extra support\u003c/a\u003e.\u003c/p\u003e\n",
+                                                                                "fax":  "",
+                                                                                "international_phone":  "+44 161 931 9070",
+                                                                                "number":  "0300 200 3310",
+                                                                                "open_hours":  "\u003cp\u003eMonday to Friday: 8am to 6pm\u003c/p\u003e\n\n\u003cp\u003eClosed on weekends and bank holidays.\u003c/p\u003e\n",
+                                                                                "textphone":  "",
+                                                                                "title":  "Self Assessment Helpline"
+                                                                            }
+                                                                        ],
+                                                      "post_addresses":  [
+                                                                             {
+                                                                                 "description":  "\u003cp\u003eYou can write to HMRC if you have a Self Assessment query.\u003c/p\u003e\n\n\u003cp\u003eFind out how to \u003ca href=\"https://www.gov.uk/government/organisations/hm-revenue-customs/contact/complain-about-hmrc\"\u003emake a complaint about HMRC\u003c/a\u003e or \u003ca href=\"https://www.gov.uk/government/organisations/hm-revenue-customs/contact/couriers\"\u003ewhere to send letters if you’re not using Royal Mail\u003c/a\u003e.\u003c/p\u003e\n",
+                                                                                 "locality":  "",
+                                                                                 "postal_code":  "BX9 1AS",
+                                                                                 "region":  "",
+                                                                                 "street_address":  "HM Revenue and Customs",
+                                                                                 "title":  "Self Assessment",
+                                                                                 "world_location":  "United Kingdom"
+                                                                             }
+                                                                         ],
+                                                      "title":  "Self Assessment: general enquiries"
+                                                  },
+                                      "document_type":  "contact",
+                                      "links":  {
+
+                                                },
+                                      "locale":  "en",
+                                      "public_updated_at":  "2025-01-10T08:36:03Z",
+                                      "schema_name":  "contact",
+                                      "title":  "Self Assessment: general enquiries",
+                                      "web_url":  "https://www.gov.uk/government/organisations/hm-revenue-customs/contact/self-assessment",
+                                      "withdrawn":  false
+                                  },
+                                  {
+                                      "api_path":  "/api/content/government/organisations/hm-revenue-customs/contact/welsh-language-helpline-for-debt-management",
+                                      "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs/contact/welsh-language-helpline-for-debt-management",
+                                      "base_path":  "/government/organisations/hm-revenue-customs/contact/welsh-language-helpline-for-debt-management",
+                                      "content_id":  "16fac069-26d7-4a1f-82a9-684510ce365f",
+                                      "details":  {
+                                                      "contact_form_links":  [
+                                                                                 {
+                                                                                     "description":  "\n",
+                                                                                     "link":  "https://www.tax.service.gov.uk/submissions/form/apply-for-alternative-dispute-resolution-to-settle-tax-dispute/Did-HMRC-issue-a-decision-giving-you-a-right-to-appeal?n=0\u0026se=t\u0026ff=t",
+                                                                                     "title":  "Cais i ddefnyddio Dull Amgen o Ddatrys Anghydfod (ADR) er mwyn datrys anghydfod treth "
+                                                                                 },
+                                                                                 {
+                                                                                     "description":  "\n",
+                                                                                     "link":  "https://online.hmrc.gov.uk/shortforms/form/NESWelshHandoverTS",
+                                                                                     "title":  "Ffurflen Drosglwyddo ar gyfer Angen Cefnogaeth Ychwanegol (ACY) "
+                                                                                 }
+                                                                             ],
+                                                      "description":  "Cysylltwch â CThEF am help gyda thaliadau treth",
+                                                      "email_addresses":  [
+                                                                              {
+                                                                                  "description":  "\u003cp\u003eNodwch eich enw a’ch rhif ffôn\u003c/p\u003e\n",
+                                                                                  "email":  "gwasanaeth.cymraeg@hmrc.gov.uk",
+                                                                                  "title":  "E-bostiwch eich ymholiadau ynghylch treth at CThEF"
+                                                                              }
+                                                                          ],
+                                                      "phone_numbers":  [
+                                                                            {
+                                                                                "best_time_to_call":  "\n",
+                                                                                "description":  "\u003cp\u003eFfoniwch CThEF am ymholiadau cyffredinol ynghylch taliadau treth.\u003c/p\u003e\n\n\u003cp\u003eMae gan ymholiadau tollau, ecseis a TAW \u003ca href=\"https://www.gov.uk/government/organisations/hm-revenue-customs/contact/vat-customs-and-excise-and-duties-enquiries-for-welsh-speaking-customers\"\u003erif gwahanol i’w llinell gymorth\u003c/a\u003e.\u003c/p\u003e\n",
+                                                                                "fax":  "",
+                                                                                "international_phone":  "",
+                                                                                "number":  "0300 200 1900",
+                                                                                "open_hours":  "\u003cp\u003eDydd Llun i ddydd Gwener: 8:30am i 5pm\u003c/p\u003e\n\n\u003cp\u003eAr gau ar ddydd Sadwrn, dydd Sul a gwyliau banc.\u003c/p\u003e\n\n",
+                                                                                "textphone":  "",
+                                                                                "title":  "Ymholiadau cyffredinol ynghylch taliadau "
+                                                                            },
+                                                                            {
+                                                                                "best_time_to_call":  "\n",
+                                                                                "description":  "\u003cp\u003eFfoniwch CThEF am help os na allwch dalu eich bil treth ar amser.\u003c/p\u003e\n",
+                                                                                "fax":  "",
+                                                                                "international_phone":  "",
+                                                                                "number":  "0300 200 3860",
+                                                                                "open_hours":  "\u003cp\u003eDydd Llun i ddydd Gwener: 8:30am i 5pm\u003c/p\u003e\n\n\u003cp\u003eAr gau ar ddydd Sadwrn, dydd Sul a gwyliau banc.\u003c/p\u003e\n\n\u003cp\u003eGallwch hefyd gael gwybodaeth drwy’r canlynol:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca href=\"https://www.gov.uk/government/publications/the-official-hmrc-app\"\u003eap swyddogol CThEF\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eeich Cyfrif Treth Personol neu Gyfrif Treth Busnes gan ddefnyddio \u003ca href=\"https://www.gov.uk/gwasanaethau-cthem-mewngofnodi-neu-gofrestru\"\u003egwasanaethau ar-lein CThEF\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n",
+                                                                                "textphone":  "",
+                                                                                "title":  "Llinell Gymorth Rheolaeth Dyledion"
+                                                                            },
+                                                                            {
+                                                                                "best_time_to_call":  "\n",
+                                                                                "description":  "\u003cp\u003eFfoniwch CThEF er mwyn archebu slipiau talu TAW. Bydd angen eich rhif cofrestru TAW ac enw’ch cwmni arnoch.\u003c/p\u003e\n\n\u003cp\u003eGall gymryd 4 i 6 wythnos i’r slipiau talu cael eu hargraffu a’u hanfon atoch. Bydd yn rhaid i chi ddefnyddio dull arall o dalu os yw eich dyddiad cau cyn iddynt gyrraedd.\u003c/p\u003e\n",
+                                                                                "fax":  "",
+                                                                                "international_phone":  "",
+                                                                                "number":  "0300 200 3705",
+                                                                                "open_hours":  "\u003cp\u003eDydd Llun i Ddydd Gwener: 8:30am i 5pm\u003c/p\u003e\n\n\u003cp\u003eAr gau ar ddydd Sadwrn, dydd Sul a gwyliau banc.\u003c/p\u003e\n\n\u003cp\u003eGallwch hefyd gael gwybodaeth drwy’r canlynol:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca href=\"https://www.gov.uk/government/publications/the-official-hmrc-app\"\u003eap swyddogol CThEF\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eeich Cyfrif Treth Personol neu Gyfrif Treth Busnes gan ddefnyddio \u003ca href=\"https://www.gov.uk/gwasanaethau-cthem-mewngofnodi-neu-gofrestru\"\u003egwasanaethau ar-lein CThEF\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n",
+                                                                                "textphone":  "",
+                                                                                "title":  "Archebu slipiau talu TAW"
+                                                                            }
+                                                                        ],
+                                                      "post_addresses":  [
+
+                                                                         ],
+                                                      "title":  "Taliadau"
+                                                  },
+                                      "document_type":  "contact",
+                                      "links":  {
+
+                                                },
+                                      "locale":  "en",
+                                      "public_updated_at":  "2025-01-10T10:36:24Z",
+                                      "schema_name":  "contact",
+                                      "title":  "Taliadau",
+                                      "web_url":  "https://www.gov.uk/government/organisations/hm-revenue-customs/contact/welsh-language-helpline-for-debt-management",
+                                      "withdrawn":  false
+                                  }
+                              ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2024-10-09T11:56:15+01:00",
+    "publishing_app":  "contacts",
+    "publishing_request_id":  "21-1728652877.772-10.13.21.82-3039",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "contact",
+    "title":  "Self Assessment: payments",
+    "updated_at":  "2025-01-14T11:13:46+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

@@ -1,0 +1,551 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/2050-pathways-analysis",
+    "content_id":  "5c84883d-7631-11e4-a3cb-005056011aef",
+    "description":  "Exploring how the UK can meet the 2050 emission reduction target using the web-based 2050 Calculator.",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "enquiries@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  4594185,
+                                            "filename":  "3702-the-carbon-plan-delivering-our-low-carbon-future.pdf",
+                                            "id":  "2036849",
+                                            "number_of_pages":  220,
+                                            "title":  "Carbon Plan ",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a78b560e5274a277e68ed91/3702-the-carbon-plan-delivering-our-low-carbon-future.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "enquiries@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  744815,
+                                            "filename":  "6966-2050-calculator-spreadsheet-how-to-guide.pdf",
+                                            "id":  "2036850",
+                                            "number_of_pages":  19,
+                                            "title":  "Guidance on how to use the calculator tool",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7898fe40f0b63247698a5a/6966-2050-calculator-spreadsheet-how-to-guide.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "enquiries@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  3769316,
+                                            "filename":  "2050-pathways-analysis-response-pt1.pdf",
+                                            "id":  "2036851",
+                                            "number_of_pages":  56,
+                                            "title":  "government response on call for evidence - part 1",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a799987e5274a684690ab9c/2050-pathways-analysis-response-pt1.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "enquiries@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  2070752,
+                                            "filename":  "1344-2050-pathways-analysis-response-pt2.pdf",
+                                            "id":  "2036852",
+                                            "number_of_pages":  92,
+                                            "title":  "government response on call for evidence - part 2",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a78ed0f40f0b6324769b3fc/1344-2050-pathways-analysis-response-pt2.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "enquiries@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  640571,
+                                            "filename":  "3703-addenda-to-2050-report-revised-technical-summarie.pdf",
+                                            "id":  "2036853",
+                                            "number_of_pages":  7,
+                                            "title":  "waste trajectories",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a796428ed915d07d35b51f7/3703-addenda-to-2050-report-revised-technical-summarie.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "enquiries@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  615741,
+                                            "filename":  "3715-addendum-to-2050-report-transport.pdf",
+                                            "id":  "2036854",
+                                            "number_of_pages":  4,
+                                            "title":  "transport trajectories",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a75a31ae5274a4368298cd9/3715-addendum-to-2050-report-transport.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "enquiries@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1288066,
+                                            "filename":  "6400-2050-pathways-calculator-conf-brochure.pdf",
+                                            "id":  "2036855",
+                                            "number_of_pages":  12,
+                                            "title":  "2050 Pathways calculator: An introduction to the UK’s 2050 Pathways calculator and how you can develop your own",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7597cc40f0b67f59fce184/6400-2050-pathways-calculator-conf-brochure.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "enquiries@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  3319421,
+                                            "filename":  "2050_one_pagers.PDF",
+                                            "id":  "2036856",
+                                            "number_of_pages":  42,
+                                            "title":  "My2050: one page guides",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7a1ce2e5274a319e777f1d/2050_one_pagers.PDF"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003ch2 id=\"overview\"\u003eOverview\u003c/h2\u003e\n\n\u003cp\u003eThe UK is committed to reducing its greenhouse gas emissions by at least 80% by 2050, relative to 1990 levels. For this to happen, we need to transform the UK economy while ensuring secure, low-carbon energy supplies to 2050. \u003ca rel=\"external\" href=\"http://2050-calculator-tool.decc.gov.uk\" class=\"govuk-link\"\u003eThe 2050 Calculator\u003c/a\u003e is an award-winning, user-friendly model that lets you create your own UK emissions reduction pathway, and see the impact using real scientific data. The Calculator helps everyone engage in the debate and lets Government make sure our planning is consistent with this long-term aim.\u003c/p\u003e\n\n\u003cp\u003eWe are currently updating our pathways information. As part of this update there will be a new UK Pathways Calculator. The new calculator will use the latest available data and explore pathways beyond 2050, as well as those that meet the 2050 target. The My2050 simulation will also be updated.\u003c/p\u003e\n\n\u003cp\u003eThe original Calculator was released by \u003cabbr title=\"Department for Energy and Climate Change\"\u003eDECC\u003c/abbr\u003e (now BEIS) and is currently available in three versions to allow a range of audiences to explore the fundamental question of how the UK can best meet energy needs while reducing emissions:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe new look \u003ca rel=\"external\" href=\"http://2050-calculator-tool.decc.gov.uk\" class=\"govuk-link\"\u003eweb-tool version\u003c/a\u003e of the Calculator for a detailed look at the issue with a user friendly interface\u003c/li\u003e\n  \u003cli\u003ethe \u003ca rel=\"external\" href=\"http://classic.2050.org.uk/\" class=\"govuk-link\"\u003e“classic”\u003c/a\u003e version of the webtool that allows you to see all your options in one view\u003c/li\u003e\n  \u003cli\u003ethe \u003ca href=\"https://www.gov.uk/government/publications/2050-pathways-calculator-with-costs\" class=\"govuk-link\"\u003efull Excel version\u003c/a\u003e of the Calculator for experts who want to look at the underpinning model.\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eWhile the UK Pathways Calculator is being updated, the simplified My2050 simulation and the My2050 Schools Toolkit have been taken offline. They will be available again once the update is complete.\u003c/p\u003e\n\n\u003cp\u003eBEIS is \u003ca href=\"https://www.gov.uk/international-outreach-work-of-the-2050-calculator#calculator-overview\" class=\"govuk-link\"\u003enow working with teams around the world\u003c/a\u003e to help them develop their own calculators, and has also built a \u003ca rel=\"external\" href=\"http://globalcalculator.org/\" class=\"govuk-link\"\u003eGlobal Calculator\u003c/a\u003e to look at ways to reduce emissions worldwide.\u003c/p\u003e\n\n\u003cp\u003eIf you have any questions, \u003ca href=\"mailto:2050pathways@decc.gsi.gov.uk\" class=\"govuk-link\"\u003eplease contact BEIS’s 2050 Team\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"the-2050-challenge\"\u003eThe 2050 challenge\u003c/h2\u003e\n\n\u003cp\u003eThe 2050 Pathways work presents a framework through which to consider some of the choices and trade-offs we will have to make over the next 40 years. It is system-wide, covering all parts of the economy and all greenhouse gas emissions released in the UK. It is rooted in scientific and engineering realities, looking at what is thought to be physically and technically possible in each sector. It allows you, as the user of the Calculator, to explore all the available options and some of their key implications.\u003c/p\u003e\n\n\u003cp\u003eWe believe it is essential to be transparent about the assumptions and approach used in the 2050 work, which is why we have published the full Calculator model. You can read more about this and how we developed the model in the analysis section below.\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"http://www.youtube.com/watch?v=deT0_ERH7ls\u0026amp;list=UUULvYGk41IsFKZ21TZgiOpg\u0026amp;index=12\" class=\"govuk-link\"\u003eVideo: The energy challenge\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.youtube.com/watch?v=OnNwBpre3Lk\" class=\"govuk-link\"\u003eVideo: Dr.Tom Counsell presents on the British Energy Challenge\u003c/a\u003e\u003c/p\u003e\n\n\u003ch2 id=\"creating-your-pathway\"\u003eCreating your pathway\u003c/h2\u003e\n\n\u003cp\u003eTry out different ways of securing a low-carbon future for the UK by \u003ca rel=\"external\" href=\"http://2050-calculator-tool.decc.gov.uk\" class=\"govuk-link\"\u003ecreating your own pathway using the 2050 Calculator\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eOn the supply side you can choose how the UK produces its energy. For example, you can choose to build up to 40,000 offshore wind turbines or up to 50 3GW nuclear power stations, you can allocate up to 20% of the UK’s land to growing bio crops and you can reduce our use of landfill sites.\u003c/p\u003e\n\n\u003cp\u003eFor each choice four trajectories have been developed, ranging from little or no effort to reduce emissions (level 1) to extremely ambitious changes that push towards the physical or technical limits of what can be achieved (level 4). The assumptions behind these trajectories are explained.\u003c/p\u003e\n\n\u003cp\u003eYou can explore some of the wider implications of your pathway by using the web-tool’s tabs. For example, you can see the implications of your pathway for the size of the electricity sector, you can visually track how energy flows through the system, and you can see how much your new energy system will cost to build. You can also read a short summary of your pathway on the story tab.\u003c/p\u003e\n\n\u003ch3 id=\"the-my2050-schools-toolkit\"\u003eThe My2050 Schools Toolkit\u003c/h3\u003e\n\n\u003cp\u003eWhile the UK Pathways Calculator is being updated, the simplified My2050 simulation and the My2050 Schools Toolkit have been taken offline. They will be available again once the update is complete.\u003c/p\u003e\n\n\u003ch2 id=\"the-analysis\"\u003eThe analysis\u003c/h2\u003e\n\n\u003cp\u003eLying behind the 2050 Calculator is the data in the \u003ca href=\"https://www.gov.uk/government/publications/2050-pathways-calculator-with-costs\" class=\"govuk-link\"\u003eExcel 2050 calculator\u003c/a\u003e. This is a more complex model, but it is open source and entirely transparent in displaying all of our supporting calculations and assumptions. This \u003ca href=\"https://www.gov.uk/government/publications/2050-pathways-calculator-how-to-use-the-spreadsheet\" class=\"govuk-link\"\u003eHow to Guide\u003c/a\u003e should help those looking for a more detailed understanding of the Excel version.  The \u003ca rel=\"external\" href=\"http://2050-calculator-tool-wiki.decc.gov.uk/pages/1\" class=\"govuk-link\"\u003ewiki\u003c/a\u003e has lots of additional detail on the model, including answers to questions that stakeholders have posed.\u003c/p\u003e\n\n\u003cp\u003eThe calculator will run on Microsoft Excel for PCs 2007 and 2010, and Microsoft Excel for Macs 2011, so older versions of Excel will not open it. Trial copies of the appropriate Excel versions are available to \u003ca rel=\"external\" href=\"http://www.microsoft.com/en-us/default.aspx\" class=\"govuk-link\"\u003edownload from Microsoft\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"improving-the-analysis\"\u003eImproving the analysis\u003c/h2\u003e\n\n\u003cp\u003eThe 2050 \u003ca href=\"https://www.gov.uk/government/publications/2050-pathways-analysis\" class=\"govuk-link\"\u003ePathways analysis report\u003c/a\u003e was first published in July 2010, with experts from businesses, NGOs, technical fields and academics helping government to produce the original work. Since then, both the calculator and accompanying analysis have developed considerably, with the support of a wide range of stakeholders. For more detail on this development, and some of the frequently asked questions on the 2050 analysis please refer to the \u003ca rel=\"external\" href=\"http://2050-calculator-tool-wiki.decc.gov.uk/pages/1\" class=\"govuk-link\"\u003ewiki site\u003c/a\u003e that is maintained by the 2050 team.\u003c/p\u003e\n\n\u003cp\u003eIn March 2011, we released an update to the calculator following a successful call for evidence  that received over 100 responses from across the energy and climate change community. This included more detailed information on the waste and transport sectors. We also published 17 illustrative pathways that introduced some of the major themes of the dialogue about the potential merits of different pathways to 2050.\u003c/p\u003e\n\n\u003cp\u003eYou can read about the government’s response to the call for evidence and other reports by downloading:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"http://www.gov.uk/government/uploads/system/uploads/attachment_data/file/68821/2050-pathways-analysis-response-pt1.pdf\" class=\"govuk-link\"\u003eThe government’s response to the call for evidence: part 1\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"http://www.gov.uk//government/uploads/system/uploads/attachment_data/file/42545/1344-2050-pathways-analysis-response-pt2.pdf\" class=\"govuk-link\"\u003eThe government’s response to the call for evidence: part 2\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"http://www.gov.uk//government/uploads/system/uploads/attachment_data/file/42562/216-2050-pathways-analysis-report.pdf\" class=\"govuk-link\"\u003e2050 Pathways analysis report\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"http://www.gov.uk//government/uploads/system/uploads/attachment_data/file/16289/3703-addenda-to-2050-report-revised-technical-summarie.pdf\" class=\"govuk-link\"\u003e2050 report addendum: waste\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"http://www.gov.uk//government/uploads/system/uploads/attachment_data/file/16290/3715-addendum-to-2050-report-transport.pdf\" class=\"govuk-link\"\u003e2050 report addendum: transport\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe \u003ca href=\"https://www.gov.uk/government/publications/the-carbon-plan-reducing-greenhouse-gas-emissions--2\" class=\"govuk-link\"\u003eCarbon Plan\u003c/a\u003e published in December 2011 used the calculator to produce four futures that show some of the plausible routes towards meeting the 2050 target. This used the latest version of the Calculator which for the first time included details on the cost and air quality impacts of pathways, which had undergone a call for evidence phase. For more information on how these costs were calculated see this separate \u003ca href=\"https://www.gov.uk/government/publications/2050-calculator-costs-inclusion-results-and-methodology\" class=\"govuk-link\"\u003epaper on costs methodology and results\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eWe are currently updating our pathways information. As part of this update there will be a new UK Pathways Calculator. The new calculator will use the latest available data and explore pathways beyond 2050, as well as those that meet the 2050 target. The My2050 simulation will also be updated.\u003c/p\u003e\n\n\u003ch2 id=\"the-debate\"\u003eThe debate\u003c/h2\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"http://www.youtube.com/watch?v=GWR7xBMI_As\" class=\"govuk-link\"\u003eVideo: What Do You Think - ‘my2050’\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eBecause it’s so open and easy to use, the 2050 work can help facilitate an energy literate debate. During March 2011 over 10,000 ‘My2050 Worlds’ were submitted online and these results were analysed by Ipsos Mori. In partnership with Ipsos Mori we also held a series of deliberative dialogues with members of the public about the UK energy system using the 2050 Calculator in 2011. Details of these can also be downloaded:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://webarchive.nationalarchives.gov.uk/20130109092117/http://www.decc.gov.uk/media/viewfile.ashx?filetype=4\u0026amp;filepath=11/tackling-climate-change/2050/3681-my2050-simulation-analysis-may-2011.pdf\" class=\"govuk-link\"\u003eMy2050 Simulation report\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://webarchive.nationalarchives.gov.uk/20130109092117/http://www.decc.gov.uk/media/viewfile.ashx?filetype=4\u0026amp;filepath=11/tackling-climate-change/2050/3680-findings-from-the-decc-2050-deliberative-dialogues.pdf\" class=\"govuk-link\"\u003eFindings from \u003cabbr title=\"Department for Energy and Climate Change\"\u003eDECC\u003c/abbr\u003e 2050 Deliberative Dialogues\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://webarchive.nationalarchives.gov.uk/20130109092117/http://www.decc.gov.uk/media/viewfile.ashx?filetype=4\u0026amp;filepath=11/tackling-climate-change/2050/3677-evaluation-and-learning-from-2050-public-engagment.pdf\" class=\"govuk-link\"\u003eEvaluation and learning from the 2050 public engagement programme\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIn 2011 we invited a panel of experts to propose their own preferred pathways to 2050. Some of the experts have since updated their pathways in the new version of the calculator.\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"http://blog.decc.gov.uk/?page_id=319\" class=\"govuk-link\"\u003eMike Childs\u003c/a\u003e, from Friends of the Earth\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"http://blog.decc.gov.uk/?page_id=264\" class=\"govuk-link\"\u003eDustin Benton\u003c/a\u003e, from CPRE (the Campaign to Protect Rural England)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"http://blog.decc.gov.uk/?page_id=322\" class=\"govuk-link\"\u003eProfessor Nick Jenkins\u003c/a\u003e, from Cardiff University\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"http://blog.decc.gov.uk/?page_id=259\" class=\"govuk-link\"\u003eMark Brinkley\u003c/a\u003e, author of ‘The Housebuilder’s Bible’\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"http://blog.decc.gov.uk/?page_id=325\" class=\"govuk-link\"\u003eDuncan Rimmer\u003c/a\u003e, from National Grid\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"http://blog.decc.gov.uk/?page_id=329\" class=\"govuk-link\"\u003eDavid Clarke\u003c/a\u003e, from ETI (the Energy Technologies Institute)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"http://blog.decc.gov.uk/?page_id=334\" class=\"govuk-link\"\u003eKeith Clarke\u003c/a\u003e, from Atkins\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"http://blog.decc.gov.uk/?page_id=336\" class=\"govuk-link\"\u003eMark Lynas\u003c/a\u003e, author of ‘High Tide: News from a warming world’ and ‘Six Degrees: Our future on a hotter planet’\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIn 2013 \u003cabbr title=\"Department for Energy and Climate Change\"\u003eDECC\u003c/abbr\u003e organised the British Energy Challenge roadshow, a series of nine events in cities around the UK attended by local community, business and political leaders, as well as the interested general public. The focus of these events was an interactive session involving the calculator, in which participants voted on the different options and worked together towards meeting the 2050 emissions reduction target. Nearly 2000 people took part in these debates. For more information, please see the \u003ca rel=\"external\" href=\"http://blog.decc.gov.uk/category/the-british-energy-challenge/\" class=\"govuk-link\"\u003eBritish Energy Challenge blog\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"international-collaboration\"\u003eInternational collaboration\u003c/h2\u003e\n\n\u003cp\u003eBEIS is working with the Foreign and Commonwealth Office (\u003cabbr title=\"Foreign and Commonwealth Office\"\u003eFCO\u003c/abbr\u003e), and the Department for International Development (\u003cabbr title=\"Department for International Development\"\u003eDFID\u003c/abbr\u003e) to engage with experts from other parts of the world to build their own 2050 Calculators. \u003ca rel=\"external\" href=\"http://www.wbc2050.be/\" class=\"govuk-link\"\u003eWallonia in Belgium\u003c/a\u003e, \u003ca rel=\"external\" href=\"http://2050pathway-en.chinaenergyoutlook.org/\" class=\"govuk-link\"\u003eChina\u003c/a\u003e, \u003ca rel=\"external\" href=\"http://2050.sejong.ac.kr/\" class=\"govuk-link\"\u003eSouth Korea\u003c/a\u003e, \u003ca rel=\"external\" href=\"http://my2050.twenergy.org.tw/\" class=\"govuk-link\"\u003eTaiwan\u003c/a\u003e, \u003ca rel=\"external\" href=\"http://www.indiaenergy.gov.in/\" class=\"govuk-link\"\u003eIndia\u003c/a\u003e \u003ca rel=\"external\" href=\"http://2050.lateral.co.za/\" class=\"govuk-link\"\u003eSouth Africa\u003c/a\u003e and \u003ca rel=\"external\" href=\"http://www.en-2050-low-carbon-navi.jp\" class=\"govuk-link\"\u003eJapan\u003c/a\u003e have already published theirs, and more are in the pipeline. You can find out more about our international outreach work on the \u003ca href=\"https://www.gov.uk/international-outreach-work-of-the-2050-calculator\" class=\"govuk-link\"\u003eInternational outreach work of the 2050 Calculator page\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003e\u003cabbr title=\"Department for Energy and Climate Change\"\u003eDECC\u003c/abbr\u003e also worked in collaboration with a number of other organisations to build a Global Calculator, which enables users to explore the options for reducing global emissions, and the impact of climate change associated with them. Please see \u003ca rel=\"external\" href=\"http://globalcalculator.org/\" class=\"govuk-link\"\u003ethe Global Calculator website\u003c/a\u003e for more information on the project.\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Update includes information on the My2050 School Toolkit and feedback from 2050 engagement. ",
+                                               "public_timestamp":  "2013-01-23T16:52:10.000+00:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2013-01-22T11:56:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "2bde479a-97f2-42b5-986a-287a623c2a1c"
+                                                 ],
+                    "first_public_at":  "2013-01-22T11:56:00.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2013-01-22T11:56:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/2050-pathways-analysis",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/2050-pathways-analysis",
+                                                     "base_path":  "/guidance/2050-pathways-analysis",
+                                                     "content_id":  "5c84883d-7631-11e4-a3cb-005056011aef",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2013-01-23T16:52:10Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "2050 Pathways",
+                                                     "web_url":  "https://www.gov.uk/guidance/2050-pathways-analysis",
+                                                     "withdrawn":  true
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "base_path":  "/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "content_id":  "591c83aa-3b74-437d-a342-612bddd97572",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2015-05-08T00:00:00+00:00",
+                                                         "started_on":  "2010-05-12T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2010 to 2015 Conservative and Liberal Democrat coalition government",
+                                         "web_url":  "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government"
+                                     }
+                                 ],
+                  "lead_organisations":  [
+                                             {
+                                                 "analytics_identifier":  "D11",
+                                                 "api_path":  "/api/content/government/organisations/department-of-energy-climate-change",
+                                                 "api_url":  "https://www.gov.uk/api/content/government/organisations/department-of-energy-climate-change",
+                                                 "base_path":  "/government/organisations/department-of-energy-climate-change",
+                                                 "content_id":  "d65d4203-01f5-4920-a3b1-f614bfd8e83e",
+                                                 "details":  {
+                                                                 "acronym":  "DECC",
+                                                                 "brand":  "department-of-energy-climate-change",
+                                                                 "default_news_image":  {
+                                                                                            "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db14e5274a7908e352c6/s960_department-of-energy-climate-change.jpg",
+                                                                                            "url":  "https://assets.publishing.service.gov.uk/media/5a37db14ed915d5a5f966071/s300_department-of-energy-climate-change.jpg"
+                                                                                        },
+                                                                 "logo":  {
+                                                                              "crest":  "single-identity",
+                                                                              "formatted_title":  "Department \u003cbr/\u003eof Energy \u0026amp;\u003cbr/\u003eClimate Change"
+                                                                          },
+                                                                 "organisation_govuk_status":  {
+                                                                                                   "status":  "merged",
+                                                                                                   "updated_at":  "2016-07-15T00:00:00.000+01:00",
+                                                                                                   "url":  "http://www.decc.gov.uk/"
+                                                                                               }
+                                                             },
+                                                 "document_type":  "organisation",
+                                                 "links":  {
+
+                                                           },
+                                                 "locale":  "en",
+                                                 "schema_name":  "organisation",
+                                                 "title":  "Department of Energy \u0026 Climate Change",
+                                                 "web_url":  "https://www.gov.uk/government/organisations/department-of-energy-climate-change",
+                                                 "withdrawn":  false
+                                             }
+                                         ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D1198",
+                                            "api_path":  "/api/content/government/organisations/department-for-business-energy-and-industrial-strategy",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-business-energy-and-industrial-strategy",
+                                            "base_path":  "/government/organisations/department-for-business-energy-and-industrial-strategy",
+                                            "content_id":  "2bde479a-97f2-42b5-986a-287a623c2a1c",
+                                            "details":  {
+                                                            "acronym":  "BEIS",
+                                                            "brand":  "department-for-business-innovation-skills",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37dab9ed915d5a62fdc6b1/s960_beis-sign-1vs.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5a37dab9ed915d5a5f965fd5/s300_beis-sign-1vs.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Department for\u003cbr/\u003eBusiness, Energy\u003cbr/\u003e\u0026amp; Industrial Strategy"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "split",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  ""
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Department for Business, Energy \u0026 Industrial Strategy",
+                                            "web_url":  "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "D11",
+                                                                       "api_path":  "/api/content/government/organisations/department-of-energy-climate-change",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/department-of-energy-climate-change",
+                                                                       "base_path":  "/government/organisations/department-of-energy-climate-change",
+                                                                       "content_id":  "d65d4203-01f5-4920-a3b1-f614bfd8e83e",
+                                                                       "details":  {
+                                                                                       "acronym":  "DECC",
+                                                                                       "brand":  "department-of-energy-climate-change",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db14e5274a7908e352c6/s960_department-of-energy-climate-change.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5a37db14ed915d5a5f966071/s300_department-of-energy-climate-change.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Department \u003cbr/\u003eof Energy \u0026amp;\u003cbr/\u003eClimate Change"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "merged",
+                                                                                                                         "updated_at":  "2016-07-15T00:00:00.000+01:00",
+                                                                                                                         "url":  "http://www.decc.gov.uk/"
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Department of Energy \u0026 Climate Change",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/department-of-energy-climate-change",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D1198",
+                                                              "api_path":  "/api/content/government/organisations/department-for-business-energy-and-industrial-strategy",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-business-energy-and-industrial-strategy",
+                                                              "base_path":  "/government/organisations/department-for-business-energy-and-industrial-strategy",
+                                                              "content_id":  "2bde479a-97f2-42b5-986a-287a623c2a1c",
+                                                              "details":  {
+                                                                              "acronym":  "BEIS",
+                                                                              "brand":  "department-for-business-innovation-skills",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37dab9ed915d5a62fdc6b1/s960_beis-sign-1vs.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/5a37dab9ed915d5a5f965fd5/s300_beis-sign-1vs.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Department for\u003cbr/\u003eBusiness, Energy\u003cbr/\u003e\u0026amp; Industrial Strategy"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "split",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  ""
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Department for Business, Energy \u0026 Industrial Strategy",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related_guides":  [
+                                         {
+                                             "api_path":  "/api/content/guidance/innovation-funding-for-low-carbon-technologies-opportunities-for-bidders",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/innovation-funding-for-low-carbon-technologies-opportunities-for-bidders",
+                                             "base_path":  "/guidance/innovation-funding-for-low-carbon-technologies-opportunities-for-bidders",
+                                             "content_id":  "5c83ecdb-7631-11e4-a3cb-005056011aef",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2016-09-13T08:00:26Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Innovation funding opportunities for low-carbon technologies: 2010 to 2015",
+                                             "web_url":  "https://www.gov.uk/guidance/innovation-funding-for-low-carbon-technologies-opportunities-for-bidders",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/policy-impacts-on-prices-and-bills",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/policy-impacts-on-prices-and-bills",
+                                             "base_path":  "/guidance/policy-impacts-on-prices-and-bills",
+                                             "content_id":  "5d298bd4-7631-11e4-a3cb-005056011aef",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2014-11-06T10:35:48Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Policy impacts on prices and bills",
+                                             "web_url":  "https://www.gov.uk/guidance/policy-impacts-on-prices-and-bills",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/international-outreach-work-of-the-2050-calculator",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/international-outreach-work-of-the-2050-calculator",
+                                             "base_path":  "/guidance/international-outreach-work-of-the-2050-calculator",
+                                             "content_id":  "5d5f8ee1-7631-11e4-a3cb-005056011aef",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2023-08-29T11:53:26Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "International outreach work of the 2050 Calculator",
+                                             "web_url":  "https://www.gov.uk/guidance/international-outreach-work-of-the-2050-calculator",
+                                             "withdrawn":  false
+                                         }
+                                     ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/2050-calculator-costs-inclusion-results-and-methodology",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/2050-calculator-costs-inclusion-results-and-methodology",
+                                                              "base_path":  "/government/publications/2050-calculator-costs-inclusion-results-and-methodology",
+                                                              "content_id":  "5d2a75a1-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "policy_paper",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2011-12-01T00:00:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "2050 calculator costs inclusion: results and methodology",
+                                                              "web_url":  "https://www.gov.uk/government/publications/2050-calculator-costs-inclusion-results-and-methodology",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/international-outreach-work-of-the-2050-calculator",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/international-outreach-work-of-the-2050-calculator",
+                                                              "base_path":  "/guidance/international-outreach-work-of-the-2050-calculator",
+                                                              "content_id":  "5d5f8ee1-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2023-08-29T11:53:26Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "International outreach work of the 2050 Calculator",
+                                                              "web_url":  "https://www.gov.uk/guidance/international-outreach-work-of-the-2050-calculator",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/environment/climate-change-energy-emissions",
+                                     "api_url":  "https://www.gov.uk/api/content/environment/climate-change-energy-emissions",
+                                     "base_path":  "/environment/climate-change-energy-emissions",
+                                     "content_id":  "b1f50b85-b576-4273-95ef-49b80825a882",
+                                     "details":  {
+                                                     "internal_name":  "Emissions and emissions trading [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/environment/climate-change-energy",
+                                                                             "api_url":  "https://www.gov.uk/api/content/environment/climate-change-energy",
+                                                                             "base_path":  "/environment/climate-change-energy",
+                                                                             "content_id":  "62e08e6f-9161-42c6-b9dd-0cf8fcab2c69",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Climate change and energy (level 2, content from policy areas)",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/environment",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/environment",
+                                                                                                                     "base_path":  "/environment",
+                                                                                                                     "content_id":  "3cf97f69-84de-41ae-bc7b-7e2cc238fa58",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Environment",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T13:39:00Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Environment",
+                                                                                                                     "web_url":  "https://www.gov.uk/environment",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-05T16:13:08Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Climate change and energy",
+                                                                             "web_url":  "https://www.gov.uk/environment/climate-change-energy",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-05T16:13:09Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Emissions and emissions trading",
+                                     "web_url":  "https://www.gov.uk/environment/climate-change-energy-emissions",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/environment/greenhouse-gas-emissions",
+                                     "api_url":  "https://www.gov.uk/api/content/environment/greenhouse-gas-emissions",
+                                     "base_path":  "/environment/greenhouse-gas-emissions",
+                                     "content_id":  "2b15ade6-cfcb-4088-bcde-0ab4e29c26ac",
+                                     "details":  {
+                                                     "internal_name":  "Greenhouse gas emissions [P]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/environment/climate-change-energy",
+                                                                             "api_url":  "https://www.gov.uk/api/content/environment/climate-change-energy",
+                                                                             "base_path":  "/environment/climate-change-energy",
+                                                                             "content_id":  "62e08e6f-9161-42c6-b9dd-0cf8fcab2c69",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Climate change and energy (level 2, content from policy areas)",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/environment",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/environment",
+                                                                                                                     "base_path":  "/environment",
+                                                                                                                     "content_id":  "3cf97f69-84de-41ae-bc7b-7e2cc238fa58",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Environment",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T13:39:00Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Environment",
+                                                                                                                     "web_url":  "https://www.gov.uk/environment",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-05T16:13:08Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Climate change and energy",
+                                                                             "web_url":  "https://www.gov.uk/environment/climate-change-energy",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-05T16:13:08Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Greenhouse gas emissions",
+                                     "web_url":  "https://www.gov.uk/environment/greenhouse-gas-emissions",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2013-01-23T16:52:10+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1713905576.040-10.13.27.83-628",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "2050 Pathways",
+    "updated_at":  "2024-07-29T10:32:26+01:00",
+    "withdrawn_notice":  {
+                             "explanation":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eThis page relates to the original UK 2050 calculator launched in 2010, when the UK target was for an 80% reduction in greenhouse gas emissions by 2050.\u003c/p\u003e\n\n\u003cp\u003eIn 2020, BEIS launched an updated 2050 calculator, the \u003ca href=\"https://www.gov.uk/guidance/carbon-calculator\" class=\"govuk-link\"\u003eMacKay Carbon Calculator\u003c/a\u003e, which can be used to create pathways to net zero.\u003c/p\u003e\n\u003c/div\u003e",
+                             "withdrawn_at":  "2021-04-29T14:17:52Z"
+                         }
+}

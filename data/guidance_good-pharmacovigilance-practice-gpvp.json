@@ -1,0 +1,597 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/good-pharmacovigilance-practice-gpvp",
+    "content_id":  "5ef476d3-7631-11e4-a3cb-005056011aef",
+    "description":  " Comply with good pharmacovigilance practice and prepare for an inspection.",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "webupdates@mhra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.ms-powerpoint",
+                                            "file_size":  877568,
+                                            "filename":  "Common_inspection_findings.ppt",
+                                            "id":  "5033652",
+                                            "title":  "Common inspection findings and inspections post-July 2012",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7ca43aed915d12ab4bc291/Common_inspection_findings.ppt"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "webupdates@mhra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.ms-powerpoint",
+                                            "file_size":  808448,
+                                            "filename":  "Responding_to_inspection_findings.ppt",
+                                            "id":  "5033653",
+                                            "title":  "Responding to inspection findings ",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7cafe840f0b6629523b2eb/Responding_to_inspection_findings.ppt"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "webupdates@mhra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  197044,
+                                            "filename":  "MHRA_good_pharmacovigilance_practice_RBI_questionnaire___December_2013.xlsx",
+                                            "id":  "5033654",
+                                            "title":  "MHRA good pharmacovigilance practice RBI questionnaire – December 2013",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7c7cceed915d6969f4537d/MHRA_good_pharmacovigilance_practice_RBI_questionnaire___December_2013.xlsx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "webupdates@mhra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  389986,
+                                            "filename":  "Responding_to_inspection_findings_Oct_2013.pdf",
+                                            "id":  "5033655",
+                                            "number_of_pages":  13,
+                                            "title":  "Guidance for responding to inspection findings",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7f7e0340f0b62305b87799/Responding_to_inspection_findings_Oct_2013.pdf"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cdiv class=\"call-to-action\"\u003e\n  \u003ch2 id=\"gxp-inspections-and-coronavirus-covid-19\"\u003e(GxP) inspections and coronavirus COVID-19)\u003c/h2\u003e\n  \u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/guidance-for-industry-on-mhras-expectations-for-return-to-uk-on-site-inspections\" class=\"govuk-link\"\u003eInformation on new arrangements for inspections\u003c/a\u003e during the coronavirus (COVID-19) outbreak.\u003c/p\u003e\n\u003c/div\u003e\n\n\u003ch2 id=\"overview\"\u003eOverview\u003c/h2\u003e\n\n\u003cp\u003eGood Pharmacovigilance Practice (\u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e) is the minimum standard for monitoring the safety of medicines on sale to the public in the UK.\u003c/p\u003e\n\n\u003cp\u003eThe \u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e inspects marketing authorisation holders (\u003cabbr title=\"Marketing Authorisation Holder\"\u003eMAH\u003c/abbr\u003e) to determine whether they comply with pharmacovigilance obligations established within the UK.  We have been conducting statutory \u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e inspections since 2003, and any UK \u003cabbr title=\"Marketing Authorisation Holder\"\u003eMAH\u003c/abbr\u003e or marketing authorisation applicant (for any authorisation procedure) can be subject to \u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e inspection by \u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e, which may also include any of their partners or service providers.\u003c/p\u003e\n\n\u003cp\u003eIf pharmacovigilance activities are performed outside the UK, the \u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e may ask company personnel from other country sites to participate in an inspection at a UK site and/or may liaise with inspectorates in other regulatory agencies to perform an inspection at site(s) in their country or to share results from recent inspections, where confidentiality agreements are in place.\u003c/p\u003e\n\n\u003ch2 id=\"types-of-inspection\"\u003eTypes of inspection\u003c/h2\u003e\n\n\u003cp\u003eInspections are typically scheduled by pharmacovigilance system, product or post-authorisation safety study, rather  than by \u003cabbr title=\"Marketing Authorisation Holder\"\u003eMAH\u003c/abbr\u003e.  A pharmacovigilance system is defined as the system used by an organisation to fulfil its legal tasks and responsibilities in relation to pharmacovigilance and designed to monitor the safety of authorised medicinal products and detect any change to their risk-benefit balance.\u003c/p\u003e\n\n\u003cp\u003eIf a group of associated MAHs share the same pharmacovigilance system, all MAHs may be included within the scope of a single inspection of that pharmacovigilance system.  Conversely, if an \u003cabbr title=\"Marketing Authorisation Holder\"\u003eMAH\u003c/abbr\u003e operates more than one pharmacovigilance system, we usually review these through separate inspections.\u003c/p\u003e\n\n\u003ch3 id=\"routine-national-inspections\"\u003eRoutine national inspections\u003c/h3\u003e\n\n\u003cp\u003e\u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e inspections are scheduled as part of the \u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e’s national inspection programme according to a risk-based approach, largely founded on the risk factors listed in EU statutory guidance (Good Vigilance Practice (GVP) Module III), as modified by the \u003ca href=\"https://www.gov.uk/government/publications/exceptions-and-modifications-to-the-eu-guidance-on-good-pharmacovigilance-practices-that-will-apply-to-uk-mahs-and-the-mhra\" class=\"govuk-link\"\u003eExceptions and modifications to EU guidance on good pharmacovigilance practices that apply to UK MAHs and the licensing authority\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eThe \u003cabbr title=\"Marketing Authorisation Holder\"\u003eMAH\u003c/abbr\u003e is usually notified of these inspections in advance.\u003c/p\u003e\n\n\u003cp\u003eFor inspections that cover products authorised in respect of Northern Ireland, our \u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e inspectorate shares the list of planned and conducted UK national inspections with the EMA and this is made available to all Eu Member States.\u003c/p\u003e\n\n\u003cp\u003eIf an inspection results in a critical finding it is likely the \u003cabbr title=\"Marketing Authorisation Holder\"\u003eMAH\u003c/abbr\u003e will be subject to a triggered re-inspection within 12 to 18 months, with a focus on the actions that were agreed following the last inspection.\u003c/p\u003e\n\n\u003cp\u003eIf no critical findings are identified there is no specific timeline by which an \u003cabbr title=\"Marketing Authorisation Holder\"\u003eMAH\u003c/abbr\u003e must be inspected again. The frequency of inspection will be decided using the risk-based approach, and an inspection may be performed at any time.\u003c/p\u003e\n\n\u003cp\u003eAs of 2016, we no longer require routine \u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e compliance reports to be submitted by MAHs, which were previously used to inform our risk-based inspection programme, as we now have access to a variety of information sources that can support our scheduling and planning activities.\u003c/p\u003e\n\n\u003cp\u003eOccasionally, an organisation may be specifically requested to provide information relating to their authorisations and pharmacovigilance systems. Should this information be required, the \u003cabbr title=\"Marketing Authorisation Holder\"\u003eMAH\u003c/abbr\u003e will be contacted directly by the \u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e Inspectorate.\u003c/p\u003e\n\n\u003ch3 id=\"triggered-inspections\"\u003eTriggered inspections\u003c/h3\u003e\n\n\u003cp\u003e\u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e may perform a triggered inspection of an \u003cabbr title=\"Marketing Authorisation Holder\"\u003eMAH\u003c/abbr\u003e in response to receiving specific risk information.  For example, if we’re informed about possible \u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e breaches by:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ea whistleblower\u003c/li\u003e\n  \u003cli\u003eother \u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e departments\u003c/li\u003e\n  \u003cli\u003eanother regulatory authority\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eWe may send little or no notification of these inspections in advance.\u003c/p\u003e\n\n\u003ch3 id=\"pre-authorisation-inspections\"\u003ePre-authorisation inspections\u003c/h3\u003e\n\n\u003cp\u003eThe majority of \u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e \u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e inspections are performed in the post-authorisation phase of the product life cycle.  However, there are scenarios where pre-authorisation \u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e inspections of applicants for marketing authorisations are warranted and the objective of these inspections is to assess whether the applicant has the ability to comply with post-authorisation pharmacovigilance obligations.\u003c/p\u003e\n\n\u003ch3 id=\"service-provider-inspections\"\u003eService Provider inspections\u003c/h3\u003e\n\n\u003cp\u003eIncreasingly, MAHs are outsourcing all or some of their pharmacovigilance activities to contract service providers; such activities conducted by these organisations on behalf of MAHs are subject to supervision by \u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e, including by means of inspection.\u003c/p\u003e\n\n\u003cp\u003eFollowing a pilot programme of stand-alone service provider inspections, we concluded that a routine programme of inspections of pharmacovigilance service providers is not currently viable for the \u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e \u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e inspectorate.\u003c/p\u003e\n\n\u003cp\u003eWe continue to assess the activities performed by service providers in the context of \u003cabbr title=\"Marketing Authorisation Holder\"\u003eMAH\u003c/abbr\u003e inspections. We may conduct stand-alone inspections of these organisations where it is deemed necessary to evaluate the overall system and procedures implemented by a service provider based on risk information available to the \u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e.\u003c/p\u003e\n\n\u003cp\u003eContracts with pharmacovigilance service providers should include provisions that cover the availability of data, documentation and appropriate support to the \u003cabbr title=\"Marketing Authorisation Holder\"\u003eMAH\u003c/abbr\u003e and inspectors during a \u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e inspection.\u003c/p\u003e\n\n\u003ch2 id=\"working-with-other-regulators\"\u003eWorking with other regulators\u003c/h2\u003e\n\n\u003cp\u003e\u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e \u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e inspection reports that cover products authorised in respect of Northern Ireland are shared with the EMA and EU/European Economic Area (EEA) Member States. Similarly, \u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e \u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e inspectors have access to inspection reports from other EEA member states. This information is taken account of when planning our inspections.\u003c/p\u003e\n\n\u003cp\u003eIt’s important to note that a pharmacovigilance inspection by us at a site in the UK does not preclude other EU/EEA Member States from performing pharmacovigilance inspections at sites in their own country or in third countries (to fulfil national statutory obligations).\u003c/p\u003e\n\n\u003cp\u003eOther EU/EEA competent authorities can contact the \u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e if they wish a site to be inspected in the UK.\u003c/p\u003e\n\n\u003cp\u003eLooking further afield, Agency level agreements are in place to enable discussion of topics of mutual interest with several non-EU authorities and we have conducted \u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e inspections in non-EU countries such as Japan, USA and India.\u003c/p\u003e\n\n\u003ch2 id=\"preparing-for-a-gpvp-inspection\"\u003ePreparing for a \u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e inspection\u003c/h2\u003e\n\n\u003ch3 id=\"inspection-notification\"\u003eInspection notification\u003c/h3\u003e\n\n\u003cp\u003eThe majority of \u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e inspections are announced and are typically scheduled on a quarterly basis.  As part of the inspection notification, the pharmacovigilance system master file (\u003cabbr title=\"Pharmacovigilance system master file\"\u003ePSMF\u003c/abbr\u003e) will be requested.  You must acknowledge you have received the notification and provide details of the relevant contact person for future correspondence about the inspection.\u003c/p\u003e\n\n\u003cp\u003eIf you have concerns about the authenticity of a notification, contact \u003ca href=\"mailto:gpvpinspections@mhra.gov.uk\" class=\"govuk-link\"\u003egpvpinspections@mhra.gov.uk\u003c/a\u003e\u003c/p\u003e\n\n\u003ch3 id=\"pre-inspection-documents\"\u003ePre-inspection documents\u003c/h3\u003e\n\n\u003cp\u003ePrior to the inspection the lead inspector will contact the \u003cabbr title=\"Marketing Authorisation Holder\"\u003eMAH\u003c/abbr\u003e and \u003cabbr title=\"Qualified person for pharmacovigilance\"\u003eQPPV\u003c/abbr\u003e and provide the draft plan as well as any specific requirements of the team.  In addition to the \u003cabbr title=\"Pharmacovigilance system master file\"\u003ePSMF\u003c/abbr\u003e, inspectors may require supplementary information to confirm the scope of the inspection and to be well prepared.  The lead inspector will explain how our document request system works.\u003c/p\u003e\n\n\u003cp\u003eMAHs can expect to receive requests for documentation prior to the inspection and throughout.  Where substantial document review is required prior to the inspection, inspectors may incorporate remote inspection time in to the inspection plan.\u003c/p\u003e\n\n\u003cp\u003eWe expect any documents listed in the \u003cabbr title=\"Pharmacovigilance system master file\"\u003ePSMF\u003c/abbr\u003e to be readily available for inspection.  This includes (but is not limited to):\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eprocedural documents (such as SOPs, working instructions and guides)\u003c/li\u003e\n  \u003cli\u003eoutputs from pharmacovigilance activities such as safety review meeting minutes and documented product safety reviews\u003c/li\u003e\n  \u003cli\u003eaudit risk assessments\u003c/li\u003e\n  \u003cli\u003eagreements in place with partners and service providers\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"inspection-location\"\u003eInspection location\u003c/h3\u003e\n\n\u003cp\u003eTo achieve the objectives for the inspection, inspectors will aim to be flexible with the plan and to accommodate changes, if possible.  It is always preferable to conduct face to face interviews, however the inspection team can accommodate interviews by telephone/videoconference if interviewees are unable to attend the site, provided facilities are adequate to support this.\u003c/p\u003e\n\n\u003cp\u003eIf the \u003cabbr title=\"Marketing Authorisation Holder\"\u003eMAH\u003c/abbr\u003e does not have a UK site and is using a vendor site or hiring office space for the inspection, consideration should be taken to ensure access to WIFI and teleconference facilities (if required) throughout the inspection, as well as prompt access to printing and copying facilities, and access to all electronic documentation and systems including the live safety database.  The inspection will typically require the use of at least one main inspection room and the company may wish to have a ‘back-room’ for the preparation of document requests.\u003c/p\u003e\n\n\u003ch3 id=\"remote-inspections\"\u003eRemote inspections\u003c/h3\u003e\n\n\u003cp\u003eRoutine and triggered inspections may be conducted by inspectors remotely. These inspections are conducted through review of requested documents including evidence to support pharmacovigilance activities and submissions. The document review is supplemented with telephone interviews with relevant subject matter experts and written responses to specific queries. Logistical aspects of the inspection, including timings and availability of specific subject matter experts and the \u003cabbr title=\"Qualified person for pharmacovigilance\"\u003eQPPV\u003c/abbr\u003e for telephone/videoconference interview, are arranged with the inspected organisation prior to the inspection. An onsite inspection may be triggered following the remote inspection, should any significant non-compliance or concerns that require further investigation be identified.\u003c/p\u003e\n\n\u003ch3 id=\"unannounced-inspections\"\u003eUnannounced inspections\u003c/h3\u003e\n\n\u003cp\u003eOn rare occasions, inspections may be conducted unannounced.  Under UK law, an inspector acting on behalf of the \u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e (as licensing authority) has the right, at any reasonable time, to enter premises (not limited to those of the \u003cabbr title=\"Marketing Authorisation Holder\"\u003eMAH\u003c/abbr\u003e) to determine if there has been a contravention of the regulations laid out in SI 2012 No 1916 as amended (per Regulation 325) and the right to inspect information and documents relating the requirements for pharmacovigilance laid out in Part 11 of SI 2012 No 1916 (as per Regulation 327).\u003c/p\u003e\n\n\u003cp\u003eIn short, although rarely done, the \u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e \u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e inspectorate can arrive at, and enter UK sites relating to the conduct of pharmacovigilance activities without notifying the \u003cabbr title=\"Marketing Authorisation Holder\"\u003eMAH\u003c/abbr\u003e first.  In this instance, on arrival at site the lead inspector will identify the most appropriate person on site as a point of contact and will explain the purpose and logistics of the inspection.\u003c/p\u003e\n\n\u003ch2 id=\"the-inspection\"\u003eThe inspection\u003c/h2\u003e\n\n\u003cp\u003eDuring an inspection the inspection team may:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003econduct site visits\u003c/li\u003e\n  \u003cli\u003einterview relevant personnel\u003c/li\u003e\n  \u003cli\u003ereview documents\u003c/li\u003e\n  \u003cli\u003ecarry out computer system reviews including searching pharmacovigilance databases\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe inspection team will ask for additional documentation during the inspection. They may also change the focus of the inspection if they suspect serious non-compliance.\u003c/p\u003e\n\n\u003ch3 id=\"the-team-and-inspection-duration\"\u003eThe team and inspection duration\u003c/h3\u003e\n\n\u003cp\u003eInspection teams are comprised of between one to four inspectors, spending between two and five days on site.  This can vary based on the type of products marketed by the company, the complexity of the pharmacovigilance system and the type of inspection (for example routine or, triggered).\u003c/p\u003e\n\n\u003cp\u003eOccasionally observers may also be present at our inspections. This may include representatives from the \u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e’s Vigilance and Risk Management of Medicines (VRMM) division and Enforcement Groups or other regulatory authority inspectorates.\u003c/p\u003e\n\n\u003cp\u003eThe \u003cabbr title=\"Pharmacovigilance system master file\"\u003ePSMF\u003c/abbr\u003e is used as a tool in determining the resource required to perform the inspection, however this can be subject to change and inspections may be extended at short notice based on arising issues.\u003c/p\u003e\n\n\u003cp\u003eExtension to inspections may take the form of office-based review of documentation following the on-site inspection, or a return to the inspection site for additional days.  This would be communicated to the \u003cabbr title=\"Marketing Authorisation Holder\"\u003eMAH\u003c/abbr\u003e at the time along with the rationale for extending the inspection.\u003c/p\u003e\n\n\u003ch3 id=\"inspection-conduct\"\u003eInspection conduct\u003c/h3\u003e\n\n\u003cp\u003eInspectors normally interview operational personnel that are involved in pharmacovigilance activities or activities associated with pharmacovigilance including regulatory affairs, and management of post-authorisation safety studies.\u003c/p\u003e\n\n\u003cp\u003eIf considered necessary, for example if serious issues are identified relating to a business area, it might be necessary to interview a senior executive and senior executive(s) might be requested to attend the closing meeting.\u003c/p\u003e\n\n\u003cp\u003eThe inspectors typically discuss issues with the \u003cabbr title=\"Marketing Authorisation Holder\"\u003eMAH\u003c/abbr\u003e as they arise during the inspection to allow for clarification.  For this reason, inspectors do not provide daily summaries or ‘wrap ups’ until the closing meeting at end of the inspection.  At the closing meeting the inspector will provide verbal feedback and discuss any deficiencies and actions required after the inspection with the \u003cabbr title=\"Marketing Authorisation Holder\"\u003eMAH\u003c/abbr\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"inspection-fees\"\u003eInspection fees\u003c/h2\u003e\n\n\u003cp\u003eThe inspected party will be invoiced following the inspection.\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/government/publications/mhra-fees/current-mhra-fees#inspection-fees\" class=\"govuk-link\"\u003eFees for inspections\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/make-a-payment-to-mhra\" class=\"govuk-link\"\u003eMake a payment to \u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e\u003c/a\u003e\u003c/p\u003e\n\n\u003ch2 id=\"inspection-outcomes\"\u003eInspection outcomes\u003c/h2\u003e\n\n\u003ch3 id=\"grading-of-inspection-outcomes\"\u003eGrading of inspection outcomes\u003c/h3\u003e\n\n\u003cp\u003eDeficiencies found during inspections are graded at three levels.\u003c/p\u003e\n\n\u003ch4 id=\"critical\"\u003eCritical\u003c/h4\u003e\n\n\u003cp\u003eA deficiency in pharmacovigilance systems, practices or processes that adversely affects the rights, safety or well-being of patients or that poses a potential risk to public health or that represents a serious violation of applicable legislation and guidelines.\u003c/p\u003e\n\n\u003ch4 id=\"major\"\u003eMajor\u003c/h4\u003e\n\n\u003cp\u003eA deficiency in pharmacovigilance systems, practices or processes that could potentially adversely affect the rights, safety or well-being of patients or that could potentially pose a risk to public health or that represents a violation of applicable legislation and guidelines.\u003c/p\u003e\n\n\u003ch4 id=\"minor\"\u003eMinor\u003c/h4\u003e\n\n\u003cp\u003eA deficiency in pharmacovigilance systems, practices or processes that would not be expected to adversely affect the rights, safety or wellbeing of patients.\u003c/p\u003e\n\n\u003ch3 id=\"routine-inspection-outcomes\"\u003eRoutine inspection outcomes\u003c/h3\u003e\n\n\u003cp\u003eFollowing the inspection, the lead inspector will hold a closing meeting to outline observations from the inspection and clarify logistics for the next stage of the inspection process.  There may be outstanding documentation to receive and to review following the inspection.  The inspection report will be written, usually peer reviewed, and provided to the \u003cabbr title=\"Marketing Authorisation Holder\"\u003eMAH\u003c/abbr\u003e within 25 working days of the closure of the inspection or receipt of the last document, whichever comes last.\u003c/p\u003e\n\n\u003cp\u003eOn receipt of the inspection report, the \u003cabbr title=\"Marketing Authorisation Holder\"\u003eMAH\u003c/abbr\u003e has the opportunity to formally respond to the inspection report in writing, using the template and instructions provided. The responses should consist of a root cause analysis, a further assessment of the impact of each of the findings and proposed corrective and preventative actions (\u003cabbr title=\"Corrective action, preventative action\"\u003eCAPA\u003c/abbr\u003e) with associated deliverables and due dates. The \u003cabbr title=\"Marketing Authorisation Holder\"\u003eMAH\u003c/abbr\u003e will have 25 working days to provide the responses to the lead inspector.  Please see \u003ca href=\"https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/444569/Responding_to_inspection_findings_Oct_2013.pdf\" class=\"govuk-link\"\u003eguidance for responding to inspection findings\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eThe lead inspector will review proposed actions and may request clarifications until satisfactory responses can be agreed upon.  This can take the form of written requests for clarification, discussions via teleconference or, less commonly, a face to face meeting.  Once agreed, a final inspection report will be sent to the \u003cabbr title=\"Marketing Authorisation Holder\"\u003eMAH\u003c/abbr\u003e and the inspection will be closed.  The lead inspector will typically work with the \u003cabbr title=\"Marketing Authorisation Holder\"\u003eMAH\u003c/abbr\u003e to reach agreed actions that will bring the \u003cabbr title=\"Marketing Authorisation Holder\"\u003eMAH\u003c/abbr\u003e’s pharmacovigilance system into compliance.\u003c/p\u003e\n\n\u003cp\u003eIt is expected that MAHs will share inspection reports with their service providers so that they may assess the impact of any inspection findings relating to their activities for the \u003cabbr title=\"Marketing Authorisation Holder\"\u003eMAH\u003c/abbr\u003e across their wider client base and remediate where required.\u003c/p\u003e\n\n\u003ch3 id=\"non-routine-inspection-outcomes\"\u003eNon-routine inspection outcomes\u003c/h3\u003e\n\n\u003ch4 id=\"escalation-to-gpvp-compliance-management-team-cmt\"\u003eEscalation to \u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e Compliance Management Team (\u003cabbr title=\"Compliance Management Team\"\u003eCMT\u003c/abbr\u003e)\u003c/h4\u003e\n\n\u003cp\u003eThe \u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e \u003cabbr title=\"Compliance Management Team\"\u003eCMT\u003c/abbr\u003e is a non-statutory group constituted to coordinate and advise the \u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e inspectorate on compliance management issues following an inspection or detection from other intelligence sources; recommendations for referrals to \u003cabbr title=\"Inspection Action Group for clinical trials and pharmacovigilance\"\u003eIAG2\u003c/abbr\u003e for action (see below); recommendations for enforcement action.\u003c/p\u003e\n\n\u003cp\u003eCases considered by the \u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e \u003cabbr title=\"Compliance Management Team\"\u003eCMT\u003c/abbr\u003e include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eall critical inspection findings from \u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e \u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e inspections\u003c/li\u003e\n  \u003cli\u003efindings from \u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e \u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e inspections that require referral to the EMA’s Pharmacovigilance Risk Assessment Committee (PRAC) due to concerns about, or the impact of non-compliance on, the safety of a product authorised in respect of Northern Ireland\u003c/li\u003e\n  \u003cli\u003eorganisations that have not had critical findings but where there are major findings that are at high risk of developing into critical issues (for example due to the management culture or a history of poor \u003cabbr title=\"Corrective action, preventative action\"\u003eCAPA\u003c/abbr\u003e management)\u003c/li\u003e\n  \u003cli\u003ecritical (or comparatively graded) findings arising from non-\u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e inspections, to assess any risk to UK public health and patient safety, compliance with national requirements and the need for specific UK remediation\u003c/li\u003e\n  \u003cli\u003ereferrals of known or suspected non-compliance with pharmacovigilance obligations from internal or external sources\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFor \u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e \u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e inspections that have not initially resulted in a referral to the \u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e \u003cabbr title=\"Compliance Management Team\"\u003eCMT\u003c/abbr\u003e, the lead inspector may refer the case to the \u003cabbr title=\"Compliance Management Team\"\u003eCMT\u003c/abbr\u003e if the responses to the inspection report are considered inadequate despite requests for clarification.\u003c/p\u003e\n\n\u003ch4 id=\"escalation-to-inspection-action-group-iag2\"\u003eEscalation to Inspection Action Group (\u003cabbr title=\"Inspection Action Group for clinical trials and pharmacovigilance\"\u003eIAG2\u003c/abbr\u003e)\u003c/h4\u003e\n\n\u003cp\u003eThere are two \u003ca href=\"https://www.gov.uk/government/groups/inspection-action-groups\" class=\"govuk-link\"\u003eInspection Action Groups (IAG)\u003c/a\u003e at \u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e, \u003cabbr title=\"Inspection Action Group for clinical trials and pharmacovigilance\"\u003eIAG2\u003c/abbr\u003e covers clinical trials of investigational medicinal products and the pharmacovigilance activities of MAHs and advises the directors of the Inspections, Enforcement and Standards (IE\u0026amp;S) and Vigilance and Risk Management of Medicines (VRMM) divisions, where appropriate.\u003c/p\u003e\n\n\u003cp\u003eWhere recommended by \u003cabbr title=\"Compliance Management Team\"\u003eCMT\u003c/abbr\u003e, cases will be referred to \u003cabbr title=\"Inspection Action Group for clinical trials and pharmacovigilance\"\u003eIAG2\u003c/abbr\u003e for action or for information. \u003cabbr title=\"Inspection Action Group for clinical trials and pharmacovigilance\"\u003eIAG2\u003c/abbr\u003e meets regularly to deal with ongoing business and to consider new referrals. Criteria to be met for making referrals to the \u003cabbr title=\"Inspection Action Group for clinical trials and pharmacovigilance\"\u003eIAG2\u003c/abbr\u003e in relation to pharmacovigilance inspections include, but are not limited to:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003econditions that are likely to cause or lead to a significant risk to public health\u003c/li\u003e\n  \u003cli\u003ean inspection identifies one or more unresolved critical deficiencies\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eEarly re-inspection has been the most common recommendation made by \u003cabbr title=\"Inspection Action Group for clinical trials and pharmacovigilance\"\u003eIAG2\u003c/abbr\u003e to date.  In most cases adequate progress has been observed on re-inspection; in some cases, a further re-inspection has been required and a minority of cases have been referred back to \u003cabbr title=\"Inspection Action Group for clinical trials and pharmacovigilance\"\u003eIAG2\u003c/abbr\u003e for consideration of other actions, which may include meetings with \u003cabbr title=\"Marketing Authorisation Holder\"\u003eMAH\u003c/abbr\u003e senior representatives to discuss the issues and consequences of continued non-compliance.\u003c/p\u003e\n\n\u003cp\u003eThe daily rate inspection fee includes preparation for, reporting and close-out of the inspection. Inspections with critical findings or other significant non-compliance requiring referral to the \u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e \u003cabbr title=\"Compliance Management Team\"\u003eCMT\u003c/abbr\u003e and/or \u003cabbr title=\"Inspection Action Group for clinical trials and pharmacovigilance\"\u003eIAG2\u003c/abbr\u003e may require the inspector(s) to spend additional time beyond that covered by the daily rate overseeing the adequacy of the company’s \u003cabbr title=\"Corrective action, preventative action\"\u003eCAPA\u003c/abbr\u003e and the company’s return to compliance. For such inspections, an office-based inspection fee may be charged for this additional time spent by the inspector(s) on such activities (for example, reviewing \u003cabbr title=\"Corrective action, preventative action\"\u003eCAPA\u003c/abbr\u003e plans, impact assessments and periodic \u003cabbr title=\"Corrective action, preventative action\"\u003eCAPA\u003c/abbr\u003e status updates; and corresponding with the company in writing or by teleconference).\u003c/p\u003e\n\n\u003ch4 id=\"infringement-notices\"\u003eInfringement notices\u003c/h4\u003e\n\n\u003cp\u003eAn infringement notice may be issued when instances of serious or serious and persistent non-compliance with pharmacovigilance requirements have been identified.\u003c/p\u003e\n\n\u003cp\u003eCompanies who have been issued an infringement notice.\u003c/p\u003e\n\n\u003ctable\u003e\n  \u003cthead\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"col\"\u003eCompany name\u003c/th\u003e\n      \u003cth scope=\"col\"\u003eDate issued\u003c/th\u003e\n      \u003cth scope=\"col\"\u003eReason\u003c/th\u003e\n      \u003cth scope=\"col\"\u003eInfringement notice\u003c/th\u003e\n      \u003cth scope=\"col\"\u003eStatus\u003c/th\u003e\n    \u003c/tr\u003e\n  \u003c/thead\u003e\n  \u003ctbody\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eOmega Pharma Limited\u003c/td\u003e\n      \u003ctd\u003e9 October 2013\u003c/td\u003e\n      \u003ctd\u003eRegulatory action\u003c/td\u003e\n      \u003ctd\u003e\u003ca href=\"https://www.gov.uk/government/publications/infringement-notice-omega-pharma-limited\" class=\"govuk-link\"\u003eInfringement notice\u003c/a\u003e\u003c/td\u003e\n      \u003ctd\u003eClosed: \u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e has confirmed the measure set out in the infringement notice have been implemented successfully\u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e\n\n\u003ch2 id=\"inspection-metrics\"\u003eInspection metrics\u003c/h2\u003e\n\n\u003cp\u003eAnnual pharmacovigilance inspection metrics dating back to 2009 are \u003ca href=\"https://www.gov.uk/government/statistics/pharmacovigilance-inspection-metrics-2009-to-present\" class=\"govuk-link\"\u003epublished on the \u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e website\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eIn addition, anonymised findings from \u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e pharmacovigilance inspections are presented at \u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e symposia and other conferences attended by inspectors.  \u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e \u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e inspection reports are \u003ca href=\"https://www.gov.uk/government/publications/mhra-requests-under-the-freedom-of-information-act-foia\" class=\"govuk-link\"\u003eavailable on request under the freedom of information act\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"legislation-and-further-guidance\"\u003eLegislation and further guidance\u003c/h2\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"http://www.legislation.gov.uk/uksi/2012/1916/made\" class=\"govuk-link\"\u003eUK Human Medicines Regulations, Statutory Instrument 2012 No. 1916, Part 11 and Schedule 12A\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"http://ec.europa.eu/health/files/eudralex/vol-1/dir_2001_83_consol_2012/dir_2001_83_cons_2012_en.pdf\" class=\"govuk-link\"\u003eDirective 2001/83/EC as amended\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32004R0726\" class=\"govuk-link\"\u003eRegulation (EU) No. 726/2004 as amended\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:159:0005:0025:EN:PDF\" class=\"govuk-link\"\u003eCommission Implementing Regulation (EU) No. 520/2012\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"http://www.ema.europa.eu/ema/index.jsp?curl=pages/regulation/document_listing/document_listing_000345.jsp\" class=\"govuk-link\"\u003eGood pharmacovigilance practice modules\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eThe process for pharmacovigilance inspections is described in the \u003ca rel=\"external\" href=\"http://ec.europa.eu/health/files/eudralex/vol-9/pdf/vol9a_09-2008_en.pdf\" class=\"govuk-link\"\u003eGuideline on good pharmacovigilance practices (GVP) Module III (Pharmacovigilance inspections)\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/government/publications/exceptions-and-modifications-to-the-eu-guidance-on-good-pharmacovigilance-practices-that-will-apply-to-uk-mahs-and-the-mhra\" class=\"govuk-link\"\u003eExceptions and modifications to the EU guidance on good pharmacovigilance practices that apply to UK MAHs and the licensing authority\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"contacts\"\u003eContacts\u003c/h2\u003e\n\u003cp\u003eThe \u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e inspectorate welcomes ongoing feedback on the conduct of inspections. These can be sent to the \u003cabbr title=\"Good pharmacovigilance practice\"\u003eGPvP\u003c/abbr\u003e inspectorate’s mailbox: \u003ca href=\"mailto:gpvpinspectors@mhra.gov.uk\" class=\"govuk-link\"\u003egpvpinspectors@mhra.gov.uk\u003c/a\u003e\u003c/p\u003e\n\n\u003cdiv class=\"address\"\u003e\u003cdiv class=\"adr org fn\"\u003e\u003cp\u003e\n\nPharmacovigilance Inspectorate Unit \n\u003cbr\u003eMHRA \n\u003cbr\u003e10 South Colonnade, \n\u003cbr\u003eCanary Wharf, \n\u003cbr\u003eLondon E14 4PU\n\u003cbr\u003e\n\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e\n\n\u003cp\u003e020 3080 6000\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Updated to reflect changes to regulations following brexit transition.",
+                                               "public_timestamp":  "2021-01-11T15:47:57.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Added a single line confirming that in a no-deal Brexit, the MHRA’s GxP risk-based inspection programmes will remain unchanged. ",
+                                               "public_timestamp":  "2019-10-09T13:57:40.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Inserted \"Preparing for an inspection\" text",
+                                               "public_timestamp":  "2019-01-28T13:42:54.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Added a paragraph to the end of the Non-routine inspection outcomes section.",
+                                               "public_timestamp":  "2019-01-11T13:27:29.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Added additional information on what to expect from an inspection.",
+                                               "public_timestamp":  "2018-06-28T15:28:17.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Changed MHRA address.",
+                                               "public_timestamp":  "2018-06-18T16:01:26.000+01:00"
+                                           },
+                                           {
+                                               "note":  "New section on compliance report requirements",
+                                               "public_timestamp":  "2016-07-25T15:02:40.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2014-12-18T17:20:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "240f72bd-9a4d-4f39-94d9-77235cadde8e"
+                                                 ],
+                    "first_public_at":  "2014-12-18T17:20:00.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2014-12-18T17:20:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/good-pharmacovigilance-practice-gpvp",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/good-pharmacovigilance-practice-gpvp",
+                                                     "base_path":  "/guidance/good-pharmacovigilance-practice-gpvp",
+                                                     "content_id":  "5ef476d3-7631-11e4-a3cb-005056011aef",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2021-01-11T15:47:57Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Good pharmacovigilance practice (GPvP)",
+                                                     "web_url":  "https://www.gov.uk/guidance/good-pharmacovigilance-practice-gpvp",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/good-pharmacovigilance-practice-for-medicines-gpvp",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/good-pharmacovigilance-practice-for-medicines-gpvp",
+                                                   "base_path":  "/government/collections/good-pharmacovigilance-practice-for-medicines-gpvp",
+                                                   "content_id":  "57b67b41-32e1-49df-be97-9727d3ccfb6d",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/good-pharmacovigilance-practice-gpvp",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/good-pharmacovigilance-practice-gpvp",
+                                                                                       "base_path":  "/guidance/good-pharmacovigilance-practice-gpvp",
+                                                                                       "content_id":  "5ef476d3-7631-11e4-a3cb-005056011aef",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2021-01-11T15:47:57Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Good pharmacovigilance practice (GPvP)",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/good-pharmacovigilance-practice-gpvp",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2014-12-18T18:23:00Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Good pharmacovigilance practice for medicines (GPvP)",
+                                                   "web_url":  "https://www.gov.uk/government/collections/good-pharmacovigilance-practice-for-medicines-gpvp",
+                                                   "withdrawn":  false
+                                               },
+                                               {
+                                                   "api_path":  "/api/content/government/collections/medicines-good-practice",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/medicines-good-practice",
+                                                   "base_path":  "/government/collections/medicines-good-practice",
+                                                   "content_id":  "a0e586c1-5876-4cc4-a3b5-3c6066e7a36b",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/good-pharmacovigilance-practice-gpvp",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/good-pharmacovigilance-practice-gpvp",
+                                                                                       "base_path":  "/guidance/good-pharmacovigilance-practice-gpvp",
+                                                                                       "content_id":  "5ef476d3-7631-11e4-a3cb-005056011aef",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2021-01-11T15:47:57Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Good pharmacovigilance practice (GPvP)",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/good-pharmacovigilance-practice-gpvp",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2023-09-21T13:10:00Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Medicines: good practice",
+                                                   "web_url":  "https://www.gov.uk/government/collections/medicines-good-practice",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "base_path":  "/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "content_id":  "591c83aa-3b74-437d-a342-612bddd97572",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2015-05-08T00:00:00+00:00",
+                                                         "started_on":  "2010-05-12T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2010 to 2015 Conservative and Liberal Democrat coalition government",
+                                         "web_url":  "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government"
+                                     }
+                                 ],
+                  "lead_organisations":  [
+                                             {
+                                                 "analytics_identifier":  "EA63",
+                                                 "api_path":  "/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                 "api_url":  "https://www.gov.uk/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                 "base_path":  "/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                 "content_id":  "240f72bd-9a4d-4f39-94d9-77235cadde8e",
+                                                 "details":  {
+                                                                 "acronym":  "MHRA",
+                                                                 "brand":  "department-of-health",
+                                                                 "default_news_image":  null,
+                                                                 "logo":  {
+                                                                              "crest":  "single-identity",
+                                                                              "formatted_title":  "Medicines \u0026amp; Healthcare products\u003cbr/\u003eRegulatory Agency"
+                                                                          },
+                                                                 "organisation_govuk_status":  {
+                                                                                                   "status":  "live",
+                                                                                                   "updated_at":  null,
+                                                                                                   "url":  null
+                                                                                               }
+                                                             },
+                                                 "document_type":  "organisation",
+                                                 "links":  {
+
+                                                           },
+                                                 "locale":  "en",
+                                                 "schema_name":  "organisation",
+                                                 "title":  "Medicines and Healthcare products Regulatory Agency",
+                                                 "web_url":  "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                 "withdrawn":  false
+                                             }
+                                         ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "EA63",
+                                            "api_path":  "/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                            "base_path":  "/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                            "content_id":  "240f72bd-9a4d-4f39-94d9-77235cadde8e",
+                                            "details":  {
+                                                            "acronym":  "MHRA",
+                                                            "brand":  "department-of-health",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Medicines \u0026amp; Healthcare products\u003cbr/\u003eRegulatory Agency"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Medicines and Healthcare products Regulatory Agency",
+                                            "web_url":  "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA63",
+                                                                       "api_path":  "/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                                       "base_path":  "/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                                       "content_id":  "240f72bd-9a4d-4f39-94d9-77235cadde8e",
+                                                                       "details":  {
+                                                                                       "acronym":  "MHRA",
+                                                                                       "brand":  "department-of-health",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Medicines \u0026amp; Healthcare products\u003cbr/\u003eRegulatory Agency"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Medicines and Healthcare products Regulatory Agency",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "EA63",
+                                                              "api_path":  "/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                              "base_path":  "/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                              "content_id":  "240f72bd-9a4d-4f39-94d9-77235cadde8e",
+                                                              "details":  {
+                                                                              "acronym":  "MHRA",
+                                                                              "brand":  "department-of-health",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Medicines \u0026amp; Healthcare products\u003cbr/\u003eRegulatory Agency"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Medicines and Healthcare products Regulatory Agency",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related_guides":  [
+                                         {
+                                             "api_path":  "/api/content/guidance/good-manufacturing-practice-and-good-distribution-practice",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/good-manufacturing-practice-and-good-distribution-practice",
+                                             "base_path":  "/guidance/good-manufacturing-practice-and-good-distribution-practice",
+                                             "content_id":  "5f158c44-7631-11e4-a3cb-005056011aef",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2024-05-13T14:41:54Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Good manufacturing practice and good distribution practice",
+                                             "web_url":  "https://www.gov.uk/guidance/good-manufacturing-practice-and-good-distribution-practice",
+                                             "withdrawn":  false
+                                         }
+                                     ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/government/collections/good-pharmacovigilance-practice-for-medicines-gpvp",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/collections/good-pharmacovigilance-practice-for-medicines-gpvp",
+                                                              "base_path":  "/government/collections/good-pharmacovigilance-practice-for-medicines-gpvp",
+                                                              "content_id":  "57b67b41-32e1-49df-be97-9727d3ccfb6d",
+                                                              "document_type":  "document_collection",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2014-12-18T18:23:00Z",
+                                                              "schema_name":  "document_collection",
+                                                              "title":  "Good pharmacovigilance practice for medicines (GPvP)",
+                                                              "web_url":  "https://www.gov.uk/government/collections/good-pharmacovigilance-practice-for-medicines-gpvp",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/mhra-requests-under-the-freedom-of-information-act-foia",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/mhra-requests-under-the-freedom-of-information-act-foia",
+                                                              "base_path":  "/government/publications/mhra-requests-under-the-freedom-of-information-act-foia",
+                                                              "content_id":  "27152302-53c8-41ea-b6bb-aeda176fd1d3",
+                                                              "document_type":  "foi_release",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-01-10T09:04:15Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "MHRA: requests under the Freedom of Information Act (FOIA)",
+                                                              "web_url":  "https://www.gov.uk/government/publications/mhra-requests-under-the-freedom-of-information-act-foia",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/exceptions-and-modifications-to-the-eu-guidance-on-good-pharmacovigilance-practices-that-will-apply-to-uk-mahs-and-the-mhra",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/exceptions-and-modifications-to-the-eu-guidance-on-good-pharmacovigilance-practices-that-will-apply-to-uk-mahs-and-the-mhra",
+                                                              "base_path":  "/government/publications/exceptions-and-modifications-to-the-eu-guidance-on-good-pharmacovigilance-practices-that-will-apply-to-uk-mahs-and-the-mhra",
+                                                              "content_id":  "79cb8f46-8cda-46a3-a73f-ef254ee427ea",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-12-30T12:32:12Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Exceptions and modifications to the EU guidance on good pharmacovigilance practices that apply to UK MAHs and the MHRA",
+                                                              "web_url":  "https://www.gov.uk/government/publications/exceptions-and-modifications-to-the-eu-guidance-on-good-pharmacovigilance-practices-that-will-apply-to-uk-mahs-and-the-mhra",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/guidance-on-pharmacovigilance-procedures",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/guidance-on-pharmacovigilance-procedures",
+                                                              "base_path":  "/government/publications/guidance-on-pharmacovigilance-procedures",
+                                                              "content_id":  "e907abe9-266d-4fa5-8ff6-9b91b2791cdc",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2025-01-08T16:31:04Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Guidance on pharmacovigilance procedures",
+                                                              "web_url":  "https://www.gov.uk/government/publications/guidance-on-pharmacovigilance-procedures",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/guidance-on-qualified-person-responsible-for-pharmacovigilance-qppv-including-pharmacovigilance-system-master-files-psmf",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/guidance-on-qualified-person-responsible-for-pharmacovigilance-qppv-including-pharmacovigilance-system-master-files-psmf",
+                                                              "base_path":  "/guidance/guidance-on-qualified-person-responsible-for-pharmacovigilance-qppv-including-pharmacovigilance-system-master-files-psmf",
+                                                              "content_id":  "d3fe78e6-f1f5-48ff-acc9-5148331aa132",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2025-01-08T16:31:15Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Guidance on qualified person responsible for pharmacovigilance (QPPV) including pharmacovigilance system master files (PSMF)",
+                                                              "web_url":  "https://www.gov.uk/guidance/guidance-on-qualified-person-responsible-for-pharmacovigilance-qppv-including-pharmacovigilance-system-master-files-psmf",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/health-and-social-care/medicines-medical-devices-blood-good-practice",
+                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care/medicines-medical-devices-blood-good-practice",
+                                     "base_path":  "/health-and-social-care/medicines-medical-devices-blood-good-practice",
+                                     "content_id":  "326e92c5-253d-4ab9-bdef-bffa0985fa7b",
+                                     "details":  {
+                                                     "internal_name":  "Good practice, inspections and enforcement [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/health-and-social-care/medicines-medical-devices-blood",
+                                                                             "api_url":  "https://www.gov.uk/api/content/health-and-social-care/medicines-medical-devices-blood",
+                                                                             "base_path":  "/health-and-social-care/medicines-medical-devices-blood",
+                                                                             "content_id":  "cebc01ee-f70a-4397-a552-622e10b62508",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Medicines and medical devices [T] (level 2, health theme)",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/health-and-social-care",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care",
+                                                                                                                     "base_path":  "/health-and-social-care",
+                                                                                                                     "content_id":  "8124ead8-8ebc-4faf-88ad-dd5cbcc92ba8",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Health and social care",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:30:51Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Health and social care",
+                                                                                                                     "web_url":  "https://www.gov.uk/health-and-social-care",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2019-02-06T16:16:55Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Medicines, medical devices",
+                                                                             "web_url":  "https://www.gov.uk/health-and-social-care/medicines-medical-devices-blood",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-08-22T12:56:21Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Good practice, inspections and enforcement",
+                                     "web_url":  "https://www.gov.uk/health-and-social-care/medicines-medical-devices-blood-good-practice",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/health-and-social-care/medicines-medical-devices-blood-vigilance-safety-alerts",
+                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care/medicines-medical-devices-blood-vigilance-safety-alerts",
+                                     "base_path":  "/health-and-social-care/medicines-medical-devices-blood-vigilance-safety-alerts",
+                                     "content_id":  "49f5ab15-d6fe-4a8e-8e56-44878798e7d6",
+                                     "details":  {
+                                                     "internal_name":  "Vigilance, safety alerts and guidance [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/health-and-social-care/medicines-medical-devices-blood",
+                                                                             "api_url":  "https://www.gov.uk/api/content/health-and-social-care/medicines-medical-devices-blood",
+                                                                             "base_path":  "/health-and-social-care/medicines-medical-devices-blood",
+                                                                             "content_id":  "cebc01ee-f70a-4397-a552-622e10b62508",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Medicines and medical devices [T] (level 2, health theme)",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/health-and-social-care",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care",
+                                                                                                                     "base_path":  "/health-and-social-care",
+                                                                                                                     "content_id":  "8124ead8-8ebc-4faf-88ad-dd5cbcc92ba8",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Health and social care",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:30:51Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Health and social care",
+                                                                                                                     "web_url":  "https://www.gov.uk/health-and-social-care",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2019-02-06T16:16:55Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Medicines, medical devices",
+                                                                             "web_url":  "https://www.gov.uk/health-and-social-care/medicines-medical-devices-blood",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-08-22T12:56:18Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Vigilance, safety alerts and guidance",
+                                     "web_url":  "https://www.gov.uk/health-and-social-care/medicines-medical-devices-blood-vigilance-safety-alerts",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2021-01-11T15:47:57+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1713893581.639-10.13.27.83-628",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Good pharmacovigilance practice (GPvP)",
+    "updated_at":  "2025-01-08T16:31:16+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

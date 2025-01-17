@@ -1,0 +1,137 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/government/people/andrew-hall",
+    "content_id":  "9a7d3a78-8369-43dd-8f37-279082d00b96",
+    "description":  "Andrew has been with the Branch since its inception in 2004, was Deputy Chief Inspector from 2015 and was appointed Chief Inspector in 2022. His railway career before RAIB included a number of design and project engineering roles in the UK and overseas. Andrew is a graduate of Leeds University, a Chartered Engineer and a Fellow of the Institution of Engineering and Technology.",
+    "details":  {
+                    "body":  "\u003cp\u003eAndrew has been with the Branch since its inception in 2004, was Deputy Chief Inspector from 2015 and was appointed Chief Inspector in 2022.\u003c/p\u003e\n\n\u003cp\u003eHis railway career before RAIB included a number of design and project engineering roles in the UK and overseas.\u003c/p\u003e\n\n\u003cp\u003eAndrew is a graduate of Leeds University, a Chartered Engineer and a Fellow of the Institution of Engineering and Technology.\u003c/p\u003e\n",
+                    "full_name":  "Andrew Hall",
+                    "image":  {
+                                  "alt_text":  "Andrew Hall",
+                                  "url":  "https://assets.publishing.service.gov.uk/media/6246aa72e90e075f0e1447fd/s465_Andrew_Hall-GOVUK.jpg"
+                              },
+                    "privy_counsellor":  false
+                },
+    "document_type":  "person",
+    "first_published_at":  "2022-04-01T08:32:03+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/government/people/andrew-hall",
+                                                     "api_url":  "https://www.gov.uk/api/content/government/people/andrew-hall",
+                                                     "base_path":  "/government/people/andrew-hall",
+                                                     "content_id":  "9a7d3a78-8369-43dd-8f37-279082d00b96",
+                                                     "document_type":  "person",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2022-04-01T07:36:23Z",
+                                                     "schema_name":  "person",
+                                                     "title":  "Andrew Hall",
+                                                     "web_url":  "https://www.gov.uk/government/people/andrew-hall",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "role_appointments":  [
+                                            {
+                                                "content_id":  "0bf4dac6-3f1c-460e-b664-8d5247040615",
+                                                "details":  {
+                                                                "current":  true,
+                                                                "ended_on":  null,
+                                                                "person_appointment_order":  7608,
+                                                                "started_on":  "2022-04-01T00:00:00+01:00"
+                                                            },
+                                                "document_type":  "role_appointment",
+                                                "links":  {
+                                                              "person":  [
+                                                                             {
+                                                                                 "api_path":  "/api/content/government/people/andrew-hall",
+                                                                                 "api_url":  "https://www.gov.uk/api/content/government/people/andrew-hall",
+                                                                                 "base_path":  "/government/people/andrew-hall",
+                                                                                 "content_id":  "9a7d3a78-8369-43dd-8f37-279082d00b96",
+                                                                                 "details":  {
+                                                                                                 "body":  "\u003cp\u003eAndrew has been with the Branch since its inception in 2004, was Deputy Chief Inspector from 2015 and was appointed Chief Inspector in 2022.\u003c/p\u003e\n\n\u003cp\u003eHis railway career before RAIB included a number of design and project engineering roles in the UK and overseas.\u003c/p\u003e\n\n\u003cp\u003eAndrew is a graduate of Leeds University, a Chartered Engineer and a Fellow of the Institution of Engineering and Technology.\u003c/p\u003e\n",
+                                                                                                 "image":  {
+                                                                                                               "alt_text":  "Andrew Hall",
+                                                                                                               "url":  "https://assets.publishing.service.gov.uk/media/6246aa72e90e075f0e1447fd/s465_Andrew_Hall-GOVUK.jpg"
+                                                                                                           }
+                                                                                             },
+                                                                                 "document_type":  "person",
+                                                                                 "links":  {
+
+                                                                                           },
+                                                                                 "locale":  "en",
+                                                                                 "public_updated_at":  "2022-04-01T07:36:23Z",
+                                                                                 "schema_name":  "person",
+                                                                                 "title":  "Andrew Hall",
+                                                                                 "web_url":  "https://www.gov.uk/government/people/andrew-hall",
+                                                                                 "withdrawn":  false
+                                                                             }
+                                                                         ],
+                                                              "role":  [
+                                                                           {
+                                                                               "content_id":  "84781cb5-c0f1-11e4-8223-005056011aef",
+                                                                               "details":  {
+                                                                                               "body":  "\u003cp\u003eThe Chief Inspector is responsible for the overall management of the branch and ensuring that Rail Accident Investigation Branch (\u003cabbr title=\"Rail Accident Investigation Branch\"\u003eRAIB\u003c/abbr\u003e) fulfils its primary aim of improving safety on Britain’s railways.\u003c/p\u003e\n\n\u003cp\u003eThis involves:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ereporting to the Secretary of State on all matters concerning accident investigation\u003c/li\u003e\n  \u003cli\u003eoverseeing the scope and quality of the branch’s investigation work\u003c/li\u003e\n  \u003cli\u003emanagement and continuous improvement of the way that \u003cabbr title=\"Rail Accident Investigation Branch\"\u003eRAIB\u003c/abbr\u003e works\u003c/li\u003e\n  \u003cli\u003eengaging with stakeholders to promote safety learning and an understanding of the \u003cabbr title=\"Rail Accident Investigation Branch\"\u003eRAIB\u003c/abbr\u003e’s work\u003c/li\u003e\n\u003c/ul\u003e\n\n",
+                                                                                               "role_payment_type":  null
+                                                                                           },
+                                                                               "document_type":  "board_member_role",
+                                                                               "links":  {
+                                                                                             "ordered_parent_organisations":  [
+                                                                                                                                  {
+                                                                                                                                      "analytics_identifier":  "OT249",
+                                                                                                                                      "api_path":  "/api/content/government/organisations/rail-accident-investigation-branch",
+                                                                                                                                      "api_url":  "https://www.gov.uk/api/content/government/organisations/rail-accident-investigation-branch",
+                                                                                                                                      "base_path":  "/government/organisations/rail-accident-investigation-branch",
+                                                                                                                                      "content_id":  "013872d8-8bbb-4e80-9b79-45c7c5cf9177",
+                                                                                                                                      "details":  {
+                                                                                                                                                      "acronym":  "RAIB",
+                                                                                                                                                      "brand":  "department-for-transport",
+                                                                                                                                                      "default_news_image":  null,
+                                                                                                                                                      "logo":  "@{formatted_title=Rail Accident\u003cbr/\u003eInvestigation Branch; image=}",
+                                                                                                                                                      "organisation_govuk_status":  "@{status=live; updated_at=; url=}"
+                                                                                                                                                  },
+                                                                                                                                      "document_type":  "organisation",
+                                                                                                                                      "links":  {
+
+                                                                                                                                                },
+                                                                                                                                      "locale":  "en",
+                                                                                                                                      "schema_name":  "organisation",
+                                                                                                                                      "title":  "Rail Accident Investigation Branch",
+                                                                                                                                      "web_url":  "https://www.gov.uk/government/organisations/rail-accident-investigation-branch",
+                                                                                                                                      "withdrawn":  false
+                                                                                                                                  }
+                                                                                                                              ]
+                                                                                         },
+                                                                               "locale":  "en",
+                                                                               "public_updated_at":  "2016-01-11T13:39:52Z",
+                                                                               "schema_name":  "role",
+                                                                               "title":  "Chief Inspector of Rail Accidents ",
+                                                                               "withdrawn":  false
+                                                                           }
+                                                                       ]
+                                                          },
+                                                "locale":  "en",
+                                                "public_updated_at":  "2022-04-01T07:32:57Z",
+                                                "schema_name":  "role_appointment",
+                                                "title":  "Chief Inspector of Rail Accidents Andrew Hall - Chief Inspector of Rail Accidents ",
+                                                "withdrawn":  false
+                                            }
+                                        ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2022-04-01T08:36:23+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1700069030.427-10.13.24.179-698",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "collections",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "person",
+    "title":  "Andrew Hall",
+    "updated_at":  "2023-11-15T17:24:02+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

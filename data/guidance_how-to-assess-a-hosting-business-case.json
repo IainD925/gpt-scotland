@@ -1,0 +1,390 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/how-to-assess-a-hosting-business-case",
+    "content_id":  "0cb2920e-31c4-4694-9b32-93fa90d3a636",
+    "description":  "This guide outlines how departments should evaluate a hosting business case, particularly before beginning the spend control process.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eThe public cloud is the government’s preferred option for hosting. We introduced a \u003ca href=\"https://www.gov.uk/guidance/government-cloud-first-policy\" class=\"govuk-link\"\u003eCloud First policy\u003c/a\u003e in 2013. We’re now moving towards a \u003ca rel=\"external\" href=\"https://governmenttechnology.blog.gov.uk/2017/02/03/clarifying-our-cloud-first-commitment/\" class=\"govuk-link\"\u003e‘cloud native’\u003c/a\u003e government. It’s important technology purchasing decisions are made with this objective.\u003c/p\u003e\n\n\u003ch2 id=\"criteria-for-choosing-a-hosting-supplier\"\u003eCriteria for choosing a hosting supplier\u003c/h2\u003e\n\n\u003cp\u003eDepartments should always source a hosting supplier that fits their needs, rather than selecting a supplier based on a recommendation. Cost should never be the sole factor in decision making. Departments should assess their hosting options based on a number of criteria, including:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eelasticity and resilience: the public cloud helps you scale more efficiently than on-premise physical infrastructure (instead of maintaining large amounts of redundant infrastructure, you can expand capability on demand and usually pay for it by the minute or hour)\u003c/li\u003e\n  \u003cli\u003epay-as-you-go pricing: cloud services are usually billed based on consumption down to a very low level of granularity (this reduces change costs and penalty costs associated with switching off redundant systems, and allows you to achieve optimum balance of cost and performance)\u003c/li\u003e\n  \u003cli\u003efalling costs of Infrastructure as a Service (IaaS) over time: major providers are increasingly competitive, leading to a significant downward pressure on IaaS pricing (teams should consider the impact of these falling prices and pay-as-you-go pricing on their budgeting processes)\u003c/li\u003e\n  \u003cli\u003equality of management tools: you are likely to manage your public cloud services via APIs and there are lots of management tools that can help you do this, like vCloud tools and Terraform\u003c/li\u003e\n  \u003cli\u003ebest of breed security: public cloud services have a large budget to mitigate many common risks and it’s worth \u003ca href=\"https://www.gov.uk/guidance/public-sector-use-of-the-public-cloud\" class=\"govuk-link\"\u003estrongly considering their offerings\u003c/a\u003e(maintaining the security of a data centre and virtualised infrastructure is an increasingly challenging job and not one that many organisations can specialise in)\u003c/li\u003e\n  \u003cli\u003eflexibility and opportunity costs: adopting IaaS will let you focus resources at the application level, ensuring you can develop your services in an agile way, adapting approaches as new understanding emerges\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYour team should conduct a full audit of all your technology infrastructure before making a case for hosting. You should also have a plan in place to retire or replace \u003ca href=\"https://www.gov.uk/guidance/public-sector-use-of-the-public-cloud\" class=\"govuk-link\"\u003esystems that aren’t appropriate to move into public cloud hosting\u003c/a\u003e. This should be as detailed as possible, considering the options for each application and area of functionality.\u003c/p\u003e\n\n\u003ch2 id=\"third-parties-in-cloud-hosting-arrangements\"\u003eThird parties in cloud hosting arrangements\u003c/h2\u003e\n\n\u003cp\u003eDepartments should own their own hosting contracts.\u003c/p\u003e\n\n\u003cp\u003eSpecialist support companies can play an important role in helping to migrate, develop and operate hosting services for departments. They can also advise departments how to best take advantage of cloud provider capabilities.\u003c/p\u003e\n\n\u003cp\u003eIf you’re using a third-party supplier, you should ensure they have an appropriate level of access to your accounts and contracts with your cloud provider so they can understand how you’re using the service. Make sure your cloud providers’ access control measures provide for this.\u003c/p\u003e\n\n\u003cp\u003eMake sure your department maintains overall ownership of the accounts and contracts so you can:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003efully understand how you’re using the cloud service\u003c/li\u003e\n  \u003cli\u003ework freely with a range of suppliers simultaneously\u003c/li\u003e\n  \u003cli\u003ekeep your hosting arrangements separate from your contract with your third-party supplier as this will make it easier for you to change either relationship\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"managing-technical-lock-in-in-the-cloud\"\u003eManaging technical lock-in in the cloud\u003c/h2\u003e\n\n\u003cp\u003eYou can find guidance on \u003ca href=\"https://www.gov.uk/guidance/managing-technical-lock-in-in-the-cloud\" class=\"govuk-link\"\u003emanaging technical lock-in in the cloud\u003c/a\u003e, to help you make informed decisions for your organisation.\u003c/p\u003e\n\n\u003cp\u003eYour department should take steps to manage lock-in with cloud hosting providers and make conscious decisions about whether the benefits outweigh the risks. For example, set up a technical design authority or something similar, to monitor all the organisation’s cloud services. You should also be able to give indicative figures for the cost of exit from each of your cloud providers.\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2017-02-10T10:10:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "2fb482e7-3c4d-496f-887d-f8a55a15e89a"
+                                                 ],
+                    "first_public_at":  "2017-02-10T10:10:00.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2017-02-10T10:10:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/how-to-assess-a-hosting-business-case",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/how-to-assess-a-hosting-business-case",
+                                                     "base_path":  "/guidance/how-to-assess-a-hosting-business-case",
+                                                     "content_id":  "0cb2920e-31c4-4694-9b32-93fa90d3a636",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2017-02-10T10:10:00Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "How to assess a hosting business case",
+                                                     "web_url":  "https://www.gov.uk/guidance/how-to-assess-a-hosting-business-case",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/cloud-technology-and-the-public-sector",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/cloud-technology-and-the-public-sector",
+                                                   "base_path":  "/government/collections/cloud-technology-and-the-public-sector",
+                                                   "content_id":  "28acc608-9cff-4334-ab02-13b08f26d59d",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/how-to-assess-a-hosting-business-case",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/how-to-assess-a-hosting-business-case",
+                                                                                       "base_path":  "/guidance/how-to-assess-a-hosting-business-case",
+                                                                                       "content_id":  "0cb2920e-31c4-4694-9b32-93fa90d3a636",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2017-02-10T10:10:00Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "How to assess a hosting business case",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/how-to-assess-a-hosting-business-case",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2024-10-24T23:00:00Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Cloud technology and the public sector",
+                                                   "web_url":  "https://www.gov.uk/government/collections/cloud-technology-and-the-public-sector",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "OT1329",
+                                            "api_path":  "/api/content/government/organisations/central-digital-and-data-office",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/central-digital-and-data-office",
+                                            "base_path":  "/government/organisations/central-digital-and-data-office",
+                                            "content_id":  "2fb482e7-3c4d-496f-887d-f8a55a15e89a",
+                                            "details":  {
+                                                            "acronym":  "CDDO",
+                                                            "brand":  "department-for-science-innovation-and-technology",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Central Digital \u003cbr/\u003e\u0026amp; Data Office"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Central Digital and Data Office",
+                                            "web_url":  "https://www.gov.uk/government/organisations/central-digital-and-data-office",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "OT1056",
+                                                                       "api_path":  "/api/content/government/organisations/government-digital-service",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+                                                                       "base_path":  "/government/organisations/government-digital-service",
+                                                                       "content_id":  "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+                                                                       "details":  {
+                                                                                       "acronym":  "GDS",
+                                                                                       "brand":  "department-for-science-innovation-and-technology",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Government Digital Service"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Government Digital Service",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/government-digital-service",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "OT1329",
+                                                              "api_path":  "/api/content/government/organisations/central-digital-and-data-office",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/central-digital-and-data-office",
+                                                              "base_path":  "/government/organisations/central-digital-and-data-office",
+                                                              "content_id":  "2fb482e7-3c4d-496f-887d-f8a55a15e89a",
+                                                              "details":  {
+                                                                              "acronym":  "CDDO",
+                                                                              "brand":  "department-for-science-innovation-and-technology",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Central Digital \u003cbr/\u003e\u0026amp; Data Office"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Central Digital and Data Office",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/central-digital-and-data-office",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related_guides":  [
+                                         {
+                                             "api_path":  "/api/content/guidance/government-cloud-first-policy",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/government-cloud-first-policy",
+                                             "base_path":  "/guidance/government-cloud-first-policy",
+                                             "content_id":  "fe692228-ed82-4f1b-8fce-0dea228c43c5",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2023-06-19T11:00:06Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Government Cloud First policy",
+                                             "web_url":  "https://www.gov.uk/guidance/government-cloud-first-policy",
+                                             "withdrawn":  false
+                                         }
+                                     ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/government-cloud-first-policy",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/government-cloud-first-policy",
+                                                              "base_path":  "/guidance/government-cloud-first-policy",
+                                                              "content_id":  "fe692228-ed82-4f1b-8fce-0dea228c43c5",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2023-06-19T11:00:06Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Government Cloud First policy",
+                                                              "web_url":  "https://www.gov.uk/guidance/government-cloud-first-policy",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/government/technology-guidance-technology-guidance-cloud-strategy",
+                                     "api_url":  "https://www.gov.uk/api/content/government/technology-guidance-technology-guidance-cloud-strategy",
+                                     "base_path":  "/government/technology-guidance-technology-guidance-cloud-strategy",
+                                     "content_id":  "2fa4db40-ad2e-4797-a7e2-ab37520c68fd",
+                                     "details":  {
+                                                     "internal_name":  "Cloud strategy [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/technology-guidance-technology-guidance-digital-transformation",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/technology-guidance-technology-guidance-digital-transformation",
+                                                                             "base_path":  "/government/technology-guidance-technology-guidance-digital-transformation",
+                                                                             "content_id":  "93549580-c134-41a7-9cbc-1797ebc10200",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Digital transformation [T]",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/government/government-technology-and-digital-services",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/government/government-technology-and-digital-services",
+                                                                                                                     "base_path":  "/government/government-technology-and-digital-services",
+                                                                                                                     "content_id":  "90c9b9f1-0a4f-4639-b1e9-2bfb23d611bd",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Government technology and digital services",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  false
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "parent_taxons":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "beta",
+                                                                                                                     "public_updated_at":  "2018-08-28T10:56:47Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Government technology and digital services",
+                                                                                                                     "web_url":  "https://www.gov.uk/government/government-technology-and-digital-services",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "beta",
+                                                                             "public_updated_at":  "2018-08-20T09:26:15Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Digital transformation",
+                                                                             "web_url":  "https://www.gov.uk/government/technology-guidance-technology-guidance-digital-transformation",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "beta",
+                                     "public_updated_at":  "2018-08-20T09:26:14Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Cloud strategy",
+                                     "web_url":  "https://www.gov.uk/government/technology-guidance-technology-guidance-cloud-strategy",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/government/government-efficiency-transparency-and-accountability",
+                                     "api_url":  "https://www.gov.uk/api/content/government/government-efficiency-transparency-and-accountability",
+                                     "base_path":  "/government/government-efficiency-transparency-and-accountability",
+                                     "content_id":  "f3f4b5d3-49c4-487b-bd5b-be75f11ec8c5",
+                                     "details":  {
+                                                     "internal_name":  "Government efficiency, transparency and accountability [PA] (level 2)",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/all",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/all",
+                                                                             "base_path":  "/government/all",
+                                                                             "content_id":  "e48ab80a-de80-4e83-bf59-26316856a5f9",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Government",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:29:39Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Government",
+                                                                             "web_url":  "https://www.gov.uk/government/all",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-08-17T15:32:41Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Government efficiency, transparency and accountability",
+                                     "web_url":  "https://www.gov.uk/government/government-efficiency-transparency-and-accountability",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2017-02-10T10:10:00+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "24294-1631014065.300-10.13.5.96-539",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "How to assess a hosting business case",
+    "updated_at":  "2024-12-12T10:27:29+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

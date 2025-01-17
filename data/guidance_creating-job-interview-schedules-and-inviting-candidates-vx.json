@@ -1,0 +1,490 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/creating-job-interview-schedules-and-inviting-candidates-vx",
+    "content_id":  "c8f3b920-4182-4aa9-90b1-e4f9e1ff6ccb",
+    "description":  "How to set up interview schedules in Civil Service Jobs vX before inviting candidates to interviews. Guidance for recruiters and vacancy holder 2 users.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003ch2 id=\"creating-an-interview-schedule\"\u003eCreating an interview schedule\u003c/h2\u003e\n\n\u003cp\u003eSelect \u003cstrong\u003eCreate Interview\u003c/strong\u003e, then complete the \u003cstrong\u003eCreate Interview Schedule\u003c/strong\u003e form.\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eQuestions marked with an asterisk (*) are mandatory.\u003c/li\u003e\n  \u003cli\u003e\n\u003cstrong\u003eCopy From\u003c/strong\u003e lets you copy an existing interview schedule or template.\u003c/li\u003e\n  \u003cli\u003eInclude additional information for candidates in \u003cstrong\u003eInstructions for candidate\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003ePrevent candidate from rescheduling interviews for this schedule\u003c/strong\u003e to stop candidates rescheduling their slot. They must contact the recruitment team to reschedule.\u003c/li\u003e\n  \u003cli\u003eThe \u003cstrong\u003eMin Alteration Notice\u003c/strong\u003e will prevent candidates booking into an imminent slot, and setting this to 48hrs is recommended.\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eOnce complete, select \u003cstrong\u003eCreate\u003c/strong\u003e - you will see the Interview \u003cstrong\u003eSchedule summary\u003c/strong\u003e page.\u003c/p\u003e\n\n\u003ch2 id=\"creating-slots\"\u003eCreating slots\u003c/h2\u003e\n\n\u003cp\u003eSelect \u003cstrong\u003eAdd Slot\u003c/strong\u003e and complete the \u003cstrong\u003eCreate Slot\u003c/strong\u003e template. Select \u003cstrong\u003eEdit\u003c/strong\u003e if \u003cstrong\u003eAdd Slot\u003c/strong\u003e isn’t visible.\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003cstrong\u003eCandidates per slot\u003c/strong\u003e is the number of interview panels.\u003c/li\u003e\n  \u003cli\u003e\n\u003cstrong\u003eSlot spacing\u003c/strong\u003e lets you add breaks between slots.\u003c/li\u003e\n  \u003cli\u003e\n\u003cstrong\u003eSend / Update Interviewer iCal now\u003c/strong\u003e sends a notification to panel members when a slot is set up, a candidate books a slot or a candidate is removed from a slot. It will also update the panel member’s calendar.\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eOnce complete, select \u003cstrong\u003eCreate Slot\u003c/strong\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"tagging-to-vacancy-and-reviewing\"\u003eTagging to vacancy and reviewing\u003c/h3\u003e\n\n\u003col\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003eTagged Vacancies\u003c/strong\u003e tab.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eAdd Vacancy\u003c/strong\u003e, and search for your vacancy in the \u003cstrong\u003eFilter results\u003c/strong\u003e box.\u003c/li\u003e\n  \u003cli\u003eSelect your vacancy, then select \u003cstrong\u003eAdd Selected Vacancies\u003c/strong\u003e to tag the schedule to it.\u003c/li\u003e\n  \u003cli\u003eReview created slots by selecting the \u003cstrong\u003eCreated Slots\u003c/strong\u003e tab. You can \u003cstrong\u003eRemove Candidates\u003c/strong\u003e, \u003cstrong\u003eRelease Interviews\u003c/strong\u003e or \u003cstrong\u003eDelete Interviews\u003c/strong\u003e from here.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eUse the \u003cstrong\u003eDetails tab\u003c/strong\u003e to review or edit schedule information.\u003c/p\u003e\n\n\u003ch2 id=\"adding-an-additional-interview-date\"\u003eAdding an additional interview date\u003c/h2\u003e\n\n\u003col\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003eSchedule\u003c/strong\u003e tab.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eSelect Date\u003c/strong\u003e, then an appropriate date in the calendar.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eAdd Stream\u003c/strong\u003e, then (after entering the schedule title) \u003cstrong\u003eCreate stream\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eFollow \u003ca href=\"#creating-slots\" class=\"govuk-link\"\u003ecreating slots\u003c/a\u003e guidance.\u003c/li\u003e\n  \u003cli\u003eTo copy a day, select \u003cstrong\u003eCopy day\u003c/strong\u003e then  the required date in the calendar.\u003c/li\u003e\n  \u003cli\u003eReview the created slots by selecting the \u003cstrong\u003eCreated Slots\u003c/strong\u003e tab. You can \u003cstrong\u003eRemove Candidates\u003c/strong\u003e, \u003cstrong\u003eRelease Interviews\u003c/strong\u003e or \u003cstrong\u003eDelete Interviews\u003c/strong\u003e from here.\u003c/li\u003e\n  \u003cli\u003eUse the \u003cstrong\u003eDetails\u003c/strong\u003e tab to review or edit schedule information.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003ch2 id=\"deleting-slots\"\u003eDeleting slots\u003c/h2\u003e\n\n\u003col\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003eSchedule\u003c/strong\u003e tab, then select the slot or \u003cstrong\u003eAll slots\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eDelete Slots\u003c/strong\u003e.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003ch2 id=\"editing-slots\"\u003eEditing slots\u003c/h2\u003e\n\n\u003col\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eAll slots\u003c/strong\u003e, then \u003cstrong\u003eBulk edit slots\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eMake the changes.\u003c/li\u003e\n  \u003cli\u003e\n\u003cstrong\u003eSubmit\u003c/strong\u003e.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003ch2 id=\"copying-slots\"\u003eCopying slots\u003c/h2\u003e\n\n\u003col\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eCopy\u003c/strong\u003e, then \u003cstrong\u003eOk\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003eCreated Slots\u003c/strong\u003e tab.\u003c/li\u003e\n  \u003cli\u003eSelect the slots  to release, then select \u003cstrong\u003eRelease Interviews\u003c/strong\u003e.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003ch2 id=\"creating-interview-reminders-for-candidates\"\u003eCreating interview reminders for candidates\u003c/h2\u003e\n\n\u003cp\u003eReminder emails can be sent to candidates before their interview:\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003eNotifications\u003c/strong\u003e tab.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eAdd\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eSelect the ‘Interview Reminder’ template.\u003c/li\u003e\n  \u003cli\u003eChoose how long before their interview the reminder should be sent to candidates.\u003c/li\u003e\n  \u003cli\u003e\n\u003cstrong\u003eSubmit\u003c/strong\u003e.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003ch2 id=\"inviting-candidates-to-interview\"\u003eInviting candidates to interview\u003c/h2\u003e\n\n\u003ch3 id=\"change-status\"\u003eChange status\u003c/h3\u003e\n\n\u003col\u003e\n  \u003cli\u003eFind the vacancy.\u003c/li\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003eApplications\u003c/strong\u003e tab.\u003c/li\u003e\n  \u003cli\u003eSelect the link for ‘Selected for Interview 1’ status.\u003c/li\u003e\n  \u003cli\u003eChoose the \u003cstrong\u003eSelected\u003c/strong\u003e dropdown, then \u003cstrong\u003eSelect All\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003eStatus dropdown\u003c/strong\u003e, then \u003cstrong\u003eProgress Application\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003e\n\u003cstrong\u003eConfirm\u003c/strong\u003e.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003ch3 id=\"select-invitation-and-send-email\"\u003eSelect invitation and send email\u003c/h3\u003e\n\n\u003col\u003e\n  \u003cli\u003e\n    \u003cp\u003eSelect the correct Interview \u003cstrong\u003eSelection Method\u003c/strong\u003e.\u003c/p\u003e\n\n    \u003cul\u003e\n      \u003cli\u003e\n\u003cstrong\u003eAuto Select\u003c/strong\u003e lets candidates see all interview schedules for the vacancy.\u003c/li\u003e\n      \u003cli\u003e\n\u003cstrong\u003eSpecific Interview\u003c/strong\u003e lets you choose which schedule candidates see.\u003c/li\u003e\n    \u003c/ul\u003e\n  \u003c/li\u003e\n  \u003cli\u003eSelect correct email template from the \u003cstrong\u003eCorrespondence\u003c/strong\u003e dropdown.\u003c/li\u003e\n  \u003cli\u003eEdit the red text within the template, including your departmental requirements.\u003c/li\u003e\n  \u003cli\u003eAdd any required \u003cstrong\u003eAttachments\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eSend Invite\u003c/strong\u003e.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eSuccessful candidates will be automatically invited to interview by email.\u003c/p\u003e\n\n\u003ch2 id=\"adding-or-removing-candidates-from-a-slot\"\u003eAdding or removing candidate(s) from a slot\u003c/h2\u003e\n\n\u003ch3 id=\"adding-candidates-to-a-slot\"\u003eAdding candidate(s) to a slot\u003c/h3\u003e\n\n\u003col\u003e\n  \u003cli\u003eFind the vacancy.\u003c/li\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003eApplications\u003c/strong\u003e tab.\u003c/li\u003e\n  \u003cli\u003eSelect the link for ‘Interview 1 Invited’ status.\u003c/li\u003e\n  \u003cli\u003eSelect candidates, then \u003cstrong\u003eView\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eSchedule Interview\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eSelect the interview slot, then \u003cstrong\u003eBook Slot\u003c/strong\u003e.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eIf you have more than one candidate to book, click the arrow button to toggle between them.\u003c/p\u003e\n\n\u003cp\u003eThe candidate’s status will change to ‘Interview 1 - scheduled’ and a confirmation email will be sent to them.\u003c/p\u003e\n\n\u003ch3 id=\"removing-candidates-from-a-slot\"\u003eRemoving candidate(s) from a slot\u003c/h3\u003e\n\n\u003col\u003e\n  \u003cli\u003eFind the vacancy.\u003c/li\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003eInterviews tab\u003c/strong\u003e, then the interview stream.\u003c/li\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003eCreated Slots\u003c/strong\u003e tab.\u003c/li\u003e\n  \u003cli\u003eSelect candidates.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eRemove Candidates\u003c/strong\u003e, then \u003cstrong\u003eOk\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eChange candidate status back to ‘Interview 1 - Invited’.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003ch4 id=\"changing-candidate-statuses\"\u003eChanging candidate statuses\u003c/h4\u003e\n\n\u003col\u003e\n  \u003cli\u003eFind the vacancy.\u003c/li\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003eApplications\u003c/strong\u003e tab.\u003c/li\u003e\n  \u003cli\u003eSelect the link for ‘Interview 1 - Scheduled’ status\u003c/li\u003e\n  \u003cli\u003eSelect candidates, then \u003cstrong\u003eStatus\u003c/strong\u003e, then \u003cstrong\u003eOther Status\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eSelect ‘Interview 1 - Invited’ status, tick the \u003cstrong\u003eRun Automatic Actions\u003c/strong\u003e box, then choose \u003cstrong\u003eChange Status\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eConfirm\u003c/strong\u003e.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003ch2 id=\"adding-and-sending-video-links-or-phone-numbers\"\u003eAdding and sending video links or phone numbers\u003c/h2\u003e\n\n\u003cp\u003eYou can edit the type of interview you are using in the vacancy details form, within the vacancy forms tab. Select from:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eassessment centre\u003c/li\u003e\n  \u003cli\u003einterview\u003c/li\u003e\n  \u003cli\u003etelephone interview\u003c/li\u003e\n  \u003cli\u003evideo interview\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou can create an interview schedule and invite candidates before you add the video links or telephone numbers.\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003eGo to \u003cstrong\u003eApplications\u003c/strong\u003e and \u003cstrong\u003eExport Recruiter Forms\u003c/strong\u003e\n\u003c/li\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003eInterview - Telephone and Interview Details\u003c/strong\u003e form and export the bulk upload spreadsheet\u003c/li\u003e\n  \u003cli\u003eEnter applicant IDs, Telephone/Video details and save your spreadsheet locally\u003c/li\u003e\n  \u003cli\u003eGo to \u003cstrong\u003eApplications\u003c/strong\u003e and \u003cstrong\u003eImport Recruiter Forms\u003c/strong\u003e to upload the details\u003c/li\u003e\n  \u003cli\u003eSelect the View applications \u003cstrong\u003eimported successfully\u003c/strong\u003e link\u003c/li\u003e\n  \u003cli\u003e\n\u003cstrong\u003eSelect all on page\u003c/strong\u003e, then \u003cstrong\u003eCommunication\u003c/strong\u003e and \u003cstrong\u003eSend email\u003c/strong\u003e\n\u003c/li\u003e\n  \u003cli\u003eUse the ‘Interview [number] - Video or telephone meeting details’ template\u003c/li\u003e\n  \u003cli\u003e\n\u003cstrong\u003ePreview\u003c/strong\u003e and \u003cstrong\u003eSend Correspondence\u003c/strong\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003ch2 id=\"printing-an-interview-schedule\"\u003ePrinting an interview schedule\u003c/h2\u003e\n\n\u003col\u003e\n  \u003cli\u003eSelect \u003cstrong\u003ePrint Interviews\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eFrom the \u003cstrong\u003ePrint Itineraries\u003c/strong\u003e box, select ‘Interviewer’ from the \u003cstrong\u003eType\u003c/strong\u003e field.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003ePrint Itineraries\u003c/strong\u003e.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003ch2 id=\"printing-candidate-applications\"\u003ePrinting candidate applications\u003c/h2\u003e\n\n\u003col\u003e\n  \u003cli\u003eSelect \u003cstrong\u003ePrint Applications\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eSelect appropriate applications from the \u003cstrong\u003ePrint Applications\u003c/strong\u003e box.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eTo export an interview schedule to Excel, select \u003cstrong\u003eExport Schedule\u003c/strong\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"help-and-support\"\u003eHelp and support\u003c/h2\u003e\n\n\u003cp\u003eContact the Product and Support Team if you have a technical problem: \u003ca href=\"mailto:support.csjobs@cabinetoffice.gov.uk\" class=\"govuk-link\"\u003esupport.csjobs@cabinetoffice.gov.uk\u003c/a\u003e.\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Added information on adding and sending telephone and video interview links.",
+                                               "public_timestamp":  "2020-05-19T10:52:36.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2019-07-12T00:00:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "cd863c32-b26f-472a-b77a-f088dee7ba40",
+                                                     "2c9232a2-04c0-4694-95e5-73004da6dc51"
+                                                 ],
+                    "first_public_at":  "2019-07-12T00:00:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2019-07-12T00:00:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/creating-job-interview-schedules-and-inviting-candidates-vx",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/creating-job-interview-schedules-and-inviting-candidates-vx",
+                                                     "base_path":  "/guidance/creating-job-interview-schedules-and-inviting-candidates-vx",
+                                                     "content_id":  "c8f3b920-4182-4aa9-90b1-e4f9e1ff6ccb",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2020-05-19T09:52:36Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Creating job interview schedules and inviting candidates (vX)",
+                                                     "web_url":  "https://www.gov.uk/guidance/creating-job-interview-schedules-and-inviting-candidates-vx",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/guidance-for-recruiters-using-civil-service-jobs-vx",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/guidance-for-recruiters-using-civil-service-jobs-vx",
+                                                   "base_path":  "/government/collections/guidance-for-recruiters-using-civil-service-jobs-vx",
+                                                   "content_id":  "80c87be4-74ef-4fd6-946a-0aa6962e629f",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/creating-job-interview-schedules-and-inviting-candidates-vx",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/creating-job-interview-schedules-and-inviting-candidates-vx",
+                                                                                       "base_path":  "/guidance/creating-job-interview-schedules-and-inviting-candidates-vx",
+                                                                                       "content_id":  "c8f3b920-4182-4aa9-90b1-e4f9e1ff6ccb",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2020-05-19T09:52:36Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Creating job interview schedules and inviting candidates (vX)",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/creating-job-interview-schedules-and-inviting-candidates-vx",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2024-03-01T11:37:05Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Guidance for recruiters using Civil Service Jobs vX",
+                                                   "web_url":  "https://www.gov.uk/government/collections/guidance-for-recruiters-using-civil-service-jobs-vx",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  true,
+                                                         "ended_on":  null,
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "OT1305",
+                                            "api_path":  "/api/content/government/organisations/government-recruitment-service",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/government-recruitment-service",
+                                            "base_path":  "/government/organisations/government-recruitment-service",
+                                            "content_id":  "cd863c32-b26f-472a-b77a-f088dee7ba40",
+                                            "details":  {
+                                                            "acronym":  "GRS",
+                                                            "brand":  "civil-service",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Government Recruitment Service"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Government Recruitment Service",
+                                            "web_url":  "https://www.gov.uk/government/organisations/government-recruitment-service",
+                                            "withdrawn":  false
+                                        },
+                                        {
+                                            "analytics_identifier":  "OT1076",
+                                            "api_path":  "/api/content/government/organisations/civil-service-resourcing",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/civil-service-resourcing",
+                                            "base_path":  "/government/organisations/civil-service-resourcing",
+                                            "content_id":  "2c9232a2-04c0-4694-95e5-73004da6dc51",
+                                            "details":  {
+                                                            "acronym":  "",
+                                                            "brand":  "cabinet-office",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Civil Service Resourcing"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "replaced",
+                                                                                              "updated_at":  "2017-09-01T00:00:00.000+01:00",
+                                                                                              "url":  ""
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Civil Service Resourcing",
+                                            "web_url":  "https://www.gov.uk/government/organisations/civil-service-resourcing",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "OT1076",
+                                                                       "api_path":  "/api/content/government/organisations/civil-service-resourcing",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/civil-service-resourcing",
+                                                                       "base_path":  "/government/organisations/civil-service-resourcing",
+                                                                       "content_id":  "2c9232a2-04c0-4694-95e5-73004da6dc51",
+                                                                       "details":  {
+                                                                                       "acronym":  "",
+                                                                                       "brand":  "cabinet-office",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Civil Service Resourcing"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "replaced",
+                                                                                                                         "updated_at":  "2017-09-01T00:00:00.000+01:00",
+                                                                                                                         "url":  ""
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Civil Service Resourcing",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/civil-service-resourcing",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "OT1305",
+                                                              "api_path":  "/api/content/government/organisations/government-recruitment-service",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/government-recruitment-service",
+                                                              "base_path":  "/government/organisations/government-recruitment-service",
+                                                              "content_id":  "cd863c32-b26f-472a-b77a-f088dee7ba40",
+                                                              "details":  {
+                                                                              "acronym":  "GRS",
+                                                                              "brand":  "civil-service",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Government Recruitment Service"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Government Recruitment Service",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/government-recruitment-service",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related_guides":  [
+                                         {
+                                             "api_path":  "/api/content/guidance/basic-navigation-and-search-for-recruiters-vx",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/basic-navigation-and-search-for-recruiters-vx",
+                                             "base_path":  "/guidance/basic-navigation-and-search-for-recruiters-vx",
+                                             "content_id":  "85b249e1-0a4a-4383-9b51-3d0a14f686de",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2022-10-10T07:58:08Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Basic navigation and search for recruiters (vX)",
+                                             "web_url":  "https://www.gov.uk/guidance/basic-navigation-and-search-for-recruiters-vx",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/creating-and-publishing-an-apply-online-vacancy-vx",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/creating-and-publishing-an-apply-online-vacancy-vx",
+                                             "base_path":  "/guidance/creating-and-publishing-an-apply-online-vacancy-vx",
+                                             "content_id":  "29b9438f-5aa9-46d1-889e-5668e4ca8aaa",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2022-06-22T11:14:48Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Creating and publishing an apply online vacancy (vX)",
+                                             "web_url":  "https://www.gov.uk/guidance/creating-and-publishing-an-apply-online-vacancy-vx",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/accessing-the-civil-service-jobs-vx-system",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/accessing-the-civil-service-jobs-vx-system",
+                                             "base_path":  "/guidance/accessing-the-civil-service-jobs-vx-system",
+                                             "content_id":  "b7b63928-7af1-421b-83a0-83c1195325bb",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2024-01-11T11:47:58Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Accessing the Civil Service Jobs vX system",
+                                             "web_url":  "https://www.gov.uk/guidance/accessing-the-civil-service-jobs-vx-system",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/sifting-job-applications-and-issuing-results-vx",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/sifting-job-applications-and-issuing-results-vx",
+                                             "base_path":  "/guidance/sifting-job-applications-and-issuing-results-vx",
+                                             "content_id":  "ccbdaec1-e54f-4d93-8e09-a4089e9f62eb",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2021-01-07T18:22:50Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Sifting job applications and issuing results (vX)",
+                                             "web_url":  "https://www.gov.uk/guidance/sifting-job-applications-and-issuing-results-vx",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/submitting-and-issuing-job-interview-results-vx",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/submitting-and-issuing-job-interview-results-vx",
+                                             "base_path":  "/guidance/submitting-and-issuing-job-interview-results-vx",
+                                             "content_id":  "230bd5a6-d875-4f52-8432-0117ee15040f",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2023-04-21T12:42:36Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Submitting and issuing job interview results (vX)",
+                                             "web_url":  "https://www.gov.uk/guidance/submitting-and-issuing-job-interview-results-vx",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/supporting-candidates-who-need-help-during-the-recruitment-process-vx",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/supporting-candidates-who-need-help-during-the-recruitment-process-vx",
+                                             "base_path":  "/guidance/supporting-candidates-who-need-help-during-the-recruitment-process-vx",
+                                             "content_id":  "7b343302-6366-4dbf-9345-e03099895fa3",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2019-10-08T14:49:49Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Supporting candidates who need help during the recruitment process (vX)",
+                                             "web_url":  "https://www.gov.uk/guidance/supporting-candidates-who-need-help-during-the-recruitment-process-vx",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/managing-candidate-reserve-lists-vx",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/managing-candidate-reserve-lists-vx",
+                                             "base_path":  "/guidance/managing-candidate-reserve-lists-vx",
+                                             "content_id":  "3d19e880-d5a7-4a50-a924-b6a5f546047b",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2024-05-08T12:46:11Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Managing candidate reserve lists (vX)",
+                                             "web_url":  "https://www.gov.uk/guidance/managing-candidate-reserve-lists-vx",
+                                             "withdrawn":  false
+                                         }
+                                     ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/uploading-spreadsheets-and-progressing-job-applications-in-bulk-vx",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/uploading-spreadsheets-and-progressing-job-applications-in-bulk-vx",
+                                                              "base_path":  "/guidance/uploading-spreadsheets-and-progressing-job-applications-in-bulk-vx",
+                                                              "content_id":  "387aff29-6075-43bc-a68c-75210d47cdfa",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-01-15T14:26:49Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Uploading sift or interview results in bulk (vX)",
+                                                              "web_url":  "https://www.gov.uk/guidance/uploading-spreadsheets-and-progressing-job-applications-in-bulk-vx",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/sifting-job-applications-vx",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/sifting-job-applications-vx",
+                                                              "base_path":  "/guidance/sifting-job-applications-vx",
+                                                              "content_id":  "1a5b8fd3-d61f-4096-b8c5-314800f0d7d9",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-01-15T17:01:23Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Sifting job applications (vX)",
+                                                              "web_url":  "https://www.gov.uk/guidance/sifting-job-applications-vx",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/sifting-job-applications-and-issuing-results-vx",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/sifting-job-applications-and-issuing-results-vx",
+                                                              "base_path":  "/guidance/sifting-job-applications-and-issuing-results-vx",
+                                                              "content_id":  "ccbdaec1-e54f-4d93-8e09-a4089e9f62eb",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-01-07T18:22:50Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Sifting job applications and issuing results (vX)",
+                                                              "web_url":  "https://www.gov.uk/guidance/sifting-job-applications-and-issuing-results-vx",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/basic-navigation-and-search-for-vacancy-holders-vx",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/basic-navigation-and-search-for-vacancy-holders-vx",
+                                                              "base_path":  "/guidance/basic-navigation-and-search-for-vacancy-holders-vx",
+                                                              "content_id":  "49e4499f-62bf-4b86-8154-b22636cab439",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-10-10T07:57:57Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Basic navigation and search for vacancy holders (vX)",
+                                                              "web_url":  "https://www.gov.uk/guidance/basic-navigation-and-search-for-vacancy-holders-vx",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/accessing-the-civil-service-jobs-vx-system",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/accessing-the-civil-service-jobs-vx-system",
+                                                              "base_path":  "/guidance/accessing-the-civil-service-jobs-vx-system",
+                                                              "content_id":  "b7b63928-7af1-421b-83a0-83c1195325bb",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-01-11T11:47:58Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Accessing the Civil Service Jobs vX system",
+                                                              "web_url":  "https://www.gov.uk/guidance/accessing-the-civil-service-jobs-vx-system",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/corporate-information",
+                                     "api_url":  "https://www.gov.uk/api/content/corporate-information",
+                                     "base_path":  "/corporate-information",
+                                     "content_id":  "a544d48b-1e9e-47fb-b427-7a987c658c14",
+                                     "details":  {
+                                                     "internal_name":  "Corporate information",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  true
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "root_taxon":  [
+                                                                      {
+                                                                          "api_path":  "/api/content/",
+                                                                          "api_url":  "https://www.gov.uk/api/content/",
+                                                                          "base_path":  "/",
+                                                                          "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                          "document_type":  "homepage",
+                                                                          "links":  {
+
+                                                                                    },
+                                                                          "locale":  "en",
+                                                                          "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                          "schema_name":  "homepage",
+                                                                          "title":  "GOV.UK homepage",
+                                                                          "web_url":  "https://www.gov.uk/",
+                                                                          "withdrawn":  false
+                                                                      }
+                                                                  ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-08-22T12:57:58Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Corporate information",
+                                     "web_url":  "https://www.gov.uk/corporate-information",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2020-05-19T10:52:36+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1712843333.452-10.13.20.95-2287",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Creating job interview schedules and inviting candidates (vX)",
+    "updated_at":  "2024-05-08T13:46:11+01:00",
+    "withdrawn_notice":  {
+
+                         }
+}

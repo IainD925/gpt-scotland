@@ -1,0 +1,574 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/civil-legal-aid-means-testing",
+    "content_id":  "5f515197-7631-11e4-a3cb-005056011aef",
+    "description":  "How to work out financial eligibility for legal aid: income and capital means testing, passporting and the civil legal aid calculator.",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "web.comments@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  579798,
+                                            "filename":  "Lord_Chancellor_s_guidance_on_determining_financial_eligibility_for_Controlled_Work_and_Family_Mediation__November_2024_.pdf",
+                                            "id":  "8323460",
+                                            "number_of_pages":  59,
+                                            "title":  "Lord Chancellor’s guidance to determining financial eligibility for controlled work and family mediation (November 2024)",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/67404eca53373262c0d825ae/Lord_Chancellor_s_guidance_on_determining_financial_eligibility_for_Controlled_Work_and_Family_Mediation__November_2024_.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "web.comments@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  251431,
+                                            "filename":  "Eligibility-keycard_60_November.pdf",
+                                            "id":  "8323461",
+                                            "number_of_pages":  5,
+                                            "title":  "LAA civil legal aid eligibility keycard",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/673caa887e8a3c98a090fe76/Eligibility-keycard_60_November.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "web.comments@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1591950,
+                                            "filename":  "Lord_Chancellor_s_guide_to_determining_financial_eligibility_for_Certificated_work_November_2024.pdf",
+                                            "id":  "8323462",
+                                            "number_of_pages":  137,
+                                            "title":  "Lord Chancellor’s guidance to determining financial eligibility for certificated work (November 2024)",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/673601dc37aabe56c416117e/Lord_Chancellor_s_guide_to_determining_financial_eligibility_for_Certificated_work_November_2024.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "web.comments@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  528687,
+                                            "filename":  "legal-aid-LAA-lord-chancellors-guidance.pdf",
+                                            "id":  "8323463",
+                                            "number_of_pages":  65,
+                                            "title":  "Lord Chancellor\u0027s guidance",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7d6d1f40f0b60aaa2945ca/legal-aid-LAA-lord-chancellors-guidance.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "web.comments@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  2559656,
+                                            "filename":  "Means_Assessment_Guidance_-_November_2024.pdf",
+                                            "id":  "8323464",
+                                            "number_of_pages":  339,
+                                            "title":  "Means assessment guidance (November 2024)",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/673caa4e7524e1b17c494ee2/Means_Assessment_Guidance_-_November_2024.pdf"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003ch2 id=\"overview\"\u003eOverview\u003c/h2\u003e\n\u003cp\u003eMeans testing to assess financial eligibility is one aspect of determining if someone qualifies for civil legal aid. The means test is set out within Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2013.\u003c/p\u003e\n\n\u003cp\u003eBefore you complete the means test you should check if your client’s case is within scope as set out in the \u003ca rel=\"external\" href=\"http://www.legislation.gov.uk/ukpga/2012/10/section/8/enacted\" class=\"govuk-link\"\u003eLegal Aid, Sentencing and Punishment of Offenders Act 2012 (LASPO)\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eThe application process depends on the level of help that your application covers. The rules differ for controlled work and licensed work.\u003c/p\u003e\n\n\u003ch3 id=\"controlled-work-and-family-mediation\"\u003eControlled work and family mediation\u003c/h3\u003e\n\u003cp\u003eYou must assess a client’s income and capital for controlled work and family mediation including:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003elegal help\u003c/li\u003e\n  \u003cli\u003ehelp at court\u003c/li\u003e\n  \u003cli\u003efamily help (lower)\u003c/li\u003e\n  \u003cli\u003efamily mediation\u003c/li\u003e\n  \u003cli\u003elegal representation for proceedings in the immigration and asylum tribunal of the first-tier tribunal or where transitional arrangements apply\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail govuk-!-display-none-print\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/67404eca53373262c0d825ae/Lord_Chancellor_s_guidance_on_determining_financial_eligibility_for_Controlled_Work_and_Family_Mediation__November_2024_.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/67404eca5a6093537bd825ae/thumbnail_Lord_Chancellor_s_guidance_on_determining_financial_eligibility_for_Controlled_Work_and_Family_Mediation__November_2024_.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/67404eca53373262c0d825ae/Lord_Chancellor_s_guidance_on_determining_financial_eligibility_for_Controlled_Work_and_Family_Mediation__November_2024_.pdf\"\u003eLord Chancellor’s guidance to determining financial eligibility for controlled work and family mediation (November 2024)\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e566 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e59 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails data-module=\"ga4-event-tracker\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027 class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\"\u003e\n  \u003csummary class=\"govuk-details__summary\"\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:web.comments@justice.gov.uk\" target=\"_blank\" class=\"govuk-link\"\u003eweb.comments@justice.gov.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003ch3 id=\"licensed-work\"\u003eLicensed work\u003c/h3\u003e\n\n\u003cp\u003eThe Legal Aid Agency (LAA) assesses a client’s income and capital for license work including:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003efamily help (higher)\u003c/li\u003e\n  \u003cli\u003elegal representation (other than controlled legal representation, see above)\u003c/li\u003e\n  \u003cli\u003eother legal services (exceptional cases)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail govuk-!-display-none-print\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/673601dc37aabe56c416117e/Lord_Chancellor_s_guide_to_determining_financial_eligibility_for_Certificated_work_November_2024.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/673601dc54652d03d5161173/thumbnail_Lord_Chancellor_s_guide_to_determining_financial_eligibility_for_Certificated_work_November_2024.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/673601dc37aabe56c416117e/Lord_Chancellor_s_guide_to_determining_financial_eligibility_for_Certificated_work_November_2024.pdf\"\u003eLord Chancellor’s guidance to determining financial eligibility for certificated work (November 2024)\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e1.52 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e137 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails data-module=\"ga4-event-tracker\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027 class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\"\u003e\n  \u003csummary class=\"govuk-details__summary\"\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:web.comments@justice.gov.uk\" target=\"_blank\" class=\"govuk-link\"\u003eweb.comments@justice.gov.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003ch2 id=\"assets\"\u003eAssets\u003c/h2\u003e\n\u003cp\u003eIf a client has an interest in assets that are in dispute, the value of the client’s assets exceeding £100k should be included in your financial eligibility check. See \u003ca rel=\"external\" href=\"http://www.legislation.gov.uk/uksi/2013/480/contents/made\" class=\"govuk-link\"\u003eRegulation 38 in the 2013 Civil Legal Aid (Financial Resources and Payment for Services) Regulations\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"evidence\"\u003eEvidence\u003c/h2\u003e\n\u003cp\u003eKeep copies of the original documents that confirm your client’s financial circumstances.\u003c/p\u003e\n\n\u003cp\u003eTo ensure you collect the correct evidence from the client you should refer to the appropriate form as follows:\u003c/p\u003e\n\n\u003ch3 id=\"controlled-work-and-family-mediation-1\"\u003eControlled work and family mediation\u003c/h3\u003e\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/collections/controlled-work-application-forms\" class=\"govuk-link\"\u003eCW 1\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/collections/controlled-work-application-forms\" class=\"govuk-link\"\u003eCW 2\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/collections/civil-legal-aid-financial-assessment-forms\" class=\"govuk-link\"\u003eCIV MEANS 7\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIf you can’t find evidence of means for controlled work and family mediation cases, make sure your client is covered by one of the reasons in paragraph 3.24 of the \u003ca href=\"https://www.gov.uk/government/publications/standard-civil-contract-2024\" class=\"govuk-link\"\u003estandard civil contract 2024 specification\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"licensed-work-1\"\u003eLicensed work\u003c/h3\u003e\n\u003cul\u003e\n  \u003cli\u003eCIV MEANS 1 – initial assessment and further assessment\u003c/li\u003e\n  \u003cli\u003eCIV MEANS 2 – assessments for people who receive named benefits\u003c/li\u003e\n  \u003cli\u003eCIV MEANS 3 – assessments for people whose main home is outside the UK\u003c/li\u003e\n  \u003cli\u003eCIV MEANS 4 – for child clients under 16 with less than £2,500 capital and \nno regular income\u003c/li\u003e\n  \u003cli\u003eCIV MEANS 5 – to record an increase in capital\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/government/collections/civil-legal-aid-financial-assessment-forms\" class=\"govuk-link\"\u003eSee all CIV MEANS forms\u003c/a\u003e\u003c/p\u003e\n\n\u003ch2 id=\"passporting\"\u003ePassporting\u003c/h2\u003e\n\u003cp\u003eIf a client receives certain benefits they’re passported through the income means test, so they automatically qualify within the income limits but you must still assess their capital.\u003c/p\u003e\n\n\u003cp\u003ePassporting benefits include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eIncome Support (IS)\u003c/li\u003e\n  \u003cli\u003eincome-based Jobseeker’s Allowance (JSA)\u003c/li\u003e\n  \u003cli\u003eUniversal Credit (UC)\u003c/li\u003e\n  \u003cli\u003eGuarantee Credit element of Pension Credit (GC)\u003c/li\u003e\n  \u003cli\u003eincome-related Employment and Support Allowance (ESA)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou must assess capital means in all cases. However, if your client receives financial support under sections 4 or 95 of the Immigration and Asylum Act 1999 from the National Asylum Support Service (NASS), they’re passported through both income and capital tests for controlled work immigration and asylum matters only.\u003c/p\u003e\n\n\u003ch2 id=\"eligibility-limits\"\u003eEligibility limits\u003c/h2\u003e\n\n\u003ch3 id=\"gross-income-limit\"\u003eGross income limit\u003c/h3\u003e\n\u003cp\u003eYour client’s gross monthly income should be £2,657 or less. If they have more than 4 child dependants, add £222 to this figure for the fifth child and each further child.\u003c/p\u003e\n\n\u003ch3 id=\"disposable-income-limit\"\u003eDisposable income limit\u003c/h3\u003e\n\u003cp\u003eThis limit is set at £733 per month.\u003c/p\u003e\n\n\u003ch3 id=\"disposable-capital-limit\"\u003eDisposable capital limit\u003c/h3\u003e\n\u003cp\u003eThis limit is set at £8,000 for all civil legal services except any relating to an immigration matter set out in \u003ca rel=\"external\" href=\"http://www.legislation.gov.uk/uksi/2013/480/regulation/8/made\" class=\"govuk-link\"\u003eregulation 8(3)\u003c/a\u003e, which is capped at £3,000.\u003c/p\u003e\n\n\u003cp\u003eClients do not make contributions for controlled work and family mediation cases. We’ll collect contributions for licensed work where disposable income exceeds £315 per calendar month and/or capital exceeds £3,000.\u003c/p\u003e\n\n\u003ch3 id=\"domestic-violence-and-forced-marriage-cases\"\u003eDomestic violence and forced marriage cases\u003c/h3\u003e\n\n\u003cp\u003eThe LAA waives all upper eligibility limits if your client is applying for legal aid for an order for protection from domestic violence or forced marriage. However, a contribution may be required.\u003c/p\u003e\n\n\u003ch2 id=\"checking-financial-eligibility-step-by-step-guidance\"\u003eChecking financial eligibility: step-by-step guidance\u003c/h2\u003e\n\n\u003col\u003e\n  \u003cli\u003e\n    \u003cp\u003eCheck if your client has a partner whose income should be included in calculations - see regulation 16.\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eCheck if your client receives any of the passporting benefits (see above). If they do, you only need to means test their disposable capital.\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eIf your client doesn’t receive a passporting benefit you need to test that their gross income is £2,657 per month or less before you check their disposable income.\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eTest disposable income to make sure it is £733 or less.\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eIf your client has passed the income means tests you should assess their disposable capital to make sure it’s no more than £8,000 - or £3,000 if their case is a controlled work immigration matter described in regulation 8(3): if your client passes this test they’ll be financially eligible.\u003c/p\u003e\n  \u003c/li\u003e\n\u003c/ol\u003e\n\n\u003ch2 id=\"check-if-your-client-qualifies-for-legal-aid\"\u003eCheck if your client qualifies for legal aid\u003c/h2\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"http://check-your-client-qualifies-for-legal-aid.service.gov.uk\" class=\"govuk-link\"\u003eCheck if your client qualifies for legal aid\u003c/a\u003e. This service assesses whether your client’s case is likely to meet the financial criteria for legal aid. It cannot tell you if the merits or the type of case puts it in scope for civil legal aid.\u003c/p\u003e\n\n\u003ch2 id=\"further-guidance\"\u003eFurther guidance\u003c/h2\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail govuk-!-display-none-print\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/673caa887e8a3c98a090fe76/Eligibility-keycard_60_November.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/673caa889a48a5ab14acc3f1/thumbnail_Eligibility-keycard_60_November.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/673caa887e8a3c98a090fe76/Eligibility-keycard_60_November.pdf\"\u003eLAA civil legal aid eligibility keycard\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e246 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e5 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails data-module=\"ga4-event-tracker\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027 class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\"\u003e\n  \u003csummary class=\"govuk-details__summary\"\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:web.comments@justice.gov.uk\" target=\"_blank\" class=\"govuk-link\"\u003eweb.comments@justice.gov.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail govuk-!-display-none-print\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a7d6d1f40f0b60aaa2945ca/legal-aid-LAA-lord-chancellors-guidance.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5a7d6d1d40f0b60aaa2945c9/thumbnail_legal-aid-LAA-lord-chancellors-guidance.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a7d6d1f40f0b60aaa2945ca/legal-aid-LAA-lord-chancellors-guidance.pdf\"\u003eLord Chancellor\u0027s guidance\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e516 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e65 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n\u003c/div\u003e\u003c/section\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail govuk-!-display-none-print\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/673caa4e7524e1b17c494ee2/Means_Assessment_Guidance_-_November_2024.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/673caa4e5aadb65be090fe55/thumbnail_Means_Assessment_Guidance_-_November_2024.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/673caa4e7524e1b17c494ee2/Means_Assessment_Guidance_-_November_2024.pdf\"\u003eMeans assessment guidance (November 2024)\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e2.44 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e339 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails data-module=\"ga4-event-tracker\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027 class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\"\u003e\n  \u003csummary class=\"govuk-details__summary\"\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:web.comments@justice.gov.uk\" target=\"_blank\" class=\"govuk-link\"\u003eweb.comments@justice.gov.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Updates to the keycard and Means Assessment Guidance to reflect changes to dependants allowances, state benefits and tax rates.",
+                                               "public_timestamp":  "2024-04-09T10:52:10.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated Lord Chancellor’s guidance on determining financial eligibility for Controlled Work and Family Mediation and Lord Chancellor’s guidance on determining financial eligibility for certificated work to July versions. This is in preparation for the implementation of the first phase of the Means Test Review.",
+                                               "public_timestamp":  "2023-07-28T12:14:28.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Keycard updated with new dependants allowance rates.",
+                                               "public_timestamp":  "2023-04-11T10:33:13.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updates to keycard and means assessment guidance to reflect changes to dependants\u0027 allowances, state benefits and tax rates.",
+                                               "public_timestamp":  "2022-04-11T09:00:00.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Keycard guidance updated to provide more information on licensed work cases",
+                                               "public_timestamp":  "2021-10-18T10:44:48.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Content change following withdrawal of the civil legal aid calculator.",
+                                               "public_timestamp":  "2021-10-07T12:45:35.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Means Assessment Guidance updated to reflect the uprating of tax and benefit rates, and to include information on the breathing space scheme. Also updated: Guide to determining financial eligibility for certificated work, LAA civil legal aid eligibility key card and Guide to determining financial eligibility for controlled work and family mediation.",
+                                               "public_timestamp":  "2021-05-04T11:29:40.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Means Assessment Guidance updated.",
+                                               "public_timestamp":  "2021-02-05T16:46:17.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Guidance update to reflect recent changes to legislation.",
+                                               "public_timestamp":  "2021-02-01T13:51:09.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Publication of the disregard of payments from Infected Blood Support Schemes (and other specified compensation payments) - guidance for providers.\r\n\r\n",
+                                               "public_timestamp":  "2021-01-07T09:59:55.000+00:00"
+                                           },
+                                           {
+                                               "note":  "LAA civil legal aid eligibility key card has been updated.",
+                                               "public_timestamp":  "2020-07-10T10:06:55.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Guidance on disregard of Windrush Compensation Scheme payments published.",
+                                               "public_timestamp":  "2019-05-01T00:30:02.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Guidance updates - 2019/2020 rates",
+                                               "public_timestamp":  "2019-04-08T11:39:14.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Full governance check completed.",
+                                               "public_timestamp":  "2019-01-31T10:43:43.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated guidance following the introduction of the 2018 civil contracts.",
+                                               "public_timestamp":  "2018-11-16T16:04:19.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Means assessment guidance updated.",
+                                               "public_timestamp":  "2018-04-26T10:58:11.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated documents: Guide to determining financial eligibility for certificated work, LAA civil legal aid eligibility key card, Guide to determining financial eligibility for controlled work and family mediation.",
+                                               "public_timestamp":  "2018-04-09T15:25:03.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Grenfell guidance on disregarded payments added.",
+                                               "public_timestamp":  "2017-07-14T00:15:08.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Disregarded income guidance published.",
+                                               "public_timestamp":  "2016-08-24T14:35:57.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Guidance document updated",
+                                               "public_timestamp":  "2014-10-09T09:43:39.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2014-06-01T00:00:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "6ba90ae6-972d-4d48-ad66-693bbb31496d"
+                                                 ],
+                    "first_public_at":  "2014-06-01T00:00:00.000+01:00",
+                    "national_applicability":  {
+                                                   "england":  {
+                                                                   "applicable":  true,
+                                                                   "label":  "England"
+                                                               },
+                                                   "northern_ireland":  {
+                                                                            "alternative_url":  "",
+                                                                            "applicable":  false,
+                                                                            "label":  "Northern Ireland"
+                                                                        },
+                                                   "scotland":  {
+                                                                    "alternative_url":  "",
+                                                                    "applicable":  false,
+                                                                    "label":  "Scotland"
+                                                                },
+                                                   "wales":  {
+                                                                 "applicable":  true,
+                                                                 "label":  "Wales"
+                                                             }
+                                               },
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2014-06-01T00:00:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/civil-legal-aid-means-testing",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/civil-legal-aid-means-testing",
+                                                     "base_path":  "/guidance/civil-legal-aid-means-testing",
+                                                     "content_id":  "5f515197-7631-11e4-a3cb-005056011aef",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2024-04-09T09:52:10Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Civil legal aid: means testing",
+                                                     "web_url":  "https://www.gov.uk/guidance/civil-legal-aid-means-testing",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/civil-legal-aid-applications-and-appeals",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/civil-legal-aid-applications-and-appeals",
+                                                   "base_path":  "/government/collections/civil-legal-aid-applications-and-appeals",
+                                                   "content_id":  "c1fade36-8d65-40dd-baf1-d684e84c4d8c",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/civil-legal-aid-means-testing",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/civil-legal-aid-means-testing",
+                                                                                       "base_path":  "/guidance/civil-legal-aid-means-testing",
+                                                                                       "content_id":  "5f515197-7631-11e4-a3cb-005056011aef",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2024-04-09T09:52:10Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Civil legal aid: means testing",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/civil-legal-aid-means-testing",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2023-09-22T13:41:38Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Civil legal aid applications and appeals",
+                                                   "web_url":  "https://www.gov.uk/government/collections/civil-legal-aid-applications-and-appeals",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "base_path":  "/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "content_id":  "591c83aa-3b74-437d-a342-612bddd97572",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2015-05-08T00:00:00+00:00",
+                                                         "started_on":  "2010-05-12T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2010 to 2015 Conservative and Liberal Democrat coalition government",
+                                         "web_url":  "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government"
+                                     }
+                                 ],
+                  "lead_organisations":  [
+                                             {
+                                                 "analytics_identifier":  "EA556",
+                                                 "api_path":  "/api/content/government/organisations/legal-aid-agency",
+                                                 "api_url":  "https://www.gov.uk/api/content/government/organisations/legal-aid-agency",
+                                                 "base_path":  "/government/organisations/legal-aid-agency",
+                                                 "content_id":  "6ba90ae6-972d-4d48-ad66-693bbb31496d",
+                                                 "details":  {
+                                                                 "acronym":  "LAA",
+                                                                 "brand":  null,
+                                                                 "default_news_image":  null,
+                                                                 "logo":  {
+                                                                              "crest":  "single-identity",
+                                                                              "formatted_title":  "Legal Aid \u003cbr/\u003eAgency"
+                                                                          },
+                                                                 "organisation_govuk_status":  {
+                                                                                                   "status":  "live",
+                                                                                                   "updated_at":  null,
+                                                                                                   "url":  null
+                                                                                               }
+                                                             },
+                                                 "document_type":  "organisation",
+                                                 "links":  {
+
+                                                           },
+                                                 "locale":  "en",
+                                                 "schema_name":  "organisation",
+                                                 "title":  "Legal Aid Agency",
+                                                 "web_url":  "https://www.gov.uk/government/organisations/legal-aid-agency",
+                                                 "withdrawn":  false
+                                             }
+                                         ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "EA556",
+                                            "api_path":  "/api/content/government/organisations/legal-aid-agency",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/legal-aid-agency",
+                                            "base_path":  "/government/organisations/legal-aid-agency",
+                                            "content_id":  "6ba90ae6-972d-4d48-ad66-693bbb31496d",
+                                            "details":  {
+                                                            "acronym":  "LAA",
+                                                            "brand":  null,
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Legal Aid \u003cbr/\u003eAgency"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Legal Aid Agency",
+                                            "web_url":  "https://www.gov.uk/government/organisations/legal-aid-agency",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA556",
+                                                                       "api_path":  "/api/content/government/organisations/legal-aid-agency",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/legal-aid-agency",
+                                                                       "base_path":  "/government/organisations/legal-aid-agency",
+                                                                       "content_id":  "6ba90ae6-972d-4d48-ad66-693bbb31496d",
+                                                                       "details":  {
+                                                                                       "acronym":  "LAA",
+                                                                                       "brand":  null,
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Legal Aid \u003cbr/\u003eAgency"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Legal Aid Agency",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/legal-aid-agency",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "EA556",
+                                                              "api_path":  "/api/content/government/organisations/legal-aid-agency",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/legal-aid-agency",
+                                                              "base_path":  "/government/organisations/legal-aid-agency",
+                                                              "content_id":  "6ba90ae6-972d-4d48-ad66-693bbb31496d",
+                                                              "details":  {
+                                                                              "acronym":  "LAA",
+                                                                              "brand":  null,
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Legal Aid \u003cbr/\u003eAgency"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Legal Aid Agency",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/legal-aid-agency",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related_guides":  [
+                                         {
+                                             "api_path":  "/api/content/guidance/work-out-who-qualifies-for-civil-legal-aid",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/work-out-who-qualifies-for-civil-legal-aid",
+                                             "base_path":  "/guidance/work-out-who-qualifies-for-civil-legal-aid",
+                                             "content_id":  "5f4cf4a6-7631-11e4-a3cb-005056011aef",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2021-01-04T10:00:02Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Work out who qualifies for civil legal aid",
+                                             "web_url":  "https://www.gov.uk/guidance/work-out-who-qualifies-for-civil-legal-aid",
+                                             "withdrawn":  false
+                                         }
+                                     ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/cw1-financial-eligibility-for-legal-aid-clients",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/cw1-financial-eligibility-for-legal-aid-clients",
+                                                              "base_path":  "/government/publications/cw1-financial-eligibility-for-legal-aid-clients",
+                                                              "content_id":  "5fe9940c-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "form",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2023-08-03T08:00:06Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "CW1: financial eligibility for legal aid clients",
+                                                              "web_url":  "https://www.gov.uk/government/publications/cw1-financial-eligibility-for-legal-aid-clients",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/cw1-pl-family-help-lower-public-law",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/cw1-pl-family-help-lower-public-law",
+                                                              "base_path":  "/government/publications/cw1-pl-family-help-lower-public-law",
+                                                              "content_id":  "5fe99546-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "form",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-07-13T13:07:41Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "CW1 PL: family help (lower) public law",
+                                                              "web_url":  "https://www.gov.uk/government/publications/cw1-pl-family-help-lower-public-law",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/work-out-who-qualifies-for-civil-legal-aid",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/work-out-who-qualifies-for-civil-legal-aid",
+                                                              "base_path":  "/guidance/work-out-who-qualifies-for-civil-legal-aid",
+                                                              "content_id":  "5f4cf4a6-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-01-04T10:00:02Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Work out who qualifies for civil legal aid",
+                                                              "web_url":  "https://www.gov.uk/guidance/work-out-who-qualifies-for-civil-legal-aid",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/immigration-clr-disbursement-limit-extension-review-of-refusal",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/immigration-clr-disbursement-limit-extension-review-of-refusal",
+                                                              "base_path":  "/government/publications/immigration-clr-disbursement-limit-extension-review-of-refusal",
+                                                              "content_id":  "5fe99984-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "form",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-09-01T07:30:04Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "CW2 (IMM) for representation, disbursement limit extension (CW3C), review of refusal (CW4): immigration forms",
+                                                              "web_url":  "https://www.gov.uk/government/publications/immigration-clr-disbursement-limit-extension-review-of-refusal",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/legal-aid-apply-for-exceptional-case-funding",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/legal-aid-apply-for-exceptional-case-funding",
+                                                              "base_path":  "/guidance/legal-aid-apply-for-exceptional-case-funding",
+                                                              "content_id":  "5f4cf133-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-07-13T14:03:07Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Legal aid: apply for exceptional case funding",
+                                                              "web_url":  "https://www.gov.uk/guidance/legal-aid-apply-for-exceptional-case-funding",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/crime-justice-and-law/legal-aid-for-providers",
+                                     "api_url":  "https://www.gov.uk/api/content/crime-justice-and-law/legal-aid-for-providers",
+                                     "base_path":  "/crime-justice-and-law/legal-aid-for-providers",
+                                     "content_id":  "4919a97c-3249-496c-8485-b7c8d36d6ef0",
+                                     "details":  {
+                                                     "internal_name":  "Legal aid [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/crime-justice-and-law",
+                                                                             "api_url":  "https://www.gov.uk/api/content/crime-justice-and-law",
+                                                                             "base_path":  "/crime-justice-and-law",
+                                                                             "content_id":  "ba951b09-5146-43be-87af-44075eac3ae9",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Crime, justice and law",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:34:51Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Crime, justice and law",
+                                                                             "web_url":  "https://www.gov.uk/crime-justice-and-law",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-05T16:15:51Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Legal aid",
+                                     "web_url":  "https://www.gov.uk/crime-justice-and-law/legal-aid-for-providers",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2024-04-09T10:52:10+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1732267927.367-10.13.20.22-2460",
+    "publishing_scheduled_at":  "2024-11-20T00:01:00+00:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  0,
+    "schema_name":  "detailed_guide",
+    "title":  "Civil legal aid: means testing",
+    "updated_at":  "2024-11-22T09:32:07+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

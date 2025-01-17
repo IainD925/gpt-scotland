@@ -1,0 +1,729 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/erdf-national-guidance",
+    "content_id":  "5c81108e-7631-11e4-a3cb-005056011aef",
+    "description":  "Forms and guidance about applying for and managing ERDF-supported projects, and details of state aid schemes running in England.",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/msword",
+                                            "file_size":  540672,
+                                            "filename":  "Outline_application_form_guidance.doc",
+                                            "id":  "1315890",
+                                            "title":  "Outline application form guidance",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a798a60ed915d04220693e5/Outline_application_form_guidance.doc"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  3819553,
+                                            "filename":  "National_Publicity_Requirements_V3_FINAL.pdf",
+                                            "id":  "1315891",
+                                            "number_of_pages":  18,
+                                            "title":  "National publicity requirements",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a78f4c440f0b62b22cbe208/National_Publicity_Requirements_V3_FINAL.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  162575,
+                                            "filename":  "ERDF-GN-1-006_ERDF_Article_55_Revenue_Generating_Projects_Requirements_V2.pdf",
+                                            "id":  "1315892",
+                                            "number_of_pages":  28,
+                                            "title":  "ERDF Article 55: revenue-generating projects requirements ",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7a52f1e5274a319e779758/ERDF-GN-1-006_ERDF_Article_55_Revenue_Generating_Projects_Requirements_V2.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  612644,
+                                            "filename":  "National_ERDF_handbook.pdf",
+                                            "id":  "1315893",
+                                            "number_of_pages":  137,
+                                            "title":  "National ERDF handbook",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a78c8d9ed915d0422065515/National_ERDF_handbook.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  84180,
+                                            "filename":  "131018_Eng_Business_Supp_State_Aid_Scheme_3.pdf",
+                                            "id":  "1315894",
+                                            "number_of_pages":  21,
+                                            "title":  "English Business Support State Aid Scheme",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7cb464e5274a2f304ef94d/131018_Eng_Business_Supp_State_Aid_Scheme_3.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  62883,
+                                            "filename":  "The_English_Property_Development_State_Aid_Scheme_v_1_6.pdf",
+                                            "id":  "1315895",
+                                            "number_of_pages":  8,
+                                            "title":  "English Property Development State Aid Scheme",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7cc3b1ed915d682236266f/The_English_Property_Development_State_Aid_Scheme_v_1_6.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  85904,
+                                            "filename":  "131018_Eng_Env_State_Aid_Scheme_3.pdf",
+                                            "id":  "1315896",
+                                            "number_of_pages":  20,
+                                            "title":  "English Environmental State Aid Scheme",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7ba98ced915d1311060b0a/131018_Eng_Env_State_Aid_Scheme_3.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  110105,
+                                            "filename":  "National_Eligiblity_Rules_V2.pdf",
+                                            "id":  "1315897",
+                                            "number_of_pages":  18,
+                                            "title":  "National eligiblity rules",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a79834aed915d07d35b61b5/National_Eligiblity_Rules_V2.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  824087,
+                                            "filename":  "ESIF_Procurement_Law_Compliance_Guidance_Note_v1_150715.pdf",
+                                            "id":  "1315898",
+                                            "number_of_pages":  55,
+                                            "title":  "Procurement law compliance guidance note",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a803bad40f0b623026924dd/ESIF_Procurement_Law_Compliance_Guidance_Note_v1_150715.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  190391,
+                                            "filename":  "National_State_Aid_Law_Requirements.pdf",
+                                            "id":  "1315899",
+                                            "number_of_pages":  35,
+                                            "title":  "National state aid law requirements",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a79c966e5274a18ba50ed3b/National_State_Aid_Law_Requirements.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1323840,
+                                            "filename":  "State_Aids_Guidance.pdf",
+                                            "id":  "1315900",
+                                            "number_of_pages":  22,
+                                            "title":  "State aid guidance",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a78a2d1ed915d07d35b13ce/State_Aids_Guidance.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  55032,
+                                            "filename":  "131018_Eng_Risk_Captl_Inv_Scheme__3.pdf",
+                                            "id":  "1315901",
+                                            "number_of_pages":  7,
+                                            "title":  "The English Risk Capital Investment State Aid Scheme",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7cb83ced915d6822362208/131018_Eng_Risk_Captl_Inv_Scheme__3.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  84143,
+                                            "filename":  "131018_Eng_RD_I_State_Aid_Scheme_3.pdf",
+                                            "id":  "1315902",
+                                            "number_of_pages":  20,
+                                            "title":  "English Research, Development and Innovation State Aid Scheme",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a74c7b3ed915d4d83b5ee7d/131018_Eng_RD_I_State_Aid_Scheme_3.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/msword",
+                                            "file_size":  749056,
+                                            "filename":  "Full_Application_Form_Guidance_V2.doc",
+                                            "id":  "1315903",
+                                            "title":  "Full application form guidance",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a797ac540f0b642860d875d/Full_Application_Form_Guidance_V2.doc"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  120640,
+                                            "filename":  "MCIS_Procurement_Screen.pdf",
+                                            "id":  "1315921",
+                                            "number_of_pages":  7,
+                                            "title":  "MCIS procurement screen",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a758685e5274a4f4677ed21/MCIS_Procurement_Screen.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  258156,
+                                            "filename":  "MCIS_Assets_Screen.pdf",
+                                            "id":  "1315922",
+                                            "number_of_pages":  7,
+                                            "title":  "MCIS assets screen",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7b29db40f0b66eab99f696/MCIS_Assets_Screen.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/x-zip-compressed",
+                                            "file_size":  4649149,
+                                            "filename":  "National_ERDF_Logo__Jan_2013.zip",
+                                            "id":  "1315924",
+                                            "title":  "ERDF logos",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7c0b67e5274a7202e19335/National_ERDF_Logo__Jan_2013.zip"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                            "file_size":  74139,
+                                            "filename":  "ERDF_Procurement_Checklist.docx",
+                                            "id":  "1315927",
+                                            "title":  "Procurement checklist",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a75a89840f0b67b3d5c8342/ERDF_Procurement_Checklist.docx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  115655,
+                                            "filename":  "130923_Eng_Business_Support.pdf",
+                                            "id":  "1315928",
+                                            "number_of_pages":  21,
+                                            "title":  "English Business Support Aid Scheme",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a808d1f40f0b623026942b5/130923_Eng_Business_Support.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  114334,
+                                            "filename":  "130923_Eng_Environmental.pdf",
+                                            "id":  "1315929",
+                                            "number_of_pages":  20,
+                                            "title":  "English Environmental State Aid Scheme",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a80536340f0b62305b8a7db/130923_Eng_Environmental.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  60301,
+                                            "filename":  "130923_Eng_Property_Dev.pdf",
+                                            "id":  "1315930",
+                                            "number_of_pages":  8,
+                                            "title":  "English Property Development State Aid Scheme",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7ff8a540f0b62302690bbd/130923_Eng_Property_Dev.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  111801,
+                                            "filename":  "130923_Eng_Resrch_Dev_Innovtn.pdf",
+                                            "id":  "1315931",
+                                            "number_of_pages":  20,
+                                            "title":  "English Research, Development and Innovation State Aid Scheme",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a818d5fe5274a2e87dbe3d8/130923_Eng_Resrch_Dev_Innovtn.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  72411,
+                                            "filename":  "130923_Eng_Risk_Cap_Invstmnt.pdf",
+                                            "id":  "1315932",
+                                            "number_of_pages":  7,
+                                            "title":  "English Risk Capital Investment State Aid Scheme",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a80beabed915d74e33fc2a6/130923_Eng_Risk_Cap_Invstmnt.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  228531,
+                                            "filename":  "131210_Gen_Block_Exmptn_Reg.pdf",
+                                            "id":  "1315933",
+                                            "number_of_pages":  45,
+                                            "title":  "General Block Exemption Regulation 2008",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a758d0ee5274a545822c643/131210_Gen_Block_Exmptn_Reg.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  264963,
+                                            "filename":  "Leipzig_Halle_Guidance_2015_261015.pdf",
+                                            "id":  "1315934",
+                                            "number_of_pages":  2,
+                                            "title":  "State aid law: Application of the Leipzig Halle principle in ERDF infrastructure projects",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7f1cc0e5274a2e8ab4a307/Leipzig_Halle_Guidance_2015_261015.pdf"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003ch2 id=\"erdf-forms-and-guidance\"\u003e\n\u003cabbr title=\"European Regional Development Fund\"\u003eERDF\u003c/abbr\u003e forms and guidance\u003c/h2\u003e\n\n\u003cp\u003eThe following forms and guidance must be used to manage the delivery of \u003cabbr title=\"European Regional Development Fund\"\u003eERDF\u003c/abbr\u003e-supported projects. Many of the guidance documents offer advice about using \u003cabbr title=\"European Regional Development Fund\"\u003eERDF\u003c/abbr\u003e forms.\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7cb464e5274a2f304ef94d/131018_Eng_Business_Supp_State_Aid_Scheme_3.pdf\"\u003eEnglish Business Support State Aid Scheme\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e82.2 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e21 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a797ac540f0b642860d875d/Full_Application_Form_Guidance_V2.doc\"\u003eFull application form guidance\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003eMS Word Document\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e732 KB\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7b29db40f0b66eab99f696/MCIS_Assets_Screen.pdf\"\u003eMCIS assets screen\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e252 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e7 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a79834aed915d07d35b61b5/National_Eligiblity_Rules_V2.pdf\"\u003eNational eligiblity rules\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e108 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e18 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a803bad40f0b623026924dd/ESIF_Procurement_Law_Compliance_Guidance_Note_v1_150715.pdf\"\u003eProcurement law compliance guidance note\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e805 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e55 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a75a89840f0b67b3d5c8342/ERDF_Procurement_Checklist.docx\"\u003eProcurement checklist\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003eMS Word Document\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e72.4 KB\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a758685e5274a4f4677ed21/MCIS_Procurement_Screen.pdf\"\u003eMCIS procurement screen\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e118 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e7 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a78f4c440f0b62b22cbe208/National_Publicity_Requirements_V3_FINAL.pdf\"\u003eNational publicity requirements\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e3.64 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e18 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7c0b67e5274a7202e19335/National_ERDF_Logo__Jan_2013.zip\"\u003eERDF logos\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e4.43 MB\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a78c8d9ed915d0422065515/National_ERDF_handbook.pdf\"\u003eNational ERDF handbook\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e598 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e137 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eGuidance to explain how to use the \u003cabbr title=\"European Regional Development Fund\"\u003eERDF\u003c/abbr\u003e logos and contact details are in the document ‘National publicity requirements’ available above. Past versions of the guidance provided above is available on request from your local growth delivery team.\u003c/p\u003e\n\n\u003ch2 id=\"state-aid-law\"\u003eState aid law\u003c/h2\u003e\n\n\u003cp\u003eState aid is an area of competition law which applies to public funding within the European Union.\u003c/p\u003e\n\n\u003cp\u003eThe Department for Business, Innovation and Skills (\u003cabbr title=\"Department for Business, Innovation and Skills\"\u003eBIS\u003c/abbr\u003e) state aid branch has lead responsibility within UK government for co-ordination and development of state aid policy.\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a79c966e5274a18ba50ed3b/National_State_Aid_Law_Requirements.pdf\"\u003eNational state aid law requirements\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e186 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e35 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a78a2d1ed915d07d35b13ce/State_Aids_Guidance.pdf\"\u003eState aid guidance\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e1.26 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e22 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7f1cc0e5274a2e8ab4a307/Leipzig_Halle_Guidance_2015_261015.pdf\"\u003eState aid law: Application of the Leipzig Halle principle in ERDF infrastructure projects\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e259 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e2 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe following schemes have been notified by \u003cabbr title=\"Department for Communities and Local Government\"\u003eDCLG\u003c/abbr\u003e to take advantage of the state aid exemptions available under the \u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7f1cc0e5274a2e8ab4a307/Leipzig_Halle_Guidance_2015_261015.pdf\"\u003eState aid law: Application of the Leipzig Halle principle in ERDF infrastructure projects\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e259 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e2 pages\u003c/span\u003e)\u003c/span\u003e.\u003c/p\u003e\n\n\u003cp\u003eThe schemes are only available for use by the named organisations. Aid may only be provided where the implementing body has satisfied all the terms of the scheme, including the reporting requirements.\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a80536340f0b62305b8a7db/130923_Eng_Environmental.pdf\"\u003eEnglish Environmental State Aid Scheme\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e112 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e20 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7ff8a540f0b62302690bbd/130923_Eng_Property_Dev.pdf\"\u003eEnglish Property Development State Aid Scheme\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e58.9 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e8 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a818d5fe5274a2e87dbe3d8/130923_Eng_Resrch_Dev_Innovtn.pdf\"\u003eEnglish Research, Development and Innovation State Aid Scheme\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e109 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e20 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a80beabed915d74e33fc2a6/130923_Eng_Risk_Cap_Invstmnt.pdf\"\u003eEnglish Risk Capital Investment State Aid Scheme\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e70.7 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e7 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a758d0ee5274a545822c643/131210_Gen_Block_Exmptn_Reg.pdf\"\u003eGeneral Block Exemption Regulation 2008\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e223 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e45 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "English Property Development State Aid Scheme guidance updated to version 1.6.",
+                                               "public_timestamp":  "2013-07-09T16:17:13.000+01:00"
+                                           },
+                                           {
+                                               "note":  "North East ERDF Programme Business Support Guide updated for version 2.",
+                                               "public_timestamp":  "2013-06-21T14:49:09.000+01:00"
+                                           },
+                                           {
+                                               "note":  "West Midlands ERDF Business Support Guide version 3 now available.\r\nEast Midlands ERDF Business Support Guide version 1 now available.",
+                                               "public_timestamp":  "2013-06-17T09:00:00.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added ERDF logos zip file.",
+                                               "public_timestamp":  "2013-05-16T09:51:31.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated 2 documents: \u0027Full application indicators, costs and funding annex\u0027 and \u0027ERDF Article 55: revenue-generating projects requirements\u0027.",
+                                               "public_timestamp":  "2013-03-20T15:14:13.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated broadband definitions in Yorkshire and Humber local indicator guidance.",
+                                               "public_timestamp":  "2013-03-14T09:30:34.000+00:00"
+                                           },
+                                           {
+                                               "note":  "North East Business Support Guide added",
+                                               "public_timestamp":  "2013-03-13T11:52:16.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Added 2 documents: \u0027MCIS procurement screen\u0027 and \u0027MCIS assets screen\u0027 in \u0027guidance\u0027 section.",
+                                               "public_timestamp":  "2013-03-04T11:43:51.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Added v2 of full application checklist and local programme guidance documents. Page also updated to make it more relevant to current status of programme lifetime.",
+                                               "public_timestamp":  "2013-03-04T09:00:02.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Added document \u0027State Aid and infrastructure: Leipzig Halle guidance\u0027.",
+                                               "public_timestamp":  "2013-02-22T14:27:41.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Various minor changes to the \u0027National publicity requirements\u0027 PDF.",
+                                               "public_timestamp":  "2013-01-23T11:53:49.000+00:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2013-03-14T09:30:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "2e7868a8-38f5-4ff6-b62f-9a15d1c22d28"
+                                                 ],
+                    "first_public_at":  "2013-03-14T09:30:00.000+00:00",
+                    "image":  {
+                                  "url":  "https://assets.digital.cabinet-office.gov.uk/media/55a7cc72ed915d5374000001/erdf-logo.png"
+                              },
+                    "national_applicability":  {
+                                                   "england":  {
+                                                                   "applicable":  true,
+                                                                   "label":  "England"
+                                                               },
+                                                   "northern_ireland":  {
+                                                                            "alternative_url":  "",
+                                                                            "applicable":  false,
+                                                                            "label":  "Northern Ireland"
+                                                                        },
+                                                   "scotland":  {
+                                                                    "alternative_url":  "",
+                                                                    "applicable":  false,
+                                                                    "label":  "Scotland"
+                                                                },
+                                                   "wales":  {
+                                                                 "alternative_url":  "",
+                                                                 "applicable":  false,
+                                                                 "label":  "Wales"
+                                                             }
+                                               },
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2013-03-14T09:30:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/erdf-national-guidance",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/erdf-national-guidance",
+                                                     "base_path":  "/guidance/erdf-national-guidance",
+                                                     "content_id":  "5c81108e-7631-11e4-a3cb-005056011aef",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2013-07-09T15:17:13Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "2007 to 2013 ERDF: national guidance",
+                                                     "web_url":  "https://www.gov.uk/guidance/erdf-national-guidance",
+                                                     "withdrawn":  true
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "base_path":  "/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "content_id":  "591c83aa-3b74-437d-a342-612bddd97572",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2015-05-08T00:00:00+00:00",
+                                                         "started_on":  "2010-05-12T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2010 to 2015 Conservative and Liberal Democrat coalition government",
+                                         "web_url":  "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government"
+                                     }
+                                 ],
+                  "lead_organisations":  [
+                                             {
+                                                 "analytics_identifier":  "D4",
+                                                 "api_path":  "/api/content/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                 "api_url":  "https://www.gov.uk/api/content/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                 "base_path":  "/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                 "content_id":  "2e7868a8-38f5-4ff6-b62f-9a15d1c22d28",
+                                                 "details":  {
+                                                                 "acronym":  "",
+                                                                 "brand":  "department-for-communities-and-local-government",
+                                                                 "default_news_image":  {
+                                                                                            "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db37ed915d5a62fdc789/s960_2_Marsham_Street_960x640.jpg",
+                                                                                            "url":  "https://assets.publishing.service.gov.uk/media/5a37db36e5274a79051c927d/s300_2_Marsham_Street_960x640.jpg"
+                                                                                        },
+                                                                 "logo":  {
+                                                                              "crest":  "single-identity",
+                                                                              "formatted_title":  "Ministry of Housing,\u003cbr/\u003eCommunities \u0026amp;\u003cbr/\u003eLocal Government (2018 to 2021)"
+                                                                          },
+                                                                 "organisation_govuk_status":  {
+                                                                                                   "status":  "changed_name",
+                                                                                                   "updated_at":  "2021-09-20T00:00:00.000+01:00",
+                                                                                                   "url":  "http://www.communities.gov.uk/"
+                                                                                               }
+                                                             },
+                                                 "document_type":  "organisation",
+                                                 "links":  {
+
+                                                           },
+                                                 "locale":  "en",
+                                                 "schema_name":  "organisation",
+                                                 "title":  "Ministry of Housing, Communities \u0026 Local Government (2018 to 2021)",
+                                                 "web_url":  "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                 "withdrawn":  false
+                                             }
+                                         ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D4",
+                                            "api_path":  "/api/content/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                            "base_path":  "/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                            "content_id":  "2e7868a8-38f5-4ff6-b62f-9a15d1c22d28",
+                                            "details":  {
+                                                            "acronym":  "",
+                                                            "brand":  "department-for-communities-and-local-government",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db37ed915d5a62fdc789/s960_2_Marsham_Street_960x640.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5a37db36e5274a79051c927d/s300_2_Marsham_Street_960x640.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Ministry of Housing,\u003cbr/\u003eCommunities \u0026amp;\u003cbr/\u003eLocal Government (2018 to 2021)"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "changed_name",
+                                                                                              "updated_at":  "2021-09-20T00:00:00.000+01:00",
+                                                                                              "url":  "http://www.communities.gov.uk/"
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Ministry of Housing, Communities \u0026 Local Government (2018 to 2021)",
+                                            "web_url":  "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "D4",
+                                                                       "api_path":  "/api/content/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                                       "base_path":  "/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                                       "content_id":  "2e7868a8-38f5-4ff6-b62f-9a15d1c22d28",
+                                                                       "details":  {
+                                                                                       "acronym":  "",
+                                                                                       "brand":  "department-for-communities-and-local-government",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db37ed915d5a62fdc789/s960_2_Marsham_Street_960x640.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5a37db36e5274a79051c927d/s300_2_Marsham_Street_960x640.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Ministry of Housing,\u003cbr/\u003eCommunities \u0026amp;\u003cbr/\u003eLocal Government (2018 to 2021)"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "changed_name",
+                                                                                                                         "updated_at":  "2021-09-20T00:00:00.000+01:00",
+                                                                                                                         "url":  "http://www.communities.gov.uk/"
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Ministry of Housing, Communities \u0026 Local Government (2018 to 2021)",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D4",
+                                                              "api_path":  "/api/content/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                              "base_path":  "/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                              "content_id":  "2e7868a8-38f5-4ff6-b62f-9a15d1c22d28",
+                                                              "details":  {
+                                                                              "acronym":  "",
+                                                                              "brand":  "department-for-communities-and-local-government",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db37ed915d5a62fdc789/s960_2_Marsham_Street_960x640.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/5a37db36e5274a79051c927d/s300_2_Marsham_Street_960x640.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Ministry of Housing,\u003cbr/\u003eCommunities \u0026amp;\u003cbr/\u003eLocal Government (2018 to 2021)"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "changed_name",
+                                                                                                                "updated_at":  "2021-09-20T00:00:00.000+01:00",
+                                                                                                                "url":  "http://www.communities.gov.uk/"
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Ministry of Housing, Communities \u0026 Local Government (2018 to 2021)",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related_guides":  [
+                                         {
+                                             "api_path":  "/api/content/guidance/erdf-programmes-progress-and-achievements",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/erdf-programmes-progress-and-achievements",
+                                             "base_path":  "/guidance/erdf-programmes-progress-and-achievements",
+                                             "content_id":  "5d65d5b9-7631-11e4-a3cb-005056011aef",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2017-11-07T16:15:18Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "2007 to 2013 ERDF programmes: achievements",
+                                             "web_url":  "https://www.gov.uk/guidance/erdf-programmes-progress-and-achievements",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/european-territorial-cooperation-programmes",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/european-territorial-cooperation-programmes",
+                                             "base_path":  "/guidance/european-territorial-cooperation-programmes",
+                                             "content_id":  "5d89d810-7631-11e4-a3cb-005056011aef",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2015-09-02T12:23:43Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "European territorial cooperation programmes",
+                                             "web_url":  "https://www.gov.uk/guidance/european-territorial-cooperation-programmes",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/previous-erdf-programmes-retaining-documents",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/previous-erdf-programmes-retaining-documents",
+                                             "base_path":  "/guidance/previous-erdf-programmes-retaining-documents",
+                                             "content_id":  "5c83aed2-7631-11e4-a3cb-005056011aef",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2013-01-30T15:20:40Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "ERDF programmes: retaining documents",
+                                             "web_url":  "https://www.gov.uk/guidance/previous-erdf-programmes-retaining-documents",
+                                             "withdrawn":  false
+                                         }
+                                     ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/england-2014-to-2020-european-structural-and-investment-funds",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/england-2014-to-2020-european-structural-and-investment-funds",
+                                                              "base_path":  "/guidance/england-2014-to-2020-european-structural-and-investment-funds",
+                                                              "content_id":  "b99b2e66-9f5b-4325-b1ac-e46b13e8cdac",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-10-20T07:21:24Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "England 2014 to 2020 European Structural and Investment Funds",
+                                                              "web_url":  "https://www.gov.uk/guidance/england-2014-to-2020-european-structural-and-investment-funds",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/business/management-of-the-european-regional-development-fund",
+                                     "api_url":  "https://www.gov.uk/api/content/business/management-of-the-european-regional-development-fund",
+                                     "base_path":  "/business/management-of-the-european-regional-development-fund",
+                                     "content_id":  "f431414e-ff30-42ba-812b-a4df1d68a0b4",
+                                     "details":  {
+                                                     "internal_name":  "Management of the European Regional Development Fund ",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/business/uk-economic-growth",
+                                                                             "api_url":  "https://www.gov.uk/api/content/business/uk-economic-growth",
+                                                                             "base_path":  "/business/uk-economic-growth",
+                                                                             "content_id":  "54758e13-1f51-4413-833c-70254776b06f",
+                                                                             "details":  {
+                                                                                             "internal_name":  "UK economic growth [P]",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/business-and-industry/uk-economy",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/business-and-industry/uk-economy",
+                                                                                                                     "base_path":  "/business-and-industry/uk-economy",
+                                                                                                                     "content_id":  "a1e4659c-dc15-48be-bc4f-6c609ae061dc",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "UK economy",
+                                                                                                                                     "notes_for_editors":  "...",
+                                                                                                                                     "visible_to_departmental_editors":  false
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "parent_taxons":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-03T15:41:06Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "UK economy",
+                                                                                                                     "web_url":  "https://www.gov.uk/business-and-industry/uk-economy",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-03T15:41:06Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "UK economic growth",
+                                                                             "web_url":  "https://www.gov.uk/business/uk-economic-growth",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-03T15:41:06Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Management of the European Regional Development Fund",
+                                     "web_url":  "https://www.gov.uk/business/management-of-the-european-regional-development-fund",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2013-07-09T16:17:13+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1713886338.358-10.13.27.83-628",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "2007 to 2013 ERDF: national guidance",
+    "updated_at":  "2024-09-11T10:11:11+01:00",
+    "withdrawn_notice":  {
+                             "explanation":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eThis page is no longer relevant to people running 2007 to 2013 projects. See information about what the \u003ca href=\"https://www.gov.uk/guidance/erdf-programmes-progress-and-achievements\" class=\"govuk-link\"\u003eprogramme has achieved\u003c/a\u003e and guidance about \u003ca href=\"https://www.gov.uk/guidance/previous-erdf-programmes-retaining-documents\" class=\"govuk-link\"\u003eretaining documents\u003c/a\u003e.\u003c/p\u003e\n\u003c/div\u003e",
+                             "withdrawn_at":  "2017-08-22T09:23:31Z"
+                         }
+}

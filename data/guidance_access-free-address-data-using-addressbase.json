@@ -1,0 +1,370 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/access-free-address-data-using-addressbase",
+    "content_id":  "4d78f6ab-7f79-4176-bb3c-daa329f5bead",
+    "description":  "Use free property and street information to add geospatial data to your projects and comply with the UPRN standard.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eFollow this guidance if you work in the public sector and you need to use address data, such as property and street information.\u003c/p\u003e\n\n\u003cp\u003eYou must use the \u003ca rel=\"external\" href=\"https://www.geoplace.co.uk/addresses-streets/location-data/the-uprn\" class=\"govuk-link\"\u003eUnique Property Reference Number (UPRN)\u003c/a\u003e standard when \u003ca href=\"https://www.gov.uk/government/publications/open-standards-for-government/identifying-property-and-street-information\" class=\"govuk-link\"\u003eidentifying places in the UK\u003c/a\u003e. This allows users to easily cross-reference between different data sets and reduces errors in data exchange and communication. Every addressable location in Great Britain (England, Scotland and Wales and excluding Northern Ireland) has a UPRN, and using this standard can save money, time, resources and lives.\u003c/p\u003e\n\n\u003cp\u003eThe guidance shares best practice in accessing address data using Ordnance Survey (OS) \u003ca rel=\"external\" href=\"https://www.ordnancesurvey.co.uk/business-government/products/addressbase\" class=\"govuk-link\"\u003eAddressBase\u003c/a\u003e products. This is a free set of products that lets public sector workers access essential geospatial data as part of the \u003ca rel=\"external\" href=\"https://www.ordnancesurvey.co.uk/business-government/public-sector-geospatial-agreement\" class=\"govuk-link\"\u003ePublic Sector Geospatial Agreement (PSGA)\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"use-addressbase-core-to-identify-property-and-street-information\"\u003eUse AddressBase Core to identify property and street information\u003c/h2\u003e\n\n\u003cp\u003eYou should consider AddressBase your source of truth for all address data in Great Britain, and use AddressBase Core whenever possible before other solutions.\u003c/p\u003e\n\n\u003cp\u003eIf your work involves finding addresses outside Great Britain, such as Northern Ireland, you can use \u003ca rel=\"external\" href=\"https://www.ordnancesurvey.co.uk/business-government/products/addressbase-islands\" class=\"govuk-link\"\u003eAddressBase Islands\u003c/a\u003e to supplement AddressBase Core’s data.\u003c/p\u003e\n\n\u003cp\u003eAll public sector bodies should use AddressBase Core for accessing address data rather than paying for other third party products.\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.ordnancesurvey.co.uk/business-government/products/addressbase-core\" class=\"govuk-link\"\u003eAddressBase Core\u003c/a\u003e lets public sector organisations easily identify any property with a UPRN in Great Britain (excluding Northern Ireland) and locate it on a map with precision. The property has to exist, and not have been demolished or be yet to be built.\u003c/p\u003e\n\n\u003ch2 id=\"why-you-should-use-addressbase\"\u003eWhy you should use AddressBase\u003c/h2\u003e\n\n\u003cp\u003eAddressBase products are free to use if your organisation or project is covered by the Public Sector Geospatial Agreement. You can \u003ca rel=\"external\" href=\"https://www.ordnancesurvey.co.uk/business-government/partner-member/member\" class=\"govuk-link\"\u003echeck if you are covered by the PSGA\u003c/a\u003e and if not, \u003ca rel=\"external\" href=\"https://www.ordnancesurvey.co.uk/business-government/licensing-agreements/psga-registration\" class=\"govuk-link\"\u003eregister for a PSGA membership\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eAddressBase’s primary source of address data is taken from local authorities. Local authorities have a legal responsibility to capture and maintain address data for Great Britain.\u003c/p\u003e\n\n\u003cp\u003eThis means AddressBase’s data is real and accurate. It includes locations for around 33 million addresses, as well as additional metadata.\u003c/p\u003e\n\n\u003cp\u003eThe core underlying data is updated constantly, many times a day. Ordnance Survey collects, quality checks and publishes a new version of the whole data set on AddressBase every week.\u003c/p\u003e\n\n\u003cp\u003eYou can use AddressBase to:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n    \u003cp\u003einclude address data in any activity you are responsible for, as long as it is non-profit\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003emake any information you have created that includes AddressBase data in print, online and as data - such as a CSV or an API - available to the public\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003emeet your \u003ca rel=\"external\" href=\"https://guidance.data.gov.uk/publish_and_manage_data/harvest_or_add_data/inspire/#inspire\" class=\"govuk-link\"\u003eINSPIRE publishing obligations\u003c/a\u003e by publishing \u003ca href=\"https://www.gov.uk/government/publications/open-standards-for-government/exchange-of-location-point\" class=\"govuk-link\"\u003egeospatial data in a consistent way\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eshare address data with anybody who is involved in providing an immediate response in emergency situations, even if they are not licensed to use Ordnance Survey data\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eproduce data suitable for third party research and development\u003c/p\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFor detailed information about OS data licensing, please follow Ordnance Survey’s \u003ca rel=\"external\" href=\"https://www.ordnancesurvey.co.uk/business-government/licensing-agreements/public-sector-publishing\" class=\"govuk-link\"\u003ePublishing OS Data guidance\u003c/a\u003e and \u003ca rel=\"external\" href=\"https://www.ordnancesurvey.co.uk/business-government/licensing-agreements/paf-licence\" class=\"govuk-link\"\u003eRoyal Mail PAF Public Sector Licenses guidance\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"check-other-resources-for-finding-geospatial-data\"\u003eCheck other resources for finding geospatial data\u003c/h2\u003e\n\n\u003cp\u003eIf you need more geospatial data, including map tiles, searching within polygons and data verification, you can use the \u003ca rel=\"external\" href=\"https://www.ordnancesurvey.co.uk/business-government/products/os-places-api\" class=\"govuk-link\"\u003eOS Places API\u003c/a\u003e. This API is also covered by the PSGA and is free to members.\u003c/p\u003e\n\n\u003cp\u003eIf your project or use case needs more advanced or specific features, there are other versions of AddressBase available.\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.ordnancesurvey.co.uk/business-government/products/addressbase-plus\" class=\"govuk-link\"\u003eAddressBase Plus\u003c/a\u003e gives up-to-date local authority addresses, multi-occupancy addresses and OS MasterMap Topographic Identifier (TOID) references.\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.ordnancesurvey.co.uk/business-government/products/addressbase-premium\" class=\"govuk-link\"\u003eAddressBase Premium\u003c/a\u003e includes data in Geography Markup Language (GML) 3.2.1 of pre-build addresses, historic addresses, alternative addresses, OS MasterMap Topography and Integrated Transport Network Layer TOIDs\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.ordnancesurvey.co.uk/business-government/products/addressbase-islands\" class=\"govuk-link\"\u003eAddressBase Islands\u003c/a\u003e provides address data in Northern Ireland, Isle of Man and the Channel Islands.\u003c/p\u003e\n\n\u003cp\u003eYou can find more information about other AddressBase features, as well as contact details, on \u003ca rel=\"external\" href=\"https://www.ordnancesurvey.co.uk/business-government/products/addressbase\" class=\"govuk-link\"\u003eOrdnance Survey’s AddressBase website\u003c/a\u003e.\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2021-07-28T14:50:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "2fb482e7-3c4d-496f-887d-f8a55a15e89a"
+                                                 ],
+                    "first_public_at":  "2021-07-28T14:50:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2021-07-28T14:50:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/access-free-address-data-using-addressbase",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/access-free-address-data-using-addressbase",
+                                                     "base_path":  "/guidance/access-free-address-data-using-addressbase",
+                                                     "content_id":  "4d78f6ab-7f79-4176-bb3c-daa329f5bead",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2021-07-28T13:50:00Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Access free address data using AddressBase",
+                                                     "web_url":  "https://www.gov.uk/guidance/access-free-address-data-using-addressbase",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/best-practice-guidance-and-tools-for-geospatial-data-managers",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/best-practice-guidance-and-tools-for-geospatial-data-managers",
+                                                   "base_path":  "/government/collections/best-practice-guidance-and-tools-for-geospatial-data-managers",
+                                                   "content_id":  "2b80c8c4-b75d-436a-b185-f2dea9679716",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/access-free-address-data-using-addressbase",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/access-free-address-data-using-addressbase",
+                                                                                       "base_path":  "/guidance/access-free-address-data-using-addressbase",
+                                                                                       "content_id":  "4d78f6ab-7f79-4176-bb3c-daa329f5bead",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2021-07-28T13:50:00Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Access free address data using AddressBase",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/access-free-address-data-using-addressbase",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2022-05-26T11:31:21Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Best practice guidance and tools for managing geospatial data",
+                                                   "web_url":  "https://www.gov.uk/government/collections/best-practice-guidance-and-tools-for-geospatial-data-managers",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "OT1329",
+                                            "api_path":  "/api/content/government/organisations/central-digital-and-data-office",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/central-digital-and-data-office",
+                                            "base_path":  "/government/organisations/central-digital-and-data-office",
+                                            "content_id":  "2fb482e7-3c4d-496f-887d-f8a55a15e89a",
+                                            "details":  {
+                                                            "acronym":  "CDDO",
+                                                            "brand":  "department-for-science-innovation-and-technology",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Central Digital \u003cbr/\u003e\u0026amp; Data Office"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Central Digital and Data Office",
+                                            "web_url":  "https://www.gov.uk/government/organisations/central-digital-and-data-office",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "OT1329",
+                                                                       "api_path":  "/api/content/government/organisations/central-digital-and-data-office",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/central-digital-and-data-office",
+                                                                       "base_path":  "/government/organisations/central-digital-and-data-office",
+                                                                       "content_id":  "2fb482e7-3c4d-496f-887d-f8a55a15e89a",
+                                                                       "details":  {
+                                                                                       "acronym":  "CDDO",
+                                                                                       "brand":  "department-for-science-innovation-and-technology",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Central Digital \u003cbr/\u003e\u0026amp; Data Office"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Central Digital and Data Office",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/central-digital-and-data-office",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "OT1329",
+                                                              "api_path":  "/api/content/government/organisations/central-digital-and-data-office",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/central-digital-and-data-office",
+                                                              "base_path":  "/government/organisations/central-digital-and-data-office",
+                                                              "content_id":  "2fb482e7-3c4d-496f-887d-f8a55a15e89a",
+                                                              "details":  {
+                                                                              "acronym":  "CDDO",
+                                                                              "brand":  "department-for-science-innovation-and-technology",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Central Digital \u003cbr/\u003e\u0026amp; Data Office"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Central Digital and Data Office",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/central-digital-and-data-office",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/publishing-your-tabular-data",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/publishing-your-tabular-data",
+                                                              "base_path":  "/guidance/publishing-your-tabular-data",
+                                                              "content_id":  "6bbdda8b-ffde-4894-9412-5e0dfc1f73ca",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-08-07T10:32:30Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Publishing your tabular data",
+                                                              "web_url":  "https://www.gov.uk/guidance/publishing-your-tabular-data",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/collections/metadata-standards-for-sharing-and-publishing-data",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/collections/metadata-standards-for-sharing-and-publishing-data",
+                                                              "base_path":  "/government/collections/metadata-standards-for-sharing-and-publishing-data",
+                                                              "content_id":  "78e754cd-22ee-40bd-8005-2e7e4ba11f78",
+                                                              "document_type":  "document_collection",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2023-11-28T11:31:36Z",
+                                                              "schema_name":  "document_collection",
+                                                              "title":  "Metadata standards for sharing and publishing data",
+                                                              "web_url":  "https://www.gov.uk/government/collections/metadata-standards-for-sharing-and-publishing-data",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/recommended-open-standards-for-government",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/recommended-open-standards-for-government",
+                                                              "base_path":  "/government/publications/recommended-open-standards-for-government",
+                                                              "content_id":  "91555ca5-a0cc-444a-a0d2-5ad5130d4559",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2023-09-28T09:39:49Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Recommended open standards for government",
+                                                              "web_url":  "https://www.gov.uk/government/publications/recommended-open-standards-for-government",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/using-csv-file-format",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/using-csv-file-format",
+                                                              "base_path":  "/guidance/using-csv-file-format",
+                                                              "content_id":  "fcd270a3-e3e7-4c02-8714-b066860dfa99",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-03-12T12:05:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Using CSV file format",
+                                                              "web_url":  "https://www.gov.uk/guidance/using-csv-file-format",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/record-information-about-data-sets-you-share-with-others",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/record-information-about-data-sets-you-share-with-others",
+                                                              "base_path":  "/guidance/record-information-about-data-sets-you-share-with-others",
+                                                              "content_id":  "5f26cf3d-cf99-4df0-88be-cf11c1dc1991",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-08-07T10:40:03Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Record information about data sets you share with others",
+                                                              "web_url":  "https://www.gov.uk/guidance/record-information-about-data-sets-you-share-with-others",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/government/data",
+                                     "api_url":  "https://www.gov.uk/api/content/government/data",
+                                     "base_path":  "/government/data",
+                                     "content_id":  "b7374969-dfdf-46eb-97f3-7772c011c10d",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Data",
+                                                     "notes_for_editors":  "",
+                                                     "url_override":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/all",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/all",
+                                                                             "base_path":  "/government/all",
+                                                                             "content_id":  "e48ab80a-de80-4e83-bf59-26316856a5f9",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Government",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:29:39Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Government",
+                                                                             "web_url":  "https://www.gov.uk/government/all",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "beta",
+                                     "public_updated_at":  "2022-03-08T08:06:55Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Data",
+                                     "web_url":  "https://www.gov.uk/government/data",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2021-07-28T14:50:00+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "4589-1634028492.254-10.13.1.227-2180",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Access free address data using AddressBase",
+    "updated_at":  "2024-12-12T10:27:32+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

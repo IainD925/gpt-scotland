@@ -1,0 +1,755 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/heat-networks",
+    "content_id":  "602d370b-7631-11e4-a3cb-005056011aef",
+    "description":  "Guidance for heat suppliers.",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  568469,
+                                            "filename":  "heat-networks-notification-template-2020-v1.2.xlsx",
+                                            "id":  "8303788",
+                                            "title":  "Heat networks notification template 2020",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5fc0e4438fa8f559e2153a1b/heat-networks-notification-template-2020-v1.2.xlsx"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  535155,
+                                            "filename":  "heat-networks-notification-template-user-guide.pdf",
+                                            "id":  "8303789",
+                                            "number_of_pages":  21,
+                                            "title":  "Heat networks notification template user guide",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5fce3712d3bf7f5d0c67fe7f/heat-networks-notification-template-user-guide.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.ms-excel.sheet.macroEnabled.12",
+                                            "file_size":  879316,
+                                            "filename":  "heat-networks-full-input-cost-effectiveness-tool.xlsm",
+                                            "id":  "8303790",
+                                            "title":  "Full input cost-effectiveness tool",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60ec060e8fa8f50c6ef84f99/heat-networks-full-input-cost-effectiveness-tool.xlsm"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.ms-excel.sheet.macroEnabled.12",
+                                            "file_size":  116635,
+                                            "filename":  "heat-networks-reduced-input-cost-effectiveness-tool.xlsm",
+                                            "id":  "8303791",
+                                            "title":  "Reduced input cost-effectiveness tool",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5fc0e507e90e077ed8b98992/heat-networks-reduced-input-cost-effectiveness-tool.xlsm"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  2757454,
+                                            "filename":  "heat-networks-metering-cost-effectiveness-tool-user-guide.pdf",
+                                            "id":  "8303792",
+                                            "number_of_pages":  69,
+                                            "title":  "User guide on heat metering cost-effectiveness tool",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5fc0e5638fa8f559e32b4d42/heat-networks-metering-cost-effectiveness-tool-user-guide.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  651640,
+                                            "filename":  "heat-networks-guidance-on-metering-and-billing-regulations-2014.pdf",
+                                            "id":  "8303793",
+                                            "number_of_pages":  38,
+                                            "title":  "Guidance on Heat Metering and Billing Regulations 2014 (as amended in 2015 and 2020)",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5fce3739e90e07562aba0de7/heat-networks-guidance-on-metering-and-billing-regulations-2014.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  186266,
+                                            "filename":  "heat-network-metering-and-billing-privacy-notice-november-2024.pdf",
+                                            "id":  "8303794",
+                                            "number_of_pages":  6,
+                                            "title":  "Heat metering and billing notification data privacy notice",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/67337560bac74dd6026bf302/heat-network-metering-and-billing-privacy-notice-november-2024.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  132408,
+                                            "filename":  "heat-networks-meter-bill-example.pdf",
+                                            "id":  "8303795",
+                                            "number_of_pages":  2,
+                                            "title":  "Heat networks meter bill example",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/62ea7314e90e0714343544b4/heat-networks-meter-bill-example.pdf"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eHeat networks account for a small proportion of UK heating systems.\u003c/p\u003e\n\n\u003cp\u003eThe purpose of the Heat Network (Metering and Billing) Regulations (‘the Regulations’), which came into force initially in 2014, is to drive energy efficiency and reduce carbon emissions from heating. The energy efficiency is achieved through the installation of metering devices and billing based on consumption, which aims to decrease the use of energy and result in associated carbon emission savings. Metering also supports fair and transparent billing for customers on heat networks. In addition, the Regulations have led to the creation of the first database of UK heat networks.\u003c/p\u003e\n\n\u003cp\u003eUnder the Regulations, the operators of heat networks must submit notifications for the heat networks they operate. They must, where required, install metering devices on those networks.\u003c/p\u003e\n\n\u003cp\u003eOperators whose networks are fitted with metering devices must meet ongoing obligations including using these devices to bill customers based on their consumption of heating, cooling or hot water.\u003c/p\u003e\n\n\u003cp\u003eThe Regulations were subsequently amended in 2015 and in November 2020.\u003c/p\u003e\n\n\u003ch2 id=\"what-is-covered\"\u003eWhat is covered\u003c/h2\u003e\n\n\u003cp\u003eHeat networks are systems in which heating, cooling or hot water is generated at a central source and supplied by the operator to third party customers through a pipe network.\u003c/p\u003e\n\n\u003cp\u003eThe Regulations describe four main components of a heat network:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eit must provide a shared source of heat for multiple users\u003c/li\u003e\n  \u003cli\u003ethe heat transfer medium must be water, steam or chilled liquids\u003c/li\u003e\n  \u003cli\u003ethe heat must be used for heating, cooling hot water or processes\u003c/li\u003e\n  \u003cli\u003ethe heat must be sold to final customers by heat suppliers\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFor a heat network to be covered by the Regulations, the heat must be transferred by water, steam, or chilled liquids, but the central heat source can use any type of technology.\u003c/p\u003e\n\n\u003ch2 id=\"extent-of-obligation\"\u003eExtent of obligation\u003c/h2\u003e\n\n\u003cp\u003eThe Regulations place obligations on heat suppliers. A heat supplier is defined as any person or organisation that supplies and charges for the supply of heating, cooling or hot water to customers through a heat network.\u003c/p\u003e\n\n\u003cp\u003eIt is important to note that a heat supplier is a different concept from a fuel supplier. A fuel supplier provides a source of fuel (such as gas or electricity) into a heat network’s energy centre but may not be involved in using that fuel to generate heating, cooling or hot water.\u003c/p\u003e\n\n\u003cp\u003eA heat supplier has responsibility for operating a network to generate heating, cooling or hot water, and distribute this supply to customers. Where multiple parties are involved in running a network, the heat supplier is the beneficiary of the customers’ payments. Typically, this is the party using customers’ payments to pay fuel bills to keep the network running.\u003c/p\u003e\n\n\u003ch2 id=\"how-to-comply\"\u003eHow to comply\u003c/h2\u003e\n\n\u003cp\u003eHeat suppliers with a new heat network must submit an initial notification to the Office for Product Safety and Standards (OPSS) on or before the day it becomes operational, meaning the day it first supplies heating, cooling or hot water to customers. This involves completing a copy of the heat network notification template below and emailing it (in Excel format) to \u003ca href=\"mailto:heatnotifications@businessandtrade.gov.uk\" class=\"govuk-link\"\u003eheatnotifications@businessandtrade.gov.uk\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eAfter the initial notification, heat suppliers must submit a  further notification within every four-year period thereafter, in respect of all networks that they operate. Where a new supplier has taken over responsibility for a heat network, it becomes the regulated entity under the Regulations and must fulfil all the obligations, including notifications. The notification template below must be used to submit any notification.\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5fc0e4438fa8f559e2153a1b/heat-networks-notification-template-2020-v1.2.xlsx\"\u003eHeat networks notification template 2020\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003eMS Excel Spreadsheet\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e555 KB\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003cp\u003eIt is advised to consult the user guide prior to completing the notification template:\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5fce3712d3bf7f5d0c67fe7f/heat-networks-notification-template-user-guide.pdf\"\u003eHeat networks notification template user guide\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e523 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e21 pages\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003cp\u003eThe amendments to the Regulations in 2020 introduce building classes that require some heat suppliers with unmetered networks to install metering devices in the buildings they serve.\u003c/p\u003e\n\n\u003cp\u003eThe three building classes are:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eViable – meters must be installed\u003c/li\u003e\n  \u003cli\u003eOpen – meters must be installed if the result of a cost-effectiveness assessment is positive\u003c/li\u003e\n  \u003cli\u003eExempt – meters do not have to be installed\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.youtube.com/watch?v=jZUp1PBcYJo\" class=\"govuk-link\"\u003eBuilding Classes Explained\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eA cost-effectiveness assessment tool has been developed to support heat suppliers to assess whether it is cost-effective to install metering devices. The results of cost-effectiveness assessments must be reported in the notification template, and the cost-effectiveness assessment with any accompanying documents must be submitted to OPSS upon request.\u003c/p\u003e\n\n\u003cp\u003eWhere cost-effectiveness assessments have established a duty to install metering devices, heat suppliers must carry out this installation work in line with the timelines stipulated in the legislation. The results of this work must be reported to OPSS.\u003c/p\u003e\n\n\u003cp\u003eThe cost-effectiveness tool was built to aid heat suppliers in their determination of cost-effectiveness. Two versions are available: the reduced input tool (where energy consumption is known and a quote for metering installation costs is available) and the full input tool (where energy consumption for a building is either estimated or consumption is known but a quote for metering installation costs is not available). Heat suppliers only need to complete one of these tools, in accordance with the information that is available to them, as described in the brackets:\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/60ec060e8fa8f50c6ef84f99/heat-networks-full-input-cost-effectiveness-tool.xlsm\"\u003eFull input cost-effectiveness tool\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e859 KB\u003c/span\u003e)\u003c/span\u003e (FCET)\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5fc0e507e90e077ed8b98992/heat-networks-reduced-input-cost-effectiveness-tool.xlsm\"\u003eReduced input cost-effectiveness tool\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e114 KB\u003c/span\u003e)\u003c/span\u003e (RCET)\u003c/p\u003e\n\n\u003cp\u003eHeat suppliers are advised to consult the respective guidance before completing either of the cost-effectiveness tools:\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5fc0e5638fa8f559e32b4d42/heat-networks-metering-cost-effectiveness-tool-user-guide.pdf\"\u003eUser guide on heat metering cost-effectiveness tool\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e2.63 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e69 pages\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.youtube.com/watch?v=AnuPzt_x0dg\" class=\"govuk-link\"\u003eCET Explained\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eWhere metering devices are present on networks (regardless of the date of installation), heat suppliers must ensure these devices accurately record customers’ consumption of heating, cooling or hot water and that they remain in continuous operation.\u003c/p\u003e\n\n\u003cp\u003eWhere applicable heat suppliers must use meter readings to bill to customers. Bills must be issued at least annually and be based on customers’ consumption of heating, cooling or hot water.\u003c/p\u003e\n\n\u003cp\u003eFull regulatory requirements and detailed explanations on how to comply are set out in guidance for Heat Network (Metering and Billing) Regulations 2014 (as amended in 2015 and 2020).\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5fce3739e90e07562aba0de7/heat-networks-guidance-on-metering-and-billing-regulations-2014.pdf\"\u003eGuidance on Heat Metering and Billing Regulations 2014 (as amended in 2015 and 2020)\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e636 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e38 pages\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/62ea7314e90e0714343544b4/heat-networks-meter-bill-example.pdf\"\u003eHeat networks meter bill example\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e129 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e2 pages\u003c/span\u003e)\u003c/span\u003e – The energy prices used in this example are an average taken from a project that OPSS carried out in 2021. They may not be representative of current energy prices.\u003c/p\u003e\n\n\u003ch2 id=\"our-involvement\"\u003eOur involvement\u003c/h2\u003e\n\n\u003cp\u003eOPSS acts as the Secretary of State for the Department for Energy Security and Net Zero to enforce the Regulations in the UK. This involves receiving and processing heat network notifications. Where relevant, it includes pursuing notification submissions and verifying that metering devices are installed, accurate and operating correctly, and that billing requirements are met.\u003c/p\u003e\n\n\u003cp\u003eOur approach to addressing non-compliance by those we regulate is set out in our Enforcement Policy, which should be read alongside guidance on the specific enforcement actions available to us under the regulations, and associated rights to make representations or appeal.\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/government/publications/safety-and-standards-enforcement-enforcement-policy\" class=\"govuk-link\"\u003eRead our Enforcement Policy\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/government/publications/opss-enforcement-enforcement-actions/heat-network-regulations\" class=\"govuk-link\"\u003eRead our guidance on enforcement actions and associated rights\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eDuring the summer of 2023 DESNZ and Ofgem consulted on new regulatory requirements for heat networks, One of the primary purposes is aimed at consumer protection.\u003c/p\u003e\n\n\u003ch2 id=\"where-to-find-out-more\"\u003eWhere to find out more\u003c/h2\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.legislation.gov.uk/uksi/2014/3120/contents\" class=\"govuk-link\"\u003eHeat Network (Metering and Billing) Regulations 2014\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.legislation.gov.uk/uksi/2015/855/contents/made\" class=\"govuk-link\"\u003eHeat Network (Metering and Billing) (Amendment) Regulations 2015\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.legislation.gov.uk/uksi/2020/1221/contents/made\" class=\"govuk-link\"\u003eHeat Network (Metering and Billing) (Amendment) Regulations 2020\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.youtube.com/playlist?list=PLLXyLAloYkPW4PbNo3wan6m_682F7LJhy\" class=\"govuk-link\"\u003eWatch an introduction to heat networks\u003c/a\u003e – YouTube\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.youtube.com/playlist?list=PLLXyLAloYkPXu9wKBwD42XeHsFP9goNU_\" class=\"govuk-link\"\u003eWatch four webinars on heat networks\u003c/a\u003e – YouTube, July 2022:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003egeneral metering and billing\u003c/li\u003e\n  \u003cli\u003ebuilding classes and cost-effectiveness tool\u003c/li\u003e\n  \u003cli\u003emeter installation\u003c/li\u003e\n  \u003cli\u003emeter accuracy\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.youtube.com/playlist?list=PLLXyLAloYkPXNCxQXLMtAjcORbcJkPYZs\" class=\"govuk-link\"\u003eWatch four webinars on the amendments to the Heat Networks (Metering and Billing) Regulations\u003c/a\u003e – YouTube, February 2021:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eoverview\u003c/li\u003e\n  \u003cli\u003enotifications\u003c/li\u003e\n  \u003cli\u003ebuilding classes and metering\u003c/li\u003e\n  \u003cli\u003ecost-effectiveness tool\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"contact-us\"\u003eContact us\u003c/h2\u003e\n\n\u003cp\u003eIf you have a specific enquiry about compliance or wish to contact us regarding suspected non-compliance please email \u003ca href=\"mailto:OPSS.enquiries@businessandtrade.gov.uk\" class=\"govuk-link\"\u003eOPSS.enquiries@businessandtrade.gov.uk\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eAlternatively, you can contact our helpdesk on 0121 345 1201.\u003c/p\u003e\n\n\u003cp\u003eOr in writing to:\u003c/p\u003e\n\n\u003cdiv class=\"address\"\u003e\u003cdiv class=\"adr org fn\"\u003e\u003cp\u003e\n\nOffice for Product Safety and Standards\n\u003cbr\u003e4th Floor Cannon House\n\u003cbr\u003e18 The Priory Queensway\n\u003cbr\u003eBirmingham\n\u003cbr\u003eB4 6BS\n\u003cbr\u003eUnited Kingdom\n\u003cbr\u003e\n\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/67337560bac74dd6026bf302/heat-network-metering-and-billing-privacy-notice-november-2024.pdf\"\u003eHeat metering and billing notification data privacy notice\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e182 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e6 pages\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Privacy notice updated.",
+                                               "public_timestamp":  "2024-11-13T14:08:57.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Minor updates to page.",
+                                               "public_timestamp":  "2024-04-22T10:00:06.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Link added to new guidance on enforcement actions and associated rights.",
+                                               "public_timestamp":  "2023-06-30T10:31:31.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated with details on the EBDS Heat Network Support which pauses the requirement to submit notifications in some cases. ",
+                                               "public_timestamp":  "2023-04-26T16:08:44.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Draft guidance on enforcement actions and associated rights added for consultation purposes only.",
+                                               "public_timestamp":  "2023-02-23T12:22:04.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Links provided to guidance on the pass-through requirements for energy price support to intermediaries and the related notification portal for heat suppliers, with the addition of an associated privacy notice and amendments to the privacy notice for heat metering and billing notification.",
+                                               "public_timestamp":  "2022-12-08T09:44:07.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Sample heat networks meter bill and links to webinars added.",
+                                               "public_timestamp":  "2022-08-26T08:54:39.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Privacy notice updated.",
+                                               "public_timestamp":  "2022-03-23T09:58:38.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Page revised due to the amendment of the Heat Network (Metering and Billing) Regulations 2014, including a new notification template and a new cost-effectiveness tool.",
+                                               "public_timestamp":  "2020-11-27T12:21:55.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Summary information provided relating to the Heat Network (Metering and Billing) (Amendment) Regulations 2020, which come into force on 27 November 2020. ",
+                                               "public_timestamp":  "2020-11-09T12:00:36.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Our Teddington office is temporarily closed but we are still working remotely and can be contacted by email.",
+                                               "public_timestamp":  "2020-04-16T12:06:31.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Heat suppliers with the majority of their final customers in Scotland can now declare a Unique Property Reference Number (UPRN) for the network rather than all final customers. ",
+                                               "public_timestamp":  "2019-12-20T09:06:15.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Notification template and privacy notice updated.",
+                                               "public_timestamp":  "2019-10-29T12:07:39.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Link added to a public consultation on a revised methodology for assessing the cost effectiveness of metering for district and communal heat networks.",
+                                               "public_timestamp":  "2019-10-18T09:53:41.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated notification form for suppliers of heat, cooling, and/or hot water.",
+                                               "public_timestamp":  "2019-06-27T14:49:06.000+01:00"
+                                           },
+                                           {
+                                               "note":  "GDPR privacy notice added for heat metering and billing notification data.",
+                                               "public_timestamp":  "2018-07-09T12:18:28.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Competition and Markets Authority\u0027s heat network market study launched.",
+                                               "public_timestamp":  "2017-12-07T14:05:42.000+00:00"
+                                           },
+                                           {
+                                               "note":  "The Heat Metering and Billing Regulations 2014 Notification Data.",
+                                               "public_timestamp":  "2017-02-23T09:30:27.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated timescales and remark associated with the cost-effectiveness assessment",
+                                               "public_timestamp":  "2016-10-26T09:15:30.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated scope guidance, estimator tool, and estimator tool guidance",
+                                               "public_timestamp":  "2016-02-02T14:47:50.000+00:00"
+                                           },
+                                           {
+                                               "note":  "The European Commission is developing guidance on the application of cost effectiveness tests for heat metering, under the Energy Efficiency Directive. This means that the earlier DECC cost effectiveness tool will need to be revised. In most properties, the tool had indicated that individual heat meters will not be cost-effective. Therefore, pending the revision of the tool we are advising that no further assessments should be undertaken. Any assessments which are undertaken following this announcement using the current tool may need to be redone once the revised tool has been introduced. The requirement to install heat meters to measure final consumption of heat from a heat network in buildings occupied by one final customer will not be enforced by the National Measurement and Regulation Office pending revision of the tool. The remaining requirements in the regulations are unaffected (for example in relation to building-level meters and newly constructed buildings connected to a district heating network and those buildings on district heating networks that undergo a major renovation). The remaining notification requirements still apply.",
+                                               "public_timestamp":  "2015-07-14T16:18:55.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Heat Networks Notifications to be supplied by 31st December 2015 for the first time.",
+                                               "public_timestamp":  "2015-04-07T11:52:54.000+01:00"
+                                           },
+                                           {
+                                               "note":  "On 26 March 2015, the Government introduced an amendment to the Heat Network (Metering and Billing) Regulations to revise the deadline for notifications from 30 April 2015 to 31 December 2015. This change will allow more time for data gathering to be scheduled or commissioned as part of other work being undertaken by the heat supplier, and help to reduce the administrative burden.",
+                                               "public_timestamp":  "2015-03-26T15:52:16.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Additional guidance and notifications template added.",
+                                               "public_timestamp":  "2015-02-04T13:40:25.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Notifications template has been temporarily taken offline for amendments. ",
+                                               "public_timestamp":  "2015-02-02T08:49:30.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Notifications template added in relation to Regulation 3 added to Detailed Guide.",
+                                               "public_timestamp":  "2015-01-30T17:12:22.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Scope guidance included.",
+                                               "public_timestamp":  "2015-01-30T15:08:53.000+00:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2014-12-04T00:00:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "6315817c-ef11-4905-bb4d-b6dca8e9052c",
+                                                     "a0ee18e7-9e1e-4ba1-aed5-f3f287dce752"
+                                                 ],
+                    "first_public_at":  "2014-12-04T00:00:00.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2014-12-04T00:00:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/heat-networks",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/heat-networks",
+                                                     "base_path":  "/guidance/heat-networks",
+                                                     "content_id":  "602d370b-7631-11e4-a3cb-005056011aef",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2024-11-13T14:08:57Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Regulations: heat networks (metering and billing)",
+                                                     "web_url":  "https://www.gov.uk/guidance/heat-networks",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/heat-networks",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/heat-networks",
+                                                   "base_path":  "/government/collections/heat-networks",
+                                                   "content_id":  "9fe4aa1c-24cf-4e8f-b758-062e0b2fe623",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/heat-networks",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/heat-networks",
+                                                                                       "base_path":  "/guidance/heat-networks",
+                                                                                       "content_id":  "602d370b-7631-11e4-a3cb-005056011aef",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2024-11-13T14:08:57Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Regulations: heat networks (metering and billing)",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/heat-networks",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2024-04-02T14:26:02Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Heat networks",
+                                                   "web_url":  "https://www.gov.uk/government/collections/heat-networks",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "base_path":  "/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "content_id":  "591c83aa-3b74-437d-a342-612bddd97572",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2015-05-08T00:00:00+00:00",
+                                                         "started_on":  "2010-05-12T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2010 to 2015 Conservative and Liberal Democrat coalition government",
+                                         "web_url":  "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government"
+                                     }
+                                 ],
+                  "lead_organisations":  [
+                                             {
+                                                 "analytics_identifier":  "EA33",
+                                                 "api_path":  "/api/content/government/organisations/national-measurement-office",
+                                                 "api_url":  "https://www.gov.uk/api/content/government/organisations/national-measurement-office",
+                                                 "base_path":  "/government/organisations/national-measurement-office",
+                                                 "content_id":  "bf70fb51-06d0-4625-85bb-410bdf42cddc",
+                                                 "details":  {
+                                                                 "acronym":  "NMO",
+                                                                 "brand":  "department-for-business-innovation-skills",
+                                                                 "default_news_image":  null,
+                                                                 "logo":  {
+                                                                              "crest":  "bis",
+                                                                              "formatted_title":  "National \u003cbr/\u003eMeasurement \u003cbr/\u003eOffice"
+                                                                          },
+                                                                 "organisation_govuk_status":  {
+                                                                                                   "status":  "changed_name",
+                                                                                                   "updated_at":  "2015-03-31T00:00:00.000+01:00",
+                                                                                                   "url":  "http://www.bis.gov.uk/nmo"
+                                                                                               }
+                                                             },
+                                                 "document_type":  "organisation",
+                                                 "links":  {
+
+                                                           },
+                                                 "locale":  "en",
+                                                 "schema_name":  "organisation",
+                                                 "title":  "National Measurement Office",
+                                                 "web_url":  "https://www.gov.uk/government/organisations/national-measurement-office",
+                                                 "withdrawn":  false
+                                             },
+                                             {
+                                                 "analytics_identifier":  "EA1109",
+                                                 "api_path":  "/api/content/government/organisations/national-measurement-and-regulation-office",
+                                                 "api_url":  "https://www.gov.uk/api/content/government/organisations/national-measurement-and-regulation-office",
+                                                 "base_path":  "/government/organisations/national-measurement-and-regulation-office",
+                                                 "content_id":  "9c0cb3f3-8cea-4597-b719-ec168c36063f",
+                                                 "details":  {
+                                                                 "acronym":  "NMRO",
+                                                                 "brand":  "department-for-business-innovation-skills",
+                                                                 "default_news_image":  null,
+                                                                 "logo":  {
+                                                                              "formatted_title":  "National Measurement and Regulation Office",
+                                                                              "image":  {
+                                                                                            "alt_text":  "National Measurement and Regulation Office",
+                                                                                            "url":  "https://assets.publishing.service.gov.uk/media/59fa00e640f0b62ee8ef89c5/National_Measurement___Regulation_Office_294.png"
+                                                                                        }
+                                                                          },
+                                                                 "organisation_govuk_status":  {
+                                                                                                   "status":  "merged",
+                                                                                                   "updated_at":  "2016-03-31T00:00:00.000+01:00",
+                                                                                                   "url":  ""
+                                                                                               }
+                                                             },
+                                                 "document_type":  "organisation",
+                                                 "links":  {
+
+                                                           },
+                                                 "locale":  "en",
+                                                 "schema_name":  "organisation",
+                                                 "title":  "National Measurement and Regulation Office",
+                                                 "web_url":  "https://www.gov.uk/government/organisations/national-measurement-and-regulation-office",
+                                                 "withdrawn":  false
+                                             }
+                                         ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D1380",
+                                            "api_path":  "/api/content/government/organisations/department-for-energy-security-and-net-zero",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-energy-security-and-net-zero",
+                                            "base_path":  "/government/organisations/department-for-energy-security-and-net-zero",
+                                            "content_id":  "6315817c-ef11-4905-bb4d-b6dca8e9052c",
+                                            "details":  {
+                                                            "acronym":  "DESNZ",
+                                                            "brand":  "department-for-business-innovation-skills",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/656df1fd1104cf000dfa74a1/s960_whitehall-place-exterior-960x640.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/656df1fd0f12ef07a53e01be/s300_whitehall-place-exterior-960x640.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Department for\u003cbr/\u003eEnergy Security\u003cbr/\u003e\u0026amp; Net Zero"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Department for Energy Security and Net Zero",
+                                            "web_url":  "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+                                            "withdrawn":  false
+                                        },
+                                        {
+                                            "analytics_identifier":  "OT1246",
+                                            "api_path":  "/api/content/government/organisations/office-for-product-safety-and-standards",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/office-for-product-safety-and-standards",
+                                            "base_path":  "/government/organisations/office-for-product-safety-and-standards",
+                                            "content_id":  "a0ee18e7-9e1e-4ba1-aed5-f3f287dce752",
+                                            "details":  {
+                                                            "acronym":  "",
+                                                            "brand":  "uk-trade-investment",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "dbt",
+                                                                         "formatted_title":  "Office for Product \u003cbr/\u003eSafety \u0026amp; Standards"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Office for Product Safety and Standards",
+                                            "web_url":  "https://www.gov.uk/government/organisations/office-for-product-safety-and-standards",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA33",
+                                                                       "api_path":  "/api/content/government/organisations/national-measurement-office",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/national-measurement-office",
+                                                                       "base_path":  "/government/organisations/national-measurement-office",
+                                                                       "content_id":  "bf70fb51-06d0-4625-85bb-410bdf42cddc",
+                                                                       "details":  {
+                                                                                       "acronym":  "NMO",
+                                                                                       "brand":  "department-for-business-innovation-skills",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "bis",
+                                                                                                    "formatted_title":  "National \u003cbr/\u003eMeasurement \u003cbr/\u003eOffice"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "changed_name",
+                                                                                                                         "updated_at":  "2015-03-31T00:00:00.000+01:00",
+                                                                                                                         "url":  "http://www.bis.gov.uk/nmo"
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "National Measurement Office",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/national-measurement-office",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D1380",
+                                                              "api_path":  "/api/content/government/organisations/department-for-energy-security-and-net-zero",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-energy-security-and-net-zero",
+                                                              "base_path":  "/government/organisations/department-for-energy-security-and-net-zero",
+                                                              "content_id":  "6315817c-ef11-4905-bb4d-b6dca8e9052c",
+                                                              "details":  {
+                                                                              "acronym":  "DESNZ",
+                                                                              "brand":  "department-for-business-innovation-skills",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/656df1fd1104cf000dfa74a1/s960_whitehall-place-exterior-960x640.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/656df1fd0f12ef07a53e01be/s300_whitehall-place-exterior-960x640.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Department for\u003cbr/\u003eEnergy Security\u003cbr/\u003e\u0026amp; Net Zero"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Department for Energy Security and Net Zero",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related_guides":  [
+                                         {
+                                             "api_path":  "/api/content/guidance/national-regulation-enforcement-services",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/national-regulation-enforcement-services",
+                                             "base_path":  "/guidance/national-regulation-enforcement-services",
+                                             "content_id":  "e814b470-18db-4c61-918a-53bd318eff3f",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2023-01-06T13:36:54Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "National regulation: enforcement services",
+                                             "web_url":  "https://www.gov.uk/guidance/national-regulation-enforcement-services",
+                                             "withdrawn":  false
+                                         }
+                                     ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/government/collections/heat-networks",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/collections/heat-networks",
+                                                              "base_path":  "/government/collections/heat-networks",
+                                                              "content_id":  "9fe4aa1c-24cf-4e8f-b758-062e0b2fe623",
+                                                              "document_type":  "document_collection",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-04-02T14:26:02Z",
+                                                              "schema_name":  "document_collection",
+                                                              "title":  "Heat networks",
+                                                              "web_url":  "https://www.gov.uk/government/collections/heat-networks",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/heat-network-case-studies",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/heat-network-case-studies",
+                                                              "base_path":  "/government/publications/heat-network-case-studies",
+                                                              "content_id":  "2a40abb3-e3d9-415f-970f-b203cd56ed63",
+                                                              "document_type":  "promotional",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2018-02-07T16:56:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Heat networks case studies",
+                                                              "web_url":  "https://www.gov.uk/government/publications/heat-network-case-studies",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/what-is-a-heat-network",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/what-is-a-heat-network",
+                                                              "base_path":  "/government/publications/what-is-a-heat-network",
+                                                              "content_id":  "be8cf8cc-6bc3-4ba8-9c4c-3182862d84e8",
+                                                              "document_type":  "promotional",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2018-03-29T13:23:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "What is a heat network?",
+                                                              "web_url":  "https://www.gov.uk/government/publications/what-is-a-heat-network",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/corporate-transparency-and-register-reform",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/corporate-transparency-and-register-reform",
+                                                              "base_path":  "/government/publications/corporate-transparency-and-register-reform",
+                                                              "content_id":  "176c7e09-7c96-4f05-864e-04a3a27fbf60",
+                                                              "document_type":  "policy_paper",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-02-28T17:10:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Corporate transparency and register reform",
+                                                              "web_url":  "https://www.gov.uk/government/publications/corporate-transparency-and-register-reform",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/heat-networks-delivery-unit",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/heat-networks-delivery-unit",
+                                                              "base_path":  "/guidance/heat-networks-delivery-unit",
+                                                              "content_id":  "092dce66-d575-4a29-9bd4-5687d12babad",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-09-26T13:19:03Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Heat Networks Delivery Unit: Round 14 (open to applications)",
+                                                              "web_url":  "https://www.gov.uk/guidance/heat-networks-delivery-unit",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/housing-local-and-community/energy-efficiency-in-buildings",
+                                     "api_url":  "https://www.gov.uk/api/content/housing-local-and-community/energy-efficiency-in-buildings",
+                                     "base_path":  "/housing-local-and-community/energy-efficiency-in-buildings",
+                                     "content_id":  "656ce189-8363-4dff-83f7-d817f9554a4f",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Energy efficiency in buildings [P]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/housing-local-and-community/planning-and-building",
+                                                                             "api_url":  "https://www.gov.uk/api/content/housing-local-and-community/planning-and-building",
+                                                                             "base_path":  "/housing-local-and-community/planning-and-building",
+                                                                             "content_id":  "e3147d4f-4bd5-4a14-a386-4ba7ccb058b4",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Planning and building (merged, level 2)",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/housing-local-and-community",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/housing-local-and-community",
+                                                                                                                     "base_path":  "/housing-local-and-community",
+                                                                                                                     "content_id":  "4794066e-e3cc-425e-8cc4-e7ff3edb4c39",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Housing, local and community",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:32:02Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Housing, local and community",
+                                                                                                                     "web_url":  "https://www.gov.uk/housing-local-and-community",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-08-24T11:05:58Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Planning and building",
+                                                                             "web_url":  "https://www.gov.uk/housing-local-and-community/planning-and-building",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-16T12:09:46Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Energy efficiency in buildings",
+                                     "web_url":  "https://www.gov.uk/housing-local-and-community/energy-efficiency-in-buildings",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/business-and-industry/business-regulation",
+                                     "api_url":  "https://www.gov.uk/api/content/business-and-industry/business-regulation",
+                                     "base_path":  "/business-and-industry/business-regulation",
+                                     "content_id":  "33bc0eed-62c7-4b0b-9a93-626c9e10c025",
+                                     "details":  {
+                                                     "internal_name":  "Business regulation [P]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/business-and-industry",
+                                                                             "api_url":  "https://www.gov.uk/api/content/business-and-industry",
+                                                                             "base_path":  "/business-and-industry",
+                                                                             "content_id":  "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Business and industry",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-03T15:41:02Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Business and industry",
+                                                                             "web_url":  "https://www.gov.uk/business-and-industry",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-03T15:41:03Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Business regulation",
+                                     "web_url":  "https://www.gov.uk/business-and-industry/business-regulation",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2024-11-13T14:08:57+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1731506937.485-10.13.20.78-2341",
+    "publishing_scheduled_at":  "2024-04-22T10:00:00+01:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  7,
+    "schema_name":  "detailed_guide",
+    "title":  "Regulations: heat networks (metering and billing)",
+    "updated_at":  "2024-11-18T13:23:23+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

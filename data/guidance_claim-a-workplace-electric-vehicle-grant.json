@@ -1,0 +1,259 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/claim-a-workplace-electric-vehicle-grant",
+    "content_id":  "af699b46-44cf-4efd-8b08-5db8a3b53743",
+    "description":  "Allows authorised installers to claim workplace grants and manage existing claims.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eUse this service to make claims, or manage existing claims, for discounts you’ve given to organisations as part of the \u003ca href=\"https://www.gov.uk/government/publications/workplace-charging-scheme-guidance-for-applicants-installers-and-manufacturers\" class=\"govuk-link\"\u003eWorkplace Charging Scheme\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eTo make or manage a claim, you’ll need to:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ebe an \u003ca rel=\"external\" href=\"https://forms.dft.gov.uk/olev-authorised-installer-application/\" class=\"govuk-link\"\u003eauthorised installer\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003eclaim the voucher within 120 days of it being issued\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://claim-chargepoint-grants.service.gov.uk/installer_users/sign_in\" class=\"govuk-link\"\u003eLog in to the installer portal\u003c/a\u003e\u003c/p\u003e\n\n\u003ch2 id=\"before-you-claim\"\u003eBefore you claim\u003c/h2\u003e\n\n\u003cp\u003eYou must prove you’ve completed the work before you can make a claim. You’ll need to upload photos of:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eeach charge point’s serial number\u003c/li\u003e\n  \u003cli\u003eeach charge point’s location\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou’ll also need the customer’s voucher code or reference number.\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2018-07-25T12:10:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "70580624-93b5-4aed-823b-76042486c769",
+                                                     "767f262c-9c80-44c2-9614-53d505ecc34b"
+                                                 ],
+                    "first_public_at":  "2018-07-25T12:10:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2018-07-25T12:10:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/claim-a-workplace-electric-vehicle-grant",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/claim-a-workplace-electric-vehicle-grant",
+                                                     "base_path":  "/guidance/claim-a-workplace-electric-vehicle-grant",
+                                                     "content_id":  "af699b46-44cf-4efd-8b08-5db8a3b53743",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2018-07-25T11:10:00Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Claim a workplace electric vehicle grant",
+                                                     "web_url":  "https://www.gov.uk/guidance/claim-a-workplace-electric-vehicle-grant",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "EA74",
+                                            "api_path":  "/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+                                            "base_path":  "/government/organisations/driver-and-vehicle-licensing-agency",
+                                            "content_id":  "70580624-93b5-4aed-823b-76042486c769",
+                                            "details":  {
+                                                            "acronym":  "DVLA",
+                                                            "brand":  "department-for-transport",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Driver \u0026amp; Vehicle\u003cbr/\u003eLicensing\u003cbr/\u003eAgency"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Driver and Vehicle Licensing Agency",
+                                            "web_url":  "https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency",
+                                            "withdrawn":  false
+                                        },
+                                        {
+                                            "analytics_identifier":  "OT514",
+                                            "api_path":  "/api/content/government/organisations/office-for-low-emission-vehicles",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/office-for-low-emission-vehicles",
+                                            "base_path":  "/government/organisations/office-for-low-emission-vehicles",
+                                            "content_id":  "767f262c-9c80-44c2-9614-53d505ecc34b",
+                                            "details":  {
+                                                            "acronym":  "OLEV",
+                                                            "brand":  "department-for-transport",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Office for Low Emission Vehicles"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "changed_name",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  ""
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Office for Low Emission Vehicles",
+                                            "web_url":  "https://www.gov.uk/government/organisations/office-for-low-emission-vehicles",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA74",
+                                                                       "api_path":  "/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+                                                                       "base_path":  "/government/organisations/driver-and-vehicle-licensing-agency",
+                                                                       "content_id":  "70580624-93b5-4aed-823b-76042486c769",
+                                                                       "details":  {
+                                                                                       "acronym":  "DVLA",
+                                                                                       "brand":  "department-for-transport",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Driver \u0026amp; Vehicle\u003cbr/\u003eLicensing\u003cbr/\u003eAgency"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Driver and Vehicle Licensing Agency",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "EA74",
+                                                              "api_path":  "/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+                                                              "base_path":  "/government/organisations/driver-and-vehicle-licensing-agency",
+                                                              "content_id":  "70580624-93b5-4aed-823b-76042486c769",
+                                                              "details":  {
+                                                                              "acronym":  "DVLA",
+                                                                              "brand":  "department-for-transport",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Driver \u0026amp; Vehicle\u003cbr/\u003eLicensing\u003cbr/\u003eAgency"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Driver and Vehicle Licensing Agency",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/transport",
+                                     "api_url":  "https://www.gov.uk/api/content/transport",
+                                     "base_path":  "/transport",
+                                     "content_id":  "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                                     "description":  "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                                     "details":  {
+                                                     "internal_name":  "Transport",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  true
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "root_taxon":  [
+                                                                      {
+                                                                          "api_path":  "/api/content/",
+                                                                          "api_url":  "https://www.gov.uk/api/content/",
+                                                                          "base_path":  "/",
+                                                                          "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                          "document_type":  "homepage",
+                                                                          "links":  {
+
+                                                                                    },
+                                                                          "locale":  "en",
+                                                                          "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                          "schema_name":  "homepage",
+                                                                          "title":  "GOV.UK homepage",
+                                                                          "web_url":  "https://www.gov.uk/",
+                                                                          "withdrawn":  false
+                                                                      }
+                                                                  ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-06-15T14:31:46Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Transport",
+                                     "web_url":  "https://www.gov.uk/transport",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2018-07-25T12:10:00+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "24292-1631014081.320-10.13.4.76-540",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Claim a workplace electric vehicle grant",
+    "updated_at":  "2024-12-02T11:54:13+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

@@ -1,0 +1,396 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/covid-19-test-approval-how-to-apply",
+    "content_id":  "825b2f70-dbc7-4cc4-ae4d-ff6fb1fa185d",
+    "description":  "How test manufacturers or distributors can apply for approval of their tests to sell on the UK market.",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "publications@ukhsa.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.text",
+                                            "file_size":  25445,
+                                            "filename":  "TVG_test_threshold_guidance.odt",
+                                            "id":  "8012603",
+                                            "title":  "Technologies Validation Group guidance",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60fee0608fa8f50433efa879/TVG_test_threshold_guidance.odt"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "publications@ukhsa.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.text",
+                                            "file_size":  46465,
+                                            "filename":  "Test_performance_guidance.odt",
+                                            "id":  "8012604",
+                                            "title":  "Test performance guidance",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60fee1478fa8f5043034b0db/Test_performance_guidance.odt"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "publications@ukhsa.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  242176,
+                                            "filename":  "ctda_desktop_review_guidance.pdf",
+                                            "id":  "8012646",
+                                            "number_of_pages":  12,
+                                            "title":  "COVID-19 test approval step 2: process for desktop review",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/665072b005e5fe28788fc49f/ctda_desktop_review_guidance.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "publications@ukhsa.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.spreadsheet",
+                                            "file_size":  16692,
+                                            "filename":  "official_sensitive_mhra_suitable_comparators.ods",
+                                            "id":  "8012855",
+                                            "title":  "MHRA suitable comparators",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6650774790043ecd97fe052e/official_sensitive_mhra_suitable_comparators.ods"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cdiv class=\"call-to-action\"\u003e\n  \u003cp\u003eFrom 24 May 2023, the management of the Coronavirus (COVID-19) test device process (\u003cabbr title=\"Coronavirus Test Device Approvals\"\u003eCTDA\u003c/abbr\u003e) moved from the UK Health Security Agency (\u003cabbr title=\"UK Health Security Agency\"\u003eUKHSA\u003c/abbr\u003e) to the Medicines and Healthcare products Regulatory Agency (\u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e). Applicants will need to provide \u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e with the same data currently requested for all \u003cabbr title=\"Coronavirus Test Device Approvals\"\u003eCTDA\u003c/abbr\u003e submissions.\u003c/p\u003e\n  \u003cp\u003e\nDetails of the changes are below.\n\u003c/p\u003e\n  \u003cp\u003e\u003ca href=\"https://support-covid-19-testing.mhra.gov.uk/portal/ctda\" class=\"govuk-link\"\u003e Start a CTDA application\u003c/a\u003e. \u003c/p\u003e\n  \u003ch3\u003eApplications received up to 21 May 2023\u003c/h3\u003e\n  \u003cp\u003eExisting applications will remain with the UKHSA CTDA team. If you have any enquiries or updates, it\u0027s important that you continue to contact UKHSA at \u003ca href=\"mailto:ctda@ukhsa.gov.uk\" class=\"govuk-link\"\u003ectda@ukhsa.gov.uk\u003c/a\u003e.\u003c/p\u003e\n  \u003ch3\u003eApplications received on or after 24 May 2023\u003c/h3\u003e\n  \u003cp\u003eMHRA will manage all new applications submitted on or after 24 May 2023. New applicants from 24 May should email MHRA with any enquiries at \u003ca href=\"mailto:ctda@mhra.gov.uk\" class=\"govuk-link\"\u003ectda@mhra.gov.uk\u003c/a\u003e.\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cp\u003eManufacturers or distributors supplying COVID-19 tests must apply to \u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e. Their product must meet the \u003ca rel=\"external\" href=\"https://www.legislation.gov.uk/uksi/2021/910/contents/made\" class=\"govuk-link\"\u003eMedical Devices (Coronavirus Test Device Approvals) Regulations 2021\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eDuring the approval process we will keep you updated on your application’s progress. This guide sets out each stage of the process you must follow.\u003c/p\u003e\n\n\u003ch2 id=\"step-1-submit-your-application\"\u003eStep 1: submit your application\u003c/h2\u003e\n\n\u003cp\u003eAfter you submit your application, we will do a basic check to make sure it includes the required information to make sure that:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eall the required fields on the application are complete\u003c/li\u003e\n  \u003cli\u003eappropriate responses and attachments are included\u003c/li\u003e\n  \u003cli\u003eyou have \u003ca href=\"https://www.gov.uk/guidance/covid-19-test-approval-how-to-apply#payment\" class=\"govuk-link\"\u003epaid the fee\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe main areas of basic check are:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003emanufacturer and product information\u003c/li\u003e\n  \u003cli\u003eregulatory status\u003c/li\u003e\n  \u003cli\u003eproduct performance\u003c/li\u003e\n  \u003cli\u003ebiosafety\u003c/li\u003e\n  \u003cli\u003esupplementary documents (for example, current version of the instructions for use, biosafety documents, evidence of performance characteristic)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFor more details about how we will assess your test, see \u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/665072b005e5fe28788fc49f/ctda_desktop_review_guidance.pdf\"\u003eCOVID-19 test approval step 2: process for desktop review\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e237 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e12 pages\u003c/span\u003e)\u003c/span\u003e.\u003c/p\u003e\n\n\u003cp\u003eGo to the \u003ca href=\"https://support-covid-19-testing.mhra.gov.uk/portal/ctda\" class=\"govuk-link\"\u003eCoronavirus (COVID-19) test device approvals service\u003c/a\u003e to begin your application for COVID-19 test approval.\u003c/p\u003e\n\n\u003ch2 id=\"step-2-desktop-review\"\u003eStep 2: desktop review\u003c/h2\u003e\n\n\u003cp\u003eThis review assesses the evidence a supplier submits against a minimum required data set.\u003c/p\u003e\n\n\u003cp\u003eThis step prevents products that are below the expected standards from progressing to the market as set out in the Medical Devices (Coronavirus Test Device Approvals) Regulations 2021. The assessment is done in 3 steps:\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003eA scientific adviser reviews it.\u003c/li\u003e\n  \u003cli\u003eThe desktop review assurance group assesses the submission.\u003c/li\u003e\n  \u003cli\u003eThe regulatory approvals committee then considers it.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eA list of suitable comparator assays is available: \u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/6650774790043ecd97fe052e/official_sensitive_mhra_suitable_comparators.ods\"\u003eMHRA suitable comparators\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"OpenDocument Spreadsheet\" class=\"gem-c-attachment-link__abbr\"\u003eODS\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e16.3 KB\u003c/span\u003e)\u003c/span\u003e.\u003c/p\u003e\n\n\u003cp\u003eWe aim to provide an initial response or acknowledgement of receipt within 20 working days, but this may take longer if there’s a high volume of applications. We will prioritise certain applications where necessary, for example if it’s in the interests of public health.\u003c/p\u003e\n\n\u003cp\u003eIf we need more information, you must respond in 20 working days. If you do not respond within 20 days, your application might be rejected.\u003c/p\u003e\n\n\u003ch2 id=\"payment\"\u003ePayment\u003c/h2\u003e\n\n\u003cp\u003eYou must pay for approval. The cost depends on the size of the company applying for validation. You can apply for the discounted price if your company has no more than 250 individuals in total.\u003c/p\u003e\n\n\u003ctable\u003e\n  \u003cthead\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"col\"\u003ePayment stage\u003c/th\u003e\n      \u003cth scope=\"col\"\u003eFull price\u003c/th\u003e\n      \u003cth scope=\"col\"\u003eDiscounted price\u003c/th\u003e\n    \u003c/tr\u003e\n  \u003c/thead\u003e\n  \u003ctbody\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eDesktop review\u003c/td\u003e\n      \u003ctd\u003e£14,000\u003c/td\u003e\n      \u003ctd\u003e£6,200\u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e\n\n\u003cp\u003eYou can use the following types of payment:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ecredit or debit card\u003c/li\u003e\n  \u003cli\u003ewallet payment\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIf you are having difficulty with the payment methods, email \u003ca href=\"mailto:ctda@mhra.gov.uk\" class=\"govuk-link\"\u003ectda@mhra.gov.uk\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eA colleague will do their best to help you.\u003c/p\u003e\n\n\u003cp\u003eIf you withdraw from the process after you have made the payment, it will not be refunded.\u003c/p\u003e\n\n\u003cp\u003eFees are the same worldwide and are taken in GBP.\u003c/p\u003e\n\n\u003ch2 id=\"outcome-reporting\"\u003eOutcome reporting\u003c/h2\u003e\n\n\u003cp\u003eWe only \u003ca href=\"https://www.gov.uk/government/publications/covid-19-test-validation-approved-products\" class=\"govuk-link\"\u003epublish details of tests that have passed\u003c/a\u003e, showing:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eindicative performance category\u003c/li\u003e\n  \u003cli\u003ename of test\u003c/li\u003e\n  \u003cli\u003ename of manufacturer and business address\u003c/li\u003e\n  \u003cli\u003ename and business address of person who made application (if different to the manufacturer)\u003c/li\u003e\n  \u003cli\u003edate and version for instructions of use\u003c/li\u003e\n  \u003cli\u003etype of test\u003c/li\u003e\n  \u003cli\u003edate of approval\u003c/li\u003e\n  \u003cli\u003eCE certification number\u003c/li\u003e\n  \u003cli\u003ecountry of manufacture\u003c/li\u003e\n  \u003cli\u003esample type\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eApplicants appearing on the list must not use the name of the \u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e, or any Crown Body, to show preference to their products, services, or research.\u003c/p\u003e\n\n\u003ch2 id=\"complaints\"\u003eComplaints\u003c/h2\u003e\n\n\u003cp\u003eApplicants who want to complain about the process should email \u003ca href=\"mailto:ctda@mhra.gov.uk\" class=\"govuk-link\"\u003ectda@mhra.gov.uk\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eYou must include a full summary of the complaint and any supporting information you consider relevant.\u003c/p\u003e\n\n\u003ch2 id=\"reviews\"\u003eReviews\u003c/h2\u003e\n\n\u003cp\u003eIf your application is unsuccessful, you can request that \u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e reconsiders its decision, by using the web form in the service.\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Added links to COVID-19 test approval step 2: process for desktop review and list of comparator assays.",
+                                               "public_timestamp":  "2024-05-24T15:58:39.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated notice on change to the application process.",
+                                               "public_timestamp":  "2023-05-24T10:00:01.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added notice explaining the upcoming change to the application process. ",
+                                               "public_timestamp":  "2023-05-11T17:02:23.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated information about the desktop review.",
+                                               "public_timestamp":  "2022-04-19T10:18:38.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated email addresses.",
+                                               "public_timestamp":  "2022-03-30T09:00:07.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added an email address (CTDA@dhsc.gov.uk) for those having difficulty with the payment methods.",
+                                               "public_timestamp":  "2021-08-28T11:55:44.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added link to \u0027COVID-19 test approval – step 2: process for desktop review\u0027. Under \u0027Output reporting\u0027 added \u0027sample types\u0027 to the list of information that DHSC will publish for tests that have passed.",
+                                               "public_timestamp":  "2021-08-17T21:26:07.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Removed test performance guidance and technologies validation group guidance.",
+                                               "public_timestamp":  "2021-07-30T16:29:31.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2021-07-28T00:00:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "240f72bd-9a4d-4f39-94d9-77235cadde8e"
+                                                 ],
+                    "first_public_at":  "2021-07-28T00:00:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2021-07-28T00:00:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/covid-19-test-approval-how-to-apply",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/covid-19-test-approval-how-to-apply",
+                                                     "base_path":  "/guidance/covid-19-test-approval-how-to-apply",
+                                                     "content_id":  "825b2f70-dbc7-4cc4-ae4d-ff6fb1fa185d",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2024-05-24T14:58:39Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "COVID-19 test approval: how to apply",
+                                                     "web_url":  "https://www.gov.uk/guidance/covid-19-test-approval-how-to-apply",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "EA63",
+                                            "api_path":  "/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                            "base_path":  "/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                            "content_id":  "240f72bd-9a4d-4f39-94d9-77235cadde8e",
+                                            "details":  {
+                                                            "acronym":  "MHRA",
+                                                            "brand":  "department-of-health",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Medicines \u0026amp; Healthcare products\u003cbr/\u003eRegulatory Agency"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Medicines and Healthcare products Regulatory Agency",
+                                            "web_url":  "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "D12",
+                                                                       "api_path":  "/api/content/government/organisations/department-of-health-and-social-care",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/department-of-health-and-social-care",
+                                                                       "base_path":  "/government/organisations/department-of-health-and-social-care",
+                                                                       "content_id":  "7cd6bf12-bbe9-4118-8523-f927b0442156",
+                                                                       "details":  {
+                                                                                       "acronym":  "DHSC",
+                                                                                       "brand":  "department-of-health",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/627508178fa8f520738d5474/s960_DHSC_plaque.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/62750817e90e070dbf5acad5/s300_DHSC_plaque.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Department\u003cbr/\u003eof Health \u0026amp;\u003cbr/\u003eSocial Care"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Department of Health and Social Care",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "EA63",
+                                                              "api_path":  "/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                              "base_path":  "/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                              "content_id":  "240f72bd-9a4d-4f39-94d9-77235cadde8e",
+                                                              "details":  {
+                                                                              "acronym":  "MHRA",
+                                                                              "brand":  "department-of-health",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Medicines \u0026amp; Healthcare products\u003cbr/\u003eRegulatory Agency"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Medicines and Healthcare products Regulatory Agency",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/coronavirus-test-device-approvals-ctda-statutory-review-of-process",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/coronavirus-test-device-approvals-ctda-statutory-review-of-process",
+                                                              "base_path":  "/government/publications/coronavirus-test-device-approvals-ctda-statutory-review-of-process",
+                                                              "content_id":  "d2b11809-d546-4cf1-8141-26f1c212c368",
+                                                              "document_type":  "research",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-12-29T16:46:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Coronavirus Test Device Approvals (CTDA): statutory review of process",
+                                                              "web_url":  "https://www.gov.uk/government/publications/coronavirus-test-device-approvals-ctda-statutory-review-of-process",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/statistics/influenza-and-other-respiratory-viruses-pilot-study-coronavirus-covid-19-infection-survey-summary",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/statistics/influenza-and-other-respiratory-viruses-pilot-study-coronavirus-covid-19-infection-survey-summary",
+                                                              "base_path":  "/government/statistics/influenza-and-other-respiratory-viruses-pilot-study-coronavirus-covid-19-infection-survey-summary",
+                                                              "content_id":  "7699df96-db8d-488c-821d-73a5f9ab13bc",
+                                                              "document_type":  "official_statistics",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-12-15T09:30:24Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Influenza and other respiratory viruses pilot study: Coronavirus (COVID-19) Infection Survey Summary",
+                                                              "web_url":  "https://www.gov.uk/government/statistics/influenza-and-other-respiratory-viruses-pilot-study-coronavirus-covid-19-infection-survey-summary",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/speeches/foreign-secretarys-statement-on-coronavirus-covid-19-7-may-2020",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/speeches/foreign-secretarys-statement-on-coronavirus-covid-19-7-may-2020",
+                                                              "base_path":  "/government/speeches/foreign-secretarys-statement-on-coronavirus-covid-19-7-may-2020",
+                                                              "content_id":  "106603c5-1dd3-4631-a6de-36afab4fa9d0",
+                                                              "document_type":  "speech",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-05-07T18:26:00Z",
+                                                              "schema_name":  "speech",
+                                                              "title":  "Foreign Secretary\u0027s statement on coronavirus (COVID-19): 7 May 2020",
+                                                              "web_url":  "https://www.gov.uk/government/speeches/foreign-secretarys-statement-on-coronavirus-covid-19-7-may-2020",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/statistics/coronavirus-covid-19-infection-survey-uk-16-december-2022",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/statistics/coronavirus-covid-19-infection-survey-uk-16-december-2022",
+                                                              "base_path":  "/government/statistics/coronavirus-covid-19-infection-survey-uk-16-december-2022",
+                                                              "content_id":  "23265507-a4bb-47d3-a5a4-76a333791da6",
+                                                              "document_type":  "official_statistics",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-12-16T12:00:01Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Coronavirus (COVID-19) Infection Survey, UK: 16 December 2022",
+                                                              "web_url":  "https://www.gov.uk/government/statistics/coronavirus-covid-19-infection-survey-uk-16-december-2022",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/coronavirus-taxon/testing",
+                                     "api_url":  "https://www.gov.uk/api/content/coronavirus-taxon/testing",
+                                     "base_path":  "/coronavirus-taxon/testing",
+                                     "content_id":  "b9ade971-9c53-4318-b95b-906a122ed2f8",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Testing for COVID-19",
+                                                     "notes_for_editors":  "",
+                                                     "url_override":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/coronavirus-taxon",
+                                                                             "api_url":  "https://www.gov.uk/api/content/coronavirus-taxon",
+                                                                             "base_path":  "/coronavirus-taxon",
+                                                                             "content_id":  "5b7b9532-a775-4bd2-a3aa-6ce380184b6c",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "COVID-19",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "url_override":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2023-06-05T09:53:55Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "COVID-19",
+                                                                             "web_url":  "https://www.gov.uk/coronavirus-taxon",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2023-06-05T09:55:05Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Testing for COVID-19",
+                                     "web_url":  "https://www.gov.uk/coronavirus-taxon/testing",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2024-05-24T15:58:39+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1716562719.694-10.13.22.217-2704",
+    "publishing_scheduled_at":  "2023-05-24T10:00:00+01:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  1,
+    "schema_name":  "detailed_guide",
+    "title":  "COVID-19 test approval: how to apply",
+    "updated_at":  "2024-12-16T10:45:45+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

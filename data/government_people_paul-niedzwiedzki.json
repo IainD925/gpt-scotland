@@ -1,0 +1,127 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/government/people/paul-niedzwiedzki",
+    "content_id":  "853951d1-c0f1-11e4-8223-005056011aef",
+    "description":  "Paul was appointed as Assistant Chief Executive (Strategic Direction of Service) in April 1995, becoming Assistant Director (Policy and Planning) after the Service Children’s Education headquarters reorganisation in September 2006. His previous roles include: Education Inspector for Lincolnshire, 1989 to 1995 Area Education Officer, Louth, Lincolnshire Professional Assistant, North Yorkshire County Council Science teacher (secondary), Southport",
+    "details":  {
+                    "body":  "\u003cp\u003ePaul was appointed as Assistant Chief Executive (Strategic Direction of Service) in April 1995, becoming Assistant Director (Policy and Planning) after the Service Children’s Education headquarters reorganisation in September 2006. His previous roles include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eEducation Inspector for Lincolnshire, 1989 to 1995\u003c/li\u003e\n  \u003cli\u003eArea Education Officer, Louth, Lincolnshire\u003c/li\u003e\n  \u003cli\u003eProfessional Assistant, North Yorkshire County Council\u003c/li\u003e\n  \u003cli\u003eScience teacher (secondary), Southport\u003c/li\u003e\n\u003c/ul\u003e\n",
+                    "full_name":  "Paul Niedzwiedzki",
+                    "privy_counsellor":  false
+                },
+    "document_type":  "person",
+    "first_published_at":  "2013-09-19T16:14:20+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/government/people/paul-niedzwiedzki",
+                                                     "api_url":  "https://www.gov.uk/api/content/government/people/paul-niedzwiedzki",
+                                                     "base_path":  "/government/people/paul-niedzwiedzki",
+                                                     "content_id":  "853951d1-c0f1-11e4-8223-005056011aef",
+                                                     "document_type":  "person",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2013-09-19T14:14:20Z",
+                                                     "schema_name":  "person",
+                                                     "title":  "Paul Niedzwiedzki",
+                                                     "web_url":  "https://www.gov.uk/government/people/paul-niedzwiedzki",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "role_appointments":  [
+                                            {
+                                                "content_id":  "62af0e51-9231-42a0-bd61-3fcd4199cde3",
+                                                "details":  {
+                                                                "current":  true,
+                                                                "ended_on":  null,
+                                                                "person_appointment_order":  1371,
+                                                                "started_on":  "2006-09-01T00:00:00+01:00"
+                                                            },
+                                                "document_type":  "role_appointment",
+                                                "links":  {
+                                                              "person":  [
+                                                                             {
+                                                                                 "api_path":  "/api/content/government/people/paul-niedzwiedzki",
+                                                                                 "api_url":  "https://www.gov.uk/api/content/government/people/paul-niedzwiedzki",
+                                                                                 "base_path":  "/government/people/paul-niedzwiedzki",
+                                                                                 "content_id":  "853951d1-c0f1-11e4-8223-005056011aef",
+                                                                                 "details":  {
+                                                                                                 "body":  "\u003cp\u003ePaul was appointed as Assistant Chief Executive (Strategic Direction of Service) in April 1995, becoming Assistant Director (Policy and Planning) after the Service Children’s Education headquarters reorganisation in September 2006. His previous roles include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eEducation Inspector for Lincolnshire, 1989 to 1995\u003c/li\u003e\n  \u003cli\u003eArea Education Officer, Louth, Lincolnshire\u003c/li\u003e\n  \u003cli\u003eProfessional Assistant, North Yorkshire County Council\u003c/li\u003e\n  \u003cli\u003eScience teacher (secondary), Southport\u003c/li\u003e\n\u003c/ul\u003e\n",
+                                                                                                 "image":  null
+                                                                                             },
+                                                                                 "document_type":  "person",
+                                                                                 "links":  {
+
+                                                                                           },
+                                                                                 "locale":  "en",
+                                                                                 "public_updated_at":  "2013-09-19T14:14:20Z",
+                                                                                 "schema_name":  "person",
+                                                                                 "title":  "Paul Niedzwiedzki",
+                                                                                 "web_url":  "https://www.gov.uk/government/people/paul-niedzwiedzki",
+                                                                                 "withdrawn":  false
+                                                                             }
+                                                                         ],
+                                                              "role":  [
+                                                                           {
+                                                                               "content_id":  "846dc164-c0f1-11e4-8223-005056011aef",
+                                                                               "details":  {
+                                                                                               "body":  "\n"
+                                                                                           },
+                                                                               "document_type":  "board_member_role",
+                                                                               "links":  {
+                                                                                             "ordered_parent_organisations":  [
+                                                                                                                                  {
+                                                                                                                                      "analytics_identifier":  "EA49",
+                                                                                                                                      "api_path":  "/api/content/government/organisations/service-children-s-education",
+                                                                                                                                      "api_url":  "https://www.gov.uk/api/content/government/organisations/service-children-s-education",
+                                                                                                                                      "base_path":  "/government/organisations/service-children-s-education",
+                                                                                                                                      "content_id":  "11d5e611-df1c-4b90-b4cf-d6d56058268c",
+                                                                                                                                      "details":  {
+                                                                                                                                                      "brand":  "ministry-of-defence",
+                                                                                                                                                      "default_news_image":  null,
+                                                                                                                                                      "logo":  "@{crest=mod; formatted_title=Service Children\u0026#39;s Education}"
+                                                                                                                                                  },
+                                                                                                                                      "document_type":  "organisation",
+                                                                                                                                      "links":  {
+
+                                                                                                                                                },
+                                                                                                                                      "locale":  "en",
+                                                                                                                                      "schema_name":  "organisation",
+                                                                                                                                      "title":  "Service Children\u0027s Education",
+                                                                                                                                      "web_url":  "https://www.gov.uk/government/organisations/service-children-s-education",
+                                                                                                                                      "withdrawn":  false
+                                                                                                                                  }
+                                                                                                                              ]
+                                                                                         },
+                                                                               "locale":  "en",
+                                                                               "public_updated_at":  "2013-09-19T14:25:57Z",
+                                                                               "schema_name":  "role",
+                                                                               "title":  "Assistant Director (Policy and Planning)",
+                                                                               "withdrawn":  false
+                                                                           }
+                                                                       ]
+                                                          },
+                                                "locale":  "en",
+                                                "public_updated_at":  "2018-06-07T14:17:42Z",
+                                                "schema_name":  "role_appointment",
+                                                "title":  "Paul Niedzwiedzki - Assistant Director (Policy and Planning)",
+                                                "withdrawn":  false
+                                            }
+                                        ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2013-09-19T15:14:20+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "7159-1579685817.797-10.13.2.35-534",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "collections",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "person",
+    "title":  "Paul Niedzwiedzki",
+    "updated_at":  "2020-05-01T09:11:59+01:00",
+    "withdrawn_notice":  {
+
+                         }
+}

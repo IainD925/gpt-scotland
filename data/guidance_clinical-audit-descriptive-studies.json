@@ -1,0 +1,455 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/clinical-audit-descriptive-studies",
+    "content_id":  "8aef9f53-9554-402d-8f52-16b79896646f",
+    "description":  "How to use a clinical audit to evaluate your digital health product.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eThis page is part of a \u003ca href=\"https://www.gov.uk/government/collections/evaluating-digital-health-products\" class=\"govuk-link\"\u003ecollection of guidance on evaluating digital health products\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eClinical audit is used to support quality improvement in clinical settings – that is, where patients are treated or cared for. Audit involves systematically assessing everyday performance against criteria. It makes sure you are doing what you should be doing and asks if you could be doing it better. You can also use an audit to assess whether introducing a new technology could improve the standard of service.\u003c/p\u003e\n\n\u003cp\u003eThere is a wide range of audit methods used for evaluation. It is a broad term that overlaps with other descriptive evaluation methods.\u003c/p\u003e\n\n\u003ch2 id=\"what-to-use-it-for\"\u003eWhat to use it for\u003c/h2\u003e\n\n\u003cp\u003eClinical audit is used to monitor the day-to-day performance of a service or product against a known standard. It can be used for existing or planned services.\u003c/p\u003e\n\n\u003cp\u003eAudits can range from local projects to studies covering the whole country. They can be carried out by individual staff, or groups in single or multidisciplinary teams.  Clinical audit is central to clinical governance. Regular clinical audit is required by bodies like the General Medical Council, who oversee UK doctors, and the Nursing and Midwifery Council, who oversee UK nurses and midwives.\u003c/p\u003e\n\n\u003cp\u003eNon-clinical services can also use audit methods. The same principles apply if you’re measuring performance against criteria with the aim of making improvements. In a digital context, you might want to evaluate:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ea clinical service that uses digital tools\u003c/li\u003e\n  \u003cli\u003ea digital product, to assess whether the product is working as it is expected to with users\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eAn audit may be led by clinical staff but non-clinical staff are often also involved and could lead the evaluation.\nAudit should be paired with good change management principles to make sure that recommendations from the audit lead to improved practice.\u003c/p\u003e\n\n\u003ch2 id=\"pros\"\u003ePros\u003c/h2\u003e\n\n\u003cp\u003eBenefits include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eit may help you to meet requirements. For example, all NHS organisations are required to carry out audits\u003c/li\u003e\n  \u003cli\u003eit will not usually require new approvals. As it is part of normal practice, the evaluation generally falls under existing ethics and data governance practices\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"cons\"\u003eCons\u003c/h2\u003e\n\n\u003cp\u003eDrawbacks include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eit does not allow for a live comparison group, so provides limited evidence of cause and effect\u003c/li\u003e\n  \u003cli\u003eit often relies on what data is available rather than collecting the most valid data\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"how-to-carry-out-a-clinical-audit\"\u003eHow to carry out a clinical audit\u003c/h2\u003e\n\n\u003cp\u003eYou need to create the right environment for an audit so that your team are receptive to any recommended changes. To do this, you need:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003efacilities like technical support and time\u003c/li\u003e\n  \u003cli\u003ea culture that values creativity and openness\u003c/li\u003e\n  \u003cli\u003ea willingness to report and investigate errors and failures without fear\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe stages of clinical audit are:\u003c/p\u003e\n\n\u003col class=\"steps\"\u003e\n\u003cli\u003e\n\u003cp\u003ePreparation\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eSelecting criteria\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eMeasuring performance\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eMaking improvements\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eSustaining improvements\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eThe choice of criteria depends on the audit, but criteria should preferably be:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eexplicit\u003c/li\u003e\n  \u003cli\u003erelated to important aspects of the outcome your service or product is trying to achieve (consult your product model)\u003c/li\u003e\n  \u003cli\u003emeasurable\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eCriteria can be based on guidelines or evidence reviews. If that is not possible, criteria can be based on professional consensus.\u003c/p\u003e\n\n\u003cp\u003eThe audit may focus on:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003estructure (what you need)\u003c/li\u003e\n  \u003cli\u003eprocesses (what you do)\u003c/li\u003e\n  \u003cli\u003eoutcomes (what you expect)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFor example, consider a video consultation service:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n    \u003cp\u003estructure criteria could cover whether healthcare professionals in a service have access to the technology they need, such as appropriate devices and internet connection speeds\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eprocess criteria could cover what practitioners have done – for example, have they completed a record of the consultation appropriately?\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eoutcome criteria could cover a patient’s health status or satisfaction – for example, you could look at patient ratings of the consultations\u003c/p\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eAudit often involves benchmarking: comparing the service’s performance to similar services, particularly the most successful ones. When making comparisons across providers, it’s important to consider that one provider may have worse outcomes because they are working with users with greater problems rather than because they are providing a worse service. Audit will often use routinely collected data. You will need to consider your sampling strategy and relevant selection criteria, including the time frame. Data collection often uses clinical records, but you should recognise their limitations. Collecting data from multiple sources is recommended. You may need to develop and test a data extraction form if you use clinical records.\u003c/p\u003e\n\n\u003ch2 id=\"examples-of-audit\"\u003eExamples of audit\u003c/h2\u003e\n\n\u003cp\u003eHere are 2 audit examples.\u003c/p\u003e\n\n\u003cp\u003eIn example 1, the audit compared how the service performed in 2 periods. This is similar to a before-and-after study. In example 2, the audit compared how a proposed service might perform compared to the current situation without it.\u003c/p\u003e\n\n\u003cp\u003eExample 2 is a type of descriptive study. The evaluators called it an audit because it involved assessment compared to an existing standard – the performance of the existing system.\u003c/p\u003e\n\n\u003ch3 id=\"example-1-teleophthalmology-service\"\u003eExample 1: teleophthalmology service\u003c/h3\u003e\n\n\u003cp\u003eSee O’Day and colleagues (2016): \u003ca rel=\"external\" href=\"https://onlinelibrary.wiley.com/doi/full/10.1111/cxo.12334\" class=\"govuk-link\"\u003eOptometric use of a teleophthalmology service in rural Western Australia: comparison of 2 prospective audits\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eAn evaluation of a teleophthalmology service for rural and remote communities in Western Australia. There was low use of the service by local optometrists and an initial audit found barriers to the service’s use, so they designed and carried out an intervention to increase use. A second audit showed improvements in usage.\u003c/p\u003e\n\n\u003cp\u003eThe service was provided by Lions Outback Vision. It connects patients to an ophthalmologist using real‐time video consultations facilitated by GPs, hospital doctors and optometrists.\u003c/p\u003e\n\n\u003cp\u003eIn April to August 2012, the team carried out a prospective audit (Johnson and colleagues (2015): \u003ca rel=\"external\" href=\"https://onlinelibrary.wiley.com/doi/10.1111/ajr.12150\" class=\"govuk-link\"\u003eReal‐time teleophthalmology in rural Western Australia\u003c/a\u003e) that identified several barriers to use of the service:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003edifficulties in arranging consultations as 3 people need to be involved: the patient, the remote ophthalmologist, and the local referrer\u003c/li\u003e\n  \u003cli\u003esoftware and hardware sometimes malfunctioned\u003c/li\u003e\n  \u003cli\u003eoptometrists, the main referrers for the service, were not paid for their participation, while GPs and hospital doctors were. This was the most significant barrier observed.\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eChanges were made to the service and then a follow-up audit (a kind of before-and-after study) was carried out over the same months in 2014, April to August (to control for any seasonal effects). This study was exempted from requiring ethics approval as it was a clinical audit.\u003c/p\u003e\n\n\u003cp\u003eThe changes made were:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eintroduce payment for optometrists\u003c/li\u003e\n  \u003cli\u003eextra logistical and administrative support\u003c/li\u003e\n  \u003cli\u003ea dedicated online appointment booking service\u003c/li\u003e\n  \u003cli\u003escheduling times that could be booked by the referrer\u003c/li\u003e\n  \u003cli\u003epromoting the service by visits to local optometrists\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe main outcome measure was the number of consultations referred by optometrists. Data was also collected on patient characteristics, clinical details and the technology used. The ophthalmologist collected data on a log sheet after each consultation. This was checked against the patient’s electronic record.\u003c/p\u003e\n\n\u003cp\u003eThey observed an increase in consultations referred by an optometrist: from 60 consultations (of 49 patients) in the first period to 211 consultations (of 184 patients) in the second period. This is a three-and-a-half-fold increase. The proportion of non-urgent consultations increased in the second period, mainly for cataract and glaucoma assessment.\u003c/p\u003e\n\n\u003ch3 id=\"example-2-automated-retinopathy-screening\"\u003eExample 2: automated retinopathy screening\u003c/h3\u003e\n\n\u003cp\u003eSee Fleming and colleagues (2010): \u003ca rel=\"external\" href=\"https://bjo.bmj.com/content/94/12/1606.short\" class=\"govuk-link\"\u003eAutomated grading for diabetic retinopathy: a large-scale audit using arbitration by clinical experts\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003ePeople with diabetes are at risk of retinopathy. A national screening programme involves taking regular images of individuals’ retinas and assessing them for signs of disease. If there are no signs, the patient is cleared and will return in 12 months’ time for their next screen.\u003c/p\u003e\n\n\u003cp\u003eThe images used to be examined manually by trained screeners. Software has now been developed to analyse the images. The software is not designed to replace all human grading; it is used as a first line of grading. If the software concludes there is no visible retinopathy, the patient is given a 12-month recall. If the software suspects any disease, the image is passed to a human grader. There is a cost saving in labour as some images do not need to be examined by a person. The software needs to be very sensitive, so that cases of pathology are caught, but does not have to be very specific, so many cases without any pathology are sent to a human grader.\u003c/p\u003e\n\n\u003cp\u003eThe Scottish National Diabetic Retinopathy Screening Collaborative wanted to know whether the software would perform well across the Scottish screening programme. Images on 33,535 patients were obtained from 2 screening centres. These had been graded by the manual approach usual at the time. The images were then run through the software.\u003c/p\u003e\n\n\u003cp\u003eThere are various forms of pathology that can be detected. The paper reports statistics for each of these. For example, in the sample, there were 193 cases of proliferative retinopathy. The software positively identified all 193 of these cases. With referable maculopathy, there were 387 cases, but the software detected 384 (99.2%). Most cases have no visible pathology and so require a 12-month recall: there were 21,503 of these. However, the software registered a positive result for 10,668 of these (49.6%).\u003c/p\u003e\n\n\u003cp\u003eThe software is good at correctly detecting positive cases, but poor at correctly grading negative cases. However, this means that about a third of patients could be cleared without human intervention, giving a large cost saving. The Scottish National Diabetic Retinopathy Screening Collaborative decided to adopt the software for use.\u003c/p\u003e\n\n\u003ch2 id=\"more-information\"\u003eMore information\u003c/h2\u003e\n\n\u003cp\u003eMackinnon and colleagues (2008): \u003ca rel=\"external\" href=\"https://www.sciencedirect.com/science/article/pii/S0009926008000408\" class=\"govuk-link\"\u003ePicture archiving and communication systems lead to sustained improvements in reporting times and productivity: results of a 5-year audit\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eShanks and colleagues (2018): \u003ca rel=\"external\" href=\"https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)32104-4/fulltext\" class=\"govuk-link\"\u003eTreatment outcomes in individuals diagnosed with chlamydia in SH:24, an online sexual health service: a retrospective audit\u003c/a\u003e. (Abstract only. Purchase required to access full article.)\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2020-05-20T10:45:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "e85f9a3f-451d-4a3e-9b63-17b13149269f"
+                                                 ],
+                    "first_public_at":  "2020-05-20T10:45:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2020-05-20T10:45:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/clinical-audit-descriptive-studies",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/clinical-audit-descriptive-studies",
+                                                     "base_path":  "/guidance/clinical-audit-descriptive-studies",
+                                                     "content_id":  "8aef9f53-9554-402d-8f52-16b79896646f",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2020-05-20T09:45:00Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Clinical audit: descriptive studies",
+                                                     "web_url":  "https://www.gov.uk/guidance/clinical-audit-descriptive-studies",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/evaluating-digital-health-products",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/evaluating-digital-health-products",
+                                                   "base_path":  "/government/collections/evaluating-digital-health-products",
+                                                   "content_id":  "9f286c51-0fa2-43c0-abc3-988f75423e36",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/clinical-audit-descriptive-studies",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/clinical-audit-descriptive-studies",
+                                                                                       "base_path":  "/guidance/clinical-audit-descriptive-studies",
+                                                                                       "content_id":  "8aef9f53-9554-402d-8f52-16b79896646f",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2020-05-20T09:45:00Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Clinical audit: descriptive studies",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/clinical-audit-descriptive-studies",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2021-10-19T09:59:42Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Evaluating digital health products",
+                                                   "web_url":  "https://www.gov.uk/government/collections/evaluating-digital-health-products",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  true,
+                                                         "ended_on":  null,
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "OT1341",
+                                            "api_path":  "/api/content/government/organisations/office-for-health-improvement-and-disparities",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/office-for-health-improvement-and-disparities",
+                                            "base_path":  "/government/organisations/office-for-health-improvement-and-disparities",
+                                            "content_id":  "e85f9a3f-451d-4a3e-9b63-17b13149269f",
+                                            "details":  {
+                                                            "acronym":  "OHID",
+                                                            "brand":  "department-of-health",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/6155e1378fa8f5297cc029fc/s960_39vs-at-night.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/6155e1378fa8f52985dd7449/s300_39vs-at-night.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Office for Health\u003cbr/\u003eImprovement \u003cbr/\u003e\u0026amp; Disparities"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Office for Health Improvement and Disparities",
+                                            "web_url":  "https://www.gov.uk/government/organisations/office-for-health-improvement-and-disparities",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA480",
+                                                                       "api_path":  "/api/content/government/organisations/public-health-england",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/public-health-england",
+                                                                       "base_path":  "/government/organisations/public-health-england",
+                                                                       "content_id":  "1343f283-19e9-4fbb-86b1-58c7549d874b",
+                                                                       "details":  {
+                                                                                       "acronym":  "PHE",
+                                                                                       "brand":  "department-of-health",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db2de5274a7908e352ef/s960_sign5.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5a37db2d40f0b649cceb18bf/s300_sign5.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Public Health \u003cbr/\u003eEngland"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "split",
+                                                                                                                         "updated_at":  "2021-10-01T00:00:00.000+01:00",
+                                                                                                                         "url":  "https://www.gov.uk/phe"
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Public Health England",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/public-health-england",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "OT1341",
+                                                              "api_path":  "/api/content/government/organisations/office-for-health-improvement-and-disparities",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/office-for-health-improvement-and-disparities",
+                                                              "base_path":  "/government/organisations/office-for-health-improvement-and-disparities",
+                                                              "content_id":  "e85f9a3f-451d-4a3e-9b63-17b13149269f",
+                                                              "details":  {
+                                                                              "acronym":  "OHID",
+                                                                              "brand":  "department-of-health",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/6155e1378fa8f5297cc029fc/s960_39vs-at-night.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/6155e1378fa8f52985dd7449/s300_39vs-at-night.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Office for Health\u003cbr/\u003eImprovement \u003cbr/\u003e\u0026amp; Disparities"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Office for Health Improvement and Disparities",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/office-for-health-improvement-and-disparities",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/crossover-randomised-controlled-trial-comparative-studies",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/crossover-randomised-controlled-trial-comparative-studies",
+                                                              "base_path":  "/guidance/crossover-randomised-controlled-trial-comparative-studies",
+                                                              "content_id":  "99c498b4-1fc0-47f1-8687-8d8f5eba36ab",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-05-04T08:30:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Crossover randomised controlled trial: comparative studies",
+                                                              "web_url":  "https://www.gov.uk/guidance/crossover-randomised-controlled-trial-comparative-studies",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/micro-randomised-trial",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/micro-randomised-trial",
+                                                              "base_path":  "/guidance/micro-randomised-trial",
+                                                              "content_id":  "62f353eb-45d4-4e4b-89ef-26b9e868384a",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-06-08T16:30:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Micro-randomised trial",
+                                                              "web_url":  "https://www.gov.uk/guidance/micro-randomised-trial",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/case-control-study-comparative-studies",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/case-control-study-comparative-studies",
+                                                              "base_path":  "/guidance/case-control-study-comparative-studies",
+                                                              "content_id":  "141a0b5d-83b0-499b-b428-d79cd08096c7",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-05-19T09:30:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Case-control study: comparative studies",
+                                                              "web_url":  "https://www.gov.uk/guidance/case-control-study-comparative-studies",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/factorial-randomised-controlled-trial-comparative-studies",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/factorial-randomised-controlled-trial-comparative-studies",
+                                                              "base_path":  "/guidance/factorial-randomised-controlled-trial-comparative-studies",
+                                                              "content_id":  "17310bc1-fff1-4822-b968-4b1a4a348101",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-03-20T10:55:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Factorial randomised controlled trial: comparative studies",
+                                                              "web_url":  "https://www.gov.uk/guidance/factorial-randomised-controlled-trial-comparative-studies",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/n-of-1-study-comparative-studies",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/n-of-1-study-comparative-studies",
+                                                              "base_path":  "/guidance/n-of-1-study-comparative-studies",
+                                                              "content_id":  "35ecf26a-388f-490c-8711-88a5b7294440",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-07-16T11:24:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "N-of-1 study: comparative studies",
+                                                              "web_url":  "https://www.gov.uk/guidance/n-of-1-study-comparative-studies",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/health-and-social-care/health-improvement",
+                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care/health-improvement",
+                                     "base_path":  "/health-and-social-care/health-improvement",
+                                     "content_id":  "42350cb9-f4ab-4e4c-abfb-b5662f3d14f4",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Health improvement",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/health-and-social-care/public-health",
+                                                                             "api_url":  "https://www.gov.uk/api/content/health-and-social-care/public-health",
+                                                                             "base_path":  "/health-and-social-care/public-health",
+                                                                             "content_id":  "d6a4884e-769d-4b81-8ba5-b64394362d92",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Public health",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/health-and-social-care",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care",
+                                                                                                                     "base_path":  "/health-and-social-care",
+                                                                                                                     "content_id":  "8124ead8-8ebc-4faf-88ad-dd5cbcc92ba8",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Health and social care",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:30:51Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Health and social care",
+                                                                                                                     "web_url":  "https://www.gov.uk/health-and-social-care",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-17T15:15:14Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Public health",
+                                                                             "web_url":  "https://www.gov.uk/health-and-social-care/public-health",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-17T15:16:49Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Health improvement",
+                                     "web_url":  "https://www.gov.uk/health-and-social-care/health-improvement",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/health-and-social-care/health-protection-services-research-testing-and-standards",
+                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care/health-protection-services-research-testing-and-standards",
+                                     "base_path":  "/health-and-social-care/health-protection-services-research-testing-and-standards",
+                                     "content_id":  "b19e0be5-22a3-4d79-b693-e42d7f3a608f",
+                                     "details":  {
+                                                     "internal_name":  "Research, testing and standards [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/health-and-social-care/health-protection",
+                                                                             "api_url":  "https://www.gov.uk/api/content/health-and-social-care/health-protection",
+                                                                             "base_path":  "/health-and-social-care/health-protection",
+                                                                             "content_id":  "30ba2d05-d0d6-4978-a5d6-707511894111",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Health protection",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/health-and-social-care/public-health",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care/public-health",
+                                                                                                                     "base_path":  "/health-and-social-care/public-health",
+                                                                                                                     "content_id":  "d6a4884e-769d-4b81-8ba5-b64394362d92",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Public health",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  false
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "parent_taxons":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-17T15:15:14Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Public health",
+                                                                                                                     "web_url":  "https://www.gov.uk/health-and-social-care/public-health",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2019-03-11T14:19:39Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Health protection",
+                                                                             "web_url":  "https://www.gov.uk/health-and-social-care/health-protection",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-08-22T12:56:17Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Research, testing and standards",
+                                     "web_url":  "https://www.gov.uk/health-and-social-care/health-protection-services-research-testing-and-standards",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2020-05-20T10:45:00+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "12135-1665069410.494-10.13.2.171-2170",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Clinical audit: descriptive studies",
+    "updated_at":  "2024-07-04T14:57:07+01:00",
+    "withdrawn_notice":  {
+
+                         }
+}

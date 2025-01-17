@@ -1,0 +1,425 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/hmcts-common-platform-view-or-manage-a-case",
+    "content_id":  "cf7d4e59-0ba9-4e04-9c80-d6a35ca807f8",
+    "description":  "Common Platform allows the police, judiciary, solicitors, barristers and criminal justice agencies to access and edit case information.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eIf you are a defence professional you can use this service to:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003elink yourself to a case or defendant so the Legal Aid Agency is informed for payment purposes\u003c/li\u003e\n  \u003cli\u003eself-serve case materials, including the initial details of the prosecution case (IDPC) and the pre-trial readiness form (PET form) in the magistrates’ court\u003c/li\u003e\n  \u003cli\u003eserve documents on the court for magistrates’ Common Platform cases\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIf you are a member of the judiciary, HMCTS or a partner agency, you can use the service to view cases and take part in Common Platform hearings.\u003c/p\u003e\n\n\u003ch2 id=\"before-you-start\"\u003eBefore you start\u003c/h2\u003e\n\n\u003cp\u003eTo use the service, you must have an account. If you are a defence professional, your firm or chambers must register you for your account.\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/hmcts-common-platform-registration-for-defence-professionals\" class=\"govuk-link\"\u003eRegister for an account\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eWe will verify your application and send you an approval email within 3 working days. You will then need to \u003ca href=\"https://www.gov.uk/government/publications/how-to-use-hmcts-common-platform/activate-your-common-platform-account\" class=\"govuk-link\"\u003eactivate your account\u003c/a\u003e and set up your security authentication.\u003c/p\u003e\n\n\u003ch2 id=\"find-a-case\"\u003eFind a case\u003c/h2\u003e\n\n\u003cp\u003eOnce you have activated your account, you can start accessing case information in Common Platform on a desktop, laptop or tablet device.\u003c/p\u003e\n\n\u003cp\u003eYou will need your phone for the security authentication but cannot use it to access Common Platform.\u003c/p\u003e\n\n\u003cp\u003e\u003ca class=\"gem-c-button govuk-button\" role=\"button\" data-module=\"govuk-button\" draggable=\"false\" href=\"https://prosecuting.cjscp.org.uk\"\u003eStart now\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eYou cannot use Internet Explorer for Common Platform, so you may need to copy the link into one of these browsers:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eEdge (or Edge Chromium)\u003c/li\u003e\n  \u003cli\u003eChrome\u003c/li\u003e\n  \u003cli\u003eFirefox\u003c/li\u003e\n  \u003cli\u003eSafari\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"get-help-and-guidance\"\u003eGet help and guidance\u003c/h2\u003e\n\n\u003cp\u003eSee our guides on using Common Platform:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca href=\"https://www.gov.uk/government/publications/how-to-use-hmcts-common-platform\" class=\"govuk-link\"\u003eHow to use Common Platform\u003c/a\u003e: for defence professionals on activating an account and using Common Platform to manage cases\u003c/li\u003e\n  \u003cli\u003e\n\u003ca href=\"https://www.gov.uk/government/publications/hmcts-common-platform-for-defence-administrators\" class=\"govuk-link\"\u003eCommon Platform for defence administrators\u003c/a\u003e: creating user accounts, assigning roles and other admin functionality\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIf you need help getting a unique reference number for a case, or have a business related query on a Common Platform case, contact the courts and tribunals service centre (CTSC).\u003c/p\u003e\n\n\u003cp\u003eIf you need further help or have questions that are not addressed in the guidance, you can contact us on our helpdesk.\u003c/p\u003e\n\n\u003ch3 id=\"ctsc\"\u003eCTSC\u003c/h3\u003e\n\n\u003cdiv class=\"contact\"\u003e\n\u003cp\u003eTelephone: 0330 808 4407 \u003cbr\u003e\nMonday to Friday, 8.30am to 5.30pm \u003cbr\u003e\nClosed on bank holidays \u003cbr\u003e\nEmail: \u003ca href=\"mailto:contactcrime@justice.gov.uk\" class=\"govuk-link\"\u003econtactcrime@justice.gov.uk\u003c/a\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003ch3 id=\"helpdesk\"\u003eHelpdesk\u003c/h3\u003e\n\n\u003cdiv class=\"contact\"\u003e\n\u003cp\u003eTelephone: 020 3989 6060 \u003cbr\u003e\nMonday to Friday, 8am to 8pm \u003cbr\u003e\nSaturdays, 8am to 2pm \u003cbr\u003e\nClosed on Sundays and bank holidays \u003cbr\u003e\nEmail: \u003ca href=\"mailto:CJSCP-DefenceServiceDesk@hmcts.net\" class=\"govuk-link\"\u003eCJSCP-DefenceServiceDesk@hmcts.net\u003c/a\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cp\u003eIf you are not a defence solicitor or administrator, email \u003ca href=\"mailto:CJSCP-ServiceDesk@hmcts.net\" class=\"govuk-link\"\u003eCJSCP-ServiceDesk@hmcts.net\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eWe aim to respond to emails within 5 working days.\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Updated the Courts and Tribunals Service Centre email address. ",
+                                               "public_timestamp":  "2024-06-10T10:12:58.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added browser and security info and consistency changes to get help guidance",
+                                               "public_timestamp":  "2023-06-27T16:06:34.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added links to new guides",
+                                               "public_timestamp":  "2022-03-25T10:53:54.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Added translation",
+                                               "public_timestamp":  "2021-11-23T00:00:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "6f757605-ab8f-4b62-84e4-99f79cf085c2"
+                                                 ],
+                    "first_public_at":  "2021-11-23T00:00:00.000+00:00",
+                    "national_applicability":  {
+                                                   "england":  {
+                                                                   "applicable":  true,
+                                                                   "label":  "England"
+                                                               },
+                                                   "northern_ireland":  {
+                                                                            "alternative_url":  "",
+                                                                            "applicable":  false,
+                                                                            "label":  "Northern Ireland"
+                                                                        },
+                                                   "scotland":  {
+                                                                    "alternative_url":  "",
+                                                                    "applicable":  false,
+                                                                    "label":  "Scotland"
+                                                                },
+                                                   "wales":  {
+                                                                 "applicable":  true,
+                                                                 "label":  "Wales"
+                                                             }
+                                               },
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2021-11-23T00:00:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/hmcts-common-platform-view-or-manage-a-case.cy",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/hmcts-common-platform-view-or-manage-a-case.cy",
+                                                     "base_path":  "/guidance/hmcts-common-platform-view-or-manage-a-case.cy",
+                                                     "content_id":  "cf7d4e59-0ba9-4e04-9c80-d6a35ca807f8",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "cy",
+                                                     "public_updated_at":  "2024-06-10T09:12:58Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Platfform Cyffredin GLlTEM: rheoli neu edrych ar fanylion achos",
+                                                     "web_url":  "https://www.gov.uk/guidance/hmcts-common-platform-view-or-manage-a-case.cy",
+                                                     "withdrawn":  false
+                                                 },
+                                                 {
+                                                     "api_path":  "/api/content/guidance/hmcts-common-platform-view-or-manage-a-case",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/hmcts-common-platform-view-or-manage-a-case",
+                                                     "base_path":  "/guidance/hmcts-common-platform-view-or-manage-a-case",
+                                                     "content_id":  "cf7d4e59-0ba9-4e04-9c80-d6a35ca807f8",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2024-06-10T09:12:58Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "HMCTS Common Platform: view or manage a case",
+                                                     "web_url":  "https://www.gov.uk/guidance/hmcts-common-platform-view-or-manage-a-case",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "EA73",
+                                            "api_path":  "/api/content/government/organisations/hm-courts-and-tribunals-service",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-courts-and-tribunals-service",
+                                            "base_path":  "/government/organisations/hm-courts-and-tribunals-service",
+                                            "content_id":  "6f757605-ab8f-4b62-84e4-99f79cf085c2",
+                                            "details":  {
+                                                            "acronym":  "HMCTS",
+                                                            "brand":  "ministry-of-justice",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "HM Courts \u0026amp; \u003cbr/\u003eTribunals Service"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "HM Courts \u0026 Tribunals Service",
+                                            "web_url":  "https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA73",
+                                                                       "api_path":  "/api/content/government/organisations/hm-courts-and-tribunals-service",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-courts-and-tribunals-service",
+                                                                       "base_path":  "/government/organisations/hm-courts-and-tribunals-service",
+                                                                       "content_id":  "6f757605-ab8f-4b62-84e4-99f79cf085c2",
+                                                                       "details":  {
+                                                                                       "acronym":  "HMCTS",
+                                                                                       "brand":  "ministry-of-justice",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "HM Courts \u0026amp; \u003cbr/\u003eTribunals Service"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "HM Courts \u0026 Tribunals Service",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "EA73",
+                                                              "api_path":  "/api/content/government/organisations/hm-courts-and-tribunals-service",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-courts-and-tribunals-service",
+                                                              "base_path":  "/government/organisations/hm-courts-and-tribunals-service",
+                                                              "content_id":  "6f757605-ab8f-4b62-84e4-99f79cf085c2",
+                                                              "details":  {
+                                                                              "acronym":  "HMCTS",
+                                                                              "brand":  "ministry-of-justice",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "HM Courts \u0026amp; \u003cbr/\u003eTribunals Service"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "HM Courts \u0026 Tribunals Service",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/crown-court-digital-case-system-guidance",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/crown-court-digital-case-system-guidance",
+                                                              "base_path":  "/guidance/crown-court-digital-case-system-guidance",
+                                                              "content_id":  "97669b21-dd3c-43ba-970f-494841db7b39",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-11-05T11:11:42Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Crown Court Digital Case System Guidance: register and access case material",
+                                                              "web_url":  "https://www.gov.uk/guidance/crown-court-digital-case-system-guidance",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/how-to-use-hmcts-common-platform",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/how-to-use-hmcts-common-platform",
+                                                              "base_path":  "/government/publications/how-to-use-hmcts-common-platform",
+                                                              "content_id":  "18f6d97c-7403-4e9f-9b7f-c5ee52b8ec8e",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-10-21T08:41:31Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "How to use HMCTS Common Platform",
+                                                              "web_url":  "https://www.gov.uk/government/publications/how-to-use-hmcts-common-platform",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/hmcts-common-platform-registration-for-defence-professionals",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/hmcts-common-platform-registration-for-defence-professionals",
+                                                              "base_path":  "/guidance/hmcts-common-platform-registration-for-defence-professionals",
+                                                              "content_id":  "4566d66a-f54e-4916-a3d0-6f57d105d702",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-06-10T09:09:24Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "HMCTS Common Platform: registration for defence professionals",
+                                                              "web_url":  "https://www.gov.uk/guidance/hmcts-common-platform-registration-for-defence-professionals",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/case-sent-to-the-crown-court-for-trial",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/case-sent-to-the-crown-court-for-trial",
+                                                              "base_path":  "/government/publications/case-sent-to-the-crown-court-for-trial",
+                                                              "content_id":  "6d602d1d-72da-469c-adc5-de9938892095",
+                                                              "document_type":  "form",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-05-26T23:00:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Case sent to the Crown Court for trial",
+                                                              "web_url":  "https://www.gov.uk/government/publications/case-sent-to-the-crown-court-for-trial",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/crime-justice-and-law/courts-sentencing-tribunals",
+                                     "api_url":  "https://www.gov.uk/api/content/crime-justice-and-law/courts-sentencing-tribunals",
+                                     "base_path":  "/crime-justice-and-law/courts-sentencing-tribunals",
+                                     "content_id":  "357110bb-cbc5-4708-9711-1b26e6c63e86",
+                                     "details":  {
+                                                     "internal_name":  "Courts, sentencing and tribunals [M]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/crime-justice-and-law",
+                                                                             "api_url":  "https://www.gov.uk/api/content/crime-justice-and-law",
+                                                                             "base_path":  "/crime-justice-and-law",
+                                                                             "content_id":  "ba951b09-5146-43be-87af-44075eac3ae9",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Crime, justice and law",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:34:51Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Crime, justice and law",
+                                                                             "web_url":  "https://www.gov.uk/crime-justice-and-law",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-05T16:15:52Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Courts, sentencing and tribunals",
+                                     "web_url":  "https://www.gov.uk/crime-justice-and-law/courts-sentencing-tribunals",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/crime-justice-and-law/criminal-justice-reform",
+                                     "api_url":  "https://www.gov.uk/api/content/crime-justice-and-law/criminal-justice-reform",
+                                     "base_path":  "/crime-justice-and-law/criminal-justice-reform",
+                                     "content_id":  "23100f5c-25d2-4d3f-8a63-f32e619a32d5",
+                                     "details":  {
+                                                     "internal_name":  "Criminal justice reform [P]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/crime-justice-and-law",
+                                                                             "api_url":  "https://www.gov.uk/api/content/crime-justice-and-law",
+                                                                             "base_path":  "/crime-justice-and-law",
+                                                                             "content_id":  "ba951b09-5146-43be-87af-44075eac3ae9",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Crime, justice and law",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:34:51Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Crime, justice and law",
+                                                                             "web_url":  "https://www.gov.uk/crime-justice-and-law",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-05T16:15:52Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Criminal justice reform",
+                                     "web_url":  "https://www.gov.uk/crime-justice-and-law/criminal-justice-reform",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2024-06-10T10:12:58+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1718010778.972-10.13.21.96-2848",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "HMCTS Common Platform: view or manage a case",
+    "updated_at":  "2024-12-24T12:11:56+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

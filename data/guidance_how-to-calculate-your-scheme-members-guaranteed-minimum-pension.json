@@ -1,0 +1,383 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/how-to-calculate-your-scheme-members-guaranteed-minimum-pension",
+    "content_id":  "51d5075e-e24f-41d7-8538-57ef0415fcba",
+    "description":  "Use the revaluation of earnings factors to calculate your scheme member’s GMP. \r\n",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eDefined benefit pensions schemes that were Contracted-out Salary Related (\u003cabbr title=\"Contracted-out Salary Related\"\u003eCOSR\u003c/abbr\u003e) schemes before contracting-out ended on 6 April 2016 need to provide a Guaranteed Minimum Pension (\u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e) to members for contracted-out service between 6 April 1978 and 5 April 1997.\u003c/p\u003e\n\n\u003cp\u003eThe \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e is payable at age 60 for a woman and at age 65 for a man.\u003c/p\u003e\n\n\u003ch2 id=\"what-a-gmp-is-based-on\"\u003eWhat a \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e is based on\u003c/h2\u003e\n\n\u003cp\u003eFor contracted-out National Insurance contributions (\u003cabbr title=\"National Insurance contributions\"\u003eNICs\u003c/abbr\u003e) paid, up to and including 5 April 1987 (1986 to 1987 tax year) you need to:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eobtain the earnings factors from the employee’s contracted-out \u003cabbr title=\"National Insurance contributions\"\u003eNICs\u003c/abbr\u003e paid on earnings between the Lower and Upper Earnings Limits\u003c/li\u003e\n  \u003cli\u003eround up the contracted-out part of contributions paid before 6 April 1985, round up to the next multiple of 10 pence, unless it is already a multiple of 10 pence – any contributions paid in the 1985 to 1986 and 1986 to 1987 tax years are not rounded\u003c/li\u003e\n  \u003cli\u003ecalculate the earnings factor by dividing the contribution by the contracted-out percentage for that year – since 6 October 1985, \u003cabbr title=\"National Insurance contributions\"\u003eNICs\u003c/abbr\u003e are payable at differing percentage rates, depending on earnings, for the 1985  to 1986 and 1986 to 1987 tax years, earnings factors are calculated as if contributions had all been paid at the maximum rate\u003c/li\u003e\n  \u003cli\u003eround up the result to the nearest penny, with 0.5 pence rounded up\u003c/li\u003e\n  \u003cli\u003eround up the total earnings factor for each year to the nearest pound, with 50 pence rounded up\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFor contracted-out earnings from 6 April 1987, up to and including 5 April 1997, you need to obtain the earnings factors from the earnings on which the employee’s contracted-out \u003cabbr title=\"National Insurance contributions\"\u003eNICs\u003c/abbr\u003e have been paid between the Lower and Upper Earnings Limits.\u003c/p\u003e\n\n\u003ch3 id=\"working-life\"\u003eWorking life\u003c/h3\u003e\n\n\u003cp\u003eWork out the number of years in the working life, in this instance its between the periods:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ebeginning with 6 April 1978 or, if later, the 6 April, on or immediately before the employee’s 16th birthday\u003c/li\u003e\n  \u003cli\u003eending with the 5 April before the date of the 60th birthday for women or 65th birthday for men\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"accrual-rate\"\u003eAccrual rate\u003c/h3\u003e\n\n\u003cp\u003eUse the accrual rate of:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e25% for any \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e earned before 6 April 1988\u003c/li\u003e\n  \u003cli\u003e20% for any \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e earned after 6 April 1988\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"how-to-calculate-a-weekly-gmp\"\u003eHow to calculate a weekly \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e\n\u003c/h2\u003e\n\n\u003cp\u003eYou can either:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003euse the \u003ca href=\"https://www.gov.uk/guidance/pension-administrators-check-a-members-gmp\" class=\"govuk-link\"\u003e\u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e checker\u003c/a\u003e to get a calculation for your members\u003c/li\u003e\n  \u003cli\u003emanually calculate using the \u003ca href=\"#formula\" class=\"govuk-link\"\u003eformula\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp id=\"formula\"\u003eConvert the contracted-out \u003cabbr title=\"National Insurance contributions\"\u003eNICs\u003c/abbr\u003e paid in tax years up to and including the 1986 to 1987 tax year to earnings factors using the following formula:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003econtracted-out \u003cabbr title=\"National Insurance contributions\"\u003eNICs\u003c/abbr\u003e paid multiplied by 100 divided by the contracted-out percentage in force for that year (from the 1987 to 1988 tax year use actual contracted-out earnings amounts)\u003c/li\u003e\n  \u003cli\u003eincrease the earnings factors and earnings in line with the rise in national average earnings by using the appropriate \u003ca rel=\"external\" href=\"https://www.google.com/url?q=http://www.legislation.gov.uk/\u0026amp;sa=D\u0026amp;ust=1543846034710000\u0026amp;usg=AFQjCNHvtjPRAN5YNylPbhFpo3qoduzKIQ\" class=\"govuk-link\"\u003eSocial Security Revaluation of Earnings Factor Order\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003ecalculate \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e earned before 6 April 1988 by dividing the total pre 1988 revalued earnings factors by:\n    \u003cul\u003e\n      \u003cli\u003ethe total number of years in working life (from 6 April 1978 or, if later, 6 April before 16th birthday)\u003c/li\u003e\n      \u003cli\u003emultiplied by 25%\u003c/li\u003e\n      \u003cli\u003edivided by 52\u003c/li\u003e\n    \u003c/ul\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eCalculate \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e earned from 6 April 1988 by dividing the total post 1988 revalued earnings factors by:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe total number of years in working life (from 6 April 1978 or 6 April following 16th birthday if later)\u003c/li\u003e\n  \u003cli\u003emultiplied by 20%\u003c/li\u003e\n  \u003cli\u003edivided by 52\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe resulting amounts should be rounded separately, and then added together to give the total weekly \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"revaluation-of-earnings-factors\"\u003eRevaluation of earnings factors\u003c/h2\u003e\n\n\u003cp\u003eEarnings factors must be revalued by using the yearly \u003ca rel=\"external\" href=\"https://www.google.com/url?q=http://www.legislation.gov.uk/\u0026amp;sa=D\u0026amp;ust=1543334499456000\u0026amp;usg=AFQjCNEblMy7rrRiBqGJUx3BLiKkMpl5qg\" class=\"govuk-link\"\u003eSocial Security Revaluation of Earnings Factors Order\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"early-leavers\"\u003eEarly leavers\u003c/h3\u003e\n\n\u003cp\u003eFor early leavers:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003euse the order made in the tax year in which contracted-out employment or, for post 2016 leavers, pensionable service ends\u003c/li\u003e\n  \u003cli\u003eapply revaluation to the contracted-out earnings factors for all tax years before the tax year of leaving, the earnings factor for the tax year of leaving is not revalued\u003c/li\u003e\n  \u003cli\u003efor periods of contracted-out employment that end after 5 April 1997, the only contracted-out earnings that will be used to calculate the \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e are those up to and including the 1996 to 1997 tax year (any contracted-out earnings for the 1997 to 1998 or later tax years should be ignored)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIf the member is still in service at \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e payable age or, if has died earlier:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003euse the order made in the tax year before the tax year in which death occurred, or \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e payable age was reached\u003c/li\u003e\n  \u003cli\u003eapply revaluation to the contracted-out earnings factors for all tax years before the tax year in which the order was made – the earnings factor for the tax year in which the order was made is not revalued\u003c/li\u003e\n  \u003cli\u003edo not take into account the earnings factor for the tax year of death or the tax year in which \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e payable age is reached\u003c/li\u003e\n  \u003cli\u003eignore any contracted-out earnings for the 1997 to 1998 or later tax years\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"revaluing-gmps\"\u003eRevaluing \u003cabbr title=\"Guaranteed Minimum Pensions\"\u003eGMPs\u003c/abbr\u003e\n\u003c/h3\u003e\n\n\u003cp\u003eThe \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e of early leavers must be revalued up to \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e payable age (age 60 for a woman or age 65 for a man), or death if earlier. A \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e can also be revalued to a current date if, for example, the \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e amount is needed to provide a \u003ca href=\"https://www.gov.uk/guidance/transfer-your-scheme-members-contracted-out-pension-rights\" class=\"govuk-link\"\u003etransfer value\u003c/a\u003e or pension sharing valuation.\u003c/p\u003e\n\n\u003cp\u003e\u003cabbr title=\"Guaranteed Minimum Pensions\"\u003eGMPs\u003c/abbr\u003e can be revalued using section 148 orders (full) revaluation, fixed rate revaluation or, where the date of termination is before 6 April 1997, limited rate revaluation.\u003c/p\u003e\n\n\u003ch3 id=\"full-revaluation\"\u003eFull revaluation\u003c/h3\u003e\n\n\u003cp\u003eWhere a section 148 revaluation is used, the earnings factor should be revalued using the section 148 order issued in the last complete tax year before the tax year in which \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e payable age is reached, or death if earlier.\u003c/p\u003e\n\n\u003ch3 id=\"examplea\"\u003eEarly leaver \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e calculation example A\u003c/h3\u003e\n\n\u003cp\u003eMale\u003cbr\u003e \nDate of birth 29 December 1951\u003cbr\u003e\nContracting out period 6 April 1986 to 10 November 2002\u003cbr\u003e\nYears in working life – 38 years\u003cbr\u003e\nEarnings revalued by The Social Security Revaluation of Earnings Factors Order 2002\u003c/p\u003e\n\n\u003ctable\u003e\n  \u003cthead\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"col\"\u003eTax year\u003c/th\u003e\n      \u003cth scope=\"col\"\u003eContracted-out contributions\u003c/th\u003e\n      \u003cth scope=\"col\"\u003eEarnings factor\u003c/th\u003e\n      \u003cth scope=\"col\"\u003eRevaluation rate (%)\u003c/th\u003e\n      \u003cth scope=\"col\"\u003eRevalued earnings factor\u003c/th\u003e\n    \u003c/tr\u003e\n  \u003c/thead\u003e\n  \u003ctbody\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e1986/87\u003c/td\u003e\n      \u003ctd\u003e£544.66\u003c/td\u003e\n      \u003ctd\u003e£7,951\u003c/td\u003e\n      \u003ctd\u003e149.5\u003c/td\u003e\n      \u003ctd\u003e£19,838\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e1987/88\u003c/td\u003e\n      \u003ctd\u003eEarnings only\u003c/td\u003e\n      \u003ctd\u003e£11,024\u003c/td\u003e\n      \u003ctd\u003e132.3\u003c/td\u003e\n      \u003ctd\u003e£25,609\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e1988/89\u003c/td\u003e\n      \u003ctd\u003eEarnings only\u003c/td\u003e\n      \u003ctd\u003e£12,204\u003c/td\u003e\n      \u003ctd\u003e113.7\u003c/td\u003e\n      \u003ctd\u003e£26,080\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e1989/90\u003c/td\u003e\n      \u003ctd\u003eEarnings only\u003c/td\u003e\n      \u003ctd\u003e£10,586\u003c/td\u003e\n      \u003ctd\u003e92.9\u003c/td\u003e\n      \u003ctd\u003e£20,420\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e1990/91\u003c/td\u003e\n      \u003ctd\u003eEarnings only\u003c/td\u003e\n      \u003ctd\u003e£16,112\u003c/td\u003e\n      \u003ctd\u003e79.8\u003c/td\u003e\n      \u003ctd\u003e£28,969\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e1991/92\u003c/td\u003e\n      \u003ctd\u003eEarnings only\u003c/td\u003e\n      \u003ctd\u003e£17,407\u003c/td\u003e\n      \u003ctd\u003e63.3\u003c/td\u003e\n      \u003ctd\u003e£28,426\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e1992/93\u003c/td\u003e\n      \u003ctd\u003eEarnings only\u003c/td\u003e\n      \u003ctd\u003e£18,233\u003c/td\u003e\n      \u003ctd\u003e53.3\u003c/td\u003e\n      \u003ctd\u003e£27,951\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e1993/94\u003c/td\u003e\n      \u003ctd\u003eEarnings only\u003c/td\u003e\n      \u003ctd\u003e£18,985\u003c/td\u003e\n      \u003ctd\u003e53.3\u003c/td\u003e\n      \u003ctd\u003e£27,718\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e1994/95\u003c/td\u003e\n      \u003ctd\u003eEarnings only\u003c/td\u003e\n      \u003ctd\u003e£19,643\u003c/td\u003e\n      \u003ctd\u003e41.6\u003c/td\u003e\n      \u003ctd\u003e£27,814\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e1995/96\u003c/td\u003e\n      \u003ctd\u003eEarnings only\u003c/td\u003e\n      \u003ctd\u003e£20,329\u003c/td\u003e\n      \u003ctd\u003e35.7\u003c/td\u003e\n      \u003ctd\u003e£27,586\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e1996/97\u003c/td\u003e\n      \u003ctd\u003eEarnings only\u003c/td\u003e\n      \u003ctd\u003e£21,100\u003c/td\u003e\n      \u003ctd\u003e32\u003c/td\u003e\n      \u003ctd\u003e£27,852\u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e\n\n\u003cp\u003ePre 1988 \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e = £45,447 ÷ 38 = £1,195.97 × 25% = £298.99 ÷ 52 = £5.75\u003cbr\u003e\nTotal \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e = £30.33\u003c/p\u003e\n\n\u003ch2 id=\"gmp-payable-age-calculation-example\"\u003e\n\u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e payable age calculation example\u003c/h2\u003e\n\n\u003cp\u003eWhere section 148 revaluation is used the \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e is recalculated at \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e payable age by revaluing the earnings factors by the section 148 order made in the last complete tax year prior to \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e payable age (65 for men and 60 for women).\u003c/p\u003e\n\n\u003cp\u003eUsing the details at \u003ca href=\"#examplea\" class=\"govuk-link\"\u003eexample A\u003c/a\u003e, where the member will reach \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e payable age (65) on 29 December 2016, the last complete tax year before this is 2015 to 2016. The \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e is recalculated by revaluing the earnings using The Social Security Revaluation of Earnings Factors Order 2015. (By using this later Order, each year’s earnings factor is revalued by a higher percentage, increasing the \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e amount to £43.14.)\u003c/p\u003e\n\n\u003ch3 id=\"fixed-rate-revaluation\"\u003eFixed rate revaluation\u003c/h3\u003e\n\n\u003cp\u003eSchemes that were \u003cabbr title=\"Contracted-out Salary Related\"\u003eCOSR\u003c/abbr\u003e schemes before Defined Benefit contracting-out abolition, can revalue a leaver’s \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e rights by a fixed rate as an alternative to section 148 revaluation.\u003c/p\u003e\n\n\u003cp\u003eThe \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e amount calculated at the date of leaving is revalued by a compound fixed percentage for each relevant tax year after the member has ceased to be an active member of the scheme, up to and including the tax year before \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e payable age, or death if earlier.\u003c/p\u003e\n\n\u003cp\u003eThe amount of the fixed rate is:\u003c/p\u003e\n\n\u003ctable\u003e\n  \u003cthead\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"col\"\u003eCompound for terminations occurring\u003c/th\u003e\n      \u003cth scope=\"col\"\u003ePercentage\u003c/th\u003e\n    \u003c/tr\u003e\n  \u003c/thead\u003e\n  \u003ctbody\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eFrom 6 April 2017\u003c/td\u003e\n      \u003ctd\u003e3.5%\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eBetween 6 April 2012 and 5 April 2017\u003c/td\u003e\n      \u003ctd\u003e4.75%\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eBetween 6 April 2007 and 5 April 2012\u003c/td\u003e\n      \u003ctd\u003e4%\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eBetween 6 April 2002 and 5 April 2007\u003c/td\u003e\n      \u003ctd\u003e4.5%\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eBetween 6 April 1997 and 5 April 2002\u003c/td\u003e\n      \u003ctd\u003e6.25%\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eBetween 6 April 1993 and 5 April 1997\u003c/td\u003e\n      \u003ctd\u003e7%\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eBetween 6 April 1988 and 5 April 1993\u003c/td\u003e\n      \u003ctd\u003e7.5%\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eBefore 6 April 1988\u003c/td\u003e\n      \u003ctd\u003e8.5%\u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e\n\n\u003cp\u003eFuture changes to the fixed rate percentages will published in amendments to the \u003ca rel=\"external\" href=\"http://www.legislation.gov.uk/uksi/2015/1677/introduction\" class=\"govuk-link\"\u003eOccupational Pension Schemes (Schemes that were Contracted-out) (No 2) Regulations 2015 (SI 2015/1677)\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eWhere a pension scheme uses this method of revaluation, it must be applied to all early leavers whose \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e rights are retained in the scheme from the point that the scheme opted to use fixed rate revaluation. However, different arrangements can apply to transferred-in \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e liabilities.\u003c/p\u003e\n\n\u003cp\u003eA relevant tax year is any tax year after the tax year of termination of \u003cabbr title=\"Contracted-out Salary Related\"\u003eCOSR\u003c/abbr\u003e employment or, if after 6 April 2016, leaving pensionable service.\u003c/p\u003e\n\n\u003cp\u003eIf revaluation of a \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e is required before \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e payable age, for example, a transfer value has been requested or because of pension sharing on divorce, the \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e should be revalued:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003efrom the tax year following that in which contracted-out employment terminated or post 2016, pensionable service ended\u003c/li\u003e\n  \u003cli\u003eto the tax year in which the event occurs\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFor example, a member who left contracted-out employment on 25 October 2011 (the 2011 to 2012 tax year) requests a \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e value on 1 February 2018 (2017 to 2018 tax year) – the \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e amount calculated at date of leaving should be revalued for 6 years using a compound revaluation rate of 4.0%.\u003c/p\u003e\n\n\u003ch3 id=\"fixed-rate-revaluation--gmp-payable-age-calculation-example\"\u003eFixed rate revaluation – \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e payable age calculation example\u003c/h3\u003e\n\n\u003cp\u003eWhere fixed rate revaluation is used the \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e amount at date of leaving is revalued by the relevant compound fixed percentage for each following tax year up to the last complete tax year before the tax year in which \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e payable age is reached (65 for men and 60 for women).\u003c/p\u003e\n\n\u003cp\u003eUsing the details at \u003ca href=\"#examplea\" class=\"govuk-link\"\u003eexample A\u003c/a\u003e, the member left contracted-out employment on 10 November 2002 and will reach \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e payable age (65) on 29 December 2016. The \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e amount at date of leaving (as calculated at example A) is revalued by 4.5% compound from 2003 to 2004 tax year to 2015 to 2016 tax year, that is 13 years:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003epre 1988 \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e = £5.75 multiplied by 77.2% = £10.19\u003c/li\u003e\n  \u003cli\u003epost 1988 \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e = £24.58 multiplied by 77.2% = £43.56\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eTotal \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e = £53.75\u003c/p\u003e\n\n\u003ch3 id=\"limited-rate-revaluation\"\u003eLimited rate revaluation\u003c/h3\u003e\n\n\u003cp\u003eThis option was withdrawn from 6 April 1997, however limited rate revaluation can remain for those members who left contracted-out employment before 6 April 1997.\u003c/p\u003e\n\n\u003cp\u003eLimited rate revaluation is 5% compound for each relevant tax year after the tax year in which the member’s contracted-out employment terminated.\u003c/p\u003e\n\n\u003cp\u003eHowever, to calculate the \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e due at \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e payable age, or death if earlier, a comparison is made with section 148 revaluation. The \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e amount calculated at date of leaving should be increased by:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e5% compound for each relevant tax year after the tax year that the member left contracted-out employment, up to and including the tax year before \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e payable age, or death if earlier\u003c/li\u003e\n  \u003cli\u003ethe percentage relevant to the tax year of leaving as shown in the section 148 order issued in the last complete tax year before the tax year in which \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e payable age is reached, or death if earlier\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe lower amount is the amount of \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e payable.\u003c/p\u003e\n\n\u003ch3 id=\"limited-rate-revaluation-gmp-calculation-example-b\"\u003eLimited rate revaluation \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e calculation example B\u003c/h3\u003e\n\n\u003cp\u003eMale\u003cbr\u003e\nDate of birth 29 December 1951\u003cbr\u003e\nContracting out period 6 April 1986 to 5 April 1992\u003cbr\u003e\nYears in working life – 38 years\u003cbr\u003e\nEarnings revalued by The Social Security Revaluation of Earnings Factors Order 1991\u003c/p\u003e\n\n\u003ch3 id=\"gmp-calculation-at-date-of-leaving\"\u003e\n\u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e calculation at date of leaving\u003c/h3\u003e\n\n\u003ctable id=\"details\"\u003e\n  \u003cthead\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"col\"\u003eTax year\u003c/th\u003e\n      \u003cth scope=\"col\"\u003eContracted-out contributions\u003c/th\u003e\n      \u003cth scope=\"col\"\u003eEarnings factor\u003c/th\u003e\n      \u003cth scope=\"col\"\u003eRevaluation rate (%)\u003c/th\u003e\n      \u003cth scope=\"col\"\u003eRevalued earnings factor\u003c/th\u003e\n    \u003c/tr\u003e\n  \u003c/thead\u003e\n  \u003ctbody\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e1986/87\u003c/td\u003e\n      \u003ctd\u003e£544.66\u003c/td\u003e\n      \u003ctd\u003e£7,951\u003c/td\u003e\n      \u003ctd\u003e52.3\u003c/td\u003e\n      \u003ctd\u003e£12,109\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e1987/88\u003c/td\u003e\n      \u003ctd\u003eEarnings only\u003c/td\u003e\n      \u003ctd\u003e£11,024\u003c/td\u003e\n      \u003ctd\u003e41.9\u003c/td\u003e\n      \u003ctd\u003e£15,643\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e1988/89\u003c/td\u003e\n      \u003ctd\u003eEarnings only\u003c/td\u003e\n      \u003ctd\u003e£12,204\u003c/td\u003e\n      \u003ctd\u003e30.4\u003c/td\u003e\n      \u003ctd\u003e£15,914\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e1989/90\u003c/td\u003e\n      \u003ctd\u003eEarnings only\u003c/td\u003e\n      \u003ctd\u003e£10,586\u003c/td\u003e\n      \u003ctd\u003e18.2\u003c/td\u003e\n      \u003ctd\u003e£12,513\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e1990/91\u003c/td\u003e\n      \u003ctd\u003eEarnings only\u003c/td\u003e\n      \u003ctd\u003e£16,112\u003c/td\u003e\n      \u003ctd\u003e10.1\u003c/td\u003e\n      \u003ctd\u003e£17,739\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e1991/92\u003c/td\u003e\n      \u003ctd\u003eEarnings only\u003c/td\u003e\n      \u003ctd\u003e£17,407\u003c/td\u003e\n      \u003ctd\u003eNil\u003c/td\u003e\n      \u003ctd\u003e£17,407\u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003ePre 1988 \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e = £27,752 divide by 38 = £730.32 × 25% = £182.58 divide by 52 = £3.51\u003cbr\u003e \nPost 1988 \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e = £63,573 divide by 38 = £1,672.97 × 20% = £334.60 divide by 52 =£6.44\u003cbr\u003e\nTotal \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e at date of leaving = £9.95\u003c/p\u003e\n\n\u003ch2 id=\"gmp-calculation-at-gmp-payable-age\"\u003e\n\u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e calculation at \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e payable age\u003c/h2\u003e\n\n\u003cp\u003eUsing these \u003ca href=\"#details\" class=\"govuk-link\"\u003edetails\u003c/a\u003e, the member left contracted-out employment on 5 April 1992 and will reach \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e payable age (65) on 29 December 2016. The \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e amount at date of leaving is revalued by:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e5% compound for each relevant tax year after the tax year that the member left contracted-out employment, up to and including the tax year before \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e payable age, in this example 24 years:\n    \u003cul\u003e\n      \u003cli\u003epre 1988 \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e = £3.51 × 222.5% = £11.32\u003c/li\u003e\n      \u003cli\u003epost 1988 \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e = £6.44 × 222.5% = £20.77\u003c/li\u003e\n      \u003cli\u003ethe total \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e will be £32.09\u003c/li\u003e\n    \u003c/ul\u003e\n  \u003c/li\u003e\n  \u003cli\u003ethe percentage relevant to the tax year of leaving as shown in the section 148 order issued in the last complete tax year before the tax year in which \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e payable age is reached, or death if earlier\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIn this example the percentage for 1991 to 1992 in the 2015 section 148 order is used, that is, 132.2%.\u003c/p\u003e\n\n\u003cp\u003ePre 1988 \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e = £3.51 × 132.2% = £8.15\u003cbr\u003e\nPost 1988 \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e = £6.44 × 132.2% = £14.95\u003cbr\u003e\nTotal \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e = £23.10\u003c/p\u003e\n\n\u003cp\u003eThe lower amount is the \u003cabbr title=\"Guaranteed Minimum Pension\"\u003eGMP\u003c/abbr\u003e amount payable at age 65, in this case £23.10.\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2018-12-19T09:00:01.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "6667cce2-e809-4e21-ae09-cb0bdc1ddda3"
+                                                 ],
+                    "first_public_at":  "2018-12-19T09:00:01.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+                                                "e1d6b771-a692-4812-a4e7-7562214286ef"
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2018-12-19T09:00:01+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/how-to-calculate-your-scheme-members-guaranteed-minimum-pension",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/how-to-calculate-your-scheme-members-guaranteed-minimum-pension",
+                                                     "base_path":  "/guidance/how-to-calculate-your-scheme-members-guaranteed-minimum-pension",
+                                                     "content_id":  "51d5075e-e24f-41d7-8538-57ef0415fcba",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2018-12-19T09:00:01Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "How to calculate your scheme member’s Guaranteed Minimum Pension",
+                                                     "web_url":  "https://www.gov.uk/guidance/how-to-calculate-your-scheme-members-guaranteed-minimum-pension",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/pension-administrators",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/pension-administrators",
+                                                   "base_path":  "/government/collections/pension-administrators",
+                                                   "content_id":  "5feafaae-7631-11e4-a3cb-005056011aef",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/how-to-calculate-your-scheme-members-guaranteed-minimum-pension",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/how-to-calculate-your-scheme-members-guaranteed-minimum-pension",
+                                                                                       "base_path":  "/guidance/how-to-calculate-your-scheme-members-guaranteed-minimum-pension",
+                                                                                       "content_id":  "51d5075e-e24f-41d7-8538-57ef0415fcba",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2018-12-19T09:00:01Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "How to calculate your scheme member’s Guaranteed Minimum Pension",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/how-to-calculate-your-scheme-members-guaranteed-minimum-pension",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2018-12-19T09:00:01Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Pension administrators",
+                                                   "web_url":  "https://www.gov.uk/government/collections/pension-administrators",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D25",
+                                            "api_path":  "/api/content/government/organisations/hm-revenue-customs",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+                                            "base_path":  "/government/organisations/hm-revenue-customs",
+                                            "content_id":  "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+                                            "details":  {
+                                                            "acronym":  "HMRC",
+                                                            "brand":  "hm-revenue-customs",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "hmrc",
+                                                                         "formatted_title":  "HM Revenue\u003cbr/\u003e\u0026amp; Customs"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "HM Revenue \u0026 Customs",
+                                            "web_url":  "https://www.gov.uk/government/organisations/hm-revenue-customs",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "D25",
+                                                                       "api_path":  "/api/content/government/organisations/hm-revenue-customs",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+                                                                       "base_path":  "/government/organisations/hm-revenue-customs",
+                                                                       "content_id":  "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+                                                                       "details":  {
+                                                                                       "acronym":  "HMRC",
+                                                                                       "brand":  "hm-revenue-customs",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "hmrc",
+                                                                                                    "formatted_title":  "HM Revenue\u003cbr/\u003e\u0026amp; Customs"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "HM Revenue \u0026 Customs",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/hm-revenue-customs",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D25",
+                                                              "api_path":  "/api/content/government/organisations/hm-revenue-customs",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+                                                              "base_path":  "/government/organisations/hm-revenue-customs",
+                                                              "content_id":  "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+                                                              "details":  {
+                                                                              "acronym":  "HMRC",
+                                                                              "brand":  "hm-revenue-customs",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "hmrc",
+                                                                                           "formatted_title":  "HM Revenue\u003cbr/\u003e\u0026amp; Customs"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "HM Revenue \u0026 Customs",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/hm-revenue-customs",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/transfer-your-scheme-members-contracted-out-pension-rights",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/transfer-your-scheme-members-contracted-out-pension-rights",
+                                                              "base_path":  "/guidance/transfer-your-scheme-members-contracted-out-pension-rights",
+                                                              "content_id":  "71964388-47e3-45c5-818a-eef7352c3042",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2018-12-19T09:00:01Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Transfer your scheme member’s contracted-out pension rights",
+                                                              "web_url":  "https://www.gov.uk/guidance/transfer-your-scheme-members-contracted-out-pension-rights",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/pension-schemes-request-gmp-calculations-by-uploading-csv-files",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/pension-schemes-request-gmp-calculations-by-uploading-csv-files",
+                                                              "base_path":  "/government/publications/pension-schemes-request-gmp-calculations-by-uploading-csv-files",
+                                                              "content_id":  "4a5150e8-f5f4-4c57-b43a-a0fcd5ee43e2",
+                                                              "document_type":  "form",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2016-07-18T06:00:03Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Pension schemes: request GMP calculations by uploading CSV files",
+                                                              "web_url":  "https://www.gov.uk/government/publications/pension-schemes-request-gmp-calculations-by-uploading-csv-files",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/guaranteed-minimum-pension-gmp-conversion-and-equalisation",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/guaranteed-minimum-pension-gmp-conversion-and-equalisation",
+                                                              "base_path":  "/guidance/guaranteed-minimum-pension-gmp-conversion-and-equalisation",
+                                                              "content_id":  "2da9ddae-92b1-45c8-91de-6f328e685194",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2019-01-23T10:35:18Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Guaranteed Minimum Pension (GMP) conversion and equalisation",
+                                                              "web_url":  "https://www.gov.uk/guidance/guaranteed-minimum-pension-gmp-conversion-and-equalisation",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/pension-schemes-end-of-contracting-out",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/pension-schemes-end-of-contracting-out",
+                                                              "base_path":  "/guidance/pension-schemes-end-of-contracting-out",
+                                                              "content_id":  "1c6ed3a6-dcaa-47dd-bb45-1278faf828aa",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2016-04-05T23:30:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "How pension scheme administration is affected by the ending of contracting-out",
+                                                              "web_url":  "https://www.gov.uk/guidance/pension-schemes-end-of-contracting-out",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/provide-a-pension-for-your-scheme-member",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/provide-a-pension-for-your-scheme-member",
+                                                              "base_path":  "/guidance/provide-a-pension-for-your-scheme-member",
+                                                              "content_id":  "d1ce86a5-d117-42d5-8f20-4bd2ccdb931e",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2018-12-19T09:00:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Provide a pension for your scheme member",
+                                                              "web_url":  "https://www.gov.uk/guidance/provide-a-pension-for-your-scheme-member",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/money/pension-scheme-administration",
+                                     "api_url":  "https://www.gov.uk/api/content/money/pension-scheme-administration",
+                                     "base_path":  "/money/pension-scheme-administration",
+                                     "content_id":  "bf3906da-359c-4366-9e1b-2e5b5334167e",
+                                     "details":  {
+                                                     "internal_name":  "Pension scheme administration [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/money/business-tax",
+                                                                             "api_url":  "https://www.gov.uk/api/content/money/business-tax",
+                                                                             "base_path":  "/money/business-tax",
+                                                                             "content_id":  "28262ae3-599c-4259-ae30-3c83a5ec02a1",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Business tax [T] (level 2, money)",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/money",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/money",
+                                                                                                                     "base_path":  "/money",
+                                                                                                                     "content_id":  "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Money",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:35:25Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Money",
+                                                                                                                     "web_url":  "https://www.gov.uk/money",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-05T16:19:49Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Business tax",
+                                                                             "web_url":  "https://www.gov.uk/money/business-tax",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-05T16:19:52Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Pension scheme administration",
+                                     "web_url":  "https://www.gov.uk/money/pension-scheme-administration",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2018-12-19T09:00:01+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "24293-1631014160.891-10.13.5.96-539",
+    "publishing_scheduled_at":  "2018-12-19T09:00:00+00:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  3,
+    "schema_name":  "detailed_guide",
+    "title":  "How to calculate your scheme member’s Guaranteed Minimum Pension",
+    "updated_at":  "2025-01-14T11:18:00+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

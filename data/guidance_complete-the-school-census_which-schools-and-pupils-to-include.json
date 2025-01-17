@@ -1,0 +1,173 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/complete-the-school-census/which-schools-and-pupils-to-include",
+    "content_id":  "779f5cca-bf9a-4f60-aea0-288afd0b11c6",
+    "description":  "Find out which schools and pupils are in scope for the school census.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cp\u003eThe school census collects individual school characteristics and pupil records 3 times a year.\u003c/p\u003e\n\n\u003cp\u003eIn England, all of the following schools are required to provide the information collected in this census to the Department for Education (\u003cabbr title=\"Department for Education\"\u003eDfE\u003c/abbr\u003e):\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003emaintained nursery\u003c/li\u003e\n  \u003cli\u003eprimary\u003c/li\u003e\n  \u003cli\u003emiddle-deemed primary\u003c/li\u003e\n  \u003cli\u003emiddle-deemed secondary\u003c/li\u003e\n  \u003cli\u003esecondary\u003c/li\u003e\n  \u003cli\u003eall-through\u003c/li\u003e\n  \u003cli\u003especial schools (including non-maintained special schools)\u003c/li\u003e\n  \u003cli\u003epupil referral units or alternative provision schools (\u003cabbr title=\"pupil referral unit\"\u003ePRU\u003c/abbr\u003e or \u003cabbr title=\"alternative provision\"\u003eAP\u003c/abbr\u003e)\u003c/li\u003e\n  \u003cli\u003eacademy schools (including free schools, university technical colleges (\u003cabbr title=\"university technical colleges\"\u003eUTCs\u003c/abbr\u003e) and studio schools)\u003c/li\u003e\n  \u003cli\u003ecity technology colleges (\u003cabbr title=\"city technology colleges\"\u003eCTCs\u003c/abbr\u003e)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"school-categories\"\u003eSchool categories\u003c/h2\u003e\n\n\u003cp\u003eDifferent categories of schools may need to submit different data items. Your category of school is defined by the school phase you return in the census.\u003c/p\u003e\n\n\u003cp\u003eThe statutory age ranges for each individual school are recorded on get information about schools (\u003cabbr title=\"get information about schools\"\u003eGIAS\u003c/abbr\u003e).\u003c/p\u003e\n\n\u003ctable\u003e\n  \u003cthead\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"col\"\u003eSchool phase\u003c/th\u003e\n      \u003cth scope=\"col\"\u003eCode\u003c/th\u003e\n      \u003cth scope=\"col\"\u003eNotes\u003c/th\u003e\n    \u003c/tr\u003e\n  \u003c/thead\u003e\n  \u003ctbody\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eNursery school\u003c/th\u003e\n      \u003ctd\u003eNS\u003c/td\u003e\n      \u003ctd\u003eIncluding those with maintained or direct grant status\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003ePrimary\u003c/th\u003e\n      \u003ctd\u003ePS\u003c/td\u003e\n      \u003ctd\u003e \u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eMiddle-deemed primary\u003c/th\u003e\n      \u003ctd\u003eMP\u003c/td\u003e\n      \u003ctd\u003e \u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eMiddle-deemed secondary\u003c/th\u003e\n      \u003ctd\u003eMS\u003c/td\u003e\n      \u003ctd\u003e \u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eSecondary\u003c/th\u003e\n      \u003ctd\u003eSS\u003c/td\u003e\n      \u003ctd\u003e \u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eSpecial\u003c/th\u003e\n      \u003ctd\u003eSP\u003c/td\u003e\n      \u003ctd\u003eMaintained and non-maintained special schools, including hospital special schools and academy special schools\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eAll-through\u003c/th\u003e\n      \u003ctd\u003eAT\u003c/td\u003e\n      \u003ctd\u003eExcluding \u003cabbr title=\"pupil referral unit\"\u003ePRU\u003c/abbr\u003e / \u003cabbr title=\"alternative provision\"\u003eAP\u003c/abbr\u003e and special schools. All-through schools must accommodate both pupils under the age of 7 and over the age of 14\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003ePupil referral unit and alternative provision (\u003cabbr title=\"pupil referral unit\"\u003ePRU\u003c/abbr\u003e and \u003cabbr title=\"alternative provision\"\u003eAP\u003c/abbr\u003e)\u003c/th\u003e\n      \u003ctd\u003ePR\u003c/td\u003e\n      \u003ctd\u003eThis code is used for pupil referral units, alternative provision academy schools and alternative provision free schools\u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e\n\n\u003ch2 id=\"which-pupils-are-in-scope\"\u003eWhich pupils are in scope\u003c/h2\u003e\n\n\u003cp\u003eIndividual data will be included in the return for the following pupils. You should ensure that all relevant data is maintained and up-to-date for:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eall pupils on the register on census day\u003c/li\u003e\n  \u003cli\u003eany additional pupils subject to any type of suspension or permanent exclusion in the previous 2 terms\u003c/li\u003e\n  \u003cli\u003eany additional pupils who attended the school in the previous term for which termly attendance information is required – not applicable to nursery schools\u003c/li\u003e\n  \u003cli\u003eany additional pupils who attended the school in the previous academic year for which learning aims are submitted – autumn census for secondary, all-through and \u003cabbr title=\"alternative provision\"\u003eAP\u003c/abbr\u003e schools only\u003c/li\u003e\n  \u003cli\u003eany additional pupils who had an alternative provision (\u003cabbr title=\"alternative provision\"\u003eAP\u003c/abbr\u003e) placement within the collection period (since the last census day) – not applicable to nursery schools\u003c/li\u003e\n  \u003cli\u003eany additional pupils awarded a bursary since the start of the academic year – spring and summer census only, and not applicable to nursery, primary and middle schools\u003c/li\u003e\n  \u003cli\u003eany additional pupils who were recorded as in receipt of learner funding and monitoring since the start of the academic year – not applicable to nursery schools\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"early-years\"\u003eEarly years\u003c/h2\u003e\n\n\u003cp\u003eSchools with funded on-site early years provision make their return via either the school census or the early years census, but not both.\u003c/p\u003e\n\n\u003ch3 id=\"registered-pupils-of-a-school\"\u003eRegistered pupils of a school\u003c/h3\u003e\n\n\u003cp\u003eEnter these children on the school census.\u003c/p\u003e\n\n\u003ch3 id=\"children-who-attend-a-separate-ofsted-registered-private-voluntary-or-independent-provider-on-a-school-site\"\u003eChildren who attend a separate Ofsted-registered private, voluntary or independent provider on a school site\u003c/h3\u003e\n\n\u003cp\u003eEnter these children on the \u003ca href=\"https://www.gov.uk/guidance/early-years-census\"\u003eearly years census\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"children-attending-provision-provided-by-a-school-governing-body-under-section-27-of-the-education-act-2002httpwwwlegislationgovukukpga200232section27-or-provision-that-is-run-or-managed-by-an-academy-or-academy-trust-under-charitable-objectives\"\u003eChildren attending provision provided by a school governing body under \u003ca rel=\"external\" href=\"http://www.legislation.gov.uk/ukpga/2002/32/section/27\"\u003eSection 27 of the Education Act 2002\u003c/a\u003e or provision that is run or managed by an academy or academy trust under charitable objectives\u003c/h3\u003e\n\n\u003cp\u003eEnter registered pupils of the school on the school census.\u003c/p\u003e\n\n\u003cp\u003eEnter children who are not registered pupils of the school on the \u003ca href=\"https://www.gov.uk/guidance/early-years-census\"\u003eearly years census\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eHowever, if a child’s free entitlement is split between more than one place, they may appear on the 2 different censuses, depending on where and how the pupil is registered.\u003c/p\u003e\n\n\u003cp\u003eWe expect local authority contacts to cross-check their early years census and school census returns before submission to ensure there are no duplicates.\u003c/p\u003e\n\n\u003ch2 id=\"ministry-of-defence-schools\"\u003eMinistry of Defence schools\u003c/h2\u003e\n\n\u003cp\u003eWe would like these schools to complete the census, but they do not have to.\u003c/p\u003e\n\n\u003ch2 id=\"registered-independent-schools\"\u003eRegistered independent schools\u003c/h2\u003e\n\n\u003cp\u003eThese schools do not complete the census. They complete the \u003ca href=\"https://www.gov.uk/guidance/school-level-annual-school-census\"\u003eschool-level annual school census\u003c/a\u003e instead.\u003c/p\u003e\n\n\u003ch2 id=\"general-hospital-schools\"\u003eGeneral hospital schools\u003c/h2\u003e\n\n\u003cp\u003eThese schools do not complete the census. They complete the \u003ca href=\"https://www.gov.uk/guidance/school-level-annual-school-census\"\u003eschool-level annual school census\u003c/a\u003e instead.\u003c/p\u003e\n\n\u003ch2 id=\"alternative-provision\"\u003eAlternative provision\u003c/h2\u003e\n\n\u003cp\u003eAlternative provision should be recorded on the school census if it takes place in:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ea pupil referral unit\u003c/li\u003e\n  \u003cli\u003ean alternative provision academy\u003c/li\u003e\n  \u003cli\u003ean alternative provision free school\u003c/li\u003e\n  \u003cli\u003ean early years setting (private, voluntary or independent)\u003c/li\u003e\n  \u003cli\u003estate-funded schools\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eSeparate requirements and guides are issued for the \u003ca href=\"https://www.gov.uk/guidance/early-years-census\"\u003eearly years census\u003c/a\u003e and \u003ca href=\"https://www.gov.uk/guidance/alternative-provision-census\"\u003ealternative provision census\u003c/a\u003e.\u003c/p\u003e\n\n",
+                    "change_history":  [
+                                           {
+                                               "note":  "New section added.",
+                                               "public_timestamp":  "2021-01-15T13:36:22.484Z"
+                                           },
+                                           {
+                                               "note":  "Added \u0027any additional pupils who had an alternative provision (AP) placement within the collection period (since the last census day) - voluntary from spring census 2022\u0027 to which pupils are in scope. ",
+                                               "public_timestamp":  "2021-04-21T06:53:49.672Z"
+                                           },
+                                           {
+                                               "note":  "Added \u0027any additional pupils who were recorded as in receipt of learner funding and monitoring since the start of the academic year\u0027 to the list of which pupils are in scope. This is not applicable to nursery schools.",
+                                               "public_timestamp":  "2021-07-28T13:48:32.832Z"
+                                           },
+                                           {
+                                               "note":  "Updated the information on alternative provision.",
+                                               "public_timestamp":  "2023-05-23T07:56:52.343Z"
+                                           },
+                                           {
+                                               "note":  "Updated the early years section. ",
+                                               "public_timestamp":  "2024-01-09T12:59:22.199Z"
+                                           },
+                                           {
+                                               "note":  "Removed references to children aged 2,3 or 4 from the \u0027Early years\u0027 section.",
+                                               "public_timestamp":  "2024-05-31T07:46:47.524Z"
+                                           }
+                                       ],
+                    "manual":  {
+                                   "base_path":  "/guidance/complete-the-school-census"
+                               },
+                    "organisations":  [
+                                          {
+                                              "abbreviation":  "DfE",
+                                              "title":  "Department for Education",
+                                              "web_url":  "https://www.gov.uk/government/organisations/department-for-education"
+                                          }
+                                      ],
+                    "visually_expanded":  false
+                },
+    "document_type":  "manual_section",
+    "first_published_at":  "2021-01-15T13:36:24+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/complete-the-school-census/which-schools-and-pupils-to-include",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/complete-the-school-census/which-schools-and-pupils-to-include",
+                                                     "base_path":  "/guidance/complete-the-school-census/which-schools-and-pupils-to-include",
+                                                     "content_id":  "779f5cca-bf9a-4f60-aea0-288afd0b11c6",
+                                                     "document_type":  "manual_section",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2024-05-31T07:46:50Z",
+                                                     "schema_name":  "manual_section",
+                                                     "title":  "Which schools and pupils to include ",
+                                                     "web_url":  "https://www.gov.uk/guidance/complete-the-school-census/which-schools-and-pupils-to-include",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "manual":  [
+                                 {
+                                     "api_path":  "/api/content/guidance/complete-the-school-census",
+                                     "api_url":  "https://www.gov.uk/api/content/guidance/complete-the-school-census",
+                                     "base_path":  "/guidance/complete-the-school-census",
+                                     "content_id":  "b40f95cc-80fd-492a-a7e6-68f231d195cd",
+                                     "document_type":  "manual",
+                                     "links":  {
+
+                                               },
+                                     "locale":  "en",
+                                     "public_updated_at":  "2025-01-17T12:09:07Z",
+                                     "schema_name":  "manual",
+                                     "title":  "Complete the school census",
+                                     "web_url":  "https://www.gov.uk/guidance/complete-the-school-census",
+                                     "withdrawn":  false
+                                 }
+                             ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D6",
+                                            "api_path":  "/api/content/government/organisations/department-for-education",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-education",
+                                            "base_path":  "/government/organisations/department-for-education",
+                                            "content_id":  "ebd15ade-73b2-4eaf-b1c3-43034a42eb37",
+                                            "details":  {
+                                                            "acronym":  "DfE",
+                                                            "brand":  "department-for-education",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db2e40f0b649cceb18c3/s960__K1E8325edit.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5a37db2ee5274a7908e352f2/s300__K1E8325edit.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Department \u003cbr/\u003efor Education"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Department for Education",
+                                            "web_url":  "https://www.gov.uk/government/organisations/department-for-education",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D6",
+                                                              "api_path":  "/api/content/government/organisations/department-for-education",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-education",
+                                                              "base_path":  "/government/organisations/department-for-education",
+                                                              "content_id":  "ebd15ade-73b2-4eaf-b1c3-43034a42eb37",
+                                                              "details":  {
+                                                                              "acronym":  "DfE",
+                                                                              "brand":  "department-for-education",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db2e40f0b649cceb18c3/s960__K1E8325edit.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/5a37db2ee5274a7908e352f2/s300__K1E8325edit.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Department \u003cbr/\u003efor Education"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Department for Education",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/department-for-education",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2024-05-31T08:46:50+01:00",
+    "publishing_app":  "manuals-publisher",
+    "publishing_request_id":  "21-1717141605.698-10.13.21.71-2232",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "manual_section",
+    "title":  "Which schools and pupils to include ",
+    "updated_at":  "2025-01-17T12:09:07+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

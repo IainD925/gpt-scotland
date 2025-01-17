@@ -1,0 +1,419 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/basic-navigation-and-search-for-vacancy-holders-vx",
+    "content_id":  "49e4499f-62bf-4b86-8154-b22636cab439",
+    "description":  "Overview of common navigation in the Civil Service Jobs vX system, including search and table layouts for vacancy holders.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\n\u003ch2 id=\"basic-navigation\"\u003eBasic navigation\u003c/h2\u003e\n\n\u003cp\u003eThe \u003cstrong\u003eNavigation Panel\u003c/strong\u003e is on the left-hand side of the screen, and is used to access\napplications, vacancies and interview schedules.\u003c/p\u003e\n\n\u003cp\u003eThe \u003cstrong\u003eDashboard\u003c/strong\u003e button returns you to the home screen.\u003c/p\u003e\n\n\u003cp\u003eIf you select \u003cstrong\u003eApplications\u003c/strong\u003e or \u003cstrong\u003eVacancies\u003c/strong\u003e, you can see your recently viewed items.\u003c/p\u003e\n\n\u003cp\u003eTo logout of the system, select your name and \u003cstrong\u003eLogout\u003c/strong\u003e.\u003c/p\u003e\n\n\u003cp\u003eTo view archived vacancies, select your name and \u003cstrong\u003eShow archived data\u003c/strong\u003e. To hide archived\nvacancies, select \u003cstrong\u003eHide archived data\u003c/strong\u003e.\u003c/p\u003e\n\n\u003cp\u003eSelect the \u003cstrong\u003espeech bubble icon\u003c/strong\u003e to view any system messages, errors or updates.\u003c/p\u003e\n\n\u003ch2 id=\"searching\"\u003eSearching\u003c/h2\u003e\n\n\u003cp\u003eTo change your search criteria, select the dropdown and choose:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003cstrong\u003eSearch Applications\u003c/strong\u003e - enter the candidate’s application ID.\u003c/li\u003e\n  \u003cli\u003e\n\u003cstrong\u003eSearch Vacancies\u003c/strong\u003e - enter the full (or part of the) vacancy title, or the\nvacancy ID.\u003c/li\u003e\n  \u003cli\u003e\n\u003cstrong\u003eSaved Searches\u003c/strong\u003e - select your saved searches.\u003c/li\u003e\n  \u003cli\u003e\n\u003cstrong\u003eSaved Selections\u003c/strong\u003e - access any saved selections.\u003c/li\u003e\n  \u003cli\u003e\n\u003cstrong\u003eFull Text\u003c/strong\u003e - search for particular words or phrases within all applications and\nattachments.\u003c/li\u003e\n  \u003cli\u003e\n\u003cstrong\u003eSmart Search\u003c/strong\u003e - search the entire system using words, phrases or numbers.\u003c/li\u003e\n  \u003cli\u003e\n\u003cstrong\u003eAdvanced Search\u003c/strong\u003e - select the three dots to use this - it allows you to select\nspecific search criteria.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eBegins\u003c/strong\u003e to change between search results that begin, contain, exactly\nmatch or sound like the text you enter.\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"advanced-search\"\u003eAdvanced search\u003c/h3\u003e\n\n\u003col\u003e\n  \u003cli\u003eIn the \u003cstrong\u003eApplications\u003c/strong\u003e section of the Navigation Panel, select \u003cstrong\u003eSearch\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eEdit Search\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eType or select the criteria you want to search for. Use the search at the top of the list to narrow down the results. Some fields will show further options where you can select values to include or exclude.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eAdd Search Criterion\u003c/strong\u003e to save.\u003c/li\u003e\n  \u003cli\u003eYou can add further criteria to your search using the same process.\u003c/li\u003e\n  \u003cli\u003eTo run your search, select \u003cstrong\u003eSearch\u003c/strong\u003e.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eThe results of your search will be displayed in a table layout.\u003c/p\u003e\n\n\u003ch3 id=\"saved-searches\"\u003eSaved searches\u003c/h3\u003e\n\n\u003cp\u003eIn the \u003cstrong\u003eMy Tasks\u003c/strong\u003e menu, you can access your last search and any saved searches you have access to.\u003c/p\u003e\n\n\u003cp\u003eOnce you have completed a search, you can save the details to access them again later:\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eEdit Search\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eSave As New Search\u003c/strong\u003e and enter a name for your search.\u003c/li\u003e\n  \u003cli\u003eSelect either \u003cstrong\u003ePrivate\u003c/strong\u003e or \u003cstrong\u003eGlobal\u003c/strong\u003e - private searches are only visible to you, and global searches will be visible to all other users.\u003c/li\u003e\n  \u003cli\u003eFor application searches, you can also select the option for \u003cstrong\u003eAlert me when applicants are modified\u003c/strong\u003e. This means you will receive notification emails when applications match your search criteria.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eSave\u003c/strong\u003e.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eIf you have chosen the saved search alert option, every 15 minutes the system will check for applications that match your search criteria, and send an email when any new ones are found.\u003c/p\u003e\n\n\u003ch3 id=\"stopping-notification-emails-from-searches\"\u003eStopping notification emails from searches\u003c/h3\u003e\n\n\u003cp\u003eIf you no longer want to receive notifications when applications match your search criteria:\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003eGo to your saved search.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eEdit Search\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eDeselect the \u003cstrong\u003eAlert me\u003c/strong\u003e option, then \u003cstrong\u003eSave Search\u003c/strong\u003e.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003ch2 id=\"vacancy-holder-quick-links\"\u003eVacancy holder quick links\u003c/h2\u003e\n\n\u003cp\u003eOn your \u003cstrong\u003eDashboard\u003c/strong\u003e there are quick link buttons, which allow you to navigate to the places you use most.\u003c/p\u003e\n\n\u003cp\u003eThe \u003cstrong\u003eDashboard overview\u003c/strong\u003e tab has quick links to:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ecreate a vacancy\u003c/li\u003e\n  \u003cli\u003ereview vacancies in draft\u003c/li\u003e\n  \u003cli\u003ereview vacancies requiring an update\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe \u003cstrong\u003eSift and interviews\u003c/strong\u003e tab has quick links to:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ereview applications awaiting sift\u003c/li\u003e\n  \u003cli\u003eview the interview schedule\u003c/li\u003e\n  \u003cli\u003eadd interview feedback\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe \u003cstrong\u003ePre-employment checks\u003c/strong\u003e tab has quick links to:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eupload missing ID\u003c/li\u003e\n  \u003cli\u003etrack the progress of applications through pre-employment checks\u003c/li\u003e\n  \u003cli\u003ereview applications requiring a risk assessment\u003c/li\u003e\n  \u003cli\u003econfirm checking requirements for candidates from other government departments\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe \u003cstrong\u003eOnboarding tab\u003c/strong\u003e has a quick link to:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ecomplete new starter forms\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe lists on each tab show more details about your vacancies and applications.\u003c/p\u003e\n\n\u003ch2 id=\"table-layouts\"\u003eTable layouts\u003c/h2\u003e\n\n\u003cp\u003eTable layouts show application, vacancy and interview lists and are on the \u003cstrong\u003eNavigation\nPanel\u003c/strong\u003e. You can filter information, reorder it, select rows and export to Excel.\u003c/p\u003e\n\n\u003cp\u003eUse the \u003cstrong\u003eDisplaying\u003c/strong\u003e dropdown to change the number of items displayed.\u003c/p\u003e\n\n\u003cp\u003eUse the \u003cstrong\u003eSelected\u003c/strong\u003e dropdown to select or deselect multiple list items.\u003c/p\u003e\n\n\u003cp\u003eUse \u003cstrong\u003eFilter\u003c/strong\u003e results to search and filter the list. You can also select the down arrow to filter\nindividual or multiple columns.\u003c/p\u003e\n\n\u003cp\u003eUse \u003cstrong\u003eLayout\u003c/strong\u003e to select a different layout. These display the most common searches.\u003c/p\u003e\n\n\u003cp\u003eYou can select individual or multiple rows from a table. If you want to view only your selected\nrows, select the \u003cstrong\u003eResults\u003c/strong\u003e dropdown then \u003cstrong\u003eShow only selected\u003c/strong\u003e.\u003c/p\u003e\n\n\u003cp\u003eTo go to the full record for any row you can double-click it, or select it and click \u003cstrong\u003eView\u003c/strong\u003e from\nthe \u003cstrong\u003eList Action Toolbar\u003c/strong\u003e (located under the main search box).\u003c/p\u003e\n\n\u003cp\u003eYou can export your table into Excel by selecting \u003cstrong\u003eDownload\u003c/strong\u003e layout.\u003c/p\u003e\n\n\u003ch2 id=\"vacancy-summary\"\u003eVacancy summary\u003c/h2\u003e\n\n\u003cp\u003eAll vacancy information is shown on the \u003cstrong\u003eVacancy Summary\u003c/strong\u003e page.\u003c/p\u003e\n\n\u003ch3 id=\"vacancy-information-tabs\"\u003eVacancy information tabs\u003c/h3\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003cstrong\u003eVacancy Forms\u003c/strong\u003e shows essential information which is used to build the advert on\nCivil Service Jobs. You can edit vacancy forms by selecting \u003cstrong\u003eEdit\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003e\n\u003cstrong\u003ePanel\u003c/strong\u003e allows you to add, edit or remove panel members.\u003c/li\u003e\n  \u003cli\u003e\n\u003cstrong\u003eInterviews\u003c/strong\u003e shows all Interview Schedules for the vacancy - you may not have access\nto this.\u003c/li\u003e\n  \u003cli\u003e\n\u003cstrong\u003eApplications\u003c/strong\u003e shows applications and their status.\u003c/li\u003e\n  \u003cli\u003e\n\u003cstrong\u003eHistory\u003c/strong\u003e records all changes to the vacancy, and any vacancy emails that have been\nsent.\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou can \u003cstrong\u003eCopy\u003c/strong\u003e or \u003cstrong\u003eAdd Comment\u003c/strong\u003e to a vacancy using the \u003cstrong\u003eList Action Toolbar\u003c/strong\u003e, under the main search box.\u003c/p\u003e\n\n\u003ch2 id=\"application-summary\"\u003eApplication summary\u003c/h2\u003e\n\n\u003cp\u003eAll information about an individual application is shown on the \u003cstrong\u003eapplication summary\u003c/strong\u003e page.\u003c/p\u003e\n\n\u003ch3 id=\"candidate-information-tabs\"\u003eCandidate information tabs\u003c/h3\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003cstrong\u003eCandidate Summary\u003c/strong\u003e shows important candidate information. You can \u003cstrong\u003eAdd\nApplication Comments\u003c/strong\u003e in this tab.\u003c/li\u003e\n  \u003cli\u003e\n\u003cstrong\u003eComments\u003c/strong\u003e allows you to \u003cstrong\u003eAdd Comments\u003c/strong\u003e and \u003cstrong\u003eStore against candidate\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003cstrong\u003eApplication Forms\u003c/strong\u003e shows all application and recruiter forms attached to the\napplication:\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003eForms will open in a new tab.\u003c/li\u003e\n  \u003cli\u003eIn each form you can \u003cstrong\u003eEdit\u003c/strong\u003e, \u003cstrong\u003ePrint\u003c/strong\u003e, \u003cstrong\u003eClose\u003c/strong\u003e or \u003cstrong\u003eCompare another form\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eYou can add a form by selecting \u003cstrong\u003e+Add Form\u003c/strong\u003e.\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n\u003cstrong\u003eTest results\u003c/strong\u003e is present when online tests are required. It gives an overview of the\ncandidate’s progress and scores.\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"status-buttons\"\u003eStatus buttons\u003c/h3\u003e\n\n\u003cp\u003eStatus buttons show under the candidate’s name. Use these to move candidate to the next\nstatus in the process.\u003c/p\u003e\n\n\u003ch3 id=\"list-action-toolbar\"\u003eList action toolbar\u003c/h3\u003e\n\n\u003cp\u003eThis toolbar shows under the main search box. It shows relevant options in different parts of\nthe system.\u003c/p\u003e\n\n\u003ch2 id=\"help-and-support\"\u003eHelp and support\u003c/h2\u003e\n\n\u003cp\u003eContact your recruitment team if you need help using the system.\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Changes to vacancy holder dashboards, quick links and options for searching.",
+                                               "public_timestamp":  "2022-10-10T08:57:57.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2019-07-11T00:00:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "2c9232a2-04c0-4694-95e5-73004da6dc51"
+                                                 ],
+                    "first_public_at":  "2019-07-11T00:00:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2019-07-11T00:00:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/basic-navigation-and-search-for-vacancy-holders-vx",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/basic-navigation-and-search-for-vacancy-holders-vx",
+                                                     "base_path":  "/guidance/basic-navigation-and-search-for-vacancy-holders-vx",
+                                                     "content_id":  "49e4499f-62bf-4b86-8154-b22636cab439",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2022-10-10T07:57:57Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Basic navigation and search for vacancy holders (vX)",
+                                                     "web_url":  "https://www.gov.uk/guidance/basic-navigation-and-search-for-vacancy-holders-vx",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/guidance-for-vacancy-holders-using-civil-service-jobs-vx",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/guidance-for-vacancy-holders-using-civil-service-jobs-vx",
+                                                   "base_path":  "/government/collections/guidance-for-vacancy-holders-using-civil-service-jobs-vx",
+                                                   "content_id":  "dc0b6e84-63bd-4b1b-9c58-fadbed6bf722",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/basic-navigation-and-search-for-vacancy-holders-vx",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/basic-navigation-and-search-for-vacancy-holders-vx",
+                                                                                       "base_path":  "/guidance/basic-navigation-and-search-for-vacancy-holders-vx",
+                                                                                       "content_id":  "49e4499f-62bf-4b86-8154-b22636cab439",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2022-10-10T07:57:57Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Basic navigation and search for vacancy holders (vX)",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/basic-navigation-and-search-for-vacancy-holders-vx",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2021-01-18T12:27:31Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Guidance for vacancy holders using Civil Service Jobs vX",
+                                                   "web_url":  "https://www.gov.uk/government/collections/guidance-for-vacancy-holders-using-civil-service-jobs-vx",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  true,
+                                                         "ended_on":  null,
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "OT1076",
+                                            "api_path":  "/api/content/government/organisations/civil-service-resourcing",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/civil-service-resourcing",
+                                            "base_path":  "/government/organisations/civil-service-resourcing",
+                                            "content_id":  "2c9232a2-04c0-4694-95e5-73004da6dc51",
+                                            "details":  {
+                                                            "acronym":  "",
+                                                            "brand":  "cabinet-office",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Civil Service Resourcing"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "replaced",
+                                                                                              "updated_at":  "2017-09-01T00:00:00.000+01:00",
+                                                                                              "url":  ""
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Civil Service Resourcing",
+                                            "web_url":  "https://www.gov.uk/government/organisations/civil-service-resourcing",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "OT1076",
+                                                                       "api_path":  "/api/content/government/organisations/civil-service-resourcing",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/civil-service-resourcing",
+                                                                       "base_path":  "/government/organisations/civil-service-resourcing",
+                                                                       "content_id":  "2c9232a2-04c0-4694-95e5-73004da6dc51",
+                                                                       "details":  {
+                                                                                       "acronym":  "",
+                                                                                       "brand":  "cabinet-office",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Civil Service Resourcing"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "replaced",
+                                                                                                                         "updated_at":  "2017-09-01T00:00:00.000+01:00",
+                                                                                                                         "url":  ""
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Civil Service Resourcing",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/civil-service-resourcing",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "OT1076",
+                                                              "api_path":  "/api/content/government/organisations/civil-service-resourcing",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/civil-service-resourcing",
+                                                              "base_path":  "/government/organisations/civil-service-resourcing",
+                                                              "content_id":  "2c9232a2-04c0-4694-95e5-73004da6dc51",
+                                                              "details":  {
+                                                                              "acronym":  "",
+                                                                              "brand":  "cabinet-office",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Civil Service Resourcing"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "replaced",
+                                                                                                                "updated_at":  "2017-09-01T00:00:00.000+01:00",
+                                                                                                                "url":  ""
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Civil Service Resourcing",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/civil-service-resourcing",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related_guides":  [
+                                         {
+                                             "api_path":  "/api/content/guidance/creating-an-apply-online-vacancy-vx",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/creating-an-apply-online-vacancy-vx",
+                                             "base_path":  "/guidance/creating-an-apply-online-vacancy-vx",
+                                             "content_id":  "bfb638fe-0f15-40bc-aacb-320ed6ca5842",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2022-06-22T11:15:35Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Creating an apply online vacancy (vX)",
+                                             "web_url":  "https://www.gov.uk/guidance/creating-an-apply-online-vacancy-vx",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/sifting-job-applications-vx",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/sifting-job-applications-vx",
+                                             "base_path":  "/guidance/sifting-job-applications-vx",
+                                             "content_id":  "1a5b8fd3-d61f-4096-b8c5-314800f0d7d9",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2021-01-15T17:01:23Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Sifting job applications (vX)",
+                                             "web_url":  "https://www.gov.uk/guidance/sifting-job-applications-vx",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/viewing-interview-schedules-and-entering-interview-results-vx",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/viewing-interview-schedules-and-entering-interview-results-vx",
+                                             "base_path":  "/guidance/viewing-interview-schedules-and-entering-interview-results-vx",
+                                             "content_id":  "1e70b534-62f5-41e6-bf94-c5e947ab14ef",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2023-04-21T11:46:47Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Viewing interview schedules and entering interview results (vX)",
+                                             "web_url":  "https://www.gov.uk/guidance/viewing-interview-schedules-and-entering-interview-results-vx",
+                                             "withdrawn":  false
+                                         }
+                                     ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/sifting-job-applications-vx",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/sifting-job-applications-vx",
+                                                              "base_path":  "/guidance/sifting-job-applications-vx",
+                                                              "content_id":  "1a5b8fd3-d61f-4096-b8c5-314800f0d7d9",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-01-15T17:01:23Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Sifting job applications (vX)",
+                                                              "web_url":  "https://www.gov.uk/guidance/sifting-job-applications-vx",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/uploading-spreadsheets-and-progressing-job-applications-in-bulk-vx",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/uploading-spreadsheets-and-progressing-job-applications-in-bulk-vx",
+                                                              "base_path":  "/guidance/uploading-spreadsheets-and-progressing-job-applications-in-bulk-vx",
+                                                              "content_id":  "387aff29-6075-43bc-a68c-75210d47cdfa",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-01-15T14:26:49Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Uploading sift or interview results in bulk (vX)",
+                                                              "web_url":  "https://www.gov.uk/guidance/uploading-spreadsheets-and-progressing-job-applications-in-bulk-vx",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/sifting-job-applications-and-issuing-results-vx",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/sifting-job-applications-and-issuing-results-vx",
+                                                              "base_path":  "/guidance/sifting-job-applications-and-issuing-results-vx",
+                                                              "content_id":  "ccbdaec1-e54f-4d93-8e09-a4089e9f62eb",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-01-07T18:22:50Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Sifting job applications and issuing results (vX)",
+                                                              "web_url":  "https://www.gov.uk/guidance/sifting-job-applications-and-issuing-results-vx",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/creating-job-interview-schedules-and-inviting-candidates-vx",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/creating-job-interview-schedules-and-inviting-candidates-vx",
+                                                              "base_path":  "/guidance/creating-job-interview-schedules-and-inviting-candidates-vx",
+                                                              "content_id":  "c8f3b920-4182-4aa9-90b1-e4f9e1ff6ccb",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-05-19T09:52:36Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Creating job interview schedules and inviting candidates (vX)",
+                                                              "web_url":  "https://www.gov.uk/guidance/creating-job-interview-schedules-and-inviting-candidates-vx",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/creating-an-apply-online-vacancy-vx",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/creating-an-apply-online-vacancy-vx",
+                                                              "base_path":  "/guidance/creating-an-apply-online-vacancy-vx",
+                                                              "content_id":  "bfb638fe-0f15-40bc-aacb-320ed6ca5842",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-06-22T11:15:35Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Creating an apply online vacancy (vX)",
+                                                              "web_url":  "https://www.gov.uk/guidance/creating-an-apply-online-vacancy-vx",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/government/government-efficiency-transparency-and-accountability",
+                                     "api_url":  "https://www.gov.uk/api/content/government/government-efficiency-transparency-and-accountability",
+                                     "base_path":  "/government/government-efficiency-transparency-and-accountability",
+                                     "content_id":  "f3f4b5d3-49c4-487b-bd5b-be75f11ec8c5",
+                                     "details":  {
+                                                     "internal_name":  "Government efficiency, transparency and accountability [PA] (level 2)",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/all",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/all",
+                                                                             "base_path":  "/government/all",
+                                                                             "content_id":  "e48ab80a-de80-4e83-bf59-26316856a5f9",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Government",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:29:39Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Government",
+                                                                             "web_url":  "https://www.gov.uk/government/all",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-08-17T15:32:41Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Government efficiency, transparency and accountability",
+                                     "web_url":  "https://www.gov.uk/government/government-efficiency-transparency-and-accountability",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2022-10-10T08:57:57+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1712919410.037-10.13.20.95-2299",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Basic navigation and search for vacancy holders (vX)",
+    "updated_at":  "2024-04-12T11:56:50+01:00",
+    "withdrawn_notice":  {
+
+                         }
+}

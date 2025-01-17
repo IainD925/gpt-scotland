@@ -1,0 +1,279 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/get-information-about-pupil-giap",
+    "content_id":  "90ecd8cd-dbd4-4b80-982b-5985418f2e3f",
+    "description":  "The GIAP service allows education professionals to search the National Pupil Database to retrieve pupil data.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003e\u003cabbr title=\"Get Information About Pupil\"\u003eGIAP\u003c/abbr\u003e is the replacement for the legacy service Key to Success. It allows education professionals to search the National Pupil Database to retrieve pupil data, and the following to access pupil-level census and attainment data:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eschools\u003c/li\u003e\n  \u003cli\u003eacademies\u003c/li\u003e\n  \u003cli\u003efurther education colleges\u003c/li\u003e\n  \u003cli\u003eacademy trusts\u003c/li\u003e\n  \u003cli\u003elocal authorities\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003e\u003cabbr title=\"Get Information About Pupil\"\u003eGIAP\u003c/abbr\u003e also allows users to create and maintain their own custom lists of pupils, making it easy to track the progress of specific groups or cohorts over time.\u003c/p\u003e\n\n\u003cp\u003eThe service provides access to \u003ca href=\"https://www.gov.uk/government/publications/pupil-premium/pupil-premium\" class=\"govuk-link\"\u003epupil premium\u003c/a\u003e funding allocation, helping schools effectively  manage the financial aspects of new student enrolment from the start.\u003c/p\u003e\n\n\u003cp\u003e\u003ca class=\"gem-c-button govuk-button\" role=\"button\" data-module=\"govuk-button\" draggable=\"false\" href=\"https://get-information-pupils.service.gov.uk/\"\u003eStart now\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://form.education.gov.uk/service/Data-collections-service-request-form\" class=\"govuk-link\"\u003eContact us\u003c/a\u003e if you have queries about \u003cabbr title=\"Get Information About Pupil\"\u003eGIAP\u003c/abbr\u003e.\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2024-08-21T15:48:55.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "ebd15ade-73b2-4eaf-b1c3-43034a42eb37"
+                                                 ],
+                    "first_public_at":  "2024-08-21T15:48:55.000+01:00",
+                    "national_applicability":  {
+                                                   "england":  {
+                                                                   "applicable":  true,
+                                                                   "label":  "England"
+                                                               },
+                                                   "northern_ireland":  {
+                                                                            "alternative_url":  "",
+                                                                            "applicable":  false,
+                                                                            "label":  "Northern Ireland"
+                                                                        },
+                                                   "scotland":  {
+                                                                    "alternative_url":  "",
+                                                                    "applicable":  false,
+                                                                    "label":  "Scotland"
+                                                                },
+                                                   "wales":  {
+                                                                 "alternative_url":  "",
+                                                                 "applicable":  false,
+                                                                 "label":  "Wales"
+                                                             }
+                                               },
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2024-08-21T15:48:55+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/get-information-about-pupil-giap",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/get-information-about-pupil-giap",
+                                                     "base_path":  "/guidance/get-information-about-pupil-giap",
+                                                     "content_id":  "90ecd8cd-dbd4-4b80-982b-5985418f2e3f",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2024-08-21T14:48:55Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Get Information About Pupil (GIAP)",
+                                                     "web_url":  "https://www.gov.uk/guidance/get-information-about-pupil-giap",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2024-starmer-labour-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2024-starmer-labour-government",
+                                         "base_path":  "/government/2024-starmer-labour-government",
+                                         "content_id":  "9dbff654-cdeb-4ebe-9a12-cd4cc20a033e",
+                                         "details":  {
+                                                         "current":  true,
+                                                         "ended_on":  null,
+                                                         "started_on":  "2024-07-05T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2024 Starmer Labour government",
+                                         "web_url":  "https://www.gov.uk/government/2024-starmer-labour-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D6",
+                                            "api_path":  "/api/content/government/organisations/department-for-education",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-education",
+                                            "base_path":  "/government/organisations/department-for-education",
+                                            "content_id":  "ebd15ade-73b2-4eaf-b1c3-43034a42eb37",
+                                            "details":  {
+                                                            "acronym":  "DfE",
+                                                            "brand":  "department-for-education",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db2e40f0b649cceb18c3/s960__K1E8325edit.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5a37db2ee5274a7908e352f2/s300__K1E8325edit.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Department \u003cbr/\u003efor Education"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Department for Education",
+                                            "web_url":  "https://www.gov.uk/government/organisations/department-for-education",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "D6",
+                                                                       "api_path":  "/api/content/government/organisations/department-for-education",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-education",
+                                                                       "base_path":  "/government/organisations/department-for-education",
+                                                                       "content_id":  "ebd15ade-73b2-4eaf-b1c3-43034a42eb37",
+                                                                       "details":  {
+                                                                                       "acronym":  "DfE",
+                                                                                       "brand":  "department-for-education",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db2e40f0b649cceb18c3/s960__K1E8325edit.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5a37db2ee5274a7908e352f2/s300__K1E8325edit.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Department \u003cbr/\u003efor Education"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Department for Education",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/department-for-education",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D6",
+                                                              "api_path":  "/api/content/government/organisations/department-for-education",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-education",
+                                                              "base_path":  "/government/organisations/department-for-education",
+                                                              "content_id":  "ebd15ade-73b2-4eaf-b1c3-43034a42eb37",
+                                                              "details":  {
+                                                                              "acronym":  "DfE",
+                                                                              "brand":  "department-for-education",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db2e40f0b649cceb18c3/s960__K1E8325edit.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/5a37db2ee5274a7908e352f2/s300__K1E8325edit.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Department \u003cbr/\u003efor Education"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Department for Education",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/department-for-education",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/education/school-and-academy-financial-management-and-assurance",
+                                     "api_url":  "https://www.gov.uk/api/content/education/school-and-academy-financial-management-and-assurance",
+                                     "base_path":  "/education/school-and-academy-financial-management-and-assurance",
+                                     "content_id":  "1a26ae19-00f2-4be1-b9b6-aa72876a0278",
+                                     "description":  "Reporting for academies and local authorities, school procurement, risk protection arrangement (RPA), payments and compliance",
+                                     "details":  {
+                                                     "internal_name":  "School and academy financial management and assurance",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/education",
+                                                                             "api_url":  "https://www.gov.uk/api/content/education",
+                                                                             "base_path":  "/education",
+                                                                             "content_id":  "c58fdadd-7743-46d6-9629-90bb3ccc4ef0",
+                                                                             "description":  "Schools and academies, further and higher education, apprenticeships and other skills training, student funding, early years.",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Education, training and skills",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-06-07T15:19:07Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Education, training and skills",
+                                                                             "web_url":  "https://www.gov.uk/education",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2017-06-29T12:55:30Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "School and academy financial management and assurance",
+                                     "web_url":  "https://www.gov.uk/education/school-and-academy-financial-management-and-assurance",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2024-08-21T15:48:55+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1724251735.294-10.13.21.48-2456",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Get Information About Pupil (GIAP)",
+    "updated_at":  "2024-10-16T14:10:00+01:00",
+    "withdrawn_notice":  {
+
+                         }
+}

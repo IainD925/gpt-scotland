@@ -1,0 +1,385 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/health-app-developers-the-assessment-process",
+    "content_id":  "cae0cf16-5d71-4bb4-90c1-a440ef3d4828",
+    "description":  "How developers can get their health app assessed and endorsed.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003ch2 id=\"introduction\"\u003eIntroduction\u003c/h2\u003e\n\n\u003cp\u003eIf you design and build apps for public health or the health service, you’ll need to show how they meet a set of technical criteria set out in the \u003ca rel=\"external\" href=\"https://developer.nhs.uk/digital-tools/daq/\" class=\"govuk-link\"\u003eDigital Assessment Questions\u003c/a\u003e. This is the process used for apps to be made available on the \u003ca rel=\"external\" href=\"http://apps.beta.nhs.uk/\" class=\"govuk-link\"\u003eNHS Digital Tools Library\u003c/a\u003e and will eventually be required by any national health body commissioning your product or service. Public Health England (\u003cabbr title=\"Public Health England\"\u003ePHE\u003c/abbr\u003e) will use it to endorse public health digital products.\u003c/p\u003e\n\n\u003cp\u003eThe 2 approaches which may be used are:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eself-assessment followed by the commissioning body checking the responses\u003c/li\u003e\n  \u003cli\u003eassessment by an independent organisation\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eBoth will adhere to the same set of criteria, and will require the assessment to be submitted to the commissioning body at the end of the process.\u003c/p\u003e\n\n\u003ch2 id=\"advice-on-where-to-get-your-health-app-assessed\"\u003eAdvice on where to get your health app assessed\u003c/h2\u003e\n\n\u003cp\u003eIf you are planning to do a self-assessment, you can complete the \u003ca rel=\"external\" href=\"https://developer.nhs.uk/digital-tools/daq/\" class=\"govuk-link\"\u003efull set of assessment questions\u003c/a\u003e to see how your product fares.\u003c/p\u003e\n\n\u003cdiv class=\"call-to-action\"\u003e\n\u003cp\u003eRegister your interest to be assessed by PHE by emailing the Digital team at \u003ca href=\"mailto:Digital@phe.gov.uk\" class=\"govuk-link\"\u003eDigital@phe.gov.uk\u003c/a\u003e.\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cp\u003eYou can engage any one of a number of independent assessment organisations to review your product. They will evaluate how your app has been built, provide feedback to improve your submission, and eventually validate your app for a commissioning organisation.\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"mailto:Digital@phe.gov.uk\" class=\"govuk-link\"\u003eEmail the \u003cabbr title=\"Public Health England\"\u003ePHE\u003c/abbr\u003e digital team\u003c/a\u003e to find out more about assessment organisations with the relevant experience.\u003c/p\u003e\n\n\u003ch3 id=\"the-assessment-process\"\u003eThe assessment process\u003c/h3\u003e\n\n\u003cp\u003eBefore your app is assessed you should:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eensure the app is functional and ready to be reviewed\u003c/li\u003e\n  \u003cli\u003eidentify the time and people you’ll need to devote to the process, including getting specialist input from technical, operational and clinical experts to respond to questions\u003c/li\u003e\n  \u003cli\u003emake sure you have evidence to back up your answers - ideally from an independent or third-party source, such as an academic institution\u003c/li\u003e\n  \u003cli\u003eif using an independent assessment organisation, understand the relationship you’ll have and your obligations to them\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe first stage of your self-assessment is to register with your assessor and to check that your app is in scope - as a general rule, most apps and wearables are suitable for review.\u003c/p\u003e\n\n\u003cp\u003eDepending on what your app offers, you may also need to register with an external body before you can continue.\u003c/p\u003e\n\n\u003cp\u003eApply for a \u003ca href=\"https://www.gov.uk/guidance/medical-devices-conformity-assessment-and-the-ce-mark\" class=\"govuk-link\"\u003eCE mark from the Medicines and Healthcare products Regulatory Agency (\u003cabbr title=\"Medicines and Healthcare products Regulatory Agency\"\u003eMHRA\u003c/abbr\u003e)\u003c/a\u003e if your product is classed as a medical device.\u003c/p\u003e\n\n\u003cp\u003eRegister with the \u003ca rel=\"external\" href=\"http://www.cqc.org.uk/\" class=\"govuk-link\"\u003eCare Quality Commission (\u003cabbr title=\"Care Quality Commission\"\u003eCQC\u003c/abbr\u003e)\u003c/a\u003e if the app is designed to be used as part of the delivery of a health and social care service.\u003c/p\u003e\n\n\u003cp\u003eYou’ll then need to answer some questions, which will check how well the app meets a \u003ca rel=\"external\" href=\"https://developer.nhs.uk/digital-tools/daq/\" class=\"govuk-link\"\u003eseries of criteria\u003c/a\u003e. Answering these successfully will mean showing that the app:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eis technically robust and meets standards on things like security, data protection, accessibility and usability - to make sure that it’s been developed in line with best practice\u003c/li\u003e\n  \u003cli\u003edoes what it claims, and that you have the evidence to prove it\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eMost of the questions are mandatory. Others are optional but are designed to help you demonstrate the quality of your app or the processes behind it, and will strengthen your overall offering.\u003c/p\u003e\n\n\u003cdiv class=\"call-to-action\"\u003e\n\u003cp\u003eTo ensure that your Intellectual Property (IP) is protected as far as possible you can ask your app assessor to \u003ca href=\"https://www.gov.uk/government/publications/non-disclosure-agreements\" class=\"govuk-link\"\u003esign a non-disclosure agreement (NDA)\u003c/a\u003e.\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cp\u003eEveryone who reviews your app should keep your commercially sensitive data private and confidential.\u003c/p\u003e\n\n\u003ch3 id=\"content-review\"\u003eContent review\u003c/h3\u003e\n\n\u003cp\u003eIf your app passes the digital assessment, it will be examined in more detail to ensure the quality of any health or behaviour change content being used. They will work with a team of specialists and subject matter experts to do this. Expect them to ask you detailed questions about your initial assessment and the evidence you’ve provided to support it: you should allow time and resources for this.\u003c/p\u003e\n\n\u003cp\u003eYou may also need to commission evidence from independent experts in specialist areas, such as penetration testing or user acceptance testing. You must complete this stage before your app can be used by the health system.\u003c/p\u003e\n\n\u003cp\u003eReviewers will need to see good quality evidence that your app delivers the results you claim. If you can’t provide this, your app won’t be considered. Evidence provided by an independent evaluating body will carry more weight than your own findings.\u003c/p\u003e\n\n\u003cdiv class=\"call-to-action\"\u003e\n\u003cp\u003eLearn more about how to provide evidence from these \u003ca rel=\"external\" href=\"http://www.yhec.co.uk/tools-resources/recent-publications/mtep-publications/\" class=\"govuk-link\"\u003eguides commissioned by the National Institute For Health and Clinical Excellence (NICE)\u003c/a\u003e.\u003c/p\u003e\n\u003c/div\u003e\n\n\u003ch2 id=\"after-approval\"\u003eAfter approval\u003c/h2\u003e\n\n\u003cp\u003eThe app must be re-assessed if you make significant changes or upgrades to its interface, look and feel, technology or audience. You must do this before public release or risk having your app withdrawn.\u003c/p\u003e\n\n\u003ch2 id=\"contact\"\u003eContact\u003c/h2\u003e\n\n\u003cp\u003eEmail \u003ca href=\"mailto:digital@phe.gov.uk\" class=\"govuk-link\"\u003edigital@phe.gov.uk\u003c/a\u003e for more information.\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2017-10-09T17:28:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "1343f283-19e9-4fbb-86b1-58c7549d874b"
+                                                 ],
+                    "first_public_at":  "2017-10-09T17:28:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2017-10-09T17:28:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/health-app-developers-the-assessment-process",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/health-app-developers-the-assessment-process",
+                                                     "base_path":  "/guidance/health-app-developers-the-assessment-process",
+                                                     "content_id":  "cae0cf16-5d71-4bb4-90c1-a440ef3d4828",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2017-10-09T16:28:00Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Health app developers: the assessment process",
+                                                     "web_url":  "https://www.gov.uk/guidance/health-app-developers-the-assessment-process",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/health-app-development-creating-apps-for-health-professionals",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/health-app-development-creating-apps-for-health-professionals",
+                                                   "base_path":  "/government/collections/health-app-development-creating-apps-for-health-professionals",
+                                                   "content_id":  "dc6a4287-a35f-491a-92cd-a4f0319dcb7c",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/health-app-developers-the-assessment-process",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/health-app-developers-the-assessment-process",
+                                                                                       "base_path":  "/guidance/health-app-developers-the-assessment-process",
+                                                                                       "content_id":  "cae0cf16-5d71-4bb4-90c1-a440ef3d4828",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2017-10-09T16:28:00Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Health app developers: the assessment process",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/health-app-developers-the-assessment-process",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2017-10-09T16:34:00Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Health app development: the app assessment process",
+                                                   "web_url":  "https://www.gov.uk/government/collections/health-app-development-creating-apps-for-health-professionals",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  true,
+                                                         "ended_on":  null,
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "EA480",
+                                            "api_path":  "/api/content/government/organisations/public-health-england",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/public-health-england",
+                                            "base_path":  "/government/organisations/public-health-england",
+                                            "content_id":  "1343f283-19e9-4fbb-86b1-58c7549d874b",
+                                            "details":  {
+                                                            "acronym":  "PHE",
+                                                            "brand":  "department-of-health",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db2de5274a7908e352ef/s960_sign5.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5a37db2d40f0b649cceb18bf/s300_sign5.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Public Health \u003cbr/\u003eEngland"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "split",
+                                                                                              "updated_at":  "2021-10-01T00:00:00.000+01:00",
+                                                                                              "url":  "https://www.gov.uk/phe"
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Public Health England",
+                                            "web_url":  "https://www.gov.uk/government/organisations/public-health-england",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA480",
+                                                                       "api_path":  "/api/content/government/organisations/public-health-england",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/public-health-england",
+                                                                       "base_path":  "/government/organisations/public-health-england",
+                                                                       "content_id":  "1343f283-19e9-4fbb-86b1-58c7549d874b",
+                                                                       "details":  {
+                                                                                       "acronym":  "PHE",
+                                                                                       "brand":  "department-of-health",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db2de5274a7908e352ef/s960_sign5.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5a37db2d40f0b649cceb18bf/s300_sign5.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Public Health \u003cbr/\u003eEngland"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "split",
+                                                                                                                         "updated_at":  "2021-10-01T00:00:00.000+01:00",
+                                                                                                                         "url":  "https://www.gov.uk/phe"
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Public Health England",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/public-health-england",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "EA480",
+                                                              "api_path":  "/api/content/government/organisations/public-health-england",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/public-health-england",
+                                                              "base_path":  "/government/organisations/public-health-england",
+                                                              "content_id":  "1343f283-19e9-4fbb-86b1-58c7549d874b",
+                                                              "details":  {
+                                                                              "acronym":  "PHE",
+                                                                              "brand":  "department-of-health",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db2de5274a7908e352ef/s960_sign5.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/5a37db2d40f0b649cceb18bf/s300_sign5.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Public Health \u003cbr/\u003eEngland"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "split",
+                                                                                                                "updated_at":  "2021-10-01T00:00:00.000+01:00",
+                                                                                                                "url":  "https://www.gov.uk/phe"
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Public Health England",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/public-health-england",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/government/case-studies/intellectual-property-gripit-fixings",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/case-studies/intellectual-property-gripit-fixings",
+                                                              "base_path":  "/government/case-studies/intellectual-property-gripit-fixings",
+                                                              "content_id":  "d8f688bd-0cae-4de8-afc1-97f681b15498",
+                                                              "document_type":  "case_study",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2015-09-23T14:02:00Z",
+                                                              "schema_name":  "case_study",
+                                                              "title":  "Intellectual Property: GripIt Fixings",
+                                                              "web_url":  "https://www.gov.uk/government/case-studies/intellectual-property-gripit-fixings",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/health-and-social-care/health-protection",
+                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care/health-protection",
+                                     "base_path":  "/health-and-social-care/health-protection",
+                                     "content_id":  "30ba2d05-d0d6-4978-a5d6-707511894111",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Health protection",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/health-and-social-care/public-health",
+                                                                             "api_url":  "https://www.gov.uk/api/content/health-and-social-care/public-health",
+                                                                             "base_path":  "/health-and-social-care/public-health",
+                                                                             "content_id":  "d6a4884e-769d-4b81-8ba5-b64394362d92",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Public health",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/health-and-social-care",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care",
+                                                                                                                     "base_path":  "/health-and-social-care",
+                                                                                                                     "content_id":  "8124ead8-8ebc-4faf-88ad-dd5cbcc92ba8",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Health and social care",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:30:51Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Health and social care",
+                                                                                                                     "web_url":  "https://www.gov.uk/health-and-social-care",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-17T15:15:14Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Public health",
+                                                                             "web_url":  "https://www.gov.uk/health-and-social-care/public-health",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2019-03-11T14:19:39Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Health protection",
+                                     "web_url":  "https://www.gov.uk/health-and-social-care/health-protection",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/health-and-social-care/technology-in-health-and-social-care",
+                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care/technology-in-health-and-social-care",
+                                     "base_path":  "/health-and-social-care/technology-in-health-and-social-care",
+                                     "content_id":  "88c55513-b473-4627-a856-6ae95b6b4e08",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Technology in health and social care",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/health-and-social-care",
+                                                                             "api_url":  "https://www.gov.uk/api/content/health-and-social-care",
+                                                                             "base_path":  "/health-and-social-care",
+                                                                             "content_id":  "8124ead8-8ebc-4faf-88ad-dd5cbcc92ba8",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Health and social care",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:30:51Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Health and social care",
+                                                                             "web_url":  "https://www.gov.uk/health-and-social-care",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2019-02-05T15:58:43Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Technology in health and social care",
+                                     "web_url":  "https://www.gov.uk/health-and-social-care/technology-in-health-and-social-care",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2017-10-09T17:28:00+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1682073527.712-10.13.22.143-15812",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Health app developers: the assessment process",
+    "updated_at":  "2023-11-29T13:25:39+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

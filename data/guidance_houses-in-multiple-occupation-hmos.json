@@ -1,0 +1,296 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/houses-in-multiple-occupation-hmos",
+    "content_id":  "5ba07cd6-db9a-4671-b52d-3da4ada356f0",
+    "description":  "Guidance on the recent change to how Houses in Multiple Occupation (HMOs) are valued for Council Tax in England. ",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eFrom 1 December 2023 all HMOs in England are to be valued as a single property (aggregated) for Council Tax purposes.\u003c/p\u003e\n\n\u003cp\u003eThese amendments to legislation apply to all HMOs (including both licensed and unlicensed HMOs).\u003c/p\u003e\n\n\u003cp\u003eIf you own or live in a licensed or unlicensed HMO which is not currently aggregated and you are liable to pay Council Tax, you must \u003ca href=\"https://www.gov.uk/government/publications/houses-in-multiple-occupation-hmos-proposal-form\" class=\"govuk-link\"\u003esubmit a proposal\u003c/a\u003e for us to bring your Council Tax banding in line with new legislation.\u003c/p\u003e\n\n\u003cp\u003eWe have a statutory four-month deadline to respond to such proposals.\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "The content has been revised per new guidelines.",
+                                               "public_timestamp":  "2024-10-24T14:17:24.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Changes to wording under Licensed HMOs",
+                                               "public_timestamp":  "2024-06-28T14:09:49.000+01:00"
+                                           },
+                                           {
+                                               "note":  "The content has been updated.",
+                                               "public_timestamp":  "2024-04-08T12:21:20.000+01:00"
+                                           },
+                                           {
+                                               "note":  "The content has been revised slightly.",
+                                               "public_timestamp":  "2023-12-01T11:28:06.000+00:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2023-12-01T00:00:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "ae98edb5-87b4-4a69-a31a-e0e5298f949d"
+                                                 ],
+                    "first_public_at":  "2023-12-01T00:00:00.000+00:00",
+                    "national_applicability":  {
+                                                   "england":  {
+                                                                   "applicable":  true,
+                                                                   "label":  "England"
+                                                               },
+                                                   "northern_ireland":  {
+                                                                            "alternative_url":  "",
+                                                                            "applicable":  false,
+                                                                            "label":  "Northern Ireland"
+                                                                        },
+                                                   "scotland":  {
+                                                                    "alternative_url":  "",
+                                                                    "applicable":  false,
+                                                                    "label":  "Scotland"
+                                                                },
+                                                   "wales":  {
+                                                                 "alternative_url":  "",
+                                                                 "applicable":  false,
+                                                                 "label":  "Wales"
+                                                             }
+                                               },
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2023-12-01T00:00:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/houses-in-multiple-occupation-hmos",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/houses-in-multiple-occupation-hmos",
+                                                     "base_path":  "/guidance/houses-in-multiple-occupation-hmos",
+                                                     "content_id":  "5ba07cd6-db9a-4671-b52d-3da4ada356f0",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2024-10-24T13:17:24Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Houses in Multiple Occupation (HMOs)",
+                                                     "web_url":  "https://www.gov.uk/guidance/houses-in-multiple-occupation-hmos",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2022-to-2024-sunak-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2022-to-2024-sunak-conservative-government",
+                                         "base_path":  "/government/2022-to-2024-sunak-conservative-government",
+                                         "content_id":  "acbd9825-4303-45cf-85bc-20f200c146ff",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2024-07-05T00:00:00+00:00",
+                                                         "started_on":  "2022-10-25T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2022 to 2024 Sunak Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "EA87",
+                                            "api_path":  "/api/content/government/organisations/valuation-office-agency",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/valuation-office-agency",
+                                            "base_path":  "/government/organisations/valuation-office-agency",
+                                            "content_id":  "ae98edb5-87b4-4a69-a31a-e0e5298f949d",
+                                            "details":  {
+                                                            "acronym":  "VOA",
+                                                            "brand":  "hm-revenue-customs",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db26e5274a7908e352e5/s960_VOA-Wingate-Sign.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5a37db27e5274a79051c9268/s300_VOA-Wingate-Sign.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Valuation Office Agency"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Valuation Office Agency",
+                                            "web_url":  "https://www.gov.uk/government/organisations/valuation-office-agency",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA87",
+                                                                       "api_path":  "/api/content/government/organisations/valuation-office-agency",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/valuation-office-agency",
+                                                                       "base_path":  "/government/organisations/valuation-office-agency",
+                                                                       "content_id":  "ae98edb5-87b4-4a69-a31a-e0e5298f949d",
+                                                                       "details":  {
+                                                                                       "acronym":  "VOA",
+                                                                                       "brand":  "hm-revenue-customs",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db26e5274a7908e352e5/s960_VOA-Wingate-Sign.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5a37db27e5274a79051c9268/s300_VOA-Wingate-Sign.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Valuation Office Agency"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Valuation Office Agency",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/valuation-office-agency",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "EA87",
+                                                              "api_path":  "/api/content/government/organisations/valuation-office-agency",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/valuation-office-agency",
+                                                              "base_path":  "/government/organisations/valuation-office-agency",
+                                                              "content_id":  "ae98edb5-87b4-4a69-a31a-e0e5298f949d",
+                                                              "details":  {
+                                                                              "acronym":  "VOA",
+                                                                              "brand":  "hm-revenue-customs",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db26e5274a7908e352e5/s960_VOA-Wingate-Sign.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/5a37db27e5274a79051c9268/s300_VOA-Wingate-Sign.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Valuation Office Agency"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Valuation Office Agency",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/valuation-office-agency",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/housing-local-and-community/housing-and-communities",
+                                     "api_url":  "https://www.gov.uk/api/content/housing-local-and-community/housing-and-communities",
+                                     "base_path":  "/housing-local-and-community/housing-and-communities",
+                                     "content_id":  "4ad66168-274d-4d83-9195-f4ab0ccc97cb",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Housing and communities (level 2)",
+                                                     "notes_for_editors":  "",
+                                                     "url_override":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/housing-local-and-community",
+                                                                             "api_url":  "https://www.gov.uk/api/content/housing-local-and-community",
+                                                                             "base_path":  "/housing-local-and-community",
+                                                                             "content_id":  "4794066e-e3cc-425e-8cc4-e7ff3edb4c39",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Housing, local and community",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:32:02Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Housing, local and community",
+                                                                             "web_url":  "https://www.gov.uk/housing-local-and-community",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2022-02-14T14:24:18Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Housing and communities",
+                                     "web_url":  "https://www.gov.uk/housing-local-and-community/housing-and-communities",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2024-10-24T14:17:24+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1729775844.617-10.13.22.110-2282",
+    "publishing_scheduled_at":  "2023-12-01T10:00:00+00:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  12,
+    "schema_name":  "detailed_guide",
+    "title":  "Houses in Multiple Occupation (HMOs)",
+    "updated_at":  "2024-10-24T14:17:25+01:00",
+    "withdrawn_notice":  {
+
+                         }
+}

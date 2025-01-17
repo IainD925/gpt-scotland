@@ -1,0 +1,997 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/girls-education-challenge",
+    "content_id":  "5d2c8a8f-7631-11e4-a3cb-005056011aef",
+    "description":  "Will help over a million of the world’s poorest girls improve their lives through education.",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  79107,
+                                            "filename":  "DFID-approach-value-money.pdf",
+                                            "id":  "4551827",
+                                            "number_of_pages":  15,
+                                            "title":  "DFID\u0027s approach to value for money",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a78a9ee40f0b632476992f1/DFID-approach-value-money.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  177473,
+                                            "filename":  "GEC-SCW-Projects-150114.pdf",
+                                            "id":  "4551828",
+                                            "number_of_pages":  2,
+                                            "title":  "Girls\u0027 Education Challenge: Step Change projects",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7b8769e5274a7202e17bf7/GEC-SCW-Projects-150114.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  433026,
+                                            "filename":  "about-strategic-partnerships.pdf",
+                                            "id":  "4551829",
+                                            "number_of_pages":  2,
+                                            "title":  "about Strategic Partnerships",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7b0bfced915d3ed9061c20/about-strategic-partnerships.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  115538,
+                                            "filename":  "strategic-partnerships-second-round-FAQs.pdf",
+                                            "id":  "4551830",
+                                            "number_of_pages":  14,
+                                            "title":  "Strategic Partnerships FAQs",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7a0a8bed915d6d99f5cb9a/strategic-partnerships-second-round-FAQs.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  175207,
+                                            "filename":  "GEC-innovation-projects-290414.pdf",
+                                            "id":  "4551831",
+                                            "number_of_pages":  2,
+                                            "title":  "Girls’ Education Challenge: Innovation projects",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7db1e140f0b65d88633da4/GEC-innovation-projects-290414.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  2075700,
+                                            "filename":  "GEC-Project-Profile-booklet-March2015.pdf",
+                                            "id":  "4551832",
+                                            "number_of_pages":  42,
+                                            "title":  "Girls’ Education Challenge: project portfolio booklet",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a81b51b40f0b62302698c10/GEC-Project-Profile-booklet-March2015.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  2277640,
+                                            "filename":  "GEC-Case-Studies-March2015.pdf",
+                                            "id":  "4551833",
+                                            "number_of_pages":  30,
+                                            "title":  "Girls’ Education Challenge: Case Studies",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a80ca0fed915d74e6230737/GEC-Case-Studies-March2015.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  8223871,
+                                            "filename":  "innovation-window-Baseline-Report-fulla2.pdf",
+                                            "id":  "4551834",
+                                            "number_of_pages":  333,
+                                            "title":  "Innovation project window",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7f4cbeed915d74e62299e0/innovation-window-Baseline-Report-fulla2.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  9902450,
+                                            "filename":  "Step-change-window-full2.pdf",
+                                            "id":  "4551835",
+                                            "number_of_pages":  597,
+                                            "title":  "Step change project window",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a81aa23ed915d74e62337d0/Step-change-window-full2.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  2748961,
+                                            "filename":  "Baseline-Strategic-Partnerships-Window-13January2016.pdf",
+                                            "id":  "4551836",
+                                            "number_of_pages":  92,
+                                            "title":  "Strategic Partnerships Window ",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a817be040f0b62305b8f332/Baseline-Strategic-Partnerships-Window-13January2016.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  717620,
+                                            "filename":  "Process-Review-Brief.pdf",
+                                            "id":  "4551837",
+                                            "number_of_pages":  4,
+                                            "title":  "Process Review brief: February 2016",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a80e8a9e5274a2e8ab52d92/Process-Review-Brief.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  890172,
+                                            "filename":  "Process-Review-Report.pdf",
+                                            "id":  "4551838",
+                                            "number_of_pages":  68,
+                                            "title":  "Process Review Report: February 2016 ",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a80a4c8e5274a2e87dbaff7/Process-Review-Report.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1907342,
+                                            "filename":  "Narrow-Windows-Revolving-Doors-What-affects-adolescent-girls_-ability-to-stay-in-school-Policy-_brief.pdf",
+                                            "id":  "4551839",
+                                            "number_of_pages":  4,
+                                            "title":  "Narrow Windows, Revolving Doors: What affects adolescent girls’ ability to stay in school? – Policy brief",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7f41c1e5274a2e8ab4b13a/Narrow-Windows-Revolving-Doors-What-affects-adolescent-girls_-ability-to-stay-in-school-Policy-_brief.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1691197,
+                                            "filename":  "Narrow-Windows-Revolving-Doors-What-affects-adolescent-girls_-ability-to-stay-in-school-Research-Report-March-2016.pdf",
+                                            "id":  "4551840",
+                                            "number_of_pages":  91,
+                                            "title":  "Narrow Windows, Revolving Doors: What affects adolescent girls’ ability to stay in school? – Research report March 2016",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7f5436ed915d74e33f5c39/Narrow-Windows-Revolving-Doors-What-affects-adolescent-girls_-ability-to-stay-in-school-Research-Report-March-2016.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  3225006,
+                                            "filename":  "Case-Studies-Booklet-2016.pdf",
+                                            "id":  "4551841",
+                                            "number_of_pages":  62,
+                                            "title":  "Girls’ Education Challenge: Case Studies (June 2016)",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7f7f2ae5274a2e8ab4c87e/Case-Studies-Booklet-2016.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1169971,
+                                            "filename":  "GEC-learning-about-learning.pdf",
+                                            "id":  "4551842",
+                                            "number_of_pages":  7,
+                                            "title":  "What we are learning about learning: A summary of insights at the midpoint of the GEC ",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7f7ccced915d74e33f6bcf/GEC-learning-about-learning.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1018610,
+                                            "filename":  "leave-no-girl-behind.pdf",
+                                            "id":  "4551843",
+                                            "number_of_pages":  2,
+                                            "title":  "leave no girl behind",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a8014b7ed915d74e33f8547/leave-no-girl-behind.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  2117402,
+                                            "filename":  "LNGB-Flyer.pdf",
+                                            "id":  "4551844",
+                                            "number_of_pages":  2,
+                                            "title":  "Leave no girl behind flyer",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a802b54ed915d74e622ce0c/LNGB-Flyer.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  266039,
+                                            "filename":  "LNGB-Key-Messages.pdf",
+                                            "id":  "4551845",
+                                            "number_of_pages":  2,
+                                            "title":  "Leave no girl behind key messages",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7f6eb9ed915d74e33f6656/LNGB-Key-Messages.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1835751,
+                                            "filename":  "LNGB-Overview-Presentation.pdf",
+                                            "id":  "4551846",
+                                            "number_of_pages":  20,
+                                            "title":  "Leave no girl behind overview presentation",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7f16be40f0b62305b85001/LNGB-Overview-Presentation.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  643070,
+                                            "filename":  "LNGB-Concept-Note-guidance.pdf",
+                                            "id":  "4551847",
+                                            "number_of_pages":  29,
+                                            "title":  "guidance note",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a8075c6ed915d74e33fa8e6/LNGB-Concept-Note-guidance.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  467928,
+                                            "filename":  "LNGB-FAQs-issue6-20Dec2016.pdf",
+                                            "id":  "4551848",
+                                            "number_of_pages":  31,
+                                            "title":  "FAQs",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a801f7fed915d74e622c99c/LNGB-FAQs-issue6-20Dec2016.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                            "file_size":  52984,
+                                            "filename":  "LNGB-Concept-note-template.docx",
+                                            "id":  "4551849",
+                                            "title":  "LNGB Concept Note Template",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a818635e5274a2e87dbe17a/LNGB-Concept-note-template.docx"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  546910,
+                                            "filename":  "GEC-Do-No-Harm-Policy.pdf",
+                                            "id":  "4551850",
+                                            "number_of_pages":  15,
+                                            "title":  "Do No Harm Policy",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a8175f640f0b62305b8f13d/GEC-Do-No-Harm-Policy.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  2049819,
+                                            "filename":  "LNGB-Market-Engagement-Slides-7dec16.pdf",
+                                            "id":  "4551851",
+                                            "number_of_pages":  42,
+                                            "title":  "Slides from the market engagement workshops",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7f6475ed915d74e622a2ea/LNGB-Market-Engagement-Slides-7dec16.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1924608,
+                                            "filename":  "Step-Change-Project-Window.pdf",
+                                            "id":  "4551852",
+                                            "number_of_pages":  119,
+                                            "title":  "Step Change Window",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a820ec8ed915d74e34017f4/Step-Change-Project-Window.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1657492,
+                                            "filename":  "Innovation-Project-Window.pdf",
+                                            "id":  "4551853",
+                                            "number_of_pages":  118,
+                                            "title":  "Innovation Window",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a81d08040f0b62305b90f43/Innovation-Project-Window.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  403704,
+                                            "filename":  "Lessons-from--Midline-Evaluation.pdf",
+                                            "id":  "4551854",
+                                            "number_of_pages":  5,
+                                            "title":  "Lessons from the Midline Evaluation",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a81c77f40f0b62305b90c37/Lessons-from--Midline-Evaluation.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  3550690,
+                                            "filename":  "GEC-EM-SCW-Endline-Evaluation-Report-final.pdf",
+                                            "id":  "4551855",
+                                            "number_of_pages":  128,
+                                            "title":  "Step Change Window Endline Report",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a8211cae5274a2e8ab5756b/GEC-EM-SCW-Endline-Evaluation-Report-final.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  5348898,
+                                            "filename":  "GEC-SCW-Endline-Report-Annexes-final-version-Dec2017.pdf",
+                                            "id":  "4551856",
+                                            "number_of_pages":  210,
+                                            "title":  "Annexes for Step Change Window",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a82bb0b40f0b62305b940b6/GEC-SCW-Endline-Report-Annexes-final-version-Dec2017.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  3659529,
+                                            "filename":  "GEC-EM-IW-Endline-Evaluation-Report-final-report.pdf",
+                                            "id":  "4551857",
+                                            "number_of_pages":  126,
+                                            "title":  "Innovation Window Endline Report",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a82ca95ed915d74e3403972/GEC-EM-IW-Endline-Evaluation-Report-final-report.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  4751698,
+                                            "filename":  "GEC-EM-IW-Endline-Evaluation-Annexes-final-December2017.pdf",
+                                            "id":  "4551858",
+                                            "number_of_pages":  132,
+                                            "title":  "Annexes for Innovation Window",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a82b3ade5274a2e87dc28b7/GEC-EM-IW-Endline-Evaluation-Annexes-final-December2017.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  2188716,
+                                            "filename":  "GEC-EM-SPW-Endline-Evaluation-Report-Final.pdf",
+                                            "id":  "4551859",
+                                            "number_of_pages":  114,
+                                            "title":  "Strategic Partnership Window Endline Report",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a81db5ee5274a2e8ab56335/GEC-EM-SPW-Endline-Evaluation-Report-Final.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  2633471,
+                                            "filename":  "GEC-EM-SPW-endline-evaluation-final-annexes.pdf",
+                                            "id":  "4551860",
+                                            "number_of_pages":  77,
+                                            "title":  "Annexes for Partnership Window",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a82ccfced915d74e6237b45/GEC-EM-SPW-endline-evaluation-final-annexes.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1032753,
+                                            "filename":  "GEC-Endline-Evaluation-Brief-EM-January_2018.pdf",
+                                            "id":  "4551861",
+                                            "number_of_pages":  4,
+                                            "title":  "Brief: Lessons from the Step Change and Innovation Windows",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a81fe06ed915d74e340125e/GEC-Endline-Evaluation-Brief-EM-January_2018.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1521163,
+                                            "filename":  "Strategic-Partnerships-Window-Endline-Policy-Brief-FINAL-Nov-2017-v4.pdf",
+                                            "id":  "4551862",
+                                            "number_of_pages":  4,
+                                            "title":  "Brief: Lessons from the Strategic Partnerships Window",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a82c35be5274a2e8ab593a5/Strategic-Partnerships-Window-Endline-Policy-Brief-FINAL-Nov-2017-v4.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  309449,
+                                            "filename":  "TR-Add-Educational-Marginalisation-1.pdf",
+                                            "id":  "4551863",
+                                            "number_of_pages":  11,
+                                            "title":  "Understanding and Addressing Educational Marginalisation, Part 1",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b606060e5274a5f4314d6e5/TR-Add-Educational-Marginalisation-1.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  327477,
+                                            "filename":  "TR-Add-Educational-Marginalisation-2.pdf",
+                                            "id":  "4551864",
+                                            "number_of_pages":  33,
+                                            "title":  "Understanding and Addressing Educational Marginalisation, Part 2 ",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b6060bbe5274a5f588eb225/TR-Add-Educational-Marginalisation-2.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  302596,
+                                            "filename":  "TR-Addressing-School-Violence.pdf",
+                                            "id":  "4551865",
+                                            "number_of_pages":  24,
+                                            "title":  "Addressing School Violence",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b6060e8ed915d4b79b6130a/TR-Addressing-School-Violence.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  377276,
+                                            "filename":  "TR-Community-Based-Awareness-Attitudes-Behaviour.pdf",
+                                            "id":  "4551866",
+                                            "number_of_pages":  32,
+                                            "title":  "Community Based Awareness, Attitudes and Behaviour",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b60612c40f0b6357323af8f/TR-Community-Based-Awareness-Attitudes-Behaviour.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  204708,
+                                            "filename":  "TR-Economic-Empowerment-Interventions.pdf",
+                                            "id":  "4551867",
+                                            "number_of_pages":  21,
+                                            "title":  "Economic Empowerment Interventions",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b606175ed915d4b53bfc5d4/TR-Economic-Empowerment-Interventions.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  291043,
+                                            "filename":  "TR-Educational-Technology.pdf",
+                                            "id":  "4551868",
+                                            "number_of_pages":  32,
+                                            "title":  "Educational Technology",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b6061a3ed915d4b50d1ba9f/TR-Educational-Technology.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  267286,
+                                            "filename":  "TR-Extra-Cocurricular-Interventions.pdf",
+                                            "id":  "4551869",
+                                            "number_of_pages":  24,
+                                            "title":  "Extra and Co-Curricular Interventions",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b6061f1e5274a5f6ab8603d/TR-Extra-Cocurricular-Interventions.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  447528,
+                                            "filename":  "TR-Girls-Self-Esteem.pdf",
+                                            "id":  "4551870",
+                                            "number_of_pages":  31,
+                                            "title":  "Girls’ Self-Esteem",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b606223ed915d4b5cb8d8ed/TR-Girls-Self-Esteem.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  303895,
+                                            "filename":  "TR-School-Governance.pdf",
+                                            "id":  "4551871",
+                                            "number_of_pages":  26,
+                                            "title":  "School Governance",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b606251e5274a5f588eb228/TR-School-Governance.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  646969,
+                                            "filename":  "TR-Teaching-Learning-Assessment.pdf",
+                                            "id":  "4551872",
+                                            "number_of_pages":  29,
+                                            "title":  "Teaching, Learning and Assessment",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b606298e5274a5f61c23823/TR-Teaching-Learning-Assessment.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  16526844,
+                                            "filename":  "Steps-to-Success.pdf",
+                                            "id":  "4551873",
+                                            "number_of_pages":  28,
+                                            "title":  "Steps to success: Learning from the Girls’ Education Challenge 2012-2017",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b72cf9fed915d6cff1aa730/Steps-to-Success.pdf"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eThe Girls’ Education Challenge (GEC) was launched by the UK in 2012 as a 12 year commitment to reach the most marginalised girls in the world and is the largest global fund dedicated to girls’ education. The UK is committed to ensuring over a million girls in some of the poorest countries, including girls who have disabilities or are at risk of being left behind, receive a quality education.\u003c/p\u003e\n\n\u003cdiv class=\"call-to-action\"\u003e\n  \u003cp\u003eTo be redirected to the \u003ca rel=\"external\" href=\"https://girlseducationchallenge.org/#/\" class=\"govuk-link\"\u003eGirls’ Education Challenge website\u003c/a\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cp\u003eSee development tracker for  \u003ca rel=\"external\" href=\"https://devtracker.dfid.gov.uk/projects/GB-COH-03580586-GEC-Fund-A1\" class=\"govuk-link\"\u003eFCDO’s programme-level information\u003c/a\u003e\u003c/p\u003e\n\n\u003ch2 id=\"baseline-survey-report-on-marginalised-girls-and-their-communities\"\u003eBaseline survey report on marginalised girls and their communities\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a817be040f0b62305b8f332/Baseline-Strategic-Partnerships-Window-13January2016.pdf\"\u003eStrategic Partnerships Window \u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e2.62 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e92 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a81aa23ed915d74e62337d0/Step-change-window-full2.pdf\"\u003eStep change project window\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e9.44 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e597 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7f4cbeed915d74e62299e0/innovation-window-Baseline-Report-fulla2.pdf\"\u003eInnovation project window\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e7.84 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e333 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"midline-evaluation-reports\"\u003eMidline Evaluation Reports\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a81c77f40f0b62305b90c37/Lessons-from--Midline-Evaluation.pdf\"\u003eLessons from the Midline Evaluation\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e394 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e5 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a81d08040f0b62305b90f43/Innovation-Project-Window.pdf\"\u003eInnovation Window\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e1.58 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e118 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a820ec8ed915d74e34017f4/Step-Change-Project-Window.pdf\"\u003eStep Change Window\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e1.84 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e119 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"endline-reports\"\u003eEndline Reports\u003c/h2\u003e\n\u003cp\u003eEndline evaluation reports from the GEC Evaluation Manager based on surveys which followed up with the GEC girls 3 years on from baseline, and projects’ own evaluation reports. There are also 2 short policy briefs available summarising the evaluation approach, findings and recommendations:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a8211cae5274a2e8ab5756b/GEC-EM-SCW-Endline-Evaluation-Report-final.pdf\"\u003eStep Change Window Endline Report\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e3.39 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e128 pages\u003c/span\u003e)\u003c/span\u003e and \u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a82bb0b40f0b62305b940b6/GEC-SCW-Endline-Report-Annexes-final-version-Dec2017.pdf\"\u003eAnnexes for Step Change Window\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e5.1 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e210 pages\u003c/span\u003e)\u003c/span\u003e\n\u003c/li\u003e\n  \u003cli\u003e\n\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a82ca95ed915d74e3403972/GEC-EM-IW-Endline-Evaluation-Report-final-report.pdf\"\u003eInnovation Window Endline Report\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e3.49 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e126 pages\u003c/span\u003e)\u003c/span\u003e and \u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a82b3ade5274a2e87dc28b7/GEC-EM-IW-Endline-Evaluation-Annexes-final-December2017.pdf\"\u003eAnnexes for Innovation Window\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e4.53 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e132 pages\u003c/span\u003e)\u003c/span\u003e\n\u003c/li\u003e\n  \u003cli\u003e\n\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a81db5ee5274a2e8ab56335/GEC-EM-SPW-Endline-Evaluation-Report-Final.pdf\"\u003eStrategic Partnership Window Endline Report\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e2.09 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e114 pages\u003c/span\u003e)\u003c/span\u003e and \u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a82ccfced915d74e6237b45/GEC-EM-SPW-endline-evaluation-final-annexes.pdf\"\u003eAnnexes for Partnership Window\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e2.51 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e77 pages\u003c/span\u003e)\u003c/span\u003e\n\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a81fe06ed915d74e340125e/GEC-Endline-Evaluation-Brief-EM-January_2018.pdf\"\u003eBrief: Lessons from the Step Change and Innovation Windows\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e1010 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e4 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a82c35be5274a2e8ab593a5/Strategic-Partnerships-Window-Endline-Policy-Brief-FINAL-Nov-2017-v4.pdf\"\u003eBrief: Lessons from the Strategic Partnerships Window\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e1.45 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e4 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"learning-from-gec-phase-1\"\u003eLearning from GEC phase 1\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b72cf9fed915d6cff1aa730/Steps-to-Success.pdf\"\u003eSteps to success: Learning from the Girls’ Education Challenge 2012-2017\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e15.8 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e28 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b606060e5274a5f4314d6e5/TR-Add-Educational-Marginalisation-1.pdf\"\u003eUnderstanding and Addressing Educational Marginalisation, Part 1\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e302 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e11 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b6060bbe5274a5f588eb225/TR-Add-Educational-Marginalisation-2.pdf\"\u003eUnderstanding and Addressing Educational Marginalisation, Part 2 \u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e320 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e33 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b6060e8ed915d4b79b6130a/TR-Addressing-School-Violence.pdf\"\u003eAddressing School Violence\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e296 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e24 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b60612c40f0b6357323af8f/TR-Community-Based-Awareness-Attitudes-Behaviour.pdf\"\u003eCommunity Based Awareness, Attitudes and Behaviour\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e368 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e32 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b606175ed915d4b53bfc5d4/TR-Economic-Empowerment-Interventions.pdf\"\u003eEconomic Empowerment Interventions\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e200 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e21 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b6061a3ed915d4b50d1ba9f/TR-Educational-Technology.pdf\"\u003eEducational Technology\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e284 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e32 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b6061f1e5274a5f6ab8603d/TR-Extra-Cocurricular-Interventions.pdf\"\u003eExtra and Co-Curricular Interventions\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e261 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e24 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b606223ed915d4b5cb8d8ed/TR-Girls-Self-Esteem.pdf\"\u003eGirls’ Self-Esteem\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e437 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e31 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b606251e5274a5f588eb228/TR-School-Governance.pdf\"\u003eSchool Governance\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e297 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e26 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b606298e5274a5f61c23823/TR-Teaching-Learning-Assessment.pdf\"\u003eTeaching, Learning and Assessment\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e632 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e29 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"related-information\"\u003eRelated information\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a80a4c8e5274a2e87dbaff7/Process-Review-Report.pdf\"\u003eProcess Review Report: February 2016 \u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e869 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e68 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a80e8a9e5274a2e8ab52d92/Process-Review-Brief.pdf\"\u003eProcess Review brief: February 2016\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e701 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e4 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a78a9ee40f0b632476992f1/DFID-approach-value-money.pdf\"\u003eDFID\u0027s approach to value for money\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e77.3 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e15 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/payment-by-results\" class=\"govuk-link\"\u003eDFID pilots payment by results\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7b0bfced915d3ed9061c20/about-strategic-partnerships.pdf\"\u003eabout Strategic Partnerships\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e423 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e2 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7a0a8bed915d6d99f5cb9a/strategic-partnerships-second-round-FAQs.pdf\"\u003eStrategic Partnerships FAQs\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e113 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e14 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"related-blogs\"\u003eRelated blogs\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://educationinnovations.org/bringing-escuela-nueva-model-to-zambia\" class=\"govuk-link\"\u003eit’s all about the kids: Bringing Columbia’s Escuela Nueva approach to Zambian classrooms\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.educationinnovations.org/blog/christmas-wishes-and-sustainable-goals-through-2030\" class=\"govuk-link\"\u003echristmas wishes and sustainable goals through 2030\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"management\"\u003eManagement\u003c/h2\u003e\n\u003cp\u003eThe Girls’ Education Challenge is managed on behalf of the UK Department for International Development (DFID) by PricewaterhouseCoopers LLP in alliance with Nathan Associates Ltd. and Social Development Direct Ltd.\u003c/p\u003e\n\n\u003ch2 id=\"contact\"\u003eContact\u003c/h2\u003e\n\u003cp\u003eIf you have any queries or comments regarding the Girls’ Education Challenge, please contact the Fund Manger through the \u003ca rel=\"external\" href=\"https://girlseducationchallenge.org/#/contact\" class=\"govuk-link\"\u003ewebsite\u003c/a\u003e\u003c/p\u003e\n\n\u003ch2 id=\"whistleblowing\"\u003eWhistleblowing\u003c/h2\u003e\n\u003cp\u003eThe Girls’ Education Challenge has a zero tolerance policy on misconduct, including mistreatment of individuals and misappropriation of funds. If you would like more information on the whistle-blowing mechanism, or to report misconduct please email \u003ca href=\"mailto:gecpmo@uk.pwc.com\" class=\"govuk-link\"\u003egecpmo@uk.pwc.com\u003c/a\u003e. The e-mail account is accessible only by a small number of individuals who have been trained on the requirement to keep the information confidential. We will follow up matters on an anonymous basis and are committed to investigate claims thoroughly and fairly.\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Documents related to Learning from GEC phase 1 added",
+                                               "public_timestamp":  "2018-08-16T09:05:31.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Endline Evaluation Reports added.",
+                                               "public_timestamp":  "2018-01-25T11:44:58.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Lessons from the midline evaluation report added",
+                                               "public_timestamp":  "2017-08-02T11:52:12.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Midline Survey Reports added.",
+                                               "public_timestamp":  "2017-04-20T11:48:12.000+01:00"
+                                           },
+                                           {
+                                               "note":  "updated Leave No Girls Behind: Frequently Asked Questions 16 December 2016",
+                                               "public_timestamp":  "2016-12-19T09:52:33.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Deadline for concept notes extended.",
+                                               "public_timestamp":  "2016-12-16T11:40:05.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Revised version of FAQ\u0027s for Leave No Girls Behind window added, 12 December 2016",
+                                               "public_timestamp":  "2016-12-12T11:53:25.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Leave no girl behind document published.",
+                                               "public_timestamp":  "2016-10-10T16:47:49.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Process Review brief: February 2016 and Process Review Report: February 2016 added\r\n",
+                                               "public_timestamp":  "2016-02-18T15:28:34.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Strategic Partnerships Window : Baseline Report added\r\n",
+                                               "public_timestamp":  "2016-01-25T12:11:14.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Profiles booklet updated (March 2015) and Case Studies booklet added ",
+                                               "public_timestamp":  "2015-03-23T11:51:36.000+00:00"
+                                           },
+                                           {
+                                               "note":  "updated version of Girls’ Education Challenge – project portfolio booklet added",
+                                               "public_timestamp":  "2014-11-21T15:45:10.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Minor change made to Project Profiles document - 6 May 2014",
+                                               "public_timestamp":  "2014-05-06T10:27:00.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Attachment added: Girls’ Education Challenge – project portfolio booklet",
+                                               "public_timestamp":  "2014-05-01T11:11:39.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Small changes to text, revised version of GEC - Innovation projects document, slightly revised map",
+                                               "public_timestamp":  "2014-04-30T15:12:01.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Images and links added to the page",
+                                               "public_timestamp":  "2013-10-21T16:48:42.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Strategic partnership and Innovation window text updated. List of Innovation Window projects added",
+                                               "public_timestamp":  "2013-10-11T15:52:57.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2013-03-26T15:44:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "db994552-7644-404d-a770-a2fe659c661f"
+                                                 ],
+                    "first_public_at":  "2013-03-26T15:44:00.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2013-03-26T15:44:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/girls-education-challenge",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/girls-education-challenge",
+                                                     "base_path":  "/guidance/girls-education-challenge",
+                                                     "content_id":  "5d2c8a8f-7631-11e4-a3cb-005056011aef",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2018-08-16T08:05:31Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Girls\u0027 Education Challenge",
+                                                     "web_url":  "https://www.gov.uk/guidance/girls-education-challenge",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "base_path":  "/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "content_id":  "591c83aa-3b74-437d-a342-612bddd97572",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2015-05-08T00:00:00+00:00",
+                                                         "started_on":  "2010-05-12T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2010 to 2015 Conservative and Liberal Democrat coalition government",
+                                         "web_url":  "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government"
+                                     }
+                                 ],
+                  "lead_organisations":  [
+                                             {
+                                                 "analytics_identifier":  "D8",
+                                                 "api_path":  "/api/content/government/organisations/department-for-international-development",
+                                                 "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-international-development",
+                                                 "base_path":  "/government/organisations/department-for-international-development",
+                                                 "content_id":  "db994552-7644-404d-a770-a2fe659c661f",
+                                                 "details":  {
+                                                                 "acronym":  "DFID",
+                                                                 "brand":  "department-for-international-development",
+                                                                 "default_news_image":  {
+                                                                                            "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db1de5274a7908e352d4/s960_DFID-default-image-v2.jpg",
+                                                                                            "url":  "https://assets.publishing.service.gov.uk/media/5a37db1ded915d5a62fdc758/s300_DFID-default-image-v2.jpg"
+                                                                                        },
+                                                                 "logo":  {
+                                                                              "crest":  "single-identity",
+                                                                              "formatted_title":  "Department\u003cbr/\u003efor International \u003cbr/\u003eDevelopment"
+                                                                          },
+                                                                 "organisation_govuk_status":  {
+                                                                                                   "status":  "replaced",
+                                                                                                   "updated_at":  "2020-09-02T00:00:00.000+01:00",
+                                                                                                   "url":  "http://www.dfid.gov.uk/"
+                                                                                               }
+                                                             },
+                                                 "document_type":  "organisation",
+                                                 "links":  {
+
+                                                           },
+                                                 "locale":  "en",
+                                                 "schema_name":  "organisation",
+                                                 "title":  "Department for International Development",
+                                                 "web_url":  "https://www.gov.uk/government/organisations/department-for-international-development",
+                                                 "withdrawn":  false
+                                             }
+                                         ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D8",
+                                            "api_path":  "/api/content/government/organisations/department-for-international-development",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-international-development",
+                                            "base_path":  "/government/organisations/department-for-international-development",
+                                            "content_id":  "db994552-7644-404d-a770-a2fe659c661f",
+                                            "details":  {
+                                                            "acronym":  "DFID",
+                                                            "brand":  "department-for-international-development",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db1de5274a7908e352d4/s960_DFID-default-image-v2.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5a37db1ded915d5a62fdc758/s300_DFID-default-image-v2.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Department\u003cbr/\u003efor International \u003cbr/\u003eDevelopment"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "replaced",
+                                                                                              "updated_at":  "2020-09-02T00:00:00.000+01:00",
+                                                                                              "url":  "http://www.dfid.gov.uk/"
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Department for International Development",
+                                            "web_url":  "https://www.gov.uk/government/organisations/department-for-international-development",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "D8",
+                                                                       "api_path":  "/api/content/government/organisations/department-for-international-development",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-international-development",
+                                                                       "base_path":  "/government/organisations/department-for-international-development",
+                                                                       "content_id":  "db994552-7644-404d-a770-a2fe659c661f",
+                                                                       "details":  {
+                                                                                       "acronym":  "DFID",
+                                                                                       "brand":  "department-for-international-development",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db1de5274a7908e352d4/s960_DFID-default-image-v2.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5a37db1ded915d5a62fdc758/s300_DFID-default-image-v2.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Department\u003cbr/\u003efor International \u003cbr/\u003eDevelopment"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "replaced",
+                                                                                                                         "updated_at":  "2020-09-02T00:00:00.000+01:00",
+                                                                                                                         "url":  "http://www.dfid.gov.uk/"
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Department for International Development",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/department-for-international-development",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D8",
+                                                              "api_path":  "/api/content/government/organisations/department-for-international-development",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-international-development",
+                                                              "base_path":  "/government/organisations/department-for-international-development",
+                                                              "content_id":  "db994552-7644-404d-a770-a2fe659c661f",
+                                                              "details":  {
+                                                                              "acronym":  "DFID",
+                                                                              "brand":  "department-for-international-development",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db1de5274a7908e352d4/s960_DFID-default-image-v2.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/5a37db1ded915d5a62fdc758/s300_DFID-default-image-v2.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Department\u003cbr/\u003efor International \u003cbr/\u003eDevelopment"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "replaced",
+                                                                                                                "updated_at":  "2020-09-02T00:00:00.000+01:00",
+                                                                                                                "url":  "http://www.dfid.gov.uk/"
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Department for International Development",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/department-for-international-development",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/international/education-in-developing-countries",
+                                     "api_url":  "https://www.gov.uk/api/content/international/education-in-developing-countries",
+                                     "base_path":  "/international/education-in-developing-countries",
+                                     "content_id":  "0f5a550a-39ad-4a60-b1e8-c93bd173dd62",
+                                     "details":  {
+                                                     "internal_name":  "Education in developing countries [P]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/international/international-aid-and-development",
+                                                                             "api_url":  "https://www.gov.uk/api/content/international/international-aid-and-development",
+                                                                             "base_path":  "/international/international-aid-and-development",
+                                                                             "content_id":  "9fb30a53-70fb-4f1c-878b-0064b202d1ba",
+                                                                             "details":  {
+                                                                                             "internal_name":  "International aid and development [PA]",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/international",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/international",
+                                                                                                                     "base_path":  "/international",
+                                                                                                                     "content_id":  "37d0fa26-abed-4c74-8835-b3b51ae1c8b2",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "International",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:30:28Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "International",
+                                                                                                                     "web_url":  "https://www.gov.uk/international",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-05T16:14:19Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "International aid and development",
+                                                                             "web_url":  "https://www.gov.uk/international/international-aid-and-development",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-05T16:14:19Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Education in developing countries",
+                                     "web_url":  "https://www.gov.uk/international/education-in-developing-countries",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/international/women-and-girls-in-developing-countries",
+                                     "api_url":  "https://www.gov.uk/api/content/international/women-and-girls-in-developing-countries",
+                                     "base_path":  "/international/women-and-girls-in-developing-countries",
+                                     "content_id":  "c93961e3-7980-4c8f-b318-d4557a16566f",
+                                     "details":  {
+                                                     "internal_name":  "Women and girls in developing countries [P]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/international/international-aid-and-development",
+                                                                             "api_url":  "https://www.gov.uk/api/content/international/international-aid-and-development",
+                                                                             "base_path":  "/international/international-aid-and-development",
+                                                                             "content_id":  "9fb30a53-70fb-4f1c-878b-0064b202d1ba",
+                                                                             "details":  {
+                                                                                             "internal_name":  "International aid and development [PA]",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/international",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/international",
+                                                                                                                     "base_path":  "/international",
+                                                                                                                     "content_id":  "37d0fa26-abed-4c74-8835-b3b51ae1c8b2",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "International",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:30:28Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "International",
+                                                                                                                     "web_url":  "https://www.gov.uk/international",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-05T16:14:19Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "International aid and development",
+                                                                             "web_url":  "https://www.gov.uk/international/international-aid-and-development",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-05T16:14:19Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Women and girls in developing countries",
+                                     "web_url":  "https://www.gov.uk/international/women-and-girls-in-developing-countries",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2018-08-16T09:05:31+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1713887749.361-10.13.33.117-628",
+    "publishing_scheduled_at":  "2020-09-02T06:00:00+01:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  70,
+    "schema_name":  "detailed_guide",
+    "title":  "Girls\u0027 Education Challenge",
+    "updated_at":  "2024-04-23T16:55:51+01:00",
+    "withdrawn_notice":  {
+
+                         }
+}

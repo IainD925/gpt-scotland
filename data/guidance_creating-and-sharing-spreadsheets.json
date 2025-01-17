@@ -1,0 +1,617 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/creating-and-sharing-spreadsheets",
+    "content_id":  "f14242ed-79e6-4877-a29a-8ed237a69f28",
+    "description":  "Spreadsheets are a common way to share data. Use this information to help you avoid common errors, improve interoperability and create more accessible spreadsheets.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eIf you plan to publish or share statistics content, you should follow the \u003ca rel=\"external\" href=\"https://analysisfunction.civilservice.gov.uk/policy-store/releasing-statistics-in-spreadsheets/\" class=\"govuk-link\"\u003eGovernment Analysis Function guidance on releasing statistics in spreadsheets\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eIf your spreadsheet is for personal use, you should still follow best practice as spreadsheets often end up serving a wider audience.\u003c/p\u003e\n\n\u003cp\u003eIf you are sharing or publishing your spreadsheet, follow this guidance to make your file easy to find, use, and to minimise risk for your organisation.\u003c/p\u003e\n\n\u003ch2 id=\"using-spreadsheets-to-meet-user-needs\"\u003eUsing spreadsheets to meet user needs\u003c/h2\u003e\n\u003cp\u003eWhen sharing or publishing data, consider who needs access and how they will use the information.\u003c/p\u003e\n\n\u003cp\u003eGeneral users might view the information for reference only, or they might need the spreadsheet to record or submit information following specific requirements. For example, you might publish a template form for users to complete and return so they can claim back expenses. In most cases, a spreadsheet is a suitable format for these users.\u003c/p\u003e\n\n\u003cp\u003eHowever, spreadsheets might not be suitable for technical users who want to perform detailed analysis on the information or combine it with other data. These users typically need data in machine-readable formats which they can use with programming tools with minimal data manipulation. In these cases, it might be more appropriate to \u003ca href=\"https://www.gov.uk/guidance/using-csv-file-format\" class=\"govuk-link\"\u003epublish your data as a CSV file\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"use-a-cover-page\"\u003eUse a cover page\u003c/h2\u003e\n\u003cp\u003eAdding a cover page to your spreadsheet helps users understand its purpose and content. This is particularly important for large or complex spreadsheets. A cover page is also useful to keep metadata and maintenance information in one place.\u003c/p\u003e\n\n\u003cp\u003eYour cover page should include information such as the:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003epublisher, for example your name or department\u003c/li\u003e\n  \u003cli\u003epublication date\u003c/li\u003e\n  \u003cli\u003econtent description\u003c/li\u003e\n  \u003cli\u003eversion number of the spreadsheet\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFor more information on using metadata in your spreadsheet, read the guidance about \u003ca href=\"https://www.gov.uk/guidance/record-information-about-data-sets-you-share-with-others\" class=\"govuk-link\"\u003erecording information about data sets you share with others\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"choose-the-right-software-for-the-task\"\u003eChoose the right software for the task\u003c/h2\u003e\n\u003cp\u003eSpreadsheet tools and software have different capabilities and limitations for handling data. Check the specifications of your software, particularly around row and column limits, to make sure you are using an appropriate tool.\u003c/p\u003e\n\n\u003cp\u003eFor example, older versions of Microsoft Excel (97-2003) have a row limit of around 65,000 rows. Microsoft has information about \u003ca rel=\"external\" href=\"https://support.microsoft.com/en-us/office/excel-specifications-and-limits-1672b34d-7043-467e-8e27-269d656771c3\" class=\"govuk-link\"\u003eExcel specifications and limits\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eIf you need to share your spreadsheet with people using earlier versions of Excel, Microsoft has \u003ca rel=\"external\" href=\"https://support.microsoft.com/en-us/office/use-excel-with-earlier-versions-of-excel-2fd9ffcb-6fce-485b-85af-fecfd651a5ac\" class=\"govuk-link\"\u003eguidance on making your file backwards compatible\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eIf the spreadsheet tool cannot display all the data in the file, this can result in lost or missing information, which can distort statistics and conclusions.\u003c/p\u003e\n\n\u003ch2 id=\"use-open-file-formats\"\u003eUse open file formats\u003c/h2\u003e\n\u003cp\u003eOpen file formats are standardised file types not specific to one particular software package. Using an open format for your spreadsheet makes it easier for people to use with different tools.\u003c/p\u003e\n\n\u003cp\u003eOpen data formats can also make it easier for your organisation to meet legal or compliance obligations. For example, when responding to requests for information under the \u003ca rel=\"external\" href=\"https://www.legislation.gov.uk/ukpga/2000/36/contents\" class=\"govuk-link\"\u003eFreedom of Information Act (FOIA)\u003c/a\u003e or the \u003ca href=\"https://www.gov.uk/data-protection\" class=\"govuk-link\"\u003eData Protection Act 2018\u003c/a\u003e you might need to provide data in a reusable, machine-readable format.\u003c/p\u003e\n\n\u003cp\u003eThe open file format for spreadsheets is Open Document Spreadsheet (ODS). Most spreadsheet software allows you to save or export as an ODS file.\u003c/p\u003e\n\n\u003cp\u003eRead the guidance on \u003ca href=\"https://www.gov.uk/government/publications/open-standards-for-government/sharing-or-collaborating-with-government-documents\" class=\"govuk-link\"\u003esharing or collaborating with government documents\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"use-descriptive-names\"\u003eUse descriptive names\u003c/h2\u003e\n\u003cp\u003eGive your spreadsheet tabs unique names to provide context on the information each tab contains. For example, you could call a tab with HR budget data ‘hr_budget_2019’.\u003c/p\u003e\n\n\u003cp\u003eClear and descriptive filenames help people find files and understand their content. File names should:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003euse descriptive terms - for example ‘report’, ‘dashboard’, ‘list’\u003c/li\u003e\n  \u003cli\u003einclude a date or date range if relevant, for example ‘January 2019’ or ‘2011 to 2017’\u003c/li\u003e\n  \u003cli\u003eavoid abbreviations or acronyms that are not widely understood\u003c/li\u003e\n  \u003cli\u003eavoid special characters or punctuation other than ‘-’ (dash) or ‘_’ (underscore)\u003c/li\u003e\n  \u003cli\u003einclude the version number if there is one\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"use-versioning-to-keep-track-of-changes\"\u003eUse versioning to keep track of changes\u003c/h2\u003e\n\u003cp\u003eIf you create, share or maintain different versions of a spreadsheet, you should clearly label each version. It is especially important to do this for business critical spreadsheets, for example those shared with a regulator.\u003c/p\u003e\n\n\u003cp\u003eVersioning makes it easier for you and others to:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003efind the appropriate version\u003c/li\u003e\n  \u003cli\u003ekeep track of which version has been shared with a particular group\u003c/li\u003e\n  \u003cli\u003ekeep an audit of changes\u003c/li\u003e\n  \u003cli\u003earchive your spreadsheets\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou can version your spreadsheet by:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eadding a version number in the filename\u003c/li\u003e\n  \u003cli\u003eincluding the version number in the cover page or metadata\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eSome cloud-based storage tools automatically version the documents for you. Make sure you understand the versioning of your file system and environment.\u003c/p\u003e\n\n\u003ch2 id=\"use-consistent-column-names\"\u003eUse consistent column names\u003c/h2\u003e\n\u003cp\u003eAll column names should follow a consistent naming convention in the file. For example, use ‘start_date_time’ and ‘end_date_time’ rather than ‘start_date_time’ and ‘enddtTime’ in the same file.\u003c/p\u003e\n\n\u003cp\u003eIf your spreadsheet uses multiple tabs, and the columns in these tabs hold similar or identical data, use the same column names. For example, use ‘department_name’ in all tabs rather than ‘department_name’ in some and ‘name_of_department’ in others. This will make it easier to cross reference, manipulate or merge columns.\u003c/p\u003e\n\n\u003ch2 id=\"check-for-personal-information\"\u003eCheck for personal information\u003c/h2\u003e\n\u003cp\u003eSpreadsheets can contain sensitive or personal information such as names, addresses and health or financial data. Protecting personal information is a legal obligation and important for maintaining credibility and the trust of users. The Information Commissioner’s Office (ICO) has \u003ca rel=\"external\" href=\"https://ico.org.uk/for-organisations/guide-to-data-protection/introduction-to-data-protection/some-basic-concepts/\" class=\"govuk-link\"\u003eguidance on personal data and the law\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eSome simple checks for personal information might include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003esetting up a peer review process - for example, checking it twice, then asking someone else from your team to check it again\u003c/li\u003e\n  \u003cli\u003edo a keyword search for common column names such as “address”, “postcode”, “name”, “dob”, “email”\u003c/li\u003e\n  \u003cli\u003echeck any columns that contain freeform text such as ‘comments’ or ‘feedback’\u003c/li\u003e\n  \u003cli\u003echeck for hidden tabs, columns and rows - read the next section for more information\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIf your spreadsheet needs to contain personal or sensitive information, mark the spreadsheet as “Official - Sensitive” in both the filename and first tab. Make sure only those who need the information can access the spreadsheet.\u003c/p\u003e\n\n\u003ch2 id=\"check-for-hidden-data\"\u003eCheck for hidden data\u003c/h2\u003e\n\u003cp\u003ePeople sometimes hide tabs containing background information for cosmetic or usability reasons. Before publishing or sharing spreadsheets, you must unhide all tabs, columns and rows and delete any personal or sensitive information.\u003c/p\u003e\n\n\u003cp\u003eTo be certain you are not including hidden data, export the spreadsheet to CSV as this will export all the information from the current tab, including hidden rows or columns. You can then import this data into a new spreadsheet to make sure there is no hidden data in the file.\u003c/p\u003e\n\n\u003cp\u003eSpreadsheet tools can also store personal information in the document properties (the metadata), such as the name of the document creator. This is useful for internal documents but you might want to remove this information for a public facing document. Microsoft has guidance on how to \u003ca rel=\"external\" href=\"https://support.microsoft.com/en-us/topic/view-or-change-the-properties-for-an-office-file-21d604c2-481e-4379-8e54-1dd4622c6b75\" class=\"govuk-link\"\u003eview or change the properties for an Office file\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"identify-any-application-code-held-in-your-spreadsheet\"\u003eIdentify any application code held in your spreadsheet\u003c/h2\u003e\n\u003cp\u003eOne benefit of spreadsheets is you can use them as an application development environment to provide interactive functionality.\u003c/p\u003e\n\n\u003cp\u003eHowever, development in spreadsheets rarely has the accuracy or structure of larger application development environments. This can be a liability if organisations or departments are dependent on an application that is not well documented or is difficult to maintain.\u003c/p\u003e\n\n\u003cp\u003eIf your spreadsheet contains code, you should write documentation so developers and other users of the spreadsheet understand:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe dependence on the code - for example, any systems or processes that could break if the code changes\u003c/li\u003e\n  \u003cli\u003ehow to minimise potential security liabilities\u003c/li\u003e\n  \u003cli\u003ewhat they should use the spreadsheet for, and the scale - typically, this is for smaller departmental tools rather than enterprise applications\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou might need to assess the security risks of any macros or code in your spreadsheet. Ask your IT or Security team for help if you need support.\u003c/p\u003e\n\n\u003cp\u003eYou should be aware that spreadsheet macros do not export to the CSV format.\u003c/p\u003e\n\n\u003ch2 id=\"use-formulas-and-hard-coded-data-appropriately\"\u003eUse formulas and hard coded data appropriately\u003c/h2\u003e\n\u003cp\u003eIf you are using spreadsheets over a period of time, such as financial spreadsheets, make use of formulas and cell references so your spreadsheet data is as dynamic as possible. This is useful if your spreadsheet contains calculations or values that are likely to change over time, such as:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003edate values - for example, the current year\u003c/li\u003e\n  \u003cli\u003ea total or sum value - for example, the sum of a column\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIf you are publishing spreadsheets which capture data at a point in time, such as statistical spreadsheets, using hard coded data might be appropriate. You do not need to use dynamic data where a value is fixed (for example, pi) or unlikely to change.\u003c/p\u003e\n\n\u003ch2 id=\"optimise-for-accessibility-and-machine-readability\"\u003eOptimise for accessibility and machine readability\u003c/h2\u003e\n\u003cp\u003eBy law, content published online by the public sector must meet the AA level of the \u003ca rel=\"external\" href=\"https://www.w3.org/TR/WCAG22/\" class=\"govuk-link\"\u003eWeb Content Accessibility Guidelines (WCAG) 2.2\u003c/a\u003e. This includes spreadsheets published to public sector websites.\u003c/p\u003e\n\n\u003cp\u003eApply accessibility principles to your spreadsheets to make them easier to use for everyone.\u003c/p\u003e\n\n\u003cp\u003eThere is some overlap between accessibility and machine readability. Many of the suggestions in this guidance will also make your spreadsheet easier to use with programming tools, as well as software such as screen readers.\u003c/p\u003e\n\n\u003cp\u003eTo improve the accessibility of your spreadsheets, you should avoid freezing rows and columns as this can limit how much space a user has to navigate the spreadsheet. For example, this can affect users who are using an increased zoom level, a low resolution or a device with a smaller screen. If your spreadsheet is read-only, users might not be able to adjust frozen row and column sizes to suit their viewing needs.\u003c/p\u003e\n\n\u003cp\u003eYou should also:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003euse the first row on your sheet as the header row containing all the column names\u003c/li\u003e\n  \u003cli\u003eavoid blank or empty rows - if you need more whitespace, adjust the line spacing, row height and column width\u003c/li\u003e\n  \u003cli\u003eavoid merging cells - every cell should contain a value\u003c/li\u003e\n  \u003cli\u003eavoid using colour alone to convey meaning, for example using red to highlight important values or cells - use text labels wherever possible\u003c/li\u003e\n  \u003cli\u003euse only one header row - if you need to group data into further categories, create new columns or use separate tabs for each category\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"example\"\u003eExample\u003c/h3\u003e\n\n\u003cp\u003eThe following format is not recommended as it introduces a second header row and does not properly link the ‘Continent’ data to the ‘Country’ data:\u003c/p\u003e\n\n\u003ctable\u003e\n  \u003cthead\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"col\"\u003eContinent\u003c/th\u003e\n      \u003cth scope=\"col\"\u003eCountry\u003c/th\u003e\n    \u003c/tr\u003e\n  \u003c/thead\u003e\n  \u003ctbody\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eEurope\u003c/td\u003e\n      \u003ctd\u003e \u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e \u003c/td\u003e\n      \u003ctd\u003eSlovakia\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e \u003c/td\u003e\n      \u003ctd\u003eGermany\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e \u003c/td\u003e\n      \u003ctd\u003eItaly\u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e\n\n\u003cp\u003eThe following format is correct, as it uses the ‘Continent’ column to categorise each row of country data individually:\u003c/p\u003e\n\n\u003ctable\u003e\n  \u003cthead\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"col\"\u003eContinent\u003c/th\u003e\n      \u003cth scope=\"col\"\u003eCountry\u003c/th\u003e\n    \u003c/tr\u003e\n  \u003c/thead\u003e\n  \u003ctbody\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eEurope\u003c/td\u003e\n      \u003ctd\u003eSlovakia\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eEurope\u003c/td\u003e\n      \u003ctd\u003eGermany\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eEurope\u003c/td\u003e\n      \u003ctd\u003eItaly\u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e\n\n\u003cp\u003eFor more guidance on formatting spreadsheets for accessibility and readability, read the \u003ca rel=\"external\" href=\"https://analysisfunction.civilservice.gov.uk/policy-store/releasing-statistics-in-spreadsheets/\" class=\"govuk-link\"\u003eGovernment Analysis Function guidance on releasing statistics in spreadsheets\u003c/a\u003e. This is primarily for use with statistics spreadsheets, but you can use it for all types of spreadsheets.\u003c/p\u003e\n\n\u003cdiv role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\"\u003e\n\u003cp\u003eIf the data in your spreadsheet will not be read by humans and only needs to be machine readable, consider \u003ca href=\"https://www.gov.uk/guidance/using-csv-file-format\" class=\"govuk-link\"\u003eusing CSV file format\u003c/a\u003e.\u003c/p\u003e\n\u003c/div\u003e\n\n\u003ch2 id=\"be-aware-of-archiving-requirements\"\u003eBe aware of archiving requirements\u003c/h2\u003e\n\u003cp\u003eMany organisations need to regularly archive published data sets, either for their own auditing purposes, or to meet legal requirements. For example, The National Archives is legally required to archive published data sets from a range of government departments.\u003c/p\u003e\n\n\u003cp\u003eSome of the common challenges when archiving spreadsheets include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003epassword protected spreadsheets  - you will need to maintain a permanent record of the password\u003c/li\u003e\n  \u003cli\u003esophisticated spreadsheets, for example those using macros or programming languages like Visual Basic for Applications (VBA) - there is a risk the macro will not run in future versions of the application\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou should try to make sure users can access these files in future by reducing their complexity, particularly if the document will be maintained indefinitely.\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Updated links so they point to the most recent versions of WCAG and of the Government Analysis Function guidance on releasing statistics in spreadsheets.",
+                                               "public_timestamp":  "2023-10-05T16:05:31.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2021-06-03T16:38:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "2fb482e7-3c4d-496f-887d-f8a55a15e89a"
+                                                 ],
+                    "first_public_at":  "2021-06-03T16:38:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2021-06-03T16:38:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/creating-and-sharing-spreadsheets",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/creating-and-sharing-spreadsheets",
+                                                     "base_path":  "/guidance/creating-and-sharing-spreadsheets",
+                                                     "content_id":  "f14242ed-79e6-4877-a29a-8ed237a69f28",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2023-10-05T15:05:31Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Creating and sharing spreadsheets",
+                                                     "web_url":  "https://www.gov.uk/guidance/creating-and-sharing-spreadsheets",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "OT1329",
+                                            "api_path":  "/api/content/government/organisations/central-digital-and-data-office",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/central-digital-and-data-office",
+                                            "base_path":  "/government/organisations/central-digital-and-data-office",
+                                            "content_id":  "2fb482e7-3c4d-496f-887d-f8a55a15e89a",
+                                            "details":  {
+                                                            "acronym":  "CDDO",
+                                                            "brand":  "department-for-science-innovation-and-technology",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Central Digital \u003cbr/\u003e\u0026amp; Data Office"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Central Digital and Data Office",
+                                            "web_url":  "https://www.gov.uk/government/organisations/central-digital-and-data-office",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "OT1329",
+                                                                       "api_path":  "/api/content/government/organisations/central-digital-and-data-office",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/central-digital-and-data-office",
+                                                                       "base_path":  "/government/organisations/central-digital-and-data-office",
+                                                                       "content_id":  "2fb482e7-3c4d-496f-887d-f8a55a15e89a",
+                                                                       "details":  {
+                                                                                       "acronym":  "CDDO",
+                                                                                       "brand":  "department-for-science-innovation-and-technology",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Central Digital \u003cbr/\u003e\u0026amp; Data Office"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Central Digital and Data Office",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/central-digital-and-data-office",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "OT1329",
+                                                              "api_path":  "/api/content/government/organisations/central-digital-and-data-office",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/central-digital-and-data-office",
+                                                              "base_path":  "/government/organisations/central-digital-and-data-office",
+                                                              "content_id":  "2fb482e7-3c4d-496f-887d-f8a55a15e89a",
+                                                              "details":  {
+                                                                              "acronym":  "CDDO",
+                                                                              "brand":  "department-for-science-innovation-and-technology",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Central Digital \u003cbr/\u003e\u0026amp; Data Office"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Central Digital and Data Office",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/central-digital-and-data-office",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/publish-reference-data-for-use-across-government",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/publish-reference-data-for-use-across-government",
+                                                              "base_path":  "/guidance/publish-reference-data-for-use-across-government",
+                                                              "content_id":  "8d834b92-0c43-47fc-8e82-11cc39e68f8e",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-03-11T13:42:37Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Publish reference data for use across government",
+                                                              "web_url":  "https://www.gov.uk/guidance/publish-reference-data-for-use-across-government",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/manage-your-data-for-access-and-reuse",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/manage-your-data-for-access-and-reuse",
+                                                              "base_path":  "/guidance/manage-your-data-for-access-and-reuse",
+                                                              "content_id":  "e9ac91a3-78e3-41d6-8287-76a4022166cf",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-11-27T11:08:06Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Manage your data for access and reuse",
+                                                              "web_url":  "https://www.gov.uk/guidance/manage-your-data-for-access-and-reuse",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/collections/open-standards-for-government-data-and-technology",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/collections/open-standards-for-government-data-and-technology",
+                                                              "base_path":  "/government/collections/open-standards-for-government-data-and-technology",
+                                                              "content_id":  "4183db18-e25b-4534-bd02-9a438115c806",
+                                                              "document_type":  "document_collection",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2023-11-28T11:30:29Z",
+                                                              "schema_name":  "document_collection",
+                                                              "title":  "Open standards for government data and technology",
+                                                              "web_url":  "https://www.gov.uk/government/collections/open-standards-for-government-data-and-technology",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/be-open-and-use-open-source",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/be-open-and-use-open-source",
+                                                              "base_path":  "/guidance/be-open-and-use-open-source",
+                                                              "content_id":  "efaf142d-3e40-4d32-92fa-7348d0f60ea0",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-03-31T11:30:26Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Be open and use open source",
+                                                              "web_url":  "https://www.gov.uk/guidance/be-open-and-use-open-source",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/publishing-your-tabular-data",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/publishing-your-tabular-data",
+                                                              "base_path":  "/guidance/publishing-your-tabular-data",
+                                                              "content_id":  "6bbdda8b-ffde-4894-9412-5e0dfc1f73ca",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-08-07T10:32:30Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Publishing your tabular data",
+                                                              "web_url":  "https://www.gov.uk/guidance/publishing-your-tabular-data",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/government/data",
+                                     "api_url":  "https://www.gov.uk/api/content/government/data",
+                                     "base_path":  "/government/data",
+                                     "content_id":  "b7374969-dfdf-46eb-97f3-7772c011c10d",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Data",
+                                                     "notes_for_editors":  "",
+                                                     "url_override":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/all",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/all",
+                                                                             "base_path":  "/government/all",
+                                                                             "content_id":  "e48ab80a-de80-4e83-bf59-26316856a5f9",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Government",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:29:39Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Government",
+                                                                             "web_url":  "https://www.gov.uk/government/all",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "beta",
+                                     "public_updated_at":  "2022-03-08T08:06:55Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Data",
+                                     "web_url":  "https://www.gov.uk/government/data",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/government/digital-accessibility",
+                                     "api_url":  "https://www.gov.uk/api/content/government/digital-accessibility",
+                                     "base_path":  "/government/digital-accessibility",
+                                     "content_id":  "ab82cf21-da63-4d7c-8289-7b5506f6ea71",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Digital accessibility (government technology and digital services)",
+                                                     "notes_for_editors":  "",
+                                                     "url_override":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/government-technology-and-digital-services",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/government-technology-and-digital-services",
+                                                                             "base_path":  "/government/government-technology-and-digital-services",
+                                                                             "content_id":  "90c9b9f1-0a4f-4639-b1e9-2bfb23d611bd",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Government technology and digital services",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/government/all",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/government/all",
+                                                                                                                     "base_path":  "/government/all",
+                                                                                                                     "content_id":  "e48ab80a-de80-4e83-bf59-26316856a5f9",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Government",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:29:39Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Government",
+                                                                                                                     "web_url":  "https://www.gov.uk/government/all",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "beta",
+                                                                             "public_updated_at":  "2018-08-28T10:56:47Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Government technology and digital services",
+                                                                             "web_url":  "https://www.gov.uk/government/government-technology-and-digital-services",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2022-01-31T15:08:30Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Digital accessibility",
+                                     "web_url":  "https://www.gov.uk/government/digital-accessibility",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/government/digital-inclusion",
+                                     "api_url":  "https://www.gov.uk/api/content/government/digital-inclusion",
+                                     "base_path":  "/government/digital-inclusion",
+                                     "content_id":  "078cf4cf-ecc9-441f-8a26-e3d40048ecea",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Digital inclusion (government technology and digital services)",
+                                                     "notes_for_editors":  "",
+                                                     "url_override":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/government-technology-and-digital-services",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/government-technology-and-digital-services",
+                                                                             "base_path":  "/government/government-technology-and-digital-services",
+                                                                             "content_id":  "90c9b9f1-0a4f-4639-b1e9-2bfb23d611bd",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Government technology and digital services",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/government/all",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/government/all",
+                                                                                                                     "base_path":  "/government/all",
+                                                                                                                     "content_id":  "e48ab80a-de80-4e83-bf59-26316856a5f9",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Government",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:29:39Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Government",
+                                                                                                                     "web_url":  "https://www.gov.uk/government/all",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "beta",
+                                                                             "public_updated_at":  "2018-08-28T10:56:47Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Government technology and digital services",
+                                                                             "web_url":  "https://www.gov.uk/government/government-technology-and-digital-services",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2022-01-31T15:05:37Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Digital inclusion",
+                                     "web_url":  "https://www.gov.uk/government/digital-inclusion",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/government/technology-guidance-technology-guidance-risk-management",
+                                     "api_url":  "https://www.gov.uk/api/content/government/technology-guidance-technology-guidance-risk-management",
+                                     "base_path":  "/government/technology-guidance-technology-guidance-risk-management",
+                                     "content_id":  "f98caaaa-cfc5-452e-a8e5-1a27efcdeffa",
+                                     "details":  {
+                                                     "internal_name":  "Risk management [T]",
+                                                     "notes_for_editors":  "tbc",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/technology-guidance-digital-security",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/technology-guidance-digital-security",
+                                                                             "base_path":  "/government/technology-guidance-digital-security",
+                                                                             "content_id":  "578871e4-b755-4664-b0e6-1b2e8b841600",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Digital security",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/government/government-technology-and-digital-services",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/government/government-technology-and-digital-services",
+                                                                                                                     "base_path":  "/government/government-technology-and-digital-services",
+                                                                                                                     "content_id":  "90c9b9f1-0a4f-4639-b1e9-2bfb23d611bd",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Government technology and digital services",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  false
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "parent_taxons":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "beta",
+                                                                                                                     "public_updated_at":  "2018-08-28T10:56:47Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Government technology and digital services",
+                                                                                                                     "web_url":  "https://www.gov.uk/government/government-technology-and-digital-services",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "beta",
+                                                                             "public_updated_at":  "2018-08-20T09:26:15Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Digital security",
+                                                                             "web_url":  "https://www.gov.uk/government/technology-guidance-digital-security",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "beta",
+                                     "public_updated_at":  "2018-08-20T09:26:15Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Risk management",
+                                     "web_url":  "https://www.gov.uk/government/technology-guidance-technology-guidance-risk-management",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/government/technology-guidance-technology-guidance-open-standards",
+                                     "api_url":  "https://www.gov.uk/api/content/government/technology-guidance-technology-guidance-open-standards",
+                                     "base_path":  "/government/technology-guidance-technology-guidance-open-standards",
+                                     "content_id":  "e122c1bf-6b8a-4145-975c-31612a3f344c",
+                                     "details":  {
+                                                     "internal_name":  "Open standards [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/open-source-and-open-standards",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/open-source-and-open-standards",
+                                                                             "base_path":  "/government/open-source-and-open-standards",
+                                                                             "content_id":  "9ea62430-3c48-440d-b29d-32f0d75878a3",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Open source and open standards",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/government/government-technology-and-digital-services",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/government/government-technology-and-digital-services",
+                                                                                                                     "base_path":  "/government/government-technology-and-digital-services",
+                                                                                                                     "content_id":  "90c9b9f1-0a4f-4639-b1e9-2bfb23d611bd",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Government technology and digital services",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  false
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "parent_taxons":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "beta",
+                                                                                                                     "public_updated_at":  "2018-08-28T10:56:47Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Government technology and digital services",
+                                                                                                                     "web_url":  "https://www.gov.uk/government/government-technology-and-digital-services",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "beta",
+                                                                             "public_updated_at":  "2018-08-20T09:26:15Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Open source and open standards",
+                                                                             "web_url":  "https://www.gov.uk/government/open-source-and-open-standards",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "beta",
+                                     "public_updated_at":  "2018-08-20T09:26:15Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Open standards",
+                                     "web_url":  "https://www.gov.uk/government/technology-guidance-technology-guidance-open-standards",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2023-10-05T16:05:31+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1696518331.036-10.13.21.37-2340",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Creating and sharing spreadsheets",
+    "updated_at":  "2024-12-12T10:27:40+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

@@ -1,0 +1,418 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/how-to-give-staff-access-to-your-hmrc-online-tax-agent-accounts",
+    "content_id":  "789d4f44-0d57-479c-9c75-b414ad1446a2",
+    "description":  "Find out what roles and access you can give your staff in your HMRC online services for agents account and your agent services account.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eYou can give access to your staff to perform tasks in your online tax service accounts. You must first be \u003ca href=\"https://www.gov.uk/guidance/client-authorisation-an-overview\" class=\"govuk-link\"\u003eauthorised as a tax agent\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eThe first person to set up your agent online account will automatically be set as an ‘administrator’.\u003c/p\u003e\n\n\u003cp\u003eThe administrator can set up other administrators or standard users on your agent account by choosing ‘add an administrator’ or ‘add a standard user’.\u003c/p\u003e\n\n\u003cp\u003eYou can use this to manage your client lists and split work across your organisation, for example you can set up more than one client list and allocate them to different administrators or standard users.\u003c/p\u003e\n\n\u003ch2 id=\"giving-staff-access-to-your-hmrc-online-services-for-agents-account\"\u003eGiving staff access to your HMRC online services for agents account\u003c/h2\u003e\n\n\u003ch3 id=\"how-to-create-administrators-and-standard-users\"\u003eHow to create administrators and standard users\u003c/h3\u003e\n\n\u003col class=\"steps\"\u003e\n\u003cli\u003e\n\u003cp\u003eLog into HMRC online services for agents.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eSelect ‘Your account’ on the main menu.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eSelect ‘Add or delete team members’ under the heading ‘Manage your team’.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eTo give access to specific taxes and schemes or allocate clients to specific users, select ‘Manage who can access taxes and schemes’.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003cdiv class=\"example\"\u003e\n\u003cp\u003eOnce you have set up administrators and standard users, clients will not automatically appear on your client list. Clients will show in an unallocated pool until an administrator assigns them to someone.\u003c/p\u003e\n\u003c/div\u003e\n\n\u003ch3 id=\"what-administrators-can-do\"\u003eWhat administrators can do\u003c/h3\u003e\n\n\u003cp\u003eAdministrators can perform tasks online on behalf of your organisation. They can:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eaccess an online service your organisation is enrolled for\u003c/li\u003e\n  \u003cli\u003eenrol for and de-enrol from online services\u003c/li\u003e\n  \u003cli\u003eset up or delete other administrators or standard users\u003c/li\u003e\n  \u003cli\u003eassign services to other administrators or standard users\u003c/li\u003e\n  \u003cli\u003echange their own registration details ― password, user name or email address\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"what-standard-users-can-do\"\u003eWhat standard users can do\u003c/h3\u003e\n\n\u003cp\u003eStandard users must be set up by your organisation’s administrators. They can only access services assigned to them by an administrator.\u003c/p\u003e\n\n\u003cp\u003eStandard users can:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eaccess an online service your organisation is enrolled for ― if an administrator has assigned the service to them\u003c/li\u003e\n  \u003cli\u003echange their own registration details ― password, user name or email address\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"giving-staff-access-to-your-agent-services-account\"\u003eGiving staff access to your agent services account\u003c/h2\u003e\n\n\u003ch3 id=\"how-to-create-administrators-and-standard-users-1\"\u003eHow to create administrators and standard users\u003c/h3\u003e\n\n\u003col class=\"steps\"\u003e\n\u003cli\u003e\n\u003cp\u003eAdministrators can manage team members access to the agent services account by first selecting ‘Manage account.’\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eThen select ‘Add or remove a user’.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eFill in their ‘Full name’ and ‘Email address’.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eYou can then select their role.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eTo manage access for an existing team member, from the ‘Manage account’ page select ‘Manage who can use your agent services account’.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eThen scroll down and select ‘manage’ beside their name.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003cdiv class=\"example\"\u003e\n\u003cp\u003eThe option to allocate clients and services is not available in agent services account.\u003c/p\u003e\n\u003c/div\u003e\n\n\u003ch3 id=\"what-administrators-can-do-1\"\u003eWhat administrators can do\u003c/h3\u003e\n\n\u003cp\u003eAdministrators can perform tasks online on behalf of your organisation. They can:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eaccess an online service your organisation is signed up for\u003c/li\u003e\n  \u003cli\u003eenrol for and de-enrol from online services\u003c/li\u003e\n  \u003cli\u003eset up or delete other administrators or standard users\u003c/li\u003e\n  \u003cli\u003eassign services to other administrators or standard users\u003c/li\u003e\n  \u003cli\u003echange their own registration details ― password, user name or email address\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"what-standard-users-can-do-1\"\u003eWhat standard users can do\u003c/h3\u003e\n\n\u003cp\u003eStandard users must be set up by your organisation’s administrators. They can only access services assigned to them by an administrator.\u003c/p\u003e\n\n\u003cp\u003eStandard users can:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eaccess an online service your organisation is enrolled for - if an administrator has assigned the service to them\u003c/li\u003e\n  \u003cli\u003echange their own registration details - password, user name or email address\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2021-07-07T11:36:07.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "6667cce2-e809-4e21-ae09-cb0bdc1ddda3"
+                                                 ],
+                    "first_public_at":  "2021-07-07T11:36:07.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+                                                "c3133eb2-4d53-4905-88a2-d2e4547cc41e"
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2021-07-07T11:36:07+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/how-to-give-staff-access-to-your-hmrc-online-tax-agent-accounts",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/how-to-give-staff-access-to-your-hmrc-online-tax-agent-accounts",
+                                                     "base_path":  "/guidance/how-to-give-staff-access-to-your-hmrc-online-tax-agent-accounts",
+                                                     "content_id":  "789d4f44-0d57-479c-9c75-b414ad1446a2",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2021-07-07T10:36:07Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "How to give staff access to your HMRC online tax agent accounts",
+                                                     "web_url":  "https://www.gov.uk/guidance/how-to-give-staff-access-to-your-hmrc-online-tax-agent-accounts",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D25",
+                                            "api_path":  "/api/content/government/organisations/hm-revenue-customs",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+                                            "base_path":  "/government/organisations/hm-revenue-customs",
+                                            "content_id":  "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+                                            "details":  {
+                                                            "acronym":  "HMRC",
+                                                            "brand":  "hm-revenue-customs",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "hmrc",
+                                                                         "formatted_title":  "HM Revenue\u003cbr/\u003e\u0026amp; Customs"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "HM Revenue \u0026 Customs",
+                                            "web_url":  "https://www.gov.uk/government/organisations/hm-revenue-customs",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "D25",
+                                                                       "api_path":  "/api/content/government/organisations/hm-revenue-customs",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+                                                                       "base_path":  "/government/organisations/hm-revenue-customs",
+                                                                       "content_id":  "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+                                                                       "details":  {
+                                                                                       "acronym":  "HMRC",
+                                                                                       "brand":  "hm-revenue-customs",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "hmrc",
+                                                                                                    "formatted_title":  "HM Revenue\u003cbr/\u003e\u0026amp; Customs"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "HM Revenue \u0026 Customs",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/hm-revenue-customs",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D25",
+                                                              "api_path":  "/api/content/government/organisations/hm-revenue-customs",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+                                                              "base_path":  "/government/organisations/hm-revenue-customs",
+                                                              "content_id":  "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+                                                              "details":  {
+                                                                              "acronym":  "HMRC",
+                                                                              "brand":  "hm-revenue-customs",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "hmrc",
+                                                                                           "formatted_title":  "HM Revenue\u003cbr/\u003e\u0026amp; Customs"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "HM Revenue \u0026 Customs",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/hm-revenue-customs",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related_guides":  [
+                                         {
+                                             "api_path":  "/api/content/guidance/change-or-remove-your-authorisations-as-a-tax-agent",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/change-or-remove-your-authorisations-as-a-tax-agent",
+                                             "base_path":  "/guidance/change-or-remove-your-authorisations-as-a-tax-agent",
+                                             "content_id":  "ec862287-3e89-4626-bb40-543ed306c83c",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2024-04-23T11:00:34Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Change or remove your authorisations as a tax agent",
+                                             "web_url":  "https://www.gov.uk/guidance/change-or-remove-your-authorisations-as-a-tax-agent",
+                                             "withdrawn":  false
+                                         }
+                                     ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/how-to-use-the-digital-handshake-to-get-authorised-as-a-tax-agent",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/how-to-use-the-digital-handshake-to-get-authorised-as-a-tax-agent",
+                                                              "base_path":  "/guidance/how-to-use-the-digital-handshake-to-get-authorised-as-a-tax-agent",
+                                                              "content_id":  "47e10924-8c1e-42a3-9c0b-44e67c01606a",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-09-07T11:53:52Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "How to use the digital handshake to get authorised as a tax agent",
+                                                              "web_url":  "https://www.gov.uk/guidance/how-to-use-the-digital-handshake-to-get-authorised-as-a-tax-agent",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/change-or-remove-your-authorisations-as-a-tax-agent",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/change-or-remove-your-authorisations-as-a-tax-agent",
+                                                              "base_path":  "/guidance/change-or-remove-your-authorisations-as-a-tax-agent",
+                                                              "content_id":  "ec862287-3e89-4626-bb40-543ed306c83c",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-04-23T11:00:34Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Change or remove your authorisations as a tax agent",
+                                                              "web_url":  "https://www.gov.uk/guidance/change-or-remove-your-authorisations-as-a-tax-agent",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/gambling-tax-for-agents-online-service",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/gambling-tax-for-agents-online-service",
+                                                              "base_path":  "/guidance/gambling-tax-for-agents-online-service",
+                                                              "content_id":  "3854b0f7-d1bd-4efe-801e-3bab81af6c64",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-09-07T11:49:57Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Find out how to use the Gambling Tax for Agents online service",
+                                                              "web_url":  "https://www.gov.uk/guidance/gambling-tax-for-agents-online-service",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/manage-team-members-using-your-hmrc-business-tax-account",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/manage-team-members-using-your-hmrc-business-tax-account",
+                                                              "base_path":  "/guidance/manage-team-members-using-your-hmrc-business-tax-account",
+                                                              "content_id":  "76f1d4c8-cd7e-4f7a-b5ef-8371b41eec1c",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2023-03-27T08:28:43Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Manage team members using your HMRC business tax account",
+                                                              "web_url":  "https://www.gov.uk/guidance/manage-team-members-using-your-hmrc-business-tax-account",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/money/dealing-with-hmrc-tax-agent-guidance-agent-authorisation",
+                                     "api_url":  "https://www.gov.uk/api/content/money/dealing-with-hmrc-tax-agent-guidance-agent-authorisation",
+                                     "base_path":  "/money/dealing-with-hmrc-tax-agent-guidance-agent-authorisation",
+                                     "content_id":  "4e4e1b9e-c32e-466b-9d6f-384f00249b68",
+                                     "details":  {
+                                                     "internal_name":  "Agent authorisation [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/money/tax-agent-guidance",
+                                                                             "api_url":  "https://www.gov.uk/api/content/money/tax-agent-guidance",
+                                                                             "base_path":  "/money/tax-agent-guidance",
+                                                                             "content_id":  "5d0b158c-7c31-41f8-84ae-8e4e950c1f0c",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Tax agent and adviser guidance [T]",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/money/dealing-with-hmrc",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/money/dealing-with-hmrc",
+                                                                                                                     "base_path":  "/money/dealing-with-hmrc",
+                                                                                                                     "content_id":  "b20215a9-25fb-4fa6-80a3-42e23f5352c2",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Dealing with HMRC [T] (level 2, Money)",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  false
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "parent_taxons":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-05T16:19:53Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Dealing with HMRC",
+                                                                                                                     "web_url":  "https://www.gov.uk/money/dealing-with-hmrc",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-05T16:19:54Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Tax agent and adviser guidance",
+                                                                             "web_url":  "https://www.gov.uk/money/tax-agent-guidance",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-05T16:19:54Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Agent authorisation",
+                                     "web_url":  "https://www.gov.uk/money/dealing-with-hmrc-tax-agent-guidance-agent-authorisation",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/money/tax-agent-guidance",
+                                     "api_url":  "https://www.gov.uk/api/content/money/tax-agent-guidance",
+                                     "base_path":  "/money/tax-agent-guidance",
+                                     "content_id":  "5d0b158c-7c31-41f8-84ae-8e4e950c1f0c",
+                                     "details":  {
+                                                     "internal_name":  "Tax agent and adviser guidance [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/money/dealing-with-hmrc",
+                                                                             "api_url":  "https://www.gov.uk/api/content/money/dealing-with-hmrc",
+                                                                             "base_path":  "/money/dealing-with-hmrc",
+                                                                             "content_id":  "b20215a9-25fb-4fa6-80a3-42e23f5352c2",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Dealing with HMRC [T] (level 2, Money)",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/money",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/money",
+                                                                                                                     "base_path":  "/money",
+                                                                                                                     "content_id":  "6acc9db4-780e-4a46-92b4-1812e3c2c48a",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Money",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:35:25Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Money",
+                                                                                                                     "web_url":  "https://www.gov.uk/money",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-05T16:19:53Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Dealing with HMRC",
+                                                                             "web_url":  "https://www.gov.uk/money/dealing-with-hmrc",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-05T16:19:54Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Tax agent and adviser guidance",
+                                     "web_url":  "https://www.gov.uk/money/tax-agent-guidance",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2021-07-07T11:36:07+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "2673-1631014515.739-10.13.6.33-539",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "How to give staff access to your HMRC online tax agent accounts",
+    "updated_at":  "2025-01-14T11:23:39+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

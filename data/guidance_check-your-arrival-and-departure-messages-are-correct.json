@@ -1,0 +1,338 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/check-your-arrival-and-departure-messages-are-correct",
+    "content_id":  "3e6c15a0-4786-49f6-bf45-0d9573b00175",
+    "description":  "Find out how to complete export arrival and departure messages correctly and what happens when some of the more common mistakes are made.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eMost exports are delivered to inventory linked electronic port systems or non-inventory linked ports with approved loaders. Both have electronic links to Customs Handling of Import and Export Freight (\u003cabbr title=\"Customs Handling of Import and Export Freight\"\u003eCHIEF\u003c/abbr\u003e).\u003c/p\u003e\n\n\u003cp\u003eFor goods declared for export, input of the electronic arrival message to \u003cabbr title=\"Customs Handling of Import and Export Freight\"\u003eCHIEF\u003c/abbr\u003e completes presentation of the goods so that they may be cleared for the export procedure.\u003c/p\u003e\n\n\u003cp\u003eFor UK ports with no electronic links to \u003cabbr title=\"Customs Handling of Import and Export Freight\"\u003eCHIEF\u003c/abbr\u003e, HMRC will access \u003cabbr title=\"Customs Handling of Import and Export Freight\"\u003eCHIEF\u003c/abbr\u003e on your behalf, upon receipt of a C1601 form.\u003c/p\u003e\n\n\u003cp\u003eAll export declarations must be ‘arrived’ in the UK on \u003cabbr title=\"Customs Handling of Import and Export Freight\"\u003eCHIEF\u003c/abbr\u003e. Failure to ‘arrive’ export declarations on the system will cause delays because your goods will not be allowed to leave the UK. Goods must not be shipped, or be loaded to be shipped without permission to progress granted from customs.\u003c/p\u003e\n\n\u003ch2 id=\"inputting-arrival-messages\"\u003eInputting arrival messages\u003c/h2\u003e\n\n\u003ch3 id=\"inputting-the-arrival-message-aeal\"\u003eInputting the arrival message \u003cabbr title=\"Export Arrival\"\u003eAEAL\u003c/abbr\u003e\n\u003c/h3\u003e\n\n\u003cp\u003eYou must make arrival messages at the port or airport. These must be sent to \u003cabbr title=\"Customs Handling of Import and Export Freight\"\u003eCHIEF\u003c/abbr\u003e with the following information:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003cabbr title=\"Customs Handling of Import and Export Freight\"\u003eCHIEF\u003c/abbr\u003e Reference (entry processing unit, entry number and date) or unique consignment reference (\u003cabbr title=\"unique consignment reference\"\u003eUCR\u003c/abbr\u003e) (master unique consignment reference (\u003cabbr title=\"master unique consignment reference\"\u003eMUCR\u003c/abbr\u003e) or declaration unique consignment reference number (\u003cabbr title=\"declaration unique consignment reference number\"\u003eDUCR\u003c/abbr\u003e)), make sure the correct \u003cabbr title=\"declaration unique consignment reference number\"\u003eDUCR\u003c/abbr\u003e reference number, inventory reference or \u003cabbr title=\"master unique consignment reference\"\u003eMUCR\u003c/abbr\u003e is input\u003c/li\u003e\n  \u003cli\u003elocation of goods\u003c/li\u003e\n  \u003cli\u003edate and time of arrival\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe ‘Location of Goods’ field (30) must show the appropriate \u003ca href=\"https://www.gov.uk/government/publications/uk-trade-tariff-freight-location-codes/freight-location-codes\" class=\"govuk-link\"\u003e\u003cabbr title=\"Customs Handling of Import and Export Freight\"\u003eCHIEF\u003c/abbr\u003e Freight Location code\u003c/a\u003e, and when one has been issued. It must also have the relevant SHED (a place customs inspect goods) code for inventory linked premises and location code for non-inventory linked premises.\u003c/p\u003e\n\n\u003cp\u003eIf the arrival message has been input fully and correctly, \u003cabbr title=\"Customs Handling of Import and Export Freight\"\u003eCHIEF\u003c/abbr\u003e will proceed directly to acceptance and automated risk analysis.\u003c/p\u003e\n\n\u003cp\u003e\u003cabbr title=\"Customs Handling of Import and Export Freight\"\u003eCHIEF\u003c/abbr\u003e will then indicate whether the goods have been given clearance to be exported or HMRC may indicate that the goods should not be shipped, pending further enquiries or submission of further paperwork or the need for a physical check. If, at the end of the further checks process, HMRC or Border Force are satisfied that all is in order, HMRC will grant permission to progress and \u003cabbr title=\"Customs Handling of Import and Export Freight\"\u003eCHIEF\u003c/abbr\u003e will indicate that the goods can then be shipped.\u003c/p\u003e\n\n\u003ch3 id=\"arrival-of-goods-at-a-non-inventory-linked-location\"\u003eArrival of goods at a non-inventory linked location\u003c/h3\u003e\n\n\u003cp\u003eFor UK locations, where \u003cabbr title=\"Customs Handling of Import and Export Freight\"\u003eCHIEF\u003c/abbr\u003e arrival facilities are not available, an approved loader for the location can request that HMRC input the goods as ‘arrived’ on the system using form \u003ca href=\"https://www.gov.uk/government/publications/import-and-export-presentation-of-goods-for-export-arrival-c1601\" class=\"govuk-link\"\u003eC1601\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eIf this is successful, the arrival message will be entered onto \u003cabbr title=\"Customs Handling of Import and Export Freight\"\u003eCHIEF\u003c/abbr\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"making-unauthorised-removals\"\u003eMaking unauthorised removals\u003c/h3\u003e\n\n\u003cp\u003eIf you fail to wait for HMRC or UK Border Force to finalise their enquiries and ship the goods, you have made an unauthorised removal. This is a serious breach of legislation, particularly if the goods are destined for a sensitive destination under sanctions or embargos.\u003c/p\u003e\n\n\u003ch3 id=\"incorrect-use-of-the-loader-chief-badge\"\u003eIncorrect use of the loader \u003cabbr title=\"Customs Handling of Import and Export Freight\"\u003eCHIEF\u003c/abbr\u003e badge\u003c/h3\u003e\n\n\u003cp\u003eIf you’re an approved loader, you must use your loader badge with the following \u003cabbr title=\"Customs Handling of Import and Export Freight\"\u003eCHIEF\u003c/abbr\u003e transactions:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003cabbr title=\"Export Arrival\"\u003eAEAL\u003c/abbr\u003e (Export Arrival)\u003c/li\u003e\n  \u003cli\u003e\n\u003cabbr title=\"Export Departure\"\u003eAEDL\u003c/abbr\u003e (Export Departure)\u003c/li\u003e\n  \u003cli\u003e\n\u003cabbr title=\"Export Association\"\u003eAEAC\u003c/abbr\u003e (Export Association)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThese transactions relate to the movement of consignments covered by \u003cabbr title=\"Customs Handling of Import and Export Freight\"\u003eCHIEF\u003c/abbr\u003e export declarations and\nshould only be used at UK frontier locations that are not currently operating an export inventory linking system. There are also loader badges that are provided by an approved Community System Provider.\u003c/p\u003e\n\n\u003cp\u003eWhen you carry out any of these transactions on \u003cabbr title=\"Customs Handling of Import and Export Freight\"\u003eCHIEF\u003c/abbr\u003e, they should be accurate and a timely reflection of real time events relating to export consignments. Where your company does not have physical control of the consignment or export means of transport, you must hold supporting records provided to you by companies that do, so they’re available when HMRC carry out assurance activity.\u003c/p\u003e\n\n\u003ch3 id=\"using-the-wrong-reference-number-for-arrival-and-departure-messages\"\u003eUsing the wrong reference number for arrival and departure messages\u003c/h3\u003e\n\n\u003cp\u003eIt is important that the arrival or departure message is entered using the correct reference number given by the export declarant. This can be either:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003cabbr title=\"master unique consignment reference\"\u003eMUCR\u003c/abbr\u003e or \u003cabbr title=\"declaration unique consignment reference number\"\u003eDUCR\u003c/abbr\u003e\n\u003c/li\u003e\n  \u003cli\u003ecustoms entry number (Entry Processing Unit, \u003cabbr title=\"Customs Handling of Import and Export Freight\"\u003eCHIEF\u003c/abbr\u003e entry number and date of entry)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou must make sure you type the \u003cabbr title=\"unique consignment reference\"\u003eUCR\u003c/abbr\u003e correctly. You must not use a previous \u003cabbr title=\"unique consignment reference\"\u003eUCR\u003c/abbr\u003e. If the wrong reference number is used the arrival or departure message will not be recorded against the correct export declaration. This means that the appropriate export declaration for the goods will not be cleared by customs for the export procedure. We will not be able to trace shipments through your books and \u003cabbr title=\"Customs Handling of Import and Export Freight\"\u003eCHIEF\u003c/abbr\u003e records, assure the business and allow official evidence for UK exporters to zero rate their goods for VAT.\u003c/p\u003e\n\n\u003cp\u003eIf you notify use of an arrival through an inventory booking reference, these should be verified with the export declarants to make sure they are matched to the correct \u003cabbr title=\"Customs Handling of Import and Export Freight\"\u003eCHIEF\u003c/abbr\u003e record. If the reference number covering the goods is entered on \u003cabbr title=\"Customs Handling of Import and Export Freight\"\u003eCHIEF\u003c/abbr\u003e and \u003cabbr title=\"Customs Handling of Import and Export Freight\"\u003eCHIEF\u003c/abbr\u003e does not accept the details, the reference number should be verified with the declarant.\u003c/p\u003e\n\n\u003ch3 id=\"failure-to-input-arrival-messages\"\u003eFailure to input arrival messages\u003c/h3\u003e\n\n\u003ch3 id=\"receiving-a-p9-deletion-warning-report\"\u003eReceiving a P9 deletion warning report\u003c/h3\u003e\n\n\u003cp\u003eIf you have input export data onto \u003cabbr title=\"Customs Handling of Import and Export Freight\"\u003eCHIEF\u003c/abbr\u003e the system expects further action to be taken. If no arrival message is sent, we will issue an automated \u003cabbr title=\"Customs Handling of Import and Export Freight\"\u003eCHIEF\u003c/abbr\u003e report (P9) after 22 days to the export declarant placing the data on \u003cabbr title=\"Customs Handling of Import and Export Freight\"\u003eCHIEF\u003c/abbr\u003e.\u003c/p\u003e\n\n\u003cp\u003eIf you do not follow up P9 reports this will prevent you from zero rating your exports for VAT, receiving Common Agricultural Policy (\u003cabbr title=\"Common Agricultural Policy\"\u003eCAP\u003c/abbr\u003e) refunds or export reliefs, or from obtaining returned goods relief if the goods are re-imported. It may also prevent electronic discharge of an Export Control System (\u003cabbr title=\"Export Control System\"\u003eECS\u003c/abbr\u003e) movement where goods have travelled through another member state.\u003c/p\u003e\n\n\u003cp\u003eGoods shipped without an arrival message will not have permission to progress. We may consider a ‘retrospective arrival’ on receipt of an application \u003ca href=\"https://www.gov.uk/government/publications/import-and-export-notification-of-retrospective-arrival-c1603\" class=\"govuk-link\"\u003eform C1603\u003c/a\u003e and explanation of the reason for non-compliance and certified copy of the bill of loading or airway bill. This form cannot be used for indirect exports through another member state.\u003c/p\u003e\n\n\u003cp\u003eRetrospective arrivals are the subject of increased scrutiny by HMRC to improve the arrivals process and encourage businesses to work with HMRC and comply with their requirements. This should reduce the frequency of exports leaving the UK or EU without a timely export declaration, presentation and customs clearance.\u003c/p\u003e\n\n\u003ch3 id=\"failure-to-arrive-an-indirect-export-before-goods-leave-the-uk\"\u003eFailure to ‘arrive’ an indirect export before goods leave the UK\u003c/h3\u003e\n\n\u003cp\u003eThe failure to arrive an export declaration, where the goods are exiting by another member state, will mean that there will be no electronic message sent from \u003cabbr title=\"Customs Handling of Import and Export Freight\"\u003eCHIEF\u003c/abbr\u003e to \u003cabbr title=\"Export Control System\"\u003eECS\u003c/abbr\u003e to notify the customs office of exit in the EU member state that the goods are on their way.\u003c/p\u003e\n\n\u003cp\u003eUK indirect exports are only visible on \u003cabbr title=\"Export Control System\"\u003eECS\u003c/abbr\u003e at the EU Office of Exit if they’ve previously been arrived on \u003cabbr title=\"Customs Handling of Import and Export Freight\"\u003eCHIEF\u003c/abbr\u003e at the UK Office of Export and have been given permission to progress by HMRC.\u003c/p\u003e\n\n\u003cp\u003eIf this does not happen, the Office of Exit will not be able to view the export transaction via \u003cabbr title=\"Export Control System\"\u003eECS\u003c/abbr\u003e. This will be flagged up as irregular by the customs office of exit in EU member states and in some instances the goods may be sent back to the UK for ‘presentation’ and clearance.\u003c/p\u003e\n\n\u003cp\u003ePrinting only the export accompanying document does not enable customs at the EU Office of Exit to clear the goods efficiently.\u003c/p\u003e\n\n\u003ch2 id=\"inputting-departure-messages\"\u003eInputting departure messages\u003c/h2\u003e\n\n\u003ch3 id=\"departure-message-aedl\"\u003eDeparture message \u003cabbr title=\"Export Departure\"\u003eAEDL\u003c/abbr\u003e\n\u003c/h3\u003e\n\n\u003cp\u003eUse of this transaction constitutes the same form of declaration as the submission of HMRC form \u003ca href=\"https://www.gov.uk/government/publications/import-and-export-notification-of-exit-of-goods-c1602-departure\" class=\"govuk-link\"\u003eC1602\u003c/a\u003e. It is used to further process a \u003cabbr title=\"unique consignment reference\"\u003eUCR\u003c/abbr\u003e once a previously arrived consignment has been loaded onto a vessel, which has now directly departed from the UK .\u003c/p\u003e\n\n\u003cp\u003eYou will need to include the following 6 items on your departure message:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003cabbr title=\"declaration unique consignment reference number\"\u003eDUCR\u003c/abbr\u003e or \u003cabbr title=\"master unique consignment reference\"\u003eMUCR\u003c/abbr\u003e\n\u003c/li\u003e\n  \u003cli\u003elocation of goods\u003c/li\u003e\n  \u003cli\u003ename of vessel\u003c/li\u003e\n  \u003cli\u003ethe actual date of export\u003c/li\u003e\n  \u003cli\u003enationality of border transport\u003c/li\u003e\n  \u003cli\u003emode of transport\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIf transport details on the departure messages are not fully completed, by default this informs us that you intend to record the export as being aborted or frustrated and withdraw them inland. You will need to contact HMRC’s National clearance hub and get Customs permission, before withdrawing any goods from the port.\u003c/p\u003e\n\n\u003cp\u003eYou will not be able to VAT zero rate your goods or claim relief from customs special procedures with duty liabilities impact, if departure has not been finalised.\u003c/p\u003e\n\n\u003cp\u003eIndirect exports travelling via another member state before departing the EU, will need to be departed by the office of Exit in that member state.\u003c/p\u003e\n\n\u003ch3 id=\"departing-goods-at-a-non-inventory-linked-location\"\u003eDeparting goods at a non-inventory linked location\u003c/h3\u003e\n\n\u003cp\u003eFor UK locations, where commercial \u003cabbr title=\"Customs Handling of Import and Export Freight\"\u003eCHIEF\u003c/abbr\u003e facilities are not available you can depart goods if you are an approved loader for the location or where this is not available, use form \u003ca href=\"https://www.gov.uk/government/publications/import-and-export-notification-of-exit-of-goods-c1602-departure\" class=\"govuk-link\"\u003eC1602\u003c/a\u003e to request HMRC input a departure message.\u003c/p\u003e\n\n\u003ch2 id=\"further-information\"\u003eFurther information\u003c/h2\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/government/organisations/hm-revenue-customs/contact/customs-international-trade-and-excise-enquiries\" class=\"govuk-link\"\u003eContact the Customs International Trade (CIT) helpline\u003c/a\u003e for more information.\u003c/p\u003e\n\n\u003cp\u003eYou can also submit a \u003ca rel=\"external\" href=\"https://online.hmrc.gov.uk/shortforms/form/CITEX_CGEF\" class=\"govuk-link\"\u003ecustoms general enquiry form\u003c/a\u003e.\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "The further information section has been updated with new contact details.",
+                                               "public_timestamp":  "2021-02-26T11:35:19.000+00:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2020-08-06T11:07:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "6667cce2-e809-4e21-ae09-cb0bdc1ddda3"
+                                                 ],
+                    "first_public_at":  "2020-08-06T11:07:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+                                                "4bda0be5-3e65-4cc1-850c-0541e95a40ca"
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2020-08-06T11:07:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/check-your-arrival-and-departure-messages-are-correct",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/check-your-arrival-and-departure-messages-are-correct",
+                                                     "base_path":  "/guidance/check-your-arrival-and-departure-messages-are-correct",
+                                                     "content_id":  "3e6c15a0-4786-49f6-bf45-0d9573b00175",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2021-02-26T11:35:19Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Check your arrival and departure messages are correct",
+                                                     "web_url":  "https://www.gov.uk/guidance/check-your-arrival-and-departure-messages-are-correct",
+                                                     "withdrawn":  true
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D25",
+                                            "api_path":  "/api/content/government/organisations/hm-revenue-customs",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+                                            "base_path":  "/government/organisations/hm-revenue-customs",
+                                            "content_id":  "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+                                            "details":  {
+                                                            "acronym":  "HMRC",
+                                                            "brand":  "hm-revenue-customs",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "hmrc",
+                                                                         "formatted_title":  "HM Revenue\u003cbr/\u003e\u0026amp; Customs"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "HM Revenue \u0026 Customs",
+                                            "web_url":  "https://www.gov.uk/government/organisations/hm-revenue-customs",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "D25",
+                                                                       "api_path":  "/api/content/government/organisations/hm-revenue-customs",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+                                                                       "base_path":  "/government/organisations/hm-revenue-customs",
+                                                                       "content_id":  "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+                                                                       "details":  {
+                                                                                       "acronym":  "HMRC",
+                                                                                       "brand":  "hm-revenue-customs",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "hmrc",
+                                                                                                    "formatted_title":  "HM Revenue\u003cbr/\u003e\u0026amp; Customs"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "HM Revenue \u0026 Customs",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/hm-revenue-customs",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D25",
+                                                              "api_path":  "/api/content/government/organisations/hm-revenue-customs",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+                                                              "base_path":  "/government/organisations/hm-revenue-customs",
+                                                              "content_id":  "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+                                                              "details":  {
+                                                                              "acronym":  "HMRC",
+                                                                              "brand":  "hm-revenue-customs",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "hmrc",
+                                                                                           "formatted_title":  "HM Revenue\u003cbr/\u003e\u0026amp; Customs"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "HM Revenue \u0026 Customs",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/hm-revenue-customs",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/making-a-declaration-using-a-pre-shipment-advice",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/making-a-declaration-using-a-pre-shipment-advice",
+                                                              "base_path":  "/guidance/making-a-declaration-using-a-pre-shipment-advice",
+                                                              "content_id":  "974c5616-ab6c-43f4-b004-7d5ec625ac87",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-06-06T11:46:50Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Making an export declaration using a pre-shipment advice",
+                                                              "web_url":  "https://www.gov.uk/guidance/making-a-declaration-using-a-pre-shipment-advice",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/making-an-export-declaration-in-your-records",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/making-an-export-declaration-in-your-records",
+                                                              "base_path":  "/guidance/making-an-export-declaration-in-your-records",
+                                                              "content_id":  "a2db71b6-72f9-41e4-a956-b0e7bb5508a8",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-04-17T08:30:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Making an export declaration in your records",
+                                                              "web_url":  "https://www.gov.uk/guidance/making-an-export-declaration-in-your-records",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/making-an-export-supplementary-declaration",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/making-an-export-supplementary-declaration",
+                                                              "base_path":  "/guidance/making-an-export-supplementary-declaration",
+                                                              "content_id":  "2c3b1712-6e50-4701-9596-6ee92537f4be",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-06-06T11:18:52Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Making an export supplementary declaration",
+                                                              "web_url":  "https://www.gov.uk/guidance/making-an-export-supplementary-declaration",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/report-exports-that-arrived-or-left-a-uk-port-that-were-not-declared-in-chief",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/report-exports-that-arrived-or-left-a-uk-port-that-were-not-declared-in-chief",
+                                                              "base_path":  "/guidance/report-exports-that-arrived-or-left-a-uk-port-that-were-not-declared-in-chief",
+                                                              "content_id":  "748784cf-961b-4a39-9129-536612d48542",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-04-29T12:25:06Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Report exports that arrived or left a UK port that were not notified in CDS",
+                                                              "web_url":  "https://www.gov.uk/guidance/report-exports-that-arrived-or-left-a-uk-port-that-were-not-declared-in-chief",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/business-and-industry/customs-declarations-duties-tariffs",
+                                     "api_url":  "https://www.gov.uk/api/content/business-and-industry/customs-declarations-duties-tariffs",
+                                     "base_path":  "/business-and-industry/customs-declarations-duties-tariffs",
+                                     "content_id":  "5984199c-d85c-4ffc-b13a-c5f2482d2258",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Customs declarations, duties and tariffs (import and export)",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/business-and-industry/trade-and-investment",
+                                                                             "api_url":  "https://www.gov.uk/api/content/business-and-industry/trade-and-investment",
+                                                                             "base_path":  "/business-and-industry/trade-and-investment",
+                                                                             "content_id":  "ed2ca1f7-5463-4eda-9324-b597e269e242",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Trade and investment",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/business-and-industry",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/business-and-industry",
+                                                                                                                     "base_path":  "/business-and-industry",
+                                                                                                                     "content_id":  "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Business and industry",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-03T15:41:02Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Business and industry",
+                                                                                                                     "web_url":  "https://www.gov.uk/business-and-industry",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-03T15:41:05Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Trade and investment",
+                                                                             "web_url":  "https://www.gov.uk/business-and-industry/trade-and-investment",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-07T09:44:16Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Customs declarations, duties and tariffs (import and export)",
+                                     "web_url":  "https://www.gov.uk/business-and-industry/customs-declarations-duties-tariffs",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2021-02-26T11:35:19+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "2670-1631014308.616-10.13.6.33-539",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Check your arrival and departure messages are correct",
+    "updated_at":  "2025-01-14T11:15:44+00:00",
+    "withdrawn_notice":  {
+                             "explanation":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eExport declarations should now be submitted through the Customs Declaration Service.\u003c/p\u003e\n\n\u003cp\u003eIn certain situations you can still \u003ca href=\"https://www.gov.uk/guidance/report-exports-that-arrived-or-left-a-uk-port-that-were-not-declared-in-chief\" class=\"govuk-link\"\u003ereport exports that arrived or left a UK port\u003c/a\u003e.\u003c/p\u003e\n\u003c/div\u003e",
+                             "withdrawn_at":  "2024-04-17T16:07:24Z"
+                         }
+}

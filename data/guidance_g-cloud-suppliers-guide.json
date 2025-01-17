@@ -1,0 +1,494 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/g-cloud-suppliers-guide",
+    "content_id":  "26c22203-67c8-4cb2-8fe3-c7f4f331f611",
+    "description":  "How to apply to sell cloud hosting, software and support to public sector buyers. \r\n",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eYou need to apply to sell your services on the G-Cloud framework.\u003c/p\u003e\n\n\u003cp\u003eA framework is an agreement between suppliers and government. All suppliers agree to the same terms when they apply.\u003c/p\u003e\n\n\u003ch2 id=\"who-can-apply\"\u003eWho can apply\u003c/h2\u003e\n\n\u003cp\u003eAll suppliers of cloud services can apply to sell on the G-Cloud framework. You do not need to be based in the UK.\u003c/p\u003e\n\n\u003ch2 id=\"services-you-can-sell\"\u003eServices you can sell\u003c/h2\u003e\n\n\u003ch3 id=\"cloud-hosting\"\u003eCloud hosting\u003c/h3\u003e\n\n\u003cp\u003eFor example, content delivery networks or load balancing services. You’ll need to supply in at least one of these categories:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003earchiving, backup and disaster recovery\u003c/li\u003e\n  \u003cli\u003ecompute and application hosting\u003c/li\u003e\n  \u003cli\u003econtainer service\u003c/li\u003e\n  \u003cli\u003econtent delivery network\u003c/li\u003e\n  \u003cli\u003edatabase\u003c/li\u003e\n  \u003cli\u003eNoSQL database\u003c/li\u003e\n  \u003cli\u003erelational database\u003c/li\u003e\n  \u003cli\u003edata warehousing\u003c/li\u003e\n  \u003cli\u003eload balancing\u003c/li\u003e\n  \u003cli\u003elogging and analysis\u003c/li\u003e\n  \u003cli\u003emessage queuing and processing\u003c/li\u003e\n  \u003cli\u003enetworking (including Network as a Service)\u003c/li\u003e\n  \u003cli\u003ePlatform as a Service (PaaS)\u003c/li\u003e\n  \u003cli\u003einfrastructure and platform security\u003c/li\u003e\n  \u003cli\u003edistributed denial of service attack (DDOS) protection\u003c/li\u003e\n  \u003cli\u003efirewall\u003c/li\u003e\n  \u003cli\u003eintrusion detection\u003c/li\u003e\n  \u003cli\u003eprotective monitoring\u003c/li\u003e\n  \u003cli\u003esearch\u003c/li\u003e\n  \u003cli\u003estorage\u003c/li\u003e\n  \u003cli\u003eblock storage\u003c/li\u003e\n  \u003cli\u003eobject storage\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"cloud-software\"\u003eCloud software\u003c/h3\u003e\n\n\u003cp\u003eFor example, accounting tools or customer service management software. You’ll need to supply in at least one of these categories:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eaccounting and finance\u003c/li\u003e\n  \u003cli\u003eanalytics and business intelligence\u003c/li\u003e\n  \u003cli\u003eapplication security\u003c/li\u003e\n  \u003cli\u003ecollaborative working\u003c/li\u003e\n  \u003cli\u003ecreative, design and publishing\u003c/li\u003e\n  \u003cli\u003ecustomer relationship management (CRM)\u003c/li\u003e\n  \u003cli\u003eelectronic document and records management (EDRM)\u003c/li\u003e\n  \u003cli\u003ehealthcare\u003c/li\u003e\n  \u003cli\u003ehuman resources and employee management\u003c/li\u003e\n  \u003cli\u003einformation and communication technology (ICT)\u003c/li\u003e\n  \u003cli\u003elegal and enforcement\u003c/li\u003e\n  \u003cli\u003emarketing\u003c/li\u003e\n  \u003cli\u003eoperations management\u003c/li\u003e\n  \u003cli\u003eproject management and planning\u003c/li\u003e\n  \u003cli\u003esales\u003c/li\u003e\n  \u003cli\u003eschools, education and libraries\u003c/li\u003e\n  \u003cli\u003esoftware development tools\u003c/li\u003e\n  \u003cli\u003etransport and logistics\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"cloud-support\"\u003eCloud support\u003c/h3\u003e\n\n\u003cp\u003eFor example, migration services or ongoing support. You’ll need to supply at least one of these categories:\u003c/p\u003e\n\n\u003ch4 id=\"cloud-migration-planning\"\u003eCloud Migration Planning\u003c/h4\u003e\n\u003cp\u003eProvides planning services to enable you to move to cloud software and/or hosting services.\u003c/p\u003e\n\n\u003ch4 id=\"set-up-and-migration\"\u003eSet Up and Migration\u003c/h4\u003e\n\u003cp\u003eProvides setup and migration services which includes the process of consolidating and transferring a collection of workloads. Workloads can include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eemails\u003c/li\u003e\n  \u003cli\u003efiles\u003c/li\u003e\n  \u003cli\u003ecalendars\u003c/li\u003e\n  \u003cli\u003edocument types\u003c/li\u003e\n  \u003cli\u003erelated metadata\u003c/li\u003e\n  \u003cli\u003einstant messages\u003c/li\u003e\n  \u003cli\u003eapplications\u003c/li\u003e\n  \u003cli\u003euser permissions\u003c/li\u003e\n  \u003cli\u003ecompound structure and linked components\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch4 id=\"security-services\"\u003eSecurity Services\u003c/h4\u003e\n\u003cp\u003eProtects service against security threats. Also provides services to maintain the confidentiality, integrity and availability of services and information.\u003c/p\u003e\n\n\u003ch4 id=\"quality-assurance-and-performance-testing\"\u003eQuality Assurance and Performance Testing\u003c/h4\u003e\n\u003cp\u003eContinuously ensures that a service does what it’s supposed to do and meets your users needs efficiently and reliably.\u003c/p\u003e\n\n\u003ch4 id=\"training\"\u003eTraining\u003c/h4\u003e\n\u003cp\u003eProvides training to ensure your organisation has the ability to optimise the use of cloud based software and services. Also includes training for cloud security management and other cloud and virtualisation topics.\u003c/p\u003e\n\n\u003ch4 id=\"ongoing-support\"\u003eOngoing Support\u003c/h4\u003e\n\u003cp\u003eSupports user needs by providing help before, during and after providing the service.\u003c/p\u003e\n\n\u003ch2 id=\"when-to-apply\"\u003eWhen to apply\u003c/h2\u003e\n\n\u003cp\u003eThe new G-Cloud framework timetable is published a few weeks ahead of the application opening date. \n\u003ca rel=\"external\" href=\"https://www.crowncommercial.gov.uk/agreements/RM1557.14\" class=\"govuk-link\"\u003eFind out what to do and when for G-Cloud 14.\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eTo get notifications about framework updates, \u003ca rel=\"external\" href=\"https://www.applytosupply.digitalmarketplace.service.gov.uk/suppliers/mailing-list\" class=\"govuk-link\"\u003esign up for emails.\u003c/a\u003e\u003c/p\u003e\n\n\u003ch2 id=\"how-to-apply-to-g-cloud-14-lots-1-2-or-3\"\u003eHow to apply to G-Cloud 14 lots 1, 2 or 3\u003c/h2\u003e\n\u003cp\u003eIf you already sell on G-Cloud 13 you will still need to apply to sell on G-Cloud 14. All G-Cloud 13 services will be removed when the G-Cloud 13 framework agreement expires.\u003c/p\u003e\n\n\u003cp\u003eYou are not able to reuse your G-Cloud 13 declaration question responses and will need to respond to each question within the application.\u003c/p\u003e\n\n\u003cp\u003eYou will be able to reuse G-Cloud 13 service question responses (unless the question has changed) along with service descriptions, features and benefits.\u003c/p\u003e\n\n\u003cp\u003eYou should check your responses and make any necessary changes for G-Cloud 14. You will need to upload your service documents again.\u003c/p\u003e\n\n\u003cp\u003eIf you’re a new supplier, you’ll need to create an account on the Digital Marketplace to apply.\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.applytosupply.digitalmarketplace.service.gov.uk\" class=\"govuk-link\"\u003eLog in or create an account on the Digital Marketplace.\u003c/a\u003e\u003c/p\u003e\n\n\u003ch3 id=\"documents-you-need-to-include\"\u003eDocuments you need to include\u003c/h3\u003e\n\n\u003cp\u003eTo apply for G-Cloud 14 lots 1, 2 or 3 you’ll need to supply the following documents:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003epricing document\u003c/li\u003e\n  \u003cli\u003eterms and conditions document (specific to that service)\u003c/li\u003e\n  \u003cli\u003e‘service definition’ document\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou can also add:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eSkills for the Information Age (SFIA) rate card\u003c/li\u003e\n  \u003cli\u003emodern slavery statement\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYour documents should:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003emeet accessibility standards\u003c/li\u003e\n  \u003cli\u003ebe in Open Document Format (ODF)\u003c/li\u003e\n  \u003cli\u003ehave a maximum file size of 5MB\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/how-to-publish-on-gov-uk/document-accessibility\" class=\"govuk-link\"\u003eRead the guidance on creating accessible documents.\u003c/a\u003e\u003c/p\u003e\n\n\u003ch4 id=\"pricing-document\"\u003ePricing document\u003c/h4\u003e\n\u003cp\u003eYour pricing document must include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe service price, including unit prices, volume discounts and data extraction costs\u003c/li\u003e\n  \u003cli\u003eprices for extra services\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYour pricing must not include Price on Application (POA), price ranges or prices from. For example you must not say prices from £X.\u003c/p\u003e\n\n\u003ch4 id=\"terms-and-conditions\"\u003eTerms and conditions\u003c/h4\u003e\n\u003cp\u003eThe service terms and conditions you provide cannot be changed while the framework is live.\nThere can only be one set of terms and conditions.\u003c/p\u003e\n\n\u003ch4 id=\"service-definition-document\"\u003eService definition document\u003c/h4\u003e\n\n\u003cp\u003eYou are required to provide a service definition document about how your service works. A ‘service definition’ document may include detailed information about:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ewhat the service is\u003c/li\u003e\n  \u003cli\u003ethe levels of data backup and restore, and disaster recovery you’ll provide, such as business continuity and disaster recovery plans\u003c/li\u003e\n  \u003cli\u003eany onboarding and offboarding support you provide\u003c/li\u003e\n  \u003cli\u003eservice constraints like maintenance windows or the level of customisation allowed\u003c/li\u003e\n  \u003cli\u003eservice levels like performance, availability and support hours\u003c/li\u003e\n  \u003cli\u003eafter sales support\u003c/li\u003e\n  \u003cli\u003eany technical requirements\u003c/li\u003e\n  \u003cli\u003eoutage and maintenance management\u003c/li\u003e\n  \u003cli\u003ehosting options and locations\u003c/li\u003e\n  \u003cli\u003eaccess to data (upon exit)\u003c/li\u003e\n  \u003cli\u003esecurity\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYour service definition document will be on your service page on the Digital Marketplace but it will not be indexed by search.\u003c/p\u003e\n\n\u003cp\u003eDo not include links marketing the service or pricing information. You can refer to your website.\u003c/p\u003e\n\n\u003ch2 id=\"how-to-submit-a-tender-for-g-cloud-14-lot-4\"\u003eHow to submit a tender for G-Cloud 14 Lot 4\u003c/h2\u003e\n\n\u003cp\u003eThe scope for G-Cloud 14 Lot 4 is the same as the scope for lot 3 Cloud Support above. G-Cloud 14 lot 4 is for further competition only. \u003c/p\u003e\n\n\u003cp\u003eTo find out more about G-Cloud 14 lot 4, \u003ca rel=\"external\" href=\"https://www.crowncommercial.gov.uk/agreements/RM1557.14l4\" class=\"govuk-link\"\u003evisit the G-Cloud 14 lot 4 webpage\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eIf you need help to apply for the G-Cloud 14 framework, contact CCS\u003c/p\u003e\n\n\u003cdiv class=\"contact\"\u003e\n\u003cp\u003e\u003cstrong\u003eCrown Commercial Service\u003c/strong\u003e\u003cbr\u003e\n\u003ca href=\"mailto:cloud_digital@crowncommercial.gov.uk\" class=\"govuk-link\"\u003ecloud_digital@crowncommercial.gov.uk\u003c/a\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Updated reference of G-cloud 13 to 14 after request from CAM",
+                                               "public_timestamp":  "2024-03-11T16:23:31.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated the following sections:\r\n- how to apply\r\n- when to apply\r\n- cloud support\r\n- pricing document",
+                                               "public_timestamp":  "2024-02-19T10:35:24.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated with information about which documents you\u0027ll need to supply when applying to the framework.",
+                                               "public_timestamp":  "2022-03-15T14:43:01.000+00:00"
+                                           },
+                                           {
+                                               "note":  "How to apply section: links added to the respective platforms for making an application to the framework.\r\n\r\nReference to DOS removed as applications have closed.",
+                                               "public_timestamp":  "2022-03-09T10:28:52.000+00:00"
+                                           },
+                                           {
+                                               "note":  "New information for suppliers wanting to supply on the G-Cloud 13 framework, including who can supply and when.",
+                                               "public_timestamp":  "2022-02-23T10:27:56.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Service Definition Document - deleted bullet point: \u0027a pricing overview, including volume discounts or data extraction cost\u0027 because all pricing should be in the pricing document.",
+                                               "public_timestamp":  "2020-11-09T12:12:36.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated to show G-Cloud 12 is closed for applications.",
+                                               "public_timestamp":  "2020-07-20T17:15:09.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Update application closing date",
+                                               "public_timestamp":  "2020-03-30T12:52:00.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Changing the closing date of applications to 20 July 2020.",
+                                               "public_timestamp":  "2020-03-27T12:03:14.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated for G Cloud 12 including requirement to provide a service definition document and electronic signature replacing signing and uploading paper documents",
+                                               "public_timestamp":  "2020-03-03T15:00:01.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Added opening date for G-Cloud 12 applications",
+                                               "public_timestamp":  "2020-02-18T15:00:03.000+00:00"
+                                           },
+                                           {
+                                               "note":  "General overview information about the Digital Marketplace has been removed. Information has been added about how to edit services when the framework is live and how to edit services during the application process. ",
+                                               "public_timestamp":  "2019-06-27T13:47:38.000+01:00"
+                                           },
+                                           {
+                                               "note":  "The application deadline for G-Cloud 11 has been changed to 22 May at 5pm (BST)",
+                                               "public_timestamp":  "2019-05-03T16:02:45.000+01:00"
+                                           },
+                                           {
+                                               "note":  "The G-Cloud 11 framework is now open for applications to suppliers. The application deadline is 5pm BST, 15 May 2019. ",
+                                               "public_timestamp":  "2019-03-25T14:33:51.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Update to add G-Cloud 11 framework application will open on 25 March 2019. \r\n\r\nIn the \u0027Who should not apply\u0027 section, the colocation service example has changed to \u0027space the buyer rents from a supplier\u0027s datacentre\u0027.\r\n\r\nThe \u0027Make the supplier declaration on the Digital Marketplace\u0027 section now explains how to request declaration as CSV. \r\n\r\nInformation about submitting the framework applications and declaration has been updated to say that applications are automatically submitted on the deadline. Applicants can make any changes up to this date. \r\n\r\nContent around adding service information and copying over services to new applications is now consolidated under the \u0027Add your service information on the Digital Marketplace\u0027 section. It includes what updates can be made to existing services and how to upload price lists. ",
+                                               "public_timestamp":  "2019-03-21T10:34:54.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Removed out-of-date references to G-Cloud 8. ",
+                                               "public_timestamp":  "2018-05-30T16:08:57.000+01:00"
+                                           },
+                                           {
+                                               "note":  "G-Cloud 10 closed for applications",
+                                               "public_timestamp":  "2018-05-23T17:03:42.000+01:00"
+                                           },
+                                           {
+                                               "note":  "G-Cloud 10 is open for applications",
+                                               "public_timestamp":  "2018-04-18T11:28:40.000+01:00"
+                                           },
+                                           {
+                                               "note":  "G-Cloud details updated",
+                                               "public_timestamp":  "2018-03-06T15:48:28.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Revised G-Cloud 10 opening date",
+                                               "public_timestamp":  "2017-12-18T12:51:05.000+00:00"
+                                           },
+                                           {
+                                               "note":  "You can now edit part of your G-Cloud 9 services on the Digital Marketplace.",
+                                               "public_timestamp":  "2017-10-23T15:06:16.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated to show that G-Cloud 9 is closed for applications.",
+                                               "public_timestamp":  "2017-04-11T17:00:20.000+01:00"
+                                           },
+                                           {
+                                               "note":  "The G-Cloud 9 framework is now open for applications.",
+                                               "public_timestamp":  "2017-03-07T14:04:47.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated to reflect changes to categories in the G-Cloud 9 framework.",
+                                               "public_timestamp":  "2017-03-03T14:32:27.000+00:00"
+                                           },
+                                           {
+                                               "note":  "The G-Cloud 8 framework is now closed for supplier applications. We expect G-Cloud 9 to be open for supplier applications in early 2017.",
+                                               "public_timestamp":  "2016-06-27T10:00:41.000+01:00"
+                                           },
+                                           {
+                                               "note":  "G-Cloud application deadline is now 5pm BST, 23 June 2016.",
+                                               "public_timestamp":  "2016-06-20T17:15:51.000+01:00"
+                                           },
+                                           {
+                                               "note":  "G-Cloud 8 is open for supplier applications",
+                                               "public_timestamp":  "2016-05-18T15:02:14.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2013-09-24T00:00:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "8437e374-dfa7-4b52-bd88-ebc29032a9e4"
+                                                 ],
+                    "first_public_at":  "2013-09-24T00:00:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2013-09-24T00:00:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/g-cloud-suppliers-guide",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/g-cloud-suppliers-guide",
+                                                     "base_path":  "/guidance/g-cloud-suppliers-guide",
+                                                     "content_id":  "26c22203-67c8-4cb2-8fe3-c7f4f331f611",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2024-03-11T16:23:31Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Applying to the G-Cloud framework",
+                                                     "web_url":  "https://www.gov.uk/guidance/g-cloud-suppliers-guide",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "base_path":  "/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "content_id":  "591c83aa-3b74-437d-a342-612bddd97572",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2015-05-08T00:00:00+00:00",
+                                                         "started_on":  "2010-05-12T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2010 to 2015 Conservative and Liberal Democrat coalition government",
+                                         "web_url":  "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government"
+                                     }
+                                 ],
+                  "lead_organisations":  [
+                                             {
+                                                 "analytics_identifier":  "OT1056",
+                                                 "api_path":  "/api/content/government/organisations/government-digital-service",
+                                                 "api_url":  "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+                                                 "base_path":  "/government/organisations/government-digital-service",
+                                                 "content_id":  "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+                                                 "details":  {
+                                                                 "acronym":  "GDS",
+                                                                 "brand":  "department-for-science-innovation-and-technology",
+                                                                 "default_news_image":  null,
+                                                                 "logo":  {
+                                                                              "crest":  "single-identity",
+                                                                              "formatted_title":  "Government Digital Service"
+                                                                          },
+                                                                 "organisation_govuk_status":  {
+                                                                                                   "status":  "live",
+                                                                                                   "updated_at":  null,
+                                                                                                   "url":  null
+                                                                                               }
+                                                             },
+                                                 "document_type":  "organisation",
+                                                 "links":  {
+
+                                                           },
+                                                 "locale":  "en",
+                                                 "schema_name":  "organisation",
+                                                 "title":  "Government Digital Service",
+                                                 "web_url":  "https://www.gov.uk/government/organisations/government-digital-service",
+                                                 "withdrawn":  false
+                                             }
+                                         ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "EA1015",
+                                            "api_path":  "/api/content/government/organisations/crown-commercial-service",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/crown-commercial-service",
+                                            "base_path":  "/government/organisations/crown-commercial-service",
+                                            "content_id":  "8437e374-dfa7-4b52-bd88-ebc29032a9e4",
+                                            "details":  {
+                                                            "acronym":  "CCS",
+                                                            "brand":  "cabinet-office",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Crown\u003cbr/\u003eCommercial \u003cbr/\u003eService"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Crown Commercial Service",
+                                            "web_url":  "https://www.gov.uk/government/organisations/crown-commercial-service",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "OT1056",
+                                                                       "api_path":  "/api/content/government/organisations/government-digital-service",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+                                                                       "base_path":  "/government/organisations/government-digital-service",
+                                                                       "content_id":  "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+                                                                       "details":  {
+                                                                                       "acronym":  "GDS",
+                                                                                       "brand":  "department-for-science-innovation-and-technology",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Government Digital Service"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Government Digital Service",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/government-digital-service",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "EA1015",
+                                                              "api_path":  "/api/content/government/organisations/crown-commercial-service",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/crown-commercial-service",
+                                                              "base_path":  "/government/organisations/crown-commercial-service",
+                                                              "content_id":  "8437e374-dfa7-4b52-bd88-ebc29032a9e4",
+                                                              "details":  {
+                                                                              "acronym":  "CCS",
+                                                                              "brand":  "cabinet-office",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Crown\u003cbr/\u003eCommercial \u003cbr/\u003eService"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Crown Commercial Service",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/crown-commercial-service",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related_guides":  [
+                                         {
+                                             "api_path":  "/api/content/guidance/selling-on-the-digital-marketplace",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/selling-on-the-digital-marketplace",
+                                             "base_path":  "/guidance/selling-on-the-digital-marketplace",
+                                             "content_id":  "d4150749-2398-48a7-8a6e-3f686d428de9",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2022-01-14T10:25:22Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Selling on the Digital Marketplace",
+                                             "web_url":  "https://www.gov.uk/guidance/selling-on-the-digital-marketplace",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/what-to-do-and-when-for-g-cloud-12",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/what-to-do-and-when-for-g-cloud-12",
+                                             "base_path":  "/guidance/what-to-do-and-when-for-g-cloud-12",
+                                             "content_id":  "fadd30c5-dd3b-499c-ab19-9ce264f6e46d",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2024-03-11T16:23:00Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "What to do and when for G-Cloud 14",
+                                             "web_url":  "https://www.gov.uk/guidance/what-to-do-and-when-for-g-cloud-12",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/terms-and-conditions-of-digital-marketplace-frameworks",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/terms-and-conditions-of-digital-marketplace-frameworks",
+                                             "base_path":  "/guidance/terms-and-conditions-of-digital-marketplace-frameworks",
+                                             "content_id":  "23d9208e-af1c-41e9-a997-bfd3150bb4ab",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2024-03-11T16:20:38Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Terms and conditions of Digital Marketplace frameworks",
+                                             "web_url":  "https://www.gov.uk/guidance/terms-and-conditions-of-digital-marketplace-frameworks",
+                                             "withdrawn":  false
+                                         }
+                                     ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/digital-outcomes-and-specialists-suppliers-guide",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/digital-outcomes-and-specialists-suppliers-guide",
+                                                              "base_path":  "/guidance/digital-outcomes-and-specialists-suppliers-guide",
+                                                              "content_id":  "f373ce34-cfb2-47b0-a7d8-ada934cd0cb1",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-11-17T13:21:48Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Applying to the Digital Outcomes and Specialists framework",
+                                                              "web_url":  "https://www.gov.uk/guidance/digital-outcomes-and-specialists-suppliers-guide",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/g-cloud-buyers-guide",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/g-cloud-buyers-guide",
+                                                              "base_path":  "/guidance/g-cloud-buyers-guide",
+                                                              "content_id":  "acfe4058-80a5-4429-b2f4-22f8e4d31082",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-03-11T16:16:16Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "G-Cloud buyers\u0027 guide",
+                                                              "web_url":  "https://www.gov.uk/guidance/g-cloud-buyers-guide",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/buying-and-selling-on-the-digital-marketplace",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/buying-and-selling-on-the-digital-marketplace",
+                                                              "base_path":  "/guidance/buying-and-selling-on-the-digital-marketplace",
+                                                              "content_id":  "c832903f-0182-4695-a553-a4bb30b2256a",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-11-17T13:22:20Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Buying and selling on the Digital Marketplace",
+                                                              "web_url":  "https://www.gov.uk/guidance/buying-and-selling-on-the-digital-marketplace",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/government/technology-guidance-technology-guidance-buying-technology",
+                                     "api_url":  "https://www.gov.uk/api/content/government/technology-guidance-technology-guidance-buying-technology",
+                                     "base_path":  "/government/technology-guidance-technology-guidance-buying-technology",
+                                     "content_id":  "685d131a-5bcc-46e0-b952-8d9a3ffc6f0a",
+                                     "details":  {
+                                                     "internal_name":  "Buying technology [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/government-technology-and-digital-services",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/government-technology-and-digital-services",
+                                                                             "base_path":  "/government/government-technology-and-digital-services",
+                                                                             "content_id":  "90c9b9f1-0a4f-4639-b1e9-2bfb23d611bd",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Government technology and digital services",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/government/all",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/government/all",
+                                                                                                                     "base_path":  "/government/all",
+                                                                                                                     "content_id":  "e48ab80a-de80-4e83-bf59-26316856a5f9",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Government",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:29:39Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Government",
+                                                                                                                     "web_url":  "https://www.gov.uk/government/all",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "beta",
+                                                                             "public_updated_at":  "2018-08-28T10:56:47Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Government technology and digital services",
+                                                                             "web_url":  "https://www.gov.uk/government/government-technology-and-digital-services",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "beta",
+                                     "public_updated_at":  "2018-08-20T09:26:14Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Buying technology",
+                                     "web_url":  "https://www.gov.uk/government/technology-guidance-technology-guidance-buying-technology",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2024-03-11T16:23:31+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1710174211.526-10.13.21.56-2321",
+    "publishing_scheduled_at":  "2020-07-20T17:15:00+01:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  10,
+    "schema_name":  "detailed_guide",
+    "title":  "Applying to the G-Cloud framework",
+    "updated_at":  "2024-12-31T08:20:21+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

@@ -1,0 +1,424 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/guidance-on-submitting-clinical-trial-safety-reports",
+    "content_id":  "df3fbdb2-7f25-448a-8426-1b5014857394",
+    "description":  "How to submit Suspected Unexpected Serious Adverse Drug Reactions (SUSARs) and annual safety reports Development Safety Update Reports (DSURs).",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eYou must submit SUSARs in Great Britain and in Northern Ireland to the MHRA in one of the following ways:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eusing the \u003ca rel=\"external\" href=\"https://esusar.mhra.gov.uk/\" class=\"govuk-link\"\u003eeSUSAR website\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003eusing the \u003ca rel=\"external\" href=\"https://icsrsubmissions.mhra.gov.uk/login\" class=\"govuk-link\"\u003eICSR Submissions\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003eusing the \u003ca href=\"https://www.gov.uk/guidance/register-to-make-submissions-to-the-mhra\" class=\"govuk-link\"\u003eMHRA Gateway\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIf you intend to submit SUSARs using one of the new reporting routes, you must \u003ca href=\"https://www.gov.uk/guidance/registering-to-make-submissions-to-the-mhra-from-1-january-2021\" class=\"govuk-link\"\u003eregister\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eFor trials ongoing in both the UK and in European member states dual reporting is needed. You will need to report each SUSAR to both the MHRA and relevant member states, as well as to the European Medicines Agency’s (EMA’s) Eudravigilance Clinical Trial Module (EVCTM).\u003c/p\u003e\n\n\u003ch2 id=\"reporting-susars-using-the-new-reporting-routes\"\u003eReporting SUSARs using the new reporting routes\u003c/h2\u003e\n\n\u003cp\u003eSponsors and Contract Research Organisations (CROs) will need to register to either the ICSR Submissions or the MHRA Gateway to enable configuration of their systems before 1st January 2021 in order to submit SUSARs to the MHRA.\u003c/p\u003e\n\n\u003cp\u003eIf you have already registered, you do not need to complete this process again.\u003c/p\u003e\n\n\u003cp\u003eIn order to differentiate SUSAR reports from post-marketing ICSRs, the new reporting systems will enable sponsors and CROs to specify the type of report from a study and assign the study type as a clinical trial.\u003c/p\u003e\n\n\u003ch2 id=\"registering-for-icsr-submissions\"\u003eRegistering for ICSR Submissions\u003c/h2\u003e\n\n\u003cp\u003eThe \u003ca rel=\"external\" href=\"https://icsrsubmissions.mhra.gov.uk/login\" class=\"govuk-link\"\u003eICSR Submissions\u003c/a\u003e is a web reporting tool that replaces the EudraVigilance website (EVWEB). It mimics the same reporting processes by enabling users to complete the online reporting form with details of the SUSAR. It also has the functionality to allow users to upload files that have been submitted via the Eudravigilance System. This by-passes the need to complete the form.\u003c/p\u003e\n\n\u003cp\u003eThe ICSR Submissions route is used to submit single SUSAR reports.\nTo submit SUSARs to the MHRA using this route, visit the \u003ca rel=\"external\" href=\"https://icsrsubmissions.mhra.gov.uk/login\" class=\"govuk-link\"\u003eICSR Submissions portal\u003c/a\u003e to register. Select ‘Request company account’ and follow the step-by-step guide to gain access to ICSR Submissions in the reference guide \u003ca href=\"https://www.gov.uk/guidance/register-to-make-submissions-to-the-mhra#registering-to-use-the-vigilance-systems-mhra-gateway-and-icsr-submissions\" class=\"govuk-link\"\u003eRegistration for ICSR Submissions\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eThe ICSR Submissions registration \u003ca rel=\"external\" href=\"https://mhra-transfer.sharefile.com/share/view/s0dfa3aeb46c45c18\" class=\"govuk-link\"\u003evideo demo\u003c/a\u003e also covers the end-to-end process for registering to use the ICSR Submissions to report SUSARs.\u003c/p\u003e\n\n\u003cp\u003eOn receipt of your registration request, the MHRA aims to complete your registration within 5 working days.\u003c/p\u003e\n\n\u003ch2 id=\"registering-for-mhra-gateway\"\u003eRegistering for MHRA Gateway\u003c/h2\u003e\n\n\u003cp\u003eThe \u003ca rel=\"external\" href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/908541/URG_-_Registration_for_MHRA_Gateway.pdf\" class=\"govuk-link\"\u003eMHRA Gateway\u003c/a\u003e replaces the Eudravigilance Gateway and offers a direct, secure database-to-database transmission of SUSARs into the MHRA system. The MHRA Gateway route is used to submit bulk SUSAR reports.\u003c/p\u003e\n\n\u003cp\u003eIn order to gain access to, and submit SUSARs via, the MHRA Gateway, you will first need to access and \u003ca rel=\"external\" href=\"https://mhrabpm.appiancloud.com/suite/plugins/servlet/registration\" class=\"govuk-link\"\u003eregister with another portal called MHRA Submissions\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"registering-to-mhra-submissions\"\u003eRegistering to MHRA Submissions:\u003c/h3\u003e\n\n\u003cp\u003eThe reference guide \u003ca href=\"https://www.gov.uk/guidance/register-to-make-submissions-to-the-mhra\" class=\"govuk-link\"\u003eGaining Access to MHRA Submissions\u003c/a\u003e provides a step-by-step account of how to set up user access. Guidance on managing users of the portal is also available in the reference guide \u003ca href=\"https://www.gov.uk/guidance/register-to-make-submissions-to-the-mhra\" class=\"govuk-link\"\u003eManaging users on MHRA Submissions\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://mhra-transfer.sharefile.com/share/view/s8fe2c7f3fb54d69b\" class=\"govuk-link\"\u003eThree video demos\u003c/a\u003e provide further information on the user access management process and user permissions for using MHRA Submissions.\u003c/p\u003e\n\n\u003cp\u003eThe MHRA Gateway registration \u003ca rel=\"external\" href=\"https://mhra-transfer.sharefile.com/share/view/se3fd421a05a4b72b\" class=\"govuk-link\"\u003evideo demo\u003c/a\u003e covers the end-to-end process for registering to use the MHRA Gateway to report SUSARs.\u003c/p\u003e\n\n\u003cp\u003eDirect links to the MHRA Gateway and MHRA Submissions are only provided once reporters are registered.\u003c/p\u003e\n\n\u003ch2 id=\"reporting-susars-using-the-esusar-website\"\u003eReporting SUSARs using the eSUSAR website\u003c/h2\u003e\n\n\u003cp\u003eWe have retained the availability of the eSUSAR website for sponsors and CROs who wish to continue reporting SUSARs using this route.\u003c/p\u003e\n\n\u003cp\u003eIf you currently report SUSARs using the eSUSAR website there is no additional need to register to either the ICSR Submissions or the MHRA Gateway to submit SUSARs.\u003c/p\u003e\n\n\u003cp\u003eThe eSUSAR website route is used to submit single SUSAR reports.\u003c/p\u003e\n\n\u003ch2 id=\"transition-between-reporting-to-eu-and-uk-systems\"\u003eTransition between reporting to EU and UK systems\u003c/h2\u003e\n\n\u003cp\u003eSUSARs previously reported using either EVWEB or the Eudravigilance Gateway were transmitted to the MHRA via the EMA’s Eudravigilance system.\u003c/p\u003e\n\n\u003cp\u003eTherefore, sponsors and CROs should plan on the basis that all SUSARs submitted via the Eudravigilance system and processed before 11:00pm on 31 December 2020 were passed to the MHRA. SUSAR submissions not processed before this point should be reported using the new submission routes.\u003c/p\u003e\n\n\u003ch2 id=\"business-continuity-plan-for-mhra-gateway-and-icsr-submissions\"\u003eBusiness Continuity Plan for MHRA Gateway and ICSR Submissions\u003c/h2\u003e\n\n\u003cp\u003eThe MHRA will communicate at the earliest opportunity the expectations required by sponsors, CROs, and the MHRA when the MHRA Gateway and ICSR Submissions are impacted by planned and unplanned downtime.  Please refer to the \u003ca rel=\"external\" href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/948857/BCP_ICSR_Submissions.pdf\" class=\"govuk-link\"\u003eBusiness Continuity Plan\u003c/a\u003e for further information\u003c/p\u003e\n\n\u003ch2 id=\"submitting-development-safety-update-reports-dsurs-to-the-mhra\"\u003eSubmitting Development Safety Update Reports (DSURs) to the MHRA\u003c/h2\u003e\n\n\u003cp\u003eYou must submit DSURs using MHRA Submissions - see the section regarding registration to this system if applicable.\u003c/p\u003e\n\n\u003cp\u003eDSURs and Annual Progress Reports (provided in lieu of a full DSUR) must be submitted to the MHRA using MHRA Submissions via the Human Medicines option. Select ‘Development Safety Update Report’ as the Regulatory Activity and ‘Original Submission’  from the Regulatory sub activity dropdown list.\u003c/p\u003e\n\n\u003cp\u003eAcknowledgements of receipt for DSUR submissions are generated by MHRA Submissions where a confirmation is emailed to the reporter.\u003c/p\u003e\n\n\u003cp\u003eIf you are a CRO submitting DSURs on behalf of a trial sponsor, you both need to register to MHRA Submissions. The sponsor is able to ‘add new organisation with users’ or ‘add user’ for CROs to have access with administrative permissions to make submissions.\u003c/p\u003e\n\n\u003cp\u003eFor further information refer to \u003ca href=\"https://www.gov.uk/guidance/registering-to-make-submissions-to-the-mhra-from-1-january-2021#gaining-access-to-mhra-submissions\" class=\"govuk-link\"\u003eregistering with MHRA Submissions\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eFor further information please see our guidance \u003ca href=\"https://www.gov.uk/government/publications/webinars-preparing-to-make-submissions-to-the-mhra-from-1-january-2021\" class=\"govuk-link\"\u003eWebinars: preparing to make submissions to the MHRA from 1 January 2021\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"contact-us\"\u003eContact us\u003c/h2\u003e\n\n\u003cp\u003eIf you have any queries around setting up the gateway company administrator on MHRA Submissions then please email \u003ca href=\"mailto:submissions@mhra.gov.uk\" class=\"govuk-link\"\u003esubmissions@mhra.gov.uk\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eIf you have not received an acknowledgment within 48 hours of submitting a SUSAR, contact \u003ca href=\"mailto:E2B.support@mhra.gov.uk\" class=\"govuk-link\"\u003eE2B.support@mhra.gov.uk\u003c/a\u003e, including information on the filename, message number and sender report ID, as well as attaching the XML file.\u003c/p\u003e\n\n\u003cp\u003eFor further information, please email our Customer Services Centre at info@mhra.gov.uk or call 020 3080 6000. You can also email \u003ca href=\"mailto:submissions@mhra.gov.uk\" class=\"govuk-link\"\u003esubmissions@mhra.gov.uk\u003c/a\u003e with urgent questions.\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2020-12-31T23:53:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "240f72bd-9a4d-4f39-94d9-77235cadde8e"
+                                                 ],
+                    "first_public_at":  "2020-12-31T23:53:00.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+                                                "7af7dc7d-dcd4-4007-92dd-b7463f2e4e47"
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2020-12-31T23:53:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/guidance-on-submitting-clinical-trial-safety-reports",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/guidance-on-submitting-clinical-trial-safety-reports",
+                                                     "base_path":  "/guidance/guidance-on-submitting-clinical-trial-safety-reports",
+                                                     "content_id":  "df3fbdb2-7f25-448a-8426-1b5014857394",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2020-12-31T23:53:00Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Guidance on submitting clinical trial safety reports",
+                                                     "web_url":  "https://www.gov.uk/guidance/guidance-on-submitting-clinical-trial-safety-reports",
+                                                     "withdrawn":  true
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/new-guidance-and-information-for-industry-from-the-mhra",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/new-guidance-and-information-for-industry-from-the-mhra",
+                                                   "base_path":  "/government/collections/new-guidance-and-information-for-industry-from-the-mhra",
+                                                   "content_id":  "aecc31f9-1d53-4c18-9df4-4e5940323c4f",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2021-03-30T10:06:39Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "New guidance and information for industry from the MHRA",
+                                                   "web_url":  "https://www.gov.uk/government/collections/new-guidance-and-information-for-industry-from-the-mhra",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "EA63",
+                                            "api_path":  "/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                            "base_path":  "/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                            "content_id":  "240f72bd-9a4d-4f39-94d9-77235cadde8e",
+                                            "details":  {
+                                                            "acronym":  "MHRA",
+                                                            "brand":  "department-of-health",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Medicines \u0026amp; Healthcare products\u003cbr/\u003eRegulatory Agency"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Medicines and Healthcare products Regulatory Agency",
+                                            "web_url":  "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA63",
+                                                                       "api_path":  "/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                                       "base_path":  "/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                                       "content_id":  "240f72bd-9a4d-4f39-94d9-77235cadde8e",
+                                                                       "details":  {
+                                                                                       "acronym":  "MHRA",
+                                                                                       "brand":  "department-of-health",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Medicines \u0026amp; Healthcare products\u003cbr/\u003eRegulatory Agency"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Medicines and Healthcare products Regulatory Agency",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "EA63",
+                                                              "api_path":  "/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                              "base_path":  "/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                              "content_id":  "240f72bd-9a4d-4f39-94d9-77235cadde8e",
+                                                              "details":  {
+                                                                              "acronym":  "MHRA",
+                                                                              "brand":  "department-of-health",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Medicines \u0026amp; Healthcare products\u003cbr/\u003eRegulatory Agency"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Medicines and Healthcare products Regulatory Agency",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/supplying-investigational-medicinal-products-to-northern-ireland",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/supplying-investigational-medicinal-products-to-northern-ireland",
+                                                              "base_path":  "/guidance/supplying-investigational-medicinal-products-to-northern-ireland",
+                                                              "content_id":  "ff3a941a-e775-4e13-aee7-ab8c34b9aeb2",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-12-22T15:25:31Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Supplying investigational medicinal products to Northern Ireland",
+                                                              "web_url":  "https://www.gov.uk/guidance/supplying-investigational-medicinal-products-to-northern-ireland",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/collections/clinical-trials-for-medicines",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/collections/clinical-trials-for-medicines",
+                                                              "base_path":  "/government/collections/clinical-trials-for-medicines",
+                                                              "content_id":  "4dfda159-a98b-4fe9-94cc-964cf3bd65a0",
+                                                              "document_type":  "document_collection",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2014-12-18T18:17:00Z",
+                                                              "schema_name":  "document_collection",
+                                                              "title":  "Clinical trials for medicines",
+                                                              "web_url":  "https://www.gov.uk/government/collections/clinical-trials-for-medicines",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/guidance-on-handling-of-decentralised-and-mutual-recognition-procedures-which-are-approved-or-pending",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/guidance-on-handling-of-decentralised-and-mutual-recognition-procedures-which-are-approved-or-pending",
+                                                              "base_path":  "/guidance/guidance-on-handling-of-decentralised-and-mutual-recognition-procedures-which-are-approved-or-pending",
+                                                              "content_id":  "93563221-5af2-408a-b0a5-59a70166111a",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-06-24T09:11:01Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Guidance on handling of Decentralised and Mutual Recognition Procedures which are approved or pending",
+                                                              "web_url":  "https://www.gov.uk/guidance/guidance-on-handling-of-decentralised-and-mutual-recognition-procedures-which-are-approved-or-pending",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/regulation-251-of-the-human-medicines-regulations-2020",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/regulation-251-of-the-human-medicines-regulations-2020",
+                                                              "base_path":  "/government/publications/regulation-251-of-the-human-medicines-regulations-2020",
+                                                              "content_id":  "b002feff-9b2d-4c45-9a7d-ddccf9a61968",
+                                                              "document_type":  "notice",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-03-30T14:30:01Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Regulation 251 of the Human Medicines Regulations 2020",
+                                                              "web_url":  "https://www.gov.uk/government/publications/regulation-251-of-the-human-medicines-regulations-2020",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/guidance-on-substantial-amendments-to-a-clinical-trial",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/guidance-on-substantial-amendments-to-a-clinical-trial",
+                                                              "base_path":  "/guidance/guidance-on-substantial-amendments-to-a-clinical-trial",
+                                                              "content_id":  "0a68f0be-ef32-406d-a7c6-d892bfa6e5c6",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-12-31T23:01:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Guidance on substantial amendments to a clinical trial",
+                                                              "web_url":  "https://www.gov.uk/guidance/guidance-on-substantial-amendments-to-a-clinical-trial",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/health-and-social-care/medicines-medical-devices-blood-clinical-trials-investigations",
+                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care/medicines-medical-devices-blood-clinical-trials-investigations",
+                                     "base_path":  "/health-and-social-care/medicines-medical-devices-blood-clinical-trials-investigations",
+                                     "content_id":  "6949bbe9-60c0-4782-9cdf-873db42514d3",
+                                     "details":  {
+                                                     "internal_name":  "Clinical trials and investigations [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/health-and-social-care/medicines-medical-devices-blood",
+                                                                             "api_url":  "https://www.gov.uk/api/content/health-and-social-care/medicines-medical-devices-blood",
+                                                                             "base_path":  "/health-and-social-care/medicines-medical-devices-blood",
+                                                                             "content_id":  "cebc01ee-f70a-4397-a552-622e10b62508",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Medicines and medical devices [T] (level 2, health theme)",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/health-and-social-care",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care",
+                                                                                                                     "base_path":  "/health-and-social-care",
+                                                                                                                     "content_id":  "8124ead8-8ebc-4faf-88ad-dd5cbcc92ba8",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Health and social care",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:30:51Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Health and social care",
+                                                                                                                     "web_url":  "https://www.gov.uk/health-and-social-care",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2019-02-06T16:16:55Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Medicines, medical devices",
+                                                                             "web_url":  "https://www.gov.uk/health-and-social-care/medicines-medical-devices-blood",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-08-22T12:56:19Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Clinical trials and investigations",
+                                     "web_url":  "https://www.gov.uk/health-and-social-care/medicines-medical-devices-blood-clinical-trials-investigations",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/government/brexit",
+                                     "api_url":  "https://www.gov.uk/api/content/government/brexit",
+                                     "base_path":  "/government/brexit",
+                                     "content_id":  "d6c2de5d-ef90-45d1-82d4-5f2438369eea",
+                                     "description":  "Find out how new Brexit rules apply to things like travel and doing business with Europe.",
+                                     "details":  {
+                                                     "internal_name":  "Brexit",
+                                                     "notes_for_editors":  "",
+                                                     "url_override":  "/government/collections/brexit-guidance",
+                                                     "visible_to_departmental_editors":  true
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/all",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/all",
+                                                                             "base_path":  "/government/all",
+                                                                             "content_id":  "e48ab80a-de80-4e83-bf59-26316856a5f9",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Government",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:29:39Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Government",
+                                                                             "web_url":  "https://www.gov.uk/government/all",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2024-11-14T17:47:34Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Brexit",
+                                     "web_url":  "https://www.gov.uk/government/brexit",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2020-12-31T23:53:00+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "19686-1646328374.203-10.13.1.114-2239",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Guidance on submitting clinical trial safety reports",
+    "updated_at":  "2024-11-14T17:48:44+00:00",
+    "withdrawn_notice":  {
+                             "explanation":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eFor up to date information please go to our \u003ca href=\"https://www.gov.uk/guidance/clinical-trials-for-medicines-manage-your-authorisation-report-safety-issues#development-safety-update-reports-dsurs\" class=\"govuk-link\"\u003emain page\u003c/a\u003e\u003c/p\u003e\n\u003c/div\u003e",
+                             "withdrawn_at":  "2022-03-03T17:31:16Z"
+                         }
+}

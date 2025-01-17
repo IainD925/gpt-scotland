@@ -1,0 +1,345 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/hmcts-e-filing-service-for-citizens-and-professionals",
+    "content_id":  "53a9c73b-6986-4ef3-906c-b79c89663eb6",
+    "description":  "Send files, pay fees and track cases in the High Court and the upper tribunals.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003ch2 id=\"about-the-e-filing-service\"\u003eAbout the E-Filing service\u003c/h2\u003e\n\n\u003cp\u003eThe E-Filing service is an online tool managed by HM Courts and Tribunals (HMCTS). It can be used by legal professionals on behalf of their clients or by people who do not have a solicitor, known as ‘litigants in person’.\u003c/p\u003e\n\n\u003cp\u003eYou can securely submit, pay for and manage your cases online for the:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/courts-tribunals/the-business-and-property-courts\" class=\"govuk-link\"\u003eBusiness and Property Courts\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/courts-tribunals/court-of-appeal-civil-division\" class=\"govuk-link\"\u003eCourt of Appeal (Civil Division)\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/courts-tribunals/employment-appeal-tribunal\" class=\"govuk-link\"\u003eEmployment Appeal Tribunal\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/courts-tribunals/family-division-of-the-high-court\" class=\"govuk-link\"\u003eHigh Court Family Appeals\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\n\u003ca href=\"https://www.gov.uk/courts-tribunals/queens-bench-division-of-the-high-court\" class=\"govuk-link\"\u003eKing’s Bench Division\u003c/a\u003e, claims and appeals in the Royal Courts of Justice (London, Birmingham, Bristol, Cardiff, Leeds, Liverpool, Manchester and Newcastle)\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/courts-tribunals/senior-courts-costs-office\" class=\"govuk-link\"\u003eSenior Courts Costs Office\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/courts-tribunals/upper-tribunal-administrative-appeals-chamber\" class=\"govuk-link\"\u003eUpper Tribunal – Administrative Appeals Chamber\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/courts-tribunals/upper-tribunal-immigration-and-asylum-chamber\" class=\"govuk-link\"\u003eUpper Tribunal – Immigration and Asylum Chamber\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/courts-tribunals/upper-tribunal-lands-chamber\" class=\"govuk-link\"\u003eUpper Tribunal – Lands Chamber\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/courts-tribunals/upper-tribunal-tax-and-chancery-chamber\" class=\"govuk-link\"\u003eUpper Tribunal – Tax and Chancery Chamber\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIn E-Filing you can gather all the documents that you need to send, along with other information about your claim or case, and send it all together as one package – this is known as a ‘filing’.\u003c/p\u003e\n\n\u003ch2 id=\"before-you-start\"\u003eBefore you start\u003c/h2\u003e\n\n\u003cp\u003eTo use the E-Filing service, you’ll need to make sure that you have all your documents and information to hand. This includes:\u003c/p\u003e\n\n\u003cp\u003e1. digital versions of anything you wish to send to HMCTS:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ecourt forms\u003c/li\u003e\n  \u003cli\u003edecision letters, or orders from a court\u003c/li\u003e\n  \u003cli\u003eevidence in support of a claim, such as witness statements or correspondence\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003e2. your payment details\u003c/p\u003e\n\n\u003cp\u003eIf you are a litigant in person, you can pay fees using a credit or debit card or by entering your help with fees number – \u003ca href=\"https://www.gov.uk/get-help-with-court-fees\" class=\"govuk-link\"\u003eget help with fees\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eIf you need help understanding the fees you are required to pay, please \u003ca rel=\"external\" href=\"https://www.find-court-tribunal.service.gov.uk/search-option\" class=\"govuk-link\"\u003econtact the court\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eIf you are a solicitor acting on behalf of a client, you can pay using \u003ca href=\"https://www.gov.uk/guidance/hmcts-payment-by-account-for-online-services\" class=\"govuk-link\"\u003ean HMCTS Payment by Account (PBA) number\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"register-for-and-use-the-e-filing-service\"\u003eRegister for and use the E-Filing service\u003c/h2\u003e\n\n\u003cp\u003eUse the E-Filing registration form to create your account and start sending documents. You should use your email address as your username.\u003c/p\u003e\n\n\u003cp\u003e\u003ca class=\"gem-c-button govuk-button govuk-button--start\" role=\"button\" draggable=\"false\" href=\"https://efile.cefile-app.com/login\"\u003e Register for and use the E-Filing service \u003csvg class=\"govuk-button__start-icon govuk-!-display-none-print\" xmlns=\"http://www.w3.org/2000/svg\" width=\"17.5\" height=\"19\" viewbox=\"0 0 33 40\" focusable=\"false\" aria-hidden=\"true\"\u003e\u003cpath fill=\"currentColor\" d=\"M0 0h13l20 20-20 20H0l20-20z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eSee the \u003ca href=\"https://www.gov.uk/government/publications/how-to-use-the-hmcts-e-filing-service\" class=\"govuk-link\"\u003eguides on how to use the E-Filing service\u003c/a\u003e:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eCreate and manage your account\u003c/li\u003e\n  \u003cli\u003eSubmit and manage your filings\u003c/li\u003e\n  \u003cli\u003eCreate a public search and request office copies\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"what-happens-next\"\u003eWhat happens next\u003c/h2\u003e\n\n\u003cp\u003eOnce we have received your filing, you will receive a notification in the E-Filing service or an email, depending on what option your chose (see the \u003ca href=\"https://www.gov.uk/government/publications/how-to-use-the-hmcts-e-filing-service\" class=\"govuk-link\"\u003ecreate and manage your account guide\u003c/a\u003e).\u003c/p\u003e\n\n\u003cp\u003eWe will review the filing and send you another notification or email to say that it has been accepted or rejected. If rejected, we will explain why. It is usually that a form has been completed incorrectly, the incorrect fee has been paid or the correct document has not been sent. You will be able to resubmit rejected filings.\u003c/p\u003e\n\n\u003cp\u003eOnce your files have been accepted, you can monitor the progress of your case and see any sealed documents by searching for them on the E-Filing service (see the \u003ca href=\"https://www.gov.uk/government/publications/how-to-use-the-hmcts-e-filing-service\" class=\"govuk-link\"\u003esubmit and manage your filings guide\u003c/a\u003e).\u003c/p\u003e\n\n\u003cp\u003eFor new cases you will also be sent a letter explaining what to do next, which will depend on what jurisdiction you have filed in.\u003c/p\u003e\n\n\u003ch2 id=\"other-ways-to-submit-filings\"\u003eOther ways to submit filings\u003c/h2\u003e\n\n\u003cp\u003eIf you cannot or prefer not to use the E-Filing service, you can submit paper copies of forms and documents to the court by post or by hand. Find \u003ca rel=\"external\" href=\"https://www.find-court-tribunal.service.gov.uk/search-option\" class=\"govuk-link\"\u003ethe address of the court\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eYou can also choose to use some of the online services but not others. For example, you may prefer to submit a new claim by sending paper copies of forms or documents to the court; but then once a new case has been issued, follow your claim online and send additional documents using the E-Filing service.\u003c/p\u003e\n\n\u003cp\u003eE-Filing is mandatory in some jurisdictions for legally represented parties. Please refer to \u003ca rel=\"external\" href=\"https://www.justice.gov.uk/courts/procedure-rules/civil/rules/part51/practice-direction-51o-the-electronic-working-pilot-scheme\" class=\"govuk-link\"\u003epractice direction 510\u003c/a\u003e, paragraph 2.2.\u003c/p\u003e\n\n\u003ch2 id=\"advice-and-support\"\u003eAdvice and support\u003c/h2\u003e\n\n\u003cp\u003eIf you are a litigant in person and are unsure what documents you should send, whether you should use the E-Filing service or need help with understanding your case or any legal terminology, you can:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.find-court-tribunal.service.gov.uk/search-option\" class=\"govuk-link\"\u003econtact the court\u003c/a\u003e where your case or claim is being heard\u003c/li\u003e\n  \u003cli\u003eget legal advice from \u003ca rel=\"external\" href=\"https://www.rcjadvice.org.uk/\" class=\"govuk-link\"\u003eCitizen’s Advice\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003eget help with understanding the court process from the \u003ca rel=\"external\" href=\"https://www.supportthroughcourt.org/locations/london/royal-courts-of-justice/\" class=\"govuk-link\"\u003eSupport Through Court\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIf you need help selecting categories and filing types for your case or documents, \u003ca rel=\"external\" href=\"https://www.find-court-tribunal.service.gov.uk/search-option\" class=\"govuk-link\"\u003econtact the court\u003c/a\u003e where your case or claim is being heard.\u003c/p\u003e\n\n\u003cp\u003eIf you experience any technical issues with the E-Filing service, such as not being able to log in or upload a document, please email \u003ca href=\"mailto:efilesupport@justice.gov.uk\" class=\"govuk-link\"\u003eefilesupport@justice.gov.uk\u003c/a\u003e.\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Changed to King\u0027s Bench",
+                                               "public_timestamp":  "2022-09-30T16:08:34.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added Employment Appeal Tribunal to the listed courts",
+                                               "public_timestamp":  "2021-07-12T09:00:05.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added Upper Tribunal (Lands Chamber) to the list of applicable courts.",
+                                               "public_timestamp":  "2021-06-28T09:00:02.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2021-04-26T08:58:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "6f757605-ab8f-4b62-84e4-99f79cf085c2"
+                                                 ],
+                    "first_public_at":  "2021-04-26T08:58:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2021-04-26T08:58:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/hmcts-e-filing-service-for-citizens-and-professionals",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/hmcts-e-filing-service-for-citizens-and-professionals",
+                                                     "base_path":  "/guidance/hmcts-e-filing-service-for-citizens-and-professionals",
+                                                     "content_id":  "53a9c73b-6986-4ef3-906c-b79c89663eb6",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2022-09-30T15:08:34Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "HMCTS E-Filing service for citizens and professionals",
+                                                     "web_url":  "https://www.gov.uk/guidance/hmcts-e-filing-service-for-citizens-and-professionals",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "EA73",
+                                            "api_path":  "/api/content/government/organisations/hm-courts-and-tribunals-service",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-courts-and-tribunals-service",
+                                            "base_path":  "/government/organisations/hm-courts-and-tribunals-service",
+                                            "content_id":  "6f757605-ab8f-4b62-84e4-99f79cf085c2",
+                                            "details":  {
+                                                            "acronym":  "HMCTS",
+                                                            "brand":  "ministry-of-justice",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "HM Courts \u0026amp; \u003cbr/\u003eTribunals Service"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "HM Courts \u0026 Tribunals Service",
+                                            "web_url":  "https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA73",
+                                                                       "api_path":  "/api/content/government/organisations/hm-courts-and-tribunals-service",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-courts-and-tribunals-service",
+                                                                       "base_path":  "/government/organisations/hm-courts-and-tribunals-service",
+                                                                       "content_id":  "6f757605-ab8f-4b62-84e4-99f79cf085c2",
+                                                                       "details":  {
+                                                                                       "acronym":  "HMCTS",
+                                                                                       "brand":  "ministry-of-justice",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "HM Courts \u0026amp; \u003cbr/\u003eTribunals Service"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "HM Courts \u0026 Tribunals Service",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "EA73",
+                                                              "api_path":  "/api/content/government/organisations/hm-courts-and-tribunals-service",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-courts-and-tribunals-service",
+                                                              "base_path":  "/government/organisations/hm-courts-and-tribunals-service",
+                                                              "content_id":  "6f757605-ab8f-4b62-84e4-99f79cf085c2",
+                                                              "details":  {
+                                                                              "acronym":  "HMCTS",
+                                                                              "brand":  "ministry-of-justice",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "HM Courts \u0026amp; \u003cbr/\u003eTribunals Service"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "HM Courts \u0026 Tribunals Service",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/form-n1-claim-form-cpr-part-7",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/form-n1-claim-form-cpr-part-7",
+                                                              "base_path":  "/government/publications/form-n1-claim-form-cpr-part-7",
+                                                              "content_id":  "bc157473-8cdd-4add-af37-e06fdef39707",
+                                                              "document_type":  "form",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2025-01-08T11:45:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Make a claim against a person or organisation – claim form (CPR Part 7): Form N1",
+                                                              "web_url":  "https://www.gov.uk/government/publications/form-n1-claim-form-cpr-part-7",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/collections/commercial-court-forms",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/collections/commercial-court-forms",
+                                                              "base_path":  "/government/collections/commercial-court-forms",
+                                                              "content_id":  "4ce15546-fac0-4a26-ba9a-f4812532b8e0",
+                                                              "document_type":  "document_collection",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-01-21T13:47:04Z",
+                                                              "schema_name":  "document_collection",
+                                                              "title":  "Commercial Court forms",
+                                                              "web_url":  "https://www.gov.uk/government/collections/commercial-court-forms",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/form-n180-directions-questionnaire-small-claims-track",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/form-n180-directions-questionnaire-small-claims-track",
+                                                              "base_path":  "/government/publications/form-n180-directions-questionnaire-small-claims-track",
+                                                              "content_id":  "f567bf75-8779-4865-aead-8b58f4fbcfbc",
+                                                              "document_type":  "form",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-11-15T14:54:42Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Directions questionnaire - small claims track: Form N180",
+                                                              "web_url":  "https://www.gov.uk/government/publications/form-n180-directions-questionnaire-small-claims-track",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/how-to-use-the-hmcts-e-filing-service",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/how-to-use-the-hmcts-e-filing-service",
+                                                              "base_path":  "/government/publications/how-to-use-the-hmcts-e-filing-service",
+                                                              "content_id":  "1d29ebad-6c5c-4393-a634-c37bd0c43db0",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-11-22T10:28:15Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "How to use the HMCTS E-Filing service",
+                                                              "web_url":  "https://www.gov.uk/government/publications/how-to-use-the-hmcts-e-filing-service",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/how-to-appeal-to-the-employment-appeal-tribunal-t440",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/how-to-appeal-to-the-employment-appeal-tribunal-t440",
+                                                              "base_path":  "/government/publications/how-to-appeal-to-the-employment-appeal-tribunal-t440",
+                                                              "content_id":  "19a3db2d-5d6b-4027-96f5-9c41d5810cd4",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2023-10-02T08:22:06Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "How to appeal to the employment appeal tribunal (T440)",
+                                                              "web_url":  "https://www.gov.uk/government/publications/how-to-appeal-to-the-employment-appeal-tribunal-t440",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/crime-justice-and-law/courts-sentencing-tribunals",
+                                     "api_url":  "https://www.gov.uk/api/content/crime-justice-and-law/courts-sentencing-tribunals",
+                                     "base_path":  "/crime-justice-and-law/courts-sentencing-tribunals",
+                                     "content_id":  "357110bb-cbc5-4708-9711-1b26e6c63e86",
+                                     "details":  {
+                                                     "internal_name":  "Courts, sentencing and tribunals [M]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/crime-justice-and-law",
+                                                                             "api_url":  "https://www.gov.uk/api/content/crime-justice-and-law",
+                                                                             "base_path":  "/crime-justice-and-law",
+                                                                             "content_id":  "ba951b09-5146-43be-87af-44075eac3ae9",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Crime, justice and law",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:34:51Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Crime, justice and law",
+                                                                             "web_url":  "https://www.gov.uk/crime-justice-and-law",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-05T16:15:52Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Courts, sentencing and tribunals",
+                                     "web_url":  "https://www.gov.uk/crime-justice-and-law/courts-sentencing-tribunals",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2022-09-30T16:08:34+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "18327-1664550514.355-10.13.3.48-2222",
+    "publishing_scheduled_at":  "2021-07-19T09:00:00+01:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  5,
+    "schema_name":  "detailed_guide",
+    "title":  "HMCTS E-Filing service for citizens and professionals",
+    "updated_at":  "2025-01-08T11:45:01+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

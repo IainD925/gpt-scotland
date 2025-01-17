@@ -1,0 +1,410 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/hm-land-registry-portal-first-time-login-for-business-unit-administrators",
+    "content_id":  "b8f63119-2fbf-4310-8ba7-6ad37c783d09",
+    "description":  "How business unit administrators activate their account to create and manage user accounts.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eAs a business unit administrator, you should have the following from HM Land Registry to start using the portal:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ea security token (this is a one-touch number generator that is designed to be compact and easy to use. It generates a single-use number sequence, which is required every time you login to the system to create or update user accounts for your organisation)\u003c/li\u003e\n  \u003cli\u003ea username (userID) and a temporary password\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"first-time-login\"\u003eFirst-time login\u003c/h2\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://eservices.landregistry.gov.uk/eservices/ECHOM_HomepageServices?utm_medium=GOV.UK\u0026amp;utm_source=website\u0026amp;utm_campaign=first-time\u0026amp;utm_term=portalguide\u0026amp;utm_content=login-to-portal\" class=\"govuk-link\"\u003eLog in to the portal\u003c/a\u003e\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003eEnter your ‘Username’.\u003c/li\u003e\n  \u003cli\u003eEnter your temporary password.\u003c/li\u003e\n  \u003cli\u003eSelect ‘Login’ to continue.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cfigure class=\"image embedded\"\u003e\u003cdiv class=\"img\"\u003e\u003cimg src=\"https://assets.publishing.service.gov.uk/media/65ddf136cf7eb10011f57fda/Portal_log_in_screen_1_.png\" alt=\"\"\u003e\u003c/div\u003e\u003c/figure\u003e\n\n\u003ch2 id=\"choose-your-password\"\u003eChoose your password\u003c/h2\u003e\n\n\u003col\u003e\n  \u003cli\u003eYou need to change the temporary password to one of your own the first time you login, using the ‘Expired password’ screen.\u003cbr\u003e\nYour ‘New password’ must comply with the rules shown on-screen otherwise, it will be rejected by the system.\u003c/li\u003e\n  \u003cli\u003eEnter your temporary password in the ‘Old password’ field and your new one in the ‘New password’ and ‘Confirm new password’ fields.\u003c/li\u003e\n  \u003cli\u003eSelect ‘Change’ to continue.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cfigure class=\"image embedded\"\u003e\u003cdiv class=\"img\"\u003e\u003cimg src=\"https://assets.publishing.service.gov.uk/media/65ddf15dcf7eb10015f57fe7/change_password_login_1_.png\" alt=\"\"\u003e\u003c/div\u003e\u003c/figure\u003e\n\n\u003ch2 id=\"set-your-shared-secrets\"\u003eSet your ‘Shared secrets’\u003c/h2\u003e\n\n\u003cp\u003eAfter you have changed your password, the ‘Initialise Inactive User’ screen is displayed.\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003eYou must create answers to 3 ‘Shared Secrets’. \nThese are used as a security check if you later need to reset your password or security token. The rules governing the format of your answers are set out on screen.\nThe drop-down menu for each question contains a range of set questions.\n Once you have chosen a question from each drop-down menu, you must type in an answer only known to you.\u003c/li\u003e\n  \u003cli\u003eMake a note of your answers for future reference, but keep this information in a secure place.\u003c/li\u003e\n  \u003cli\u003eRemember to make sure that your answers comply with the on-screen rules.\u003c/li\u003e\n  \u003cli\u003eSelect ‘Save’ to continue. You will be prompted to amend an answer if it does not conform to the rules and then need to select ‘Save’ again.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cfigure class=\"image embedded\"\u003e\u003cdiv class=\"img\"\u003e\u003cimg src=\"https://assets.publishing.service.gov.uk/media/65ddf1bfcf7eb10011f57fde/shared_secrets_login_1_.png\" alt=\"\"\u003e\u003c/div\u003e\u003c/figure\u003e\n\n\u003ch2 id=\"your-security-token\"\u003eYour security token\u003c/h2\u003e\n\n\u003cp\u003eYou will need the security token sent to you by HM Land Registry. This is used to generate a unique 8 digit code.\u003c/p\u003e\n\n\u003cdiv class=\"call-to-action\"\u003e\n  \u003cp\u003eYou must keep your security token safe as you will need it to generate a number each time you:\u003c/p\u003e\n\n  \u003cul\u003e\n    \u003cli\u003elogin to your administrator account\u003c/li\u003e\n    \u003cli\u003ecreate a new user\u003c/li\u003e\n  \u003c/ul\u003e\n\u003c/div\u003e\n\n\u003col\u003e\n  \u003cli\u003eHold down the button on the front of the token for a few seconds until an 8 digit number appears on the screen.\u003c/li\u003e\n  \u003cli\u003eEnter the number into the ‘Token number’ field. You need to do this promptly as the token turns off after 60 seconds of inactivity.\u003c/li\u003e\n  \u003cli\u003eYou can turn off the token yourself by pressing the button again.\u003c/li\u003e\n  \u003cli\u003eSelect ‘Login’ to continue. The system checks the number you have entered and if verified, opens the ‘My Portal Home’ page.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cfigure class=\"image embedded\"\u003e\u003cdiv class=\"img\"\u003e\u003cimg src=\"https://assets.publishing.service.gov.uk/media/65ddf1deb8da630011c862d3/Security_token_1_.png\" alt=\"\"\u003e\u003c/div\u003e\u003c/figure\u003e\n\n\u003ch3 id=\"warning\"\u003eWarning\u003c/h3\u003e\n\n\u003cp\u003eIf you have pressed the button and generated a number 10 times without any being entered and verified by the system, the token will become locked. A message will be displayed informing you that this has happened and you will need to follow the on-screen instructions to reset it.\u003c/p\u003e\n\n\u003ch2 id=\"you-are-ready-to-start\"\u003eYou are ready to start\u003c/h2\u003e\n\n\u003cp\u003eYou can then start using \u003ca href=\"https://www.gov.uk/government/collections/how-to-use-the-land-registry-portal#administrative-services\" class=\"govuk-link\"\u003eAdministrative Services\u003c/a\u003e. Your business unit administrator account does not enable you to lodge applications. If you want to do this, you need to create a separate user account for yourself.\u003c/p\u003e\n\n\u003cp\u003eRead our \u003ca href=\"https://www.gov.uk/government/collections/how-to-use-the-land-registry-portal\" class=\"govuk-link\"\u003eportal guides\u003c/a\u003e including how to create and manage user accounts. We recommend that you read these and the following documents before starting:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca href=\"https://www.gov.uk/government/publications/conditions-of-use-hm-land-registry-business-e-services\" class=\"govuk-link\"\u003eConditions of use: the portal and Business Gateway\u003c/a\u003e for information about your responsibilities as a business unit administrator\u003c/li\u003e\n  \u003cli\u003e\n\u003ca href=\"https://www.gov.uk/government/publications/technical-manual\" class=\"govuk-link\"\u003eHM Land Registry Business e-services technical manual\u003c/a\u003e for more information about the business unit administrator role\u003c/li\u003e\n  \u003cli\u003e\n\u003ca href=\"https://www.gov.uk/government/publications/hm-land-registry-network-access-agreement\" class=\"govuk-link\"\u003eHM Land Registry Network Access Agreement\u003c/a\u003e for organisations using Network Services only\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"logout\"\u003eLogout\u003c/h2\u003e\n\n\u003cp\u003eWhen you have completed your tasks, select ‘Logout’ at the top of the screen to exit the system securely.\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "We\u0027ve updated the \u0027Your security token\u0027 section - you will need your security token to create a new user.",
+                                               "public_timestamp":  "2021-01-20T06:00:02.000+00:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2018-04-10T00:00:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "5c54ae52-341b-499e-a6dd-67f04633b8cf"
+                                                 ],
+                    "first_public_at":  "2018-04-10T00:00:00.000+01:00",
+                    "national_applicability":  {
+                                                   "england":  {
+                                                                   "applicable":  true,
+                                                                   "label":  "England"
+                                                               },
+                                                   "northern_ireland":  {
+                                                                            "alternative_url":  "",
+                                                                            "applicable":  false,
+                                                                            "label":  "Northern Ireland"
+                                                                        },
+                                                   "scotland":  {
+                                                                    "alternative_url":  "",
+                                                                    "applicable":  false,
+                                                                    "label":  "Scotland"
+                                                                },
+                                                   "wales":  {
+                                                                 "applicable":  true,
+                                                                 "label":  "Wales"
+                                                             }
+                                               },
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2018-04-10T00:00:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/hm-land-registry-portal-first-time-login-for-business-unit-administrators",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/hm-land-registry-portal-first-time-login-for-business-unit-administrators",
+                                                     "base_path":  "/guidance/hm-land-registry-portal-first-time-login-for-business-unit-administrators",
+                                                     "content_id":  "b8f63119-2fbf-4310-8ba7-6ad37c783d09",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2021-01-20T06:00:02Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "HM Land Registry portal: first time login for business unit administrators",
+                                                     "web_url":  "https://www.gov.uk/guidance/hm-land-registry-portal-first-time-login-for-business-unit-administrators",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/how-to-use-the-land-registry-portal",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/how-to-use-the-land-registry-portal",
+                                                   "base_path":  "/government/collections/how-to-use-the-land-registry-portal",
+                                                   "content_id":  "5f2ef30e-0751-4fa1-bc1c-ca63ff9dea9a",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/hm-land-registry-portal-first-time-login-for-business-unit-administrators",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/hm-land-registry-portal-first-time-login-for-business-unit-administrators",
+                                                                                       "base_path":  "/guidance/hm-land-registry-portal-first-time-login-for-business-unit-administrators",
+                                                                                       "content_id":  "b8f63119-2fbf-4310-8ba7-6ad37c783d09",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2021-01-20T06:00:02Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "HM Land Registry portal: first time login for business unit administrators",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/hm-land-registry-portal-first-time-login-for-business-unit-administrators",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2024-02-02T13:37:09Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "HM Land Registry portal: login and guides",
+                                                   "web_url":  "https://www.gov.uk/government/collections/how-to-use-the-land-registry-portal",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D69",
+                                            "api_path":  "/api/content/government/organisations/land-registry",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/land-registry",
+                                            "base_path":  "/government/organisations/land-registry",
+                                            "content_id":  "5c54ae52-341b-499e-a6dd-67f04633b8cf",
+                                            "details":  {
+                                                            "acronym":  "HM Land Registry",
+                                                            "brand":  "ministry-of-housing-communities-local-government",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37dad8ed915d5a5f96600a/s960_HMLR960640.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5a37dad7ed915d5a5f966009/s300_HMLR960640.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "formatted_title":  "HM Land Registry",
+                                                                         "image":  {
+                                                                                       "alt_text":  "HM Land Registry",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/59fa00e440f0b62eeb2ec8df/HMLR_logo.png"
+                                                                                   }
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "HM Land Registry",
+                                            "web_url":  "https://www.gov.uk/government/organisations/land-registry",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "D69",
+                                                                       "api_path":  "/api/content/government/organisations/land-registry",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/land-registry",
+                                                                       "base_path":  "/government/organisations/land-registry",
+                                                                       "content_id":  "5c54ae52-341b-499e-a6dd-67f04633b8cf",
+                                                                       "details":  {
+                                                                                       "acronym":  "HM Land Registry",
+                                                                                       "brand":  "ministry-of-housing-communities-local-government",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37dad8ed915d5a5f96600a/s960_HMLR960640.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5a37dad7ed915d5a5f966009/s300_HMLR960640.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "formatted_title":  "HM Land Registry",
+                                                                                                    "image":  {
+                                                                                                                  "alt_text":  "HM Land Registry",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/59fa00e440f0b62eeb2ec8df/HMLR_logo.png"
+                                                                                                              }
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "HM Land Registry",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/land-registry",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D69",
+                                                              "api_path":  "/api/content/government/organisations/land-registry",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/land-registry",
+                                                              "base_path":  "/government/organisations/land-registry",
+                                                              "content_id":  "5c54ae52-341b-499e-a6dd-67f04633b8cf",
+                                                              "details":  {
+                                                                              "acronym":  "HM Land Registry",
+                                                                              "brand":  "ministry-of-housing-communities-local-government",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37dad8ed915d5a5f96600a/s960_HMLR960640.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/5a37dad7ed915d5a5f966009/s300_HMLR960640.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "formatted_title":  "HM Land Registry",
+                                                                                           "image":  {
+                                                                                                         "alt_text":  "HM Land Registry",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/59fa00e440f0b62eeb2ec8df/HMLR_logo.png"
+                                                                                                     }
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "HM Land Registry",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/land-registry",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/land-registry-portal-change-of-organisation-name",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/land-registry-portal-change-of-organisation-name",
+                                                              "base_path":  "/guidance/land-registry-portal-change-of-organisation-name",
+                                                              "content_id":  "3bf00191-c83e-493c-bfc7-1a097e9a0bdf",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2016-05-13T14:27:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "HM Land Registry portal: change of organisation name",
+                                                              "web_url":  "https://www.gov.uk/guidance/land-registry-portal-change-of-organisation-name",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/technical-manual",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/technical-manual",
+                                                              "base_path":  "/government/publications/technical-manual",
+                                                              "content_id":  "5f62a52e-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2019-08-05T05:00:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "HM Land Registry Business e-services technical manual",
+                                                              "web_url":  "https://www.gov.uk/government/publications/technical-manual",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/certification-statement",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/certification-statement",
+                                                              "base_path":  "/government/publications/certification-statement",
+                                                              "content_id":  "5fe68dd0-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2014-08-14T11:09:51Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Certification statement",
+                                                              "web_url":  "https://www.gov.uk/government/publications/certification-statement",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/land-registry-portal-update-group",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/land-registry-portal-update-group",
+                                                              "base_path":  "/guidance/land-registry-portal-update-group",
+                                                              "content_id":  "10d2ff4d-5f3f-4e0d-b984-0157667a97cf",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2017-03-31T12:55:31Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "HM Land Registry portal: update group",
+                                                              "web_url":  "https://www.gov.uk/guidance/land-registry-portal-update-group",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/hm-land-registry-variable-direct-debit-vdd-mandate",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/hm-land-registry-variable-direct-debit-vdd-mandate",
+                                                              "base_path":  "/government/publications/hm-land-registry-variable-direct-debit-vdd-mandate",
+                                                              "content_id":  "615fdd34-1ede-4bc3-a07b-fdf497a7a8b8",
+                                                              "document_type":  "form",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-11-09T07:00:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "HM Land Registry: Variable Direct Debit mandate",
+                                                              "web_url":  "https://www.gov.uk/government/publications/hm-land-registry-variable-direct-debit-vdd-mandate",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/housing-local-and-community/land-registration",
+                                     "api_url":  "https://www.gov.uk/api/content/housing-local-and-community/land-registration",
+                                     "base_path":  "/housing-local-and-community/land-registration",
+                                     "content_id":  "82730dd2-4ead-4ae6-943b-2c910e758279",
+                                     "details":  {
+                                                     "internal_name":  "Land registration [T] (level 2, housing theme)",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/housing-local-and-community",
+                                                                             "api_url":  "https://www.gov.uk/api/content/housing-local-and-community",
+                                                                             "base_path":  "/housing-local-and-community",
+                                                                             "content_id":  "4794066e-e3cc-425e-8cc4-e7ff3edb4c39",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Housing, local and community",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:32:02Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Housing, local and community",
+                                                                             "web_url":  "https://www.gov.uk/housing-local-and-community",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-08-22T12:54:41Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Land registration",
+                                     "web_url":  "https://www.gov.uk/housing-local-and-community/land-registration",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2021-01-20T06:00:02+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1709044752.043-10.13.20.15-2282",
+    "publishing_scheduled_at":  "2021-01-20T06:00:00+00:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  2,
+    "schema_name":  "detailed_guide",
+    "title":  "HM Land Registry portal: first time login for business unit administrators",
+    "updated_at":  "2025-01-06T11:09:51+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

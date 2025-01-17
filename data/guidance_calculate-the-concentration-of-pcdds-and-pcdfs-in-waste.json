@@ -1,0 +1,580 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/calculate-the-concentration-of-pcdds-and-pcdfs-in-waste",
+    "content_id":  "53ecc02f-16c3-4b5f-8f68-e76551ad1df9",
+    "description":  "Work out the toxic equivalency factors of polychlorinated dibenzo-p-dioxins (PCDDs) and polychlorinated dibenzofurans (PCDFs) to calculate their concentration.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eYou are responsible under your \u003ca href=\"https://www.gov.uk/government/publications/waste-duty-of-care-code-of-practice\" class=\"govuk-link\"\u003eduty of care\u003c/a\u003e to know if your waste material contains persistent organic pollutants (\u003cabbr title=\"persistent organic pollutants\"\u003ePOPs\u003c/abbr\u003e). Polychlorinated dibenzo-p-dioxins (\u003cabbr title=\"polychlorinated dibenzo-p-dioxins\"\u003ePCDDs\u003c/abbr\u003e) and polychlorinated dibenzofurans (\u003cabbr title=\"polychlorinated dibenzofurans\"\u003ePCDFs\u003c/abbr\u003e) are \u003cabbr title=\"persistent organic pollutants\"\u003ePOPs\u003c/abbr\u003e.\u003c/p\u003e\n\n\u003cp\u003eYou will need to compare the concentration of \u003cabbr title=\"polychlorinated dibenzo-p-dioxins\"\u003ePCDDs\u003c/abbr\u003e and \u003cabbr title=\"polychlorinated dibenzofurans\"\u003ePCDFs\u003c/abbr\u003e in your waste to the concentration limits given in the guidance \u003ca href=\"https://www.gov.uk/guidance/identify-and-classify-waste-containing-persistent-organic-pollutants-pops\" class=\"govuk-link\"\u003eidentify and classify waste containing persistent organic pollutants\u003c/a\u003e. To do this, multiply the concentration of the specific \u003cabbr title=\"polychlorinated dibenzo-p-dioxins\"\u003ePCDD\u003c/abbr\u003e or \u003cabbr title=\"polychlorinated dibenzofurans\"\u003ePCDF\u003c/abbr\u003e in your waste by its toxic equivalency factor (\u003cabbr title=\"toxic equivalency factor\"\u003eTEF\u003c/abbr\u003e).\u003c/p\u003e\n\n\u003cp\u003eThis guidance lists the \u003cabbr title=\"toxic equivalency factors\"\u003eTEFs\u003c/abbr\u003e of each \u003cabbr title=\"polychlorinated dibenzo-p-dioxins\"\u003ePCDD\u003c/abbr\u003e and \u003cabbr title=\"polychlorinated dibenzofurans\"\u003ePCDF\u003c/abbr\u003e so that you can calculate the concentration.\u003c/p\u003e\n\n\u003cp\u003eOr you can email \u003ca href=\"mailto:chemicalrestrictions@environment-agency.gov.uk\" class=\"govuk-link\"\u003echemicalrestrictions@environment-agency.gov.uk\u003c/a\u003e if your material contains \u003cabbr title=\"polychlorinated dibenzo-p-dioxins\"\u003ePCDDs\u003c/abbr\u003e or \u003cabbr title=\"polychlorinated dibenzofurans\"\u003ePCDFs\u003c/abbr\u003e and you want to discuss how to calculate concentrations.\u003c/p\u003e\n\n\u003ch2 id=\"tefs-of-pcdds\"\u003e\n\u003cabbr title=\"toxic equivalency factors\"\u003eTEFs\u003c/abbr\u003e of \u003cabbr title=\"polychlorinated dibenzo-p-dioxins\"\u003ePCDDs\u003c/abbr\u003e\n\u003c/h2\u003e\n\n\u003cp\u003eThis table lists the \u003cabbr title=\"toxic equivalency factor\"\u003eTEF\u003c/abbr\u003e for each type of \u003cabbr title=\"polychlorinated dibenzo-p-dioxins\"\u003ePCDD\u003c/abbr\u003e.\u003c/p\u003e\n\n\u003ctable\u003e\n  \u003cthead\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"col\"\u003e\u003cabbr title=\"polychlorinated dibenzo-p-dioxins\"\u003ePCDD\u003c/abbr\u003e\u003c/th\u003e\n      \u003cth scope=\"col\" class=\"cell-text-right\"\u003e\u003cabbr title=\"toxic equivalency factor\"\u003eTEF\u003c/abbr\u003e\u003c/th\u003e\n    \u003c/tr\u003e\n  \u003c/thead\u003e\n  \u003ctbody\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e2,3,7,8-TeCDD\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e1\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e1,2,3,7,8-PeCDD\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e1\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e1,2,3,4,7,8-HxCDD\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e0.1\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e1,2,3,6,7,8-HxCDD\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e0.1\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e1,2,3,7,8,9-HxCDD\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e0.1\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e1,2,3,4,6,7,8-HpCDD\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e0.01\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eOCDD\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e0.0003\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e1,2,3,6,7,8-HxCDF\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e0.1\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e1,2,3,7,8,9-HxCDF\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e0.1\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e2,3,4,6,7,8-HxCDF\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e0.1\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e1,2,3,4,6,7,8-HpCDF\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e0.01\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e1,2,3,4,7,8,9-HpCDF\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e0.01\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eOCDF\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e0.0003\u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e\n\n\u003ch2 id=\"tefs-of-pcdfs\"\u003e\n\u003cabbr title=\"toxic equivalency factors\"\u003eTEFs\u003c/abbr\u003e of \u003cabbr title=\"polychlorinated dibenzofurans\"\u003ePCDFs\u003c/abbr\u003e\n\u003c/h2\u003e\n\n\u003cp\u003eThis table gives the \u003cabbr title=\"toxic equivalency factor\"\u003eTEF\u003c/abbr\u003e for each type of \u003cabbr title=\"polychlorinated dibenzofurans\"\u003ePCDF\u003c/abbr\u003e.\u003c/p\u003e\n\n\u003ctable\u003e\n  \u003cthead\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"col\"\u003e\u003cabbr title=\"polychlorinated dibenzofurans\"\u003ePCDF\u003c/abbr\u003e\u003c/th\u003e\n      \u003cth scope=\"col\" class=\"cell-text-right\"\u003e\u003cabbr title=\"toxic equivalency factor\"\u003eTEF\u003c/abbr\u003e\u003c/th\u003e\n    \u003c/tr\u003e\n  \u003c/thead\u003e\n  \u003ctbody\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e2,3,7,8-TeCDF\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e0.1\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e1,2,3,7,8-PeCDF\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e0.03\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e2,3,4,7,8-PeCDF\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e0.3\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e1,2,3,4,7,8-HxCDF\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e0.1\u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e\n\n\u003ch2 id=\"mixtures-of-multiple-pcdds-or-pcdfs\"\u003eMixtures of multiple \u003cabbr title=\"polychlorinated dibenzo-p-dioxins\"\u003ePCDDs\u003c/abbr\u003e or \u003cabbr title=\"polychlorinated dibenzofurans\"\u003ePCDFs\u003c/abbr\u003e\n\u003c/h2\u003e\n\n\u003cp\u003eIf your waste contains a mixture of several different \u003cabbr title=\"polychlorinated dibenzo-p-dioxins\"\u003ePCDDs\u003c/abbr\u003e and \u003cabbr title=\"polychlorinated dibenzofurans\"\u003ePCDFs\u003c/abbr\u003e, you need to multiply each \u003cabbr title=\"polychlorinated dibenzo-p-dioxins\"\u003ePCDD\u003c/abbr\u003e or \u003cabbr title=\"polychlorinated dibenzofurans\"\u003ePCDF\u003c/abbr\u003e by its \u003cabbr title=\"toxic equivalency factor\"\u003eTEF\u003c/abbr\u003e, and then add the concentrations together.\u003c/p\u003e\n\n\u003ch3 id=\"example-calculation\"\u003eExample calculation\u003c/h3\u003e\n\n\u003cp\u003eIf your waste contains 1,2,3,7,8-PeCDD at a concentration of 14μg (micrograms) per \u003cabbr title=\"kilograms\"\u003ekg\u003c/abbr\u003e and 1,2,3,4,7,8-HxCDD at a concentration of 30μg per \u003cabbr title=\"kilograms\"\u003ekg\u003c/abbr\u003e, you would calculate the concentration of \u003cabbr title=\"polychlorinated dibenzo-p-dioxins\"\u003ePCDDs\u003c/abbr\u003e and \u003cabbr title=\"polychlorinated dibenzofurans\"\u003ePCDFs\u003c/abbr\u003e as follows.\u003c/p\u003e\n\n\u003cdiv class=\"example\"\u003e\n\u003cp\u003e14μg per kg × 1 (TEF of 1,2,3,7,8-PeCDD) + 30μg per kg × 0.1 (TEF of 1,2,3,4,7,8-HxCDD)\u003cbr\u003e\n= 14μg per kg + 3μg per kg\u003cbr\u003e\n= 17μg per kg\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cp\u003eIn this case the concentration of \u003cabbr title=\"polychlorinated dibenzo-p-dioxins\"\u003ePCDDs\u003c/abbr\u003e and \u003cabbr title=\"polychlorinated dibenzofurans\"\u003ePCDFs\u003c/abbr\u003e in your waste would be above the threshold in the concentrations table (15μg per \u003cabbr title=\"kilograms\"\u003ekg\u003c/abbr\u003e). Therefore, you would have to follow the guidance \u003ca href=\"https://www.gov.uk/guidance/manage-waste-containing-persistent-organic-pollutants-pops\" class=\"govuk-link\"\u003emanage waste containing \u003cabbr title=\"persistent organic pollutants\"\u003ePOPs\u003c/abbr\u003e\u003c/a\u003e when you dispose of it.\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2022-12-19T09:00:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "16628142-57b2-4611-bc03-5912785acee3"
+                                                 ],
+                    "first_public_at":  "2022-12-19T09:00:00.000+00:00",
+                    "national_applicability":  {
+                                                   "england":  {
+                                                                   "applicable":  true,
+                                                                   "label":  "England"
+                                                               },
+                                                   "northern_ireland":  {
+                                                                            "alternative_url":  "",
+                                                                            "applicable":  false,
+                                                                            "label":  "Northern Ireland"
+                                                                        },
+                                                   "scotland":  {
+                                                                    "alternative_url":  "",
+                                                                    "applicable":  false,
+                                                                    "label":  "Scotland"
+                                                                },
+                                                   "wales":  {
+                                                                 "alternative_url":  "",
+                                                                 "applicable":  false,
+                                                                 "label":  "Wales"
+                                                             }
+                                               },
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2022-12-19T09:00:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/calculate-the-concentration-of-pcdds-and-pcdfs-in-waste",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/calculate-the-concentration-of-pcdds-and-pcdfs-in-waste",
+                                                     "base_path":  "/guidance/calculate-the-concentration-of-pcdds-and-pcdfs-in-waste",
+                                                     "content_id":  "53ecc02f-16c3-4b5f-8f68-e76551ad1df9",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2022-12-19T09:00:00Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Calculate the concentration of PCDDs and PCDFs in waste",
+                                                     "web_url":  "https://www.gov.uk/guidance/calculate-the-concentration-of-pcdds-and-pcdfs-in-waste",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "EA199",
+                                            "api_path":  "/api/content/government/organisations/environment-agency",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/environment-agency",
+                                            "base_path":  "/government/organisations/environment-agency",
+                                            "content_id":  "16628142-57b2-4611-bc03-5912785acee3",
+                                            "details":  {
+                                                            "acronym":  "EA",
+                                                            "brand":  "department-for-environment-food-rural-affairs",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/62c56ed9e90e0774833f5583/s960_EA-officer-high-viz-jacket_960x640.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/62c56ed9d3bf7f30034430da/s300_EA-officer-high-viz-jacket_960x640.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "formatted_title":  "Environment Agency",
+                                                                         "image":  {
+                                                                                       "alt_text":  "Environment Agency",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/61fd3365e90e0768a8e97523/environment-agency-logo-480w.png"
+                                                                                   }
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Environment Agency",
+                                            "web_url":  "https://www.gov.uk/government/organisations/environment-agency",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA199",
+                                                                       "api_path":  "/api/content/government/organisations/environment-agency",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/environment-agency",
+                                                                       "base_path":  "/government/organisations/environment-agency",
+                                                                       "content_id":  "16628142-57b2-4611-bc03-5912785acee3",
+                                                                       "details":  {
+                                                                                       "acronym":  "EA",
+                                                                                       "brand":  "department-for-environment-food-rural-affairs",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/62c56ed9e90e0774833f5583/s960_EA-officer-high-viz-jacket_960x640.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/62c56ed9d3bf7f30034430da/s300_EA-officer-high-viz-jacket_960x640.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "formatted_title":  "Environment Agency",
+                                                                                                    "image":  {
+                                                                                                                  "alt_text":  "Environment Agency",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/61fd3365e90e0768a8e97523/environment-agency-logo-480w.png"
+                                                                                                              }
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Environment Agency",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/environment-agency",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "EA199",
+                                                              "api_path":  "/api/content/government/organisations/environment-agency",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/environment-agency",
+                                                              "base_path":  "/government/organisations/environment-agency",
+                                                              "content_id":  "16628142-57b2-4611-bc03-5912785acee3",
+                                                              "details":  {
+                                                                              "acronym":  "EA",
+                                                                              "brand":  "department-for-environment-food-rural-affairs",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/62c56ed9e90e0774833f5583/s960_EA-officer-high-viz-jacket_960x640.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/62c56ed9d3bf7f30034430da/s300_EA-officer-high-viz-jacket_960x640.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "formatted_title":  "Environment Agency",
+                                                                                           "image":  {
+                                                                                                         "alt_text":  "Environment Agency",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/61fd3365e90e0768a8e97523/environment-agency-logo-480w.png"
+                                                                                                     }
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Environment Agency",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/environment-agency",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related_guides":  [
+                                         {
+                                             "api_path":  "/api/content/guidance/identify-and-classify-waste-containing-persistent-organic-pollutants-pops",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/identify-and-classify-waste-containing-persistent-organic-pollutants-pops",
+                                             "base_path":  "/guidance/identify-and-classify-waste-containing-persistent-organic-pollutants-pops",
+                                             "content_id":  "3bcb32ff-2e3b-4814-bc9b-a834ddd86785",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2022-12-19T09:00:00Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Identify and classify waste containing persistent organic pollutants (POPs)",
+                                             "web_url":  "https://www.gov.uk/guidance/identify-and-classify-waste-containing-persistent-organic-pollutants-pops",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/manage-waste-containing-persistent-organic-pollutants-pops",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/manage-waste-containing-persistent-organic-pollutants-pops",
+                                             "base_path":  "/guidance/manage-waste-containing-persistent-organic-pollutants-pops",
+                                             "content_id":  "a3efaa90-a84c-4e30-9109-5534a405a184",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2022-12-19T09:00:00Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Manage waste containing persistent organic pollutants (POPs)",
+                                             "web_url":  "https://www.gov.uk/guidance/manage-waste-containing-persistent-organic-pollutants-pops",
+                                             "withdrawn":  false
+                                         }
+                                     ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/classify-some-waste-electrical-devices-components-and-wastes-from-their-treatment",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/classify-some-waste-electrical-devices-components-and-wastes-from-their-treatment",
+                                                              "base_path":  "/guidance/classify-some-waste-electrical-devices-components-and-wastes-from-their-treatment",
+                                                              "content_id":  "0bbee01e-8e13-418d-a87a-8cc9bbc9dd38",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-09-25T08:00:03Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Classify some waste electrical devices and components, and wastes from their treatment",
+                                                              "web_url":  "https://www.gov.uk/guidance/classify-some-waste-electrical-devices-components-and-wastes-from-their-treatment",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/shredding-waste-upholstered-domestic-seating-containing-pops-rps-264",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/shredding-waste-upholstered-domestic-seating-containing-pops-rps-264",
+                                                              "base_path":  "/government/publications/shredding-waste-upholstered-domestic-seating-containing-pops-rps-264",
+                                                              "content_id":  "b75b6685-750d-480c-830d-757e91b2e181",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-12-19T09:00:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Shredding waste upholstered domestic seating containing POPs: RPS 264",
+                                                              "web_url":  "https://www.gov.uk/government/publications/shredding-waste-upholstered-domestic-seating-containing-pops-rps-264",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/reusing-waste-electrical-and-electronic-equipment-weee-and-components-removed-from-weee",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/reusing-waste-electrical-and-electronic-equipment-weee-and-components-removed-from-weee",
+                                                              "base_path":  "/guidance/reusing-waste-electrical-and-electronic-equipment-weee-and-components-removed-from-weee",
+                                                              "content_id":  "7fca96a8-767d-493f-935f-66e14ca7ae1e",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-12-19T09:00:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Reusing waste electrical and electronic equipment (WEEE) and components removed from WEEE",
+                                                              "web_url":  "https://www.gov.uk/guidance/reusing-waste-electrical-and-electronic-equipment-weee-and-components-removed-from-weee",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/environment/chemicals",
+                                     "api_url":  "https://www.gov.uk/api/content/environment/chemicals",
+                                     "base_path":  "/environment/chemicals",
+                                     "content_id":  "22ad4441-9fb5-447b-950c-bf33466b31bb",
+                                     "details":  {
+                                                     "internal_name":  "Chemicals [T] (level 3, environment theme)",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/environment",
+                                                                             "api_url":  "https://www.gov.uk/api/content/environment",
+                                                                             "base_path":  "/environment",
+                                                                             "content_id":  "3cf97f69-84de-41ae-bc7b-7e2cc238fa58",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Environment",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T13:39:00Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Environment",
+                                                                             "web_url":  "https://www.gov.uk/environment",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-05T16:13:07Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Chemicals",
+                                     "web_url":  "https://www.gov.uk/environment/chemicals",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/environment/pollution-and-environmental-quality",
+                                     "api_url":  "https://www.gov.uk/api/content/environment/pollution-and-environmental-quality",
+                                     "base_path":  "/environment/pollution-and-environmental-quality",
+                                     "content_id":  "a1efce91-28c3-4a33-a2fd-48364b1119a4",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Pollution and environmental quality",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/environment",
+                                                                             "api_url":  "https://www.gov.uk/api/content/environment",
+                                                                             "base_path":  "/environment",
+                                                                             "content_id":  "3cf97f69-84de-41ae-bc7b-7e2cc238fa58",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Environment",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T13:39:00Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Environment",
+                                                                             "web_url":  "https://www.gov.uk/environment",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-16T10:32:22Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Pollution and environmental quality",
+                                     "web_url":  "https://www.gov.uk/environment/pollution-and-environmental-quality",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/environment/waste-environment",
+                                     "api_url":  "https://www.gov.uk/api/content/environment/waste-environment",
+                                     "base_path":  "/environment/waste-environment",
+                                     "content_id":  "090c16bc-7b3e-42cd-b93c-645ab43fae30",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Waste and environmental impact",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/environment/waste-and-recycling",
+                                                                             "api_url":  "https://www.gov.uk/api/content/environment/waste-and-recycling",
+                                                                             "base_path":  "/environment/waste-and-recycling",
+                                                                             "content_id":  "f4e9e92d-9192-4e17-90c6-553339bc04c3",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Waste and recycling",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/environment",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/environment",
+                                                                                                                     "base_path":  "/environment",
+                                                                                                                     "content_id":  "3cf97f69-84de-41ae-bc7b-7e2cc238fa58",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Environment",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T13:39:00Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Environment",
+                                                                                                                     "web_url":  "https://www.gov.uk/environment",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T11:57:52Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Waste and recycling",
+                                                                             "web_url":  "https://www.gov.uk/environment/waste-and-recycling",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-16T11:55:40Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Waste and environmental impact",
+                                     "web_url":  "https://www.gov.uk/environment/waste-environment",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/environment/waste-management",
+                                     "api_url":  "https://www.gov.uk/api/content/environment/waste-management",
+                                     "base_path":  "/environment/waste-management",
+                                     "content_id":  "a8914bfb-2b86-4550-86c3-6dd55a331012",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Waste management",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/environment/waste-and-recycling",
+                                                                             "api_url":  "https://www.gov.uk/api/content/environment/waste-and-recycling",
+                                                                             "base_path":  "/environment/waste-and-recycling",
+                                                                             "content_id":  "f4e9e92d-9192-4e17-90c6-553339bc04c3",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Waste and recycling",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/environment",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/environment",
+                                                                                                                     "base_path":  "/environment",
+                                                                                                                     "content_id":  "3cf97f69-84de-41ae-bc7b-7e2cc238fa58",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Environment",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T13:39:00Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Environment",
+                                                                                                                     "web_url":  "https://www.gov.uk/environment",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T11:57:52Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Waste and recycling",
+                                                                             "web_url":  "https://www.gov.uk/environment/waste-and-recycling",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-16T11:54:45Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Waste management",
+                                     "web_url":  "https://www.gov.uk/environment/waste-management",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2022-12-19T09:00:00+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1683307063.603-10.13.26.199-403",
+    "publishing_scheduled_at":  "2022-12-19T09:00:00+00:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  1,
+    "schema_name":  "detailed_guide",
+    "title":  "Calculate the concentration of PCDDs and PCDFs in waste",
+    "updated_at":  "2024-12-02T09:40:30+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

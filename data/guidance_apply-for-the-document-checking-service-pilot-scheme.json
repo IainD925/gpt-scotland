@@ -1,0 +1,390 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/apply-for-the-document-checking-service-pilot-scheme",
+    "content_id":  "f49e5656-b558-4364-91be-1a02ed8ddfed",
+    "description":  "The Document Checking Service (DCS) pilot helps organisations digitally check whether British passports are valid.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003ch2 id=\"overview\"\u003eOverview\u003c/h2\u003e\n\n\u003cp\u003eThe Document Checking Service (DCS) pilot is for non-public sector organisations that want to find out if British passports are valid.\u003c/p\u003e\n\n\u003cp\u003eYou may need to do these checks as part of giving users access to an online service. The purpose of the checks must be to prevent crime.\u003c/p\u003e\n\n\u003cdiv class=\"call-to-action\"\u003e\n\u003cp\u003eApplications to the pilot scheme are now closed.\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cp\u003ePassport checks will be carried out through the DCS - a technical component run by the Government Digital Service (GDS).\u003c/p\u003e\n\n\u003cp\u003eThe DCS will check passport details against the HM Passport Office (HMPO) database. It will send your organisation a ‘yes’ or ‘no’ response to say whether the passport is valid. No organisations will be given direct access to government-held data.\u003c/p\u003e\n\n\u003cp\u003eThe pilot is a collaborative project run by GDS, the Department for Digital, Culture, Media and Sport (DCMS) and HM Passport Office (HMPO). It was \u003ca href=\"https://www.gov.uk/government/news/new-plans-to-make-it-safer-for-people-to-confirm-their-identity-online\" class=\"govuk-link\"\u003eannounced in July 2019\u003c/a\u003e and feedback from a stakeholder event in August 2019 informed the design of the pilot. The \u003ca href=\"https://www.gov.uk/government/news/innovative-new-pilot-launched-to-speed-up-access-to-key-services\" class=\"govuk-link\"\u003epilot was launched in August 2020\u003c/a\u003e and runs to the end of March 2022.\u003c/p\u003e\n\n\u003ch3 id=\"objectives\"\u003eObjectives\u003c/h3\u003e\n\n\u003cp\u003eThe pilot’s objectives are to:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003etest the industry demand for checking information given by a user against government data sources\u003c/li\u003e\n  \u003cli\u003eunderstand the different ways that organisations could use digital passport checks\u003c/li\u003e\n  \u003cli\u003etest the technical design that would make these checks possible\u003c/li\u003e\n  \u003cli\u003ecapture consumer interest and experience of these checks, and perception of this use of passport data\u003c/li\u003e\n  \u003cli\u003eunderstand if this is commercially viable, for the government and the organisations taking part\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"how-the-check-works\"\u003eHow the check works\u003c/h2\u003e\n\n\u003cp\u003eTo check if a passport is valid, your users will need to provide their:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003epassport number\u003c/li\u003e\n  \u003cli\u003eforenames\u003c/li\u003e\n  \u003cli\u003esurname\u003c/li\u003e\n  \u003cli\u003edate of birth\u003c/li\u003e\n  \u003cli\u003epassport expiry date\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe DCS sends a request to HMPO. The DCS will then tell your organisation if the passport is valid by sending it a ‘yes’ or ‘no’ response.\u003c/p\u003e\n\n\u003cp\u003eA passport that’s been cancelled or reported as lost or stolen will return a ‘no’ response, but the check will not show what caused this response.\u003c/p\u003e\n\n\u003cp\u003eA ‘yes’ response confirms the passport is valid at the point in time it is checked. A passport may later be cancelled, lost or stolen. If you check the same passport details again in the future, it will count as a new check for billing and volume reasons.\u003c/p\u003e\n\n\u003cp\u003eYou can pass on the trust from the check to a third party. The purpose of the third party’s check will also need to be to prevent crime. The check confirms passport validity at the point in time it is checked. Beyond this point, there’s a risk the check may no longer be valid because the status of the passport may have changed.\u003c/p\u003e\n\n\u003ch2 id=\"how-much-it-costs\"\u003eHow much it costs\u003c/h2\u003e\n\n\u003cp\u003eYou’ll need to pay a one-off connection fee for the pilot and 50p per check. The connection fee is tiered by the volume of checks you want to do. You’ll pay:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e£1,500 for 5,000 to 10,000 checks\u003c/li\u003e\n  \u003cli\u003e£3,000 for 10,001 to 100,000 checks\u003c/li\u003e\n  \u003cli\u003e£5,000 for 100,001 to 500,000 checks\u003c/li\u003e\n  \u003cli\u003e£10,000 for 500,001 to 1 million checks\u003c/li\u003e\n  \u003cli\u003e£15,000 for over 1 million checks\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou must be able to make at least 5,000 checks to take part.\u003c/p\u003e\n\n\u003ch2 id=\"amount-of-checks-available\"\u003eAmount of checks available\u003c/h2\u003e\n\n\u003cp\u003eYou’ll have an agreed total number of checks you can do over the duration of the pilot.\u003c/p\u003e\n\n\u003cp\u003eYou’ll also have a \u003ca rel=\"external\" href=\"https://dcs-pilot-docs.cloudapps.digital/api-reference/#understand-rate-limits-in-the-dcs\" class=\"govuk-link\"\u003erate limit\u003c/a\u003e on the number of checks you can make over set periods of time within the pilot.\u003c/p\u003e\n\n\u003ch2 id=\"how-long-the-pilot-will-last\"\u003eHow long the pilot will last\u003c/h2\u003e\n\n\u003cp\u003eThe pilot will run until 31 March 2022. Applications to the pilot are now closed.\u003c/p\u003e\n\n\u003cp\u003eOrganisations can take part for different amounts of time if they want to. This means some participants connect to the DCS at a later stage in the pilot.\u003c/p\u003e\n\n\u003ch2 id=\"connecting-to-the-dcs\"\u003eConnecting to the DCS\u003c/h2\u003e\n\n\u003cp\u003eOnce selected, all organisations need to:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003esign a contract\u003c/li\u003e\n  \u003cli\u003eanswer questions and submit evidence to demonstrate that you meet the \u003ca href=\"https://www.gov.uk/guidance/requirements-for-joining-the-document-checking-service-pilot\" class=\"govuk-link\"\u003epilot requirements\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003edo the technical work to \u003ca rel=\"external\" href=\"https://dcs-pilot-docs.cloudapps.digital\" class=\"govuk-link\"\u003ebuild your service and connect it to the DCS integration environment\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eAfter this, you can connect to the DCS production environment and start making DCS checks.\u003c/p\u003e\n\n\u003ch2 id=\"after-the-pilot\"\u003eAfter the pilot\u003c/h2\u003e\n\n\u003cp\u003eWe recognise that organisations taking part in the pilot will want to know what will happen at the end of it.\u003c/p\u003e\n\n\u003cp\u003eThe pilot is an opportunity to test industry demand for checking information given by a user against government data sources.\u003c/p\u003e\n\n\u003cp\u003eIt may be a way of showing that there is a need for longer-term access to a passport validity check. We want to work with stakeholders in non-public sector organisations to explore the best way to meet the demand for passport data. It may also help the government understand the potential value of safely checking other data sources.\u003c/p\u003e\n\n\u003cp\u003eWe will keep pilot participants updated on any relevant developments.\u003c/p\u003e\n\n\u003ch2 id=\"contact-information\"\u003eContact information\u003c/h2\u003e\n\n\u003cp\u003eFor press enquiries, call 020 7276 7545 or email \u003ca href=\"mailto:pressoffice@cabinetoffice.gov.uk\" class=\"govuk-link\"\u003epressoffice@cabinetoffice.gov.uk\u003c/a\u003e\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Removed DCMS pilot team email as it is no longer active/valid.",
+                                               "public_timestamp":  "2022-10-18T14:40:20.000+01:00"
+                                           },
+                                           {
+                                               "note":  "The pilot has been extended until 31 March 2022.",
+                                               "public_timestamp":  "2021-07-29T15:19:32.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated as applications to the pilot are now closed.",
+                                               "public_timestamp":  "2020-09-29T11:16:58.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated to say that applications are open again for organisations that submitted a formal expression of interest before 20 October 2019. ",
+                                               "public_timestamp":  "2020-09-14T16:18:01.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added a note that organisations were selected to take part in the pilot before July 2020. Added contact details for press enquiries.",
+                                               "public_timestamp":  "2020-08-10T13:01:27.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated the process for connecting to the DCS.",
+                                               "public_timestamp":  "2020-05-01T15:20:46.000+01:00"
+                                           },
+                                           {
+                                               "note":  "The application stage is now closed. ",
+                                               "public_timestamp":  "2020-02-22T00:15:07.000+00:00"
+                                           },
+                                           {
+                                               "note":  "The application stage is now open for organisations that had their expressions of interest accepted.",
+                                               "public_timestamp":  "2020-02-06T16:40:11.000+00:00"
+                                           },
+                                           {
+                                               "note":  "The expression of interest is now closed. ",
+                                               "public_timestamp":  "2019-10-21T00:00:10.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2019-10-01T13:56:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "af07d5a5-df63-4ddc-9383-6a666845ebe9"
+                                                 ],
+                    "first_public_at":  "2019-10-01T13:56:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2019-10-01T13:56:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/apply-for-the-document-checking-service-pilot-scheme",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/apply-for-the-document-checking-service-pilot-scheme",
+                                                     "base_path":  "/guidance/apply-for-the-document-checking-service-pilot-scheme",
+                                                     "content_id":  "f49e5656-b558-4364-91be-1a02ed8ddfed",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2022-10-18T13:40:20Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "About the Document Checking Service pilot scheme",
+                                                     "web_url":  "https://www.gov.uk/guidance/apply-for-the-document-checking-service-pilot-scheme",
+                                                     "withdrawn":  true
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "ordered_related_items":  [
+                                                {
+                                                    "api_path":  "/api/content/government/consultations/digital-identity",
+                                                    "api_url":  "https://www.gov.uk/api/content/government/consultations/digital-identity",
+                                                    "base_path":  "/government/consultations/digital-identity",
+                                                    "content_id":  "50a8a192-b453-436f-9211-fb4de5b468d5",
+                                                    "document_type":  "consultation_outcome",
+                                                    "links":  {
+
+                                                              },
+                                                    "locale":  "en",
+                                                    "public_updated_at":  "2020-09-08T17:50:23Z",
+                                                    "schema_name":  "consultation",
+                                                    "title":  "Digital identity",
+                                                    "web_url":  "https://www.gov.uk/government/consultations/digital-identity",
+                                                    "withdrawn":  false
+                                                },
+                                                {
+                                                    "api_path":  "/api/content/government/news/new-plans-to-make-it-safer-for-people-to-confirm-their-identity-online",
+                                                    "api_url":  "https://www.gov.uk/api/content/government/news/new-plans-to-make-it-safer-for-people-to-confirm-their-identity-online",
+                                                    "base_path":  "/government/news/new-plans-to-make-it-safer-for-people-to-confirm-their-identity-online",
+                                                    "content_id":  "f8d03854-9d12-4f40-a423-382ca2bd3115",
+                                                    "document_type":  "press_release",
+                                                    "links":  {
+
+                                                              },
+                                                    "locale":  "en",
+                                                    "public_updated_at":  "2019-07-19T08:30:00Z",
+                                                    "schema_name":  "news_article",
+                                                    "title":  "New plans to make it safer for people to confirm their identity online",
+                                                    "web_url":  "https://www.gov.uk/government/news/new-plans-to-make-it-safer-for-people-to-confirm-their-identity-online",
+                                                    "withdrawn":  false
+                                                }
+                                            ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "OT1056",
+                                            "api_path":  "/api/content/government/organisations/government-digital-service",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+                                            "base_path":  "/government/organisations/government-digital-service",
+                                            "content_id":  "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+                                            "details":  {
+                                                            "acronym":  "GDS",
+                                                            "brand":  "department-for-science-innovation-and-technology",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Government Digital Service"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Government Digital Service",
+                                            "web_url":  "https://www.gov.uk/government/organisations/government-digital-service",
+                                            "withdrawn":  false
+                                        },
+                                        {
+                                            "analytics_identifier":  "D5",
+                                            "api_path":  "/api/content/government/organisations/department-for-digital-culture-media-sport",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-digital-culture-media-sport",
+                                            "base_path":  "/government/organisations/department-for-digital-culture-media-sport",
+                                            "content_id":  "fd62c5a4-714d-47fe-a612-595d1739251c",
+                                            "details":  {
+                                                            "acronym":  "",
+                                                            "brand":  "department-for-culture-media-sport",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37daeded915d5a62fdc709/s960_100PS_960.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5a37daeeed915d5a62fdc70a/s300_100PS_960.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Department for\u003cbr/\u003eDigital, Culture,\u003cbr/\u003eMedia \u0026amp; Sport"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "split",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  ""
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Department for Digital, Culture, Media \u0026 Sport",
+                                            "web_url":  "https://www.gov.uk/government/organisations/department-for-digital-culture-media-sport",
+                                            "withdrawn":  false
+                                        },
+                                        {
+                                            "analytics_identifier":  "EA66",
+                                            "api_path":  "/api/content/government/organisations/hm-passport-office",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-passport-office",
+                                            "base_path":  "/government/organisations/hm-passport-office",
+                                            "content_id":  "3a96a1e0-21e3-4aae-8e84-f90860ed3dbf",
+                                            "details":  {
+                                                            "acronym":  "HM Passport Office",
+                                                            "brand":  "home-office",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "ho",
+                                                                         "formatted_title":  "HM Passport\u003cbr/\u003eOffice"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "HM Passport Office",
+                                            "web_url":  "https://www.gov.uk/government/organisations/hm-passport-office",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "OT1056",
+                                                                       "api_path":  "/api/content/government/organisations/government-digital-service",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+                                                                       "base_path":  "/government/organisations/government-digital-service",
+                                                                       "content_id":  "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+                                                                       "details":  {
+                                                                                       "acronym":  "GDS",
+                                                                                       "brand":  "department-for-science-innovation-and-technology",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Government Digital Service"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Government Digital Service",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/government-digital-service",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "OT1056",
+                                                              "api_path":  "/api/content/government/organisations/government-digital-service",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+                                                              "base_path":  "/government/organisations/government-digital-service",
+                                                              "content_id":  "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+                                                              "details":  {
+                                                                              "acronym":  "GDS",
+                                                                              "brand":  "department-for-science-innovation-and-technology",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Government Digital Service"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Government Digital Service",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/government-digital-service",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/government/technology-guidance-technology-guidance-identity-assurance",
+                                     "api_url":  "https://www.gov.uk/api/content/government/technology-guidance-technology-guidance-identity-assurance",
+                                     "base_path":  "/government/technology-guidance-technology-guidance-identity-assurance",
+                                     "content_id":  "28e3bfa0-7148-4ab4-8bd9-a839e0563869",
+                                     "details":  {
+                                                     "internal_name":  "Identity assurance [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/technology-guidance-digital-security",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/technology-guidance-digital-security",
+                                                                             "base_path":  "/government/technology-guidance-digital-security",
+                                                                             "content_id":  "578871e4-b755-4664-b0e6-1b2e8b841600",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Digital security",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/government/government-technology-and-digital-services",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/government/government-technology-and-digital-services",
+                                                                                                                     "base_path":  "/government/government-technology-and-digital-services",
+                                                                                                                     "content_id":  "90c9b9f1-0a4f-4639-b1e9-2bfb23d611bd",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Government technology and digital services",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  false
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "parent_taxons":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "beta",
+                                                                                                                     "public_updated_at":  "2018-08-28T10:56:47Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Government technology and digital services",
+                                                                                                                     "web_url":  "https://www.gov.uk/government/government-technology-and-digital-services",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "beta",
+                                                                             "public_updated_at":  "2018-08-20T09:26:15Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Digital security",
+                                                                             "web_url":  "https://www.gov.uk/government/technology-guidance-digital-security",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "beta",
+                                     "public_updated_at":  "2018-08-20T09:26:15Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Identity assurance",
+                                     "web_url":  "https://www.gov.uk/government/technology-guidance-technology-guidance-identity-assurance",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2022-10-18T14:40:20+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "8709-1666100420.166-10.13.1.109-2307",
+    "publishing_scheduled_at":  "2020-11-16T08:30:00+00:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  10,
+    "schema_name":  "detailed_guide",
+    "title":  "About the Document Checking Service pilot scheme",
+    "updated_at":  "2024-11-20T10:34:36+00:00",
+    "withdrawn_notice":  {
+                             "explanation":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eThe Document Checking Service pilot ended on 31 March 2022.\u003c/p\u003e\n\u003c/div\u003e",
+                             "withdrawn_at":  "2022-03-31T16:07:43Z"
+                         }
+}

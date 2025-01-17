@@ -1,0 +1,631 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/fishing-activity-and-landings-data-collection-and-processing",
+    "content_id":  "5fa9bb05-7631-11e4-a3cb-005056011aef",
+    "description":  "How data on landings statistics are collected and processed by fisheries administrations in the UK. ",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.spreadsheet",
+                                            "file_size":  116438,
+                                            "filename":  "Monthly_lags_-_current_month.ods",
+                                            "id":  "4921650",
+                                            "title":  "Monthly_lags_-_current_month_ODF_",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6012d01bd3bf7f05c527c14b/Monthly_lags_-_current_month.ods"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/excel",
+                                            "file_size":  201728,
+                                            "filename":  "Monthly_lags_2016_-_year_to_date.xls",
+                                            "id":  "4921651",
+                                            "title":  "Monthly lags - year to date",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a758980e5274a4f4677ee92/Monthly_lags_2016_-_year_to_date.xls"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.ms-excel",
+                                            "file_size":  80896,
+                                            "filename":  "Monthly_data_-_2008_to_2013.xls",
+                                            "id":  "4921652",
+                                            "title":  "Monthly data 2008 to 2013",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5baca930ed915d25a05879fd/Monthly_data_-_2008_to_2013.xls"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eFishing statistics are calculated using data collected and processed by fisheries administrations in the UK:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eMarine Management Organisation (\u003cabbr title=\"Marine Management Organisation\"\u003eMMO\u003c/abbr\u003e)\u003c/li\u003e\n  \u003cli\u003eMarine Scotland\u003c/li\u003e\n  \u003cli\u003eDepartment of Agriculture, Environment and Rural Affairs - Northern Ireland (DAERA)\u003c/li\u003e\n  \u003cli\u003eWelsh Government\u003c/li\u003e\n  \u003cli\u003eDepartments in Jersey, Guernsey and Isle of Man\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe activity data collected are part of the monitoring and control of fishing activity required by each Member State under various sets of EU legislation.  There are two main pieces of legislation that set out these requirements:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eThe basic legislation that sets out the measures under the EU Common Fisheries Policy:  \u003ca rel=\"external\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32013R1380\u0026amp;qid=1441808163437\u0026amp;from=EN\" class=\"govuk-link\"\u003eCouncil regulation (EU) No. 1380/2013\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003eThe legislation that sets out the control system for ensuring compliance with the rules of the common fisheries policy: \u003ca rel=\"external\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32009R1224\u0026amp;qid=1441808259209\u0026amp;from=EN\" class=\"govuk-link\"\u003eCouncil regulation (EU) No. 1224/2009\u003c/a\u003e.\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThis requires skippers to keep and submit logbooks, and provide landing declarations and sales notes.\u003c/p\u003e\n\n\u003cp\u003eThe responsibility for fisheries management and control within the UK is a devolved matter and there is a significant degree of delegation of responsibility to each administration. Fisheries administrations have autonomy in how they manage activity allowing each administration to structure its operations in ways that suit their own specific management issues. However, all administrations work together to ensure that collectively there are common standards of monitoring and enforcement of EU legislation.\u003c/p\u003e\n\n\u003cp\u003eIn addition to the reporting requirements that are set out in EU legislation, the master, owner or charterer of a licensed fishing vessel can be required to provide statistical information and other information. Details are in the \u003ca rel=\"external\" href=\"http://www.legislation.gov.uk/ukpga/1967/84/introduction\" class=\"govuk-link\"\u003eSea Fisheries (Conservation) Act 1967\u003c/a\u003e and the \u003ca rel=\"external\" href=\"http://www.legislation.gov.uk/ukpga/1992/60/contents\" class=\"govuk-link\"\u003eSea Fish (Conservation) Act 1992\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eThe method and exact nature of the data collected on fishing activity depends on the length of the vessel.\u003c/p\u003e\n\n\u003ch2 id=\"data-collection-for-vessels-over-10-metres-in-length\"\u003eData collection for vessels over 10 metres in length\u003c/h2\u003e\n\n\u003cp\u003eThe fishing logbook is the primary method of data collection. It captures data on fishing activity by individual vessels by trip, and for each day of activity within a trip. This includes details of the catch, by species, in terms of the presentation and quantity of fish retained on board. Information is also collected on the fishing gear used and the area where the fish were caught. Area details are \u003ca rel=\"external\" href=\"http://www.ices.dk/marine-data/maps/Pages/default.aspx\" class=\"govuk-link\"\u003edivision, rectangle and zone\u003c/a\u003e as defined by the International Council for the Exploration of the Sea (\u003cabbr title=\"The International Council for the Exploration of the Sea\"\u003eICES\u003c/abbr\u003e).\u003c/p\u003e\n\n\u003cp\u003eSupplying logbook data is legally required for all over 10 metre vessels for catches of all species. Data for UK vessels must be submitted within 48 hours of landing to UK authorities – this includes landings into foreign ports.\u003c/p\u003e\n\n\u003cp\u003eLanding declarations provide information on the weight and presentation of fish landed by species. As with logbooks, landing declarations must be submitted to authorities within 48 hours of landing.\u003c/p\u003e\n\n\u003cp\u003eSales notes are required in respect of first sales of fish and fishery products. Sales notes for first sales of fish must be submitted within 48 hours of sale (24 hours if submitting electronically) by the registered buyer of the fish, except at designated auction centres where the registered seller has responsibility.\u003c/p\u003e\n\n\u003cp\u003eFrom 1 July 2012, UK fisheries administrations have been enforcing a strict expectation that all UK fishing vessels 15 metres and over in length should be reporting logbook and landing declaration data electronically. Fisheries administrations have now extended this to vessels 12 metres and over in length.\u003c/p\u003e\n\n\u003cp\u003eAlso, from 1 January 2009, buyers and sellers with an annual turnover of first sale fish of more than €400,000 have been required to submit sales notes electronically. This threshold was reduced to €200,000 from 1 January 2011.\u003c/p\u003e\n\n\u003cp\u003eA UK \u003ca href=\"https://www.gov.uk/record-and-report-your-fishing-activity-and-submit-sales-notes#what-are-electronic-logbooks\" class=\"govuk-link\"\u003eelectronic reporting systems (ERS) hub\u003c/a\u003e has been set-up to collect, process, and store the data.\u003c/p\u003e\n\n\u003cp\u003eThe requirements to report data on fishing activity are set out by EU legislation. Each fisheries administration operates a system of checking the individual submissions of data to ensure their accuracy and completeness. The rules applied are common across each administration and based on the structure set out in EU legislation for the fishing logbook, landing declaration and sales notes.\u003c/p\u003e\n\n\u003cp\u003eThese checks are to ensure that valid data are reported within the returns and that internal checks within the submitted data are carried out to ensure consistency. In addition there are systems in place that carry out cross-checks between the activity data reported and other sources of information on activity. These include satellite position reports and sightings of vessels collected by each administration during air, sea or land surveillance activities.\u003c/p\u003e\n\n\u003cp\u003eUK fisheries administrations therefore operate common standards and procedures to ensure the consistent treatment of the data within the collection processes. This ensures that UK data are consistent with EU requirements for completeness and accuracy.\u003c/p\u003e\n\n\u003cp\u003eThe electronic reporting systems operated by fishing vessels contain a limited range of validation checks to help ensure correct data are reported. The electronic hub that receives and processes the data has additional checks using a suite of business rules and generates failure messages that are set to the vessel operators in cases whether the business rules are breached. Skippers would be required to resubmit corrected data. The data entry systems used to capture information from paper declarations contains similar checks.\u003c/p\u003e\n\n\u003cp\u003eIn cases where a discrepancy has been identified, corrections are made to the data as appropriate. Any discrepancy found could be indicative of a breach of EU legislation, either in terms of incorrect reporting of activity or the activity reported might be in breach of EU requirements. These discrepancies are investigated and appropriate actions taken.\u003c/p\u003e\n\n\u003cp\u003eThese can range from a simple verbal instruction to the vessel operator advising them of how to correctly report information, up to a full prosecution of the master and/or owners of the vessels concerned if a serious offence has been found to have been committed. Minor issues are usually corrected during the data capture process. For more serious and larger scale issues then corrections may not be made until after the results of prosecutions are known. Details of recent prosecutions carried out by the \u003cabbr title=\"Marine Management Organisation\"\u003eMMO\u003c/abbr\u003e can be found in the \u003ca href=\"https://www.gov.uk/topic/commercial-fishing-fisheries/regulations-monitoring-enforcement\" class=\"govuk-link\"\u003eenforcement news\u003c/a\u003e section.\u003c/p\u003e\n\n\u003ch2 id=\"data-collection-for-vessels-10-metres-and-under-in-length\"\u003eData collection for vessels 10 metres and under in length\u003c/h2\u003e\n\n\u003cp\u003eFor 10 metre and under vessels, there is no statutory requirement for fishermen to declare their catches. Historically, information for this sector has been collected with the co-operation of the industry and included:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003elog sheets and landing declarations voluntarily supplied by fishermen\u003c/li\u003e\n  \u003cli\u003esales notes and assessments of landings collected from market sources and by officials located in the ports\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThis data collection has been replaced after the Registration of Buyers and Sellers of First-Sale Fish Scheme was introduced in September 2005. Registered buyers are now legally required to provide sales notes for commercially sold fish.\u003c/p\u003e\n\n\u003cp\u003eDuring 2005 and 2006, UK fisheries administrations introduced a system of restrictive licensing for activity targeted at shellfish. As part of this system, new reporting requirements were introduced requiring fishermen fishing with 10 metre and under vessels to complete diaries of their daily activity to be submitted each month. Summary information from these diaries is now in use in Northern Ireland but was discontinued in the rest of the UK at the end of February 2009.\u003c/p\u003e\n\n\u003ch2 id=\"data-coverage\"\u003eData coverage\u003c/h2\u003e\n\n\u003cp\u003eData collection for vessels over 10 metres in length aims to achieve full coverage of activity by this sector of the fleet, i.e. these vessels are required to submit complete details on their activity every time they go to sea to fish commercially. For the 10 metre and under sector, landings are recorded on sales notes provided by the registered buyers. Some information, such as gear and fishing area, are not recorded on the sales note but this information is added by coastal staff based on local knowledge of the vessels they administer - for example, from observations of the vessel during inspections at ports or from air and sea surveillance activities as well as discussions with the owner and/or operator of the vessel.\u003c/p\u003e\n\n\u003cp\u003eFrom 1 January 2011 the Isle of Man authorities became fully integrated with the data collection and recording systems operated by mainland fisheries administrations, enabling the inclusion of details of the activity of their vessels that was previously not available. This meant the aggregate summary totals the Isle of Man previously supplied to supplement UK activity data were replaced by records showing the same level of detail as provided by mainland vessels. Landings for the larger Channel Islands fleet are also recorded on the data systems, but relatively small amounts of landings by the smaller vessels (less than one tenth of one per cent of all UK fleet landings) are not included. Details of these landings are provided by Jersey and Guernsey authorities for quota management purposes but they are excluded from the monthly statistics publication.\u003c/p\u003e\n\n\u003cp\u003eThe reliability of the data collected is dependent on the information provided by fishermen. The reporting requirements on fishermen are set out by EU legislation with each administration producing guidance notes for fishermen on what their reporting obligations are. As mentioned above, UK fisheries administrations carry out a mix of manual and automatic checks on the information provided by vessel operators. These include a check between logbook information and that given in the sales notes or observed as landed as well as checks against other sources of information like satellite position reports, information from aerial and at-sea surveillance and inspection activity carried out by UK enforcement officers.\u003c/p\u003e\n\n\u003cp\u003eDespite legal obligations for fishermen to declare their catches, a proportion of fishing activity remains unreported. A 2009 study jointly funded by the Department for Environment, Food and Rural Affairs and the Department for International Development (Agnew DJ, Pearce J, Pramod G, Peatman T, Watson R, et al. (2009) Estimating the Worldwide Extent of Illegal Fishing. PloS ONE 4(2):e4570) estimated that between 2000 and 2003, illegal fishing in the northeast Atlantic amounted to between 5 and 13 per cent of reported catches of species studied. So the extent of illegal and unreported fishing by UK vessels is uncertain and will vary across stocks. However, it is considered that the overall level of unreported fishing has been reduced in recent years following the introduction of a scheme of registration for buyers and sellers of first-sale fish, and the implementation of Commission Regulation (EC) No. 1005/2008 establishing a Community system to prevent, deter and eliminate illegal, unreported and unregulated fishing. The statistics published in the monthly return represent landings reported to the fisheries administrations.\u003c/p\u003e\n\n\u003cp\u003eLandings do not typically equal total catches, as fish may be discarded. Discarding could occur in cases where fishermen would accidently catch fish which they did not have quota for, catch damaged or less profitable fish, or catch undersized fish which they could not sell. The degree of discarding varies by stock, and with the area and type of fishing being carried out. Details of levels of discards can be found in the advice released by \u003cabbr title=\"The International Council for the Exploration of the Sea\"\u003eICES\u003c/abbr\u003e each year as it forms an important element of the assessment of the state of fish stocks.\u003c/p\u003e\n\n\u003cp\u003eThe EU’s new landing obligation, being phased in from 2015 onwards, is intended to end the discarding of marketable fish back into the sea, which has proved to be bad for fish stocks, bad for the marine environment and costly for fishermen. A specific assessment has been collated of this information for fisheries including those that take place around the UK or are of interest to UK fishing vessels that will be covered by the landing obligation.  More details are available at:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.nsrac.org/wp-content/uploads/2014/11/discardatlas_northsea_demersalfisheries_2014.pdf\" class=\"govuk-link\"\u003ediscard Atlas of North Sea fisheries\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.nwwac.org\" class=\"govuk-link\"\u003ediscard Atlas of the North Western Waters demersal fisheries\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eTo allow fishermen to adapt to the change, the landing obligation was introduced gradually, between 2015 and 2019 for all commercial fisheries of species subject to annual quotas. As of 1 January 2019, the landing obligation has been in force for almost all quota stocks.\u003c/p\u003e\n\n\u003ch2 id=\"data-processing\"\u003eData processing\u003c/h2\u003e\n\n\u003cp\u003eInformation from log sheets, landing declarations, sales notes and other sources is keyed into computers connected to the main databases by government staff at port offices, or is transferred electronically from the UK ERS Hub. Individual database structures will differ for each fisheries administration but the details collected will be the same. Data from each administration’s database are merged into a single unified database for analysis.\nDetails of the areas fished are taken from the logbooks and entered as codes for the \u003cabbr title=\"The International Council for the Exploration of the Sea\"\u003eICES\u003c/abbr\u003e divisions and statistical rectangles. Where a statistical rectangle is split into different areas – for instance, where it’s partly in EU waters and partly in Norwegian waters – an extra code is used to indicate the zone fished. Where a vessel fishes in more than one area in a single trip, the total amounts for the trip of each species, as given in the sales notes and landing declarations are allocated to the areas in proportion to the estimated quantities of the species taken from each area, as recorded in the logbook.\u003c/p\u003e\n\n\u003cp\u003eIn many cases only the weight of fish landed is provided, as it is impractical to record the weight of fish at the time of capture due to working conditions. The landed weight may differ significantly from the weight of the fish as it was taken from the sea, in large part due to the processing of the catch on board the vessel, such as gutting and filleting. To render the data comparable, the landed weights are automatically converted to a live weight equivalent using standard EU conversion factors according to the species landed and its presentation, e.g. gutted or skinned.\u003c/p\u003e\n\n\u003cp\u003eThe data capture systems used include sets of business rules to check that the data being submitted for each fishing trip conform to certain standards – this includes checking individual data items to ensure that they are valid entries (e.g. a date is a valid date, text is not entered where a number is expected, valid information for ports visited or species landed are reported etc.) The business rules are maintained by database managers and reviewed by statisticians on a regular basis. The complete fishing records are transmitted to the central computer systems where further checks are carried out on the data before they are reflected in the main landings databases. These checks include more detailed processing of the data reported for a fishing trip comparing the data elements reports to make sure that the information for a trip is internally consistent – e.g. making sure that a date of landing is after the date of departure for a trip.\u003c/p\u003e\n\n\u003cp\u003eIn addition to the validation processes listed above, the information reported by fishermen is run through automatic cross-checks with other sources of information on activity available to fisheries administrations to ensure consistency and accuracy in the information reported. The majority of these checks are mandated within the EU legislation. These checks include comparing the activity data reported against the satellite tracking data that larger fishing vessels are required to operate while they are at sea; checking the information reported in logbooks against the data reported by auction centres and fish merchants for fish sold by the vessel operators; comparisons against any information on sightings of vessels while at sea by fisheries administrations’ surveillance vessels and aerial surveillance.\u003c/p\u003e\n\n\u003cp\u003eRegular checks on data validity are also carried out by the statistics team as an extra safeguard. These include identifying unlikely combinations of species and fishing area which are reported to port staff for correction where necessary.\u003c/p\u003e\n\n\u003cp\u003eIn addition to the processes and checks outlined above to ensure the quality of the data captured and held on fishing activity, the European Commission and its associated bodies carry out inspections and audits of the UK’s systems to control fishing activity. Within these inspections, visiting officials investigate various aspects of the overall administrative processes in place to control fishing activity to review the degree to which they comply with the EU legislative obligations. Appropriate actions are taken in light of the results of these inspections to ensure that the administrative systems in place are fit for purpose and provide the required level of control on fishing activity. More information on the EU system for fisheries controls is available on the DG MARE website – the Directorate-General for Maritime Affairs and Fisheries.\u003c/p\u003e\n\n\u003cp\u003e\u003cabbr title=\"Marine Management Organisation\"\u003eMMO\u003c/abbr\u003e holds information on all landings into England, Wales and Northern Ireland and the Isle of Man by UK vessels and of landings abroad by vessels administered by \u003cabbr title=\"Marine Management Organisation\"\u003eMMO\u003c/abbr\u003e, Welsh Government, DAERA and Isle of Man Department of Environment, Food and Agriculture. Marine Scotland provides figures for landings into Scotland by all UK vessels and landings abroad by Scottish administered vessels.\u003c/p\u003e\n\n\u003cp\u003eOnce accepted as valid and complete, activity and landings data for the UK are compiled in a central database containing vital information from the systems managed by \u003cabbr title=\"Marine Management Organisation\"\u003eMMO\u003c/abbr\u003e and Marine Scotland.\u003c/p\u003e\n\n\u003cp\u003eRegular checks, often as part of quota and effort management or analyses for enforcement purposes, are made on the quality of the data and unusual records referred to staff members in coastal offices to confirm or correct as necessary. Fisheries administrations also issue a breakdown of landings to the Producer Organisations who are asked to reconcile the landings with their members’ fishing trips as part of the validation process. Also, before the data are published, amendments are made to records with implausible average prices based on average prices for the same species.\u003c/p\u003e\n\n\u003cp\u003eWhen calculating average prices, landings with zero value are excluded to give a true reflection of the price of fish being sold. There are various reasons why landings may have a zero value – some fish which cannot be sold and have a zero value, like undersized fish landed as part of catch quota work, or scientific dispensation landings that cannot be sold but have to be recorded in sales notes to allow cross checks with landing declarations. There are also instances where fish are not offered for sale or are intended for sale at a later date. This was a relatively new issue following the introduction of electronic reporting and mainly affected large landings of herring and mackerel into the Netherlands and Germany, accounting for around 5 per cent of all UK landings. However, an annual exercise saw imputed values, based on sales agents’ price figures, being added to the database from 2012 onwards. \nInformation can be found in \u003ca href=\"https://www.gov.uk/government/statistical-data-sets/uk-sea-fisheries-annual-statistics-report-2017\" class=\"govuk-link\"\u003eAppendix 4 of UK Sea Fisheries Statistics\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"data-revisions-policy\"\u003eData revisions: Policy\u003c/h2\u003e\n\n\u003cp\u003e\u003cabbr title=\"Marine Management Organisation\"\u003eMMO\u003c/abbr\u003e produces its annual statistical publication, UK Sea Fisheries Statistics, in September each year. A detailed breakdown of landings for 2017 were shown for the first time in the annual report while previously published data for 2013 to 2016 were revised to reflect the latest available figures. The magnitude of revisions is typically larger for more recent years although the size of revisions is usually very small. There will be a number of causes of revisions:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ereceipt of additional data. Despite strict data reporting requirements, some data are not received or entered at the time of publication.\u003c/li\u003e\n  \u003cli\u003erevisions to data sources. Corrections are made to database entries throughout the year where these are found to be incorrect. In addition, for landings data systematic corrections are made to implausible quantities and values (including those trips with zero value) prior to production of the publication to reduce the influence of outliers\u003c/li\u003e\n  \u003cli\u003erectification of data processing errors. Where data are found to have been incorrectly processed for a previous publication, these errors are corrected as soon as possible.\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eInformation on annual revisions can be found in \u003ca href=\"https://www.gov.uk/government/statistical-data-sets/uk-sea-fisheries-annual-statistics-report-2017\" class=\"govuk-link\"\u003eAppendix 5 of UK Sea Fisheries Statistics\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eFor the monthly statistical publication, data are presented for the current year-to-date as well as for the most recent month. Year-to-date figures are also compared with the same period in the previous year. So, for example, the August 2018 publication issued at the end of October 2018 will show cumulative figures for January to August 2018 as well as figures for August 2018. The year-to-date figures will be compared with those for January to August 2017.\nCurrent year data are based on the latest available figures from fisheries administrations’ data systems and will be subject to the same types of revision as described in (i) to (iii) above.\nFigures for 2014 to 2017 in the monthly return will be revised once UK Sea Fisheries Statistics is published in September 2019. All figures are therefore provisional.\nIt is worth noting that the deadline for submitting catch data to the European Commission, primarily for quota and effort management purposes, is 15 February of the following year. To ensure UK data reporting was as complete as possible, concerted efforts were made by coastal staff, at the end of the year and well into the New Year, to remove the backlog in data entry. Changes to 2018 data published in September 2019 were therefore be relatively small.\u003c/p\u003e\n\n\u003cp\u003eTo see time series of historic landings based on data in the most recent editions of UK Sea Fisheries Statistics, the \u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5baca930ed915d25a05879fd/Monthly_data_-_2008_to_2013.xls\"\u003eMonthly data 2008 to 2013\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003eMS Excel Spreadsheet\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e79 KB\u003c/span\u003e)\u003c/span\u003e (MS Excel Spreadsheet, 88KB) shows charts and data comparing total tonnage landed over the six year period for the following landings:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eUK vessels landing into the UK\u003c/li\u003e\n  \u003cli\u003eUK vessels landing abroad\u003c/li\u003e\n  \u003cli\u003eUK vessels landing into the UK and abroad\u003c/li\u003e\n  \u003cli\u003eForeign vessels landing into the UK\u003c/li\u003e\n  \u003cli\u003eUK and foreign vessels landing into the UK\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5baca930ed915d25a05879fd/Monthly_data_-_2008_to_2013.xls\"\u003e\n        \u003csvg class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--spreadsheet\" version=\"1.1\" viewbox=\"0 0 99 140\" width=\"99\" height=\"140\" aria-hidden=\"true\"\u003e\n  \u003cpath d=\"M12 12h75v27H12zm0 47h18.75v63H12zm55 2v59H51V61h16m2-2H49v63h20V59z\" stroke-width=\"0\"\u003e\u003c/path\u003e\n  \u003cpath d=\"M49 61.05V120H32.8V61.05H49m2-2H30.75v63H51V59zm34 2V120H69.05V61.05H85m2-2H67v63h20V59z\" stroke-width=\"0\"\u003e\u003c/path\u003e\n  \u003cpath d=\"M30 68.5h56.5M30 77.34h56.5M30 112.7h56.5M30 95.02h56.5M30 86.18h56.5M30 103.86h56.5\" fill=\"none\" stroke-miterlimit=\"10\" stroke-width=\"2\"\u003e\u003c/path\u003e\n\u003c/svg\u003e\n\n\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5baca930ed915d25a05879fd/Monthly_data_-_2008_to_2013.xls\"\u003eMonthly data 2008 to 2013\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003eMS Excel Spreadsheet\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e79 KB\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:communications@marinemanagement.org.uk\" target=\"_blank\" class=\"govuk-link\"\u003ecommunications@marinemanagement.org.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003ch2 id=\"data-revisions-year-to-date-figures\"\u003eData revisions: Year to date figures\u003c/h2\u003e\n\n\u003cp\u003eLags in data entry vary during the year – this reflects peaks and troughs in activity due to seasonal factors such as the weather affecting the level of activity as well as the availability of some fish within the seas around the coast of the UK, with the level of activity seen having a direct impact on the level of data entry work required. The information presented here concentrates on the impact of lags on the cumulative landings data for the current year.\u003c/p\u003e\n\n\u003cp\u003eWe expect these to be most significant early on in the year and reduce in terms of their impact on cumulative totals as the year progresses and earlier data become relatively stable. Year-to-date landings are the key figures used to compare the performance of the UK fishing fleet in the current year with earlier years, given the focus on annual quotas set for fish stocks that are considered as under pressure from the level of fishing activity seen.\u003c/p\u003e\n\n\u003cp\u003eIn order to better understand the effect of revisions, the \u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a758980e5274a4f4677ee92/Monthly_lags_2016_-_year_to_date.xls\"\u003eMonthly lags - year to date\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e197 KB\u003c/span\u003e)\u003c/span\u003e spreadsheet shows charts comparing the values of the cumulative 2016 year to date figures at the time they were first published with the estimates published in UK Sea Fisheries Statistics 2016 for the following landings:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eUK vessels landing into the UK\u003c/li\u003e\n  \u003cli\u003eUK vessels landing abroad\u003c/li\u003e\n  \u003cli\u003eUK vessels landing into the UK and abroad\u003c/li\u003e\n  \u003cli\u003eForeign vessels landing into the UK\u003c/li\u003e\n  \u003cli\u003eUK and foreign vessels landing into the UK\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a758980e5274a4f4677ee92/Monthly_lags_2016_-_year_to_date.xls\"\u003e\n        \u003csvg class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--generic\" version=\"1.1\" viewbox=\"0 0 84 120\" width=\"84\" height=\"120\" aria-hidden=\"true\"\u003e\n  \u003cpath d=\"M74.85 5v106H5\" fill=\"none\" stroke-miterlimit=\"10\" stroke-width=\"2\"\u003e\u003c/path\u003e\n  \u003cpath d=\"M79.85 10v106H10\" fill=\"none\" stroke-miterlimit=\"10\" stroke-width=\"2\"\u003e\u003c/path\u003e\n\u003c/svg\u003e\n\n\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a758980e5274a4f4677ee92/Monthly_lags_2016_-_year_to_date.xls\"\u003eMonthly lags - year to date\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e197 KB\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:communications@marinemanagement.org.uk\" target=\"_blank\" class=\"govuk-link\"\u003ecommunications@marinemanagement.org.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003cp\u003eSeparate charts are shown for demersal fish, pelagic fish, shellfish and all fish species. This analysis will be repeated for 2018 data once the annual publication has been released.\u003c/p\u003e\n\n\u003cp\u003eBased on latest figures for UK vessels landing into the UK, lags in data for all fish are relatively small (see the ‘all fish’ chart in the sheet ‘1. UK land into UK’, and the data highlighted in yellow in the sheet ‘6. chart data’). For example, for 2015 data, the first estimates of cumulative landings for the year are generally around 1 per cent lower than the most recent estimates.\u003c/p\u003e\n\n\u003cp\u003eHowever, lags are far more pronounced for UK vessels landing abroad and for foreign vessels landing into the UK, since it takes longer to receive a full set of complete and validated documentation.\u003c/p\u003e\n\n\u003cp\u003eLags are also more pronounced for demersal and shellfish species, whereas pelagic lags are very small. This is because pelagic fisheries are dominated by very large fishing vessels targeting industrial sized quantities of a small number of species (almost always landed whole) in fewer, but longer, fishing trips. Skippers and their agents are likely to operate highly organised businesses and completion of documentation will generally be to a higher standard requiring less manual intervention by data entry teams at the coast.\u003c/p\u003e\n\n\u003cp\u003eTrips involving demersal fish and shellfish comprise a larger number of vessels, fishing a greater number of trips and catching a wider range of species in far smaller amounts. Fish can have a range of presentations and the logbooks are more likely to be problematic, and the sheer volume of these landings can give rise to backlogs. Also, most shellfish species are not subject to quota and effort management and so have a lower priority in terms of data entry. Despite this, the actual tonnage identified in lags for these demersal and shellfish trips is relatively small compared with overall landings being reported.\u003c/p\u003e\n\n\u003ch2 id=\"data-revisions-monthly-figures\"\u003eData revisions: Monthly figures\u003c/h2\u003e\n\n\u003cp\u003eA new ‘revisions triangle’ analysis of the change in monthly figures for the same five categories of landings can be viewed in the spreadsheet.\u003c/p\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/6012d01bd3bf7f05c527c14b/Monthly_lags_-_current_month.ods\"\u003e\n        \u003csvg class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--spreadsheet\" version=\"1.1\" viewbox=\"0 0 99 140\" width=\"99\" height=\"140\" aria-hidden=\"true\"\u003e\n  \u003cpath d=\"M12 12h75v27H12zm0 47h18.75v63H12zm55 2v59H51V61h16m2-2H49v63h20V59z\" stroke-width=\"0\"\u003e\u003c/path\u003e\n  \u003cpath d=\"M49 61.05V120H32.8V61.05H49m2-2H30.75v63H51V59zm34 2V120H69.05V61.05H85m2-2H67v63h20V59z\" stroke-width=\"0\"\u003e\u003c/path\u003e\n  \u003cpath d=\"M30 68.5h56.5M30 77.34h56.5M30 112.7h56.5M30 95.02h56.5M30 86.18h56.5M30 103.86h56.5\" fill=\"none\" stroke-miterlimit=\"10\" stroke-width=\"2\"\u003e\u003c/path\u003e\n\u003c/svg\u003e\n\n\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/6012d01bd3bf7f05c527c14b/Monthly_lags_-_current_month.ods\"\u003eMonthly_lags_-_current_month_ODF_\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"OpenDocument Spreadsheet\" class=\"gem-c-attachment__abbr\"\u003eODS\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e114 KB\u003c/span\u003e\u003c/p\u003e\n\n\n\n        \u003cp class=\"gem-c-attachment__metadata\"\u003e\n          This file is in an \u003ca href=\"https://www.gov.uk/guidance/using-open-document-formats-odf-in-your-organisation\" target=\"_self\" class=\"govuk-link\"\u003eOpenDocument\u003c/a\u003e format\n\u003c/p\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003cp\u003eThis shows how the first reported figures (or first estimates) change as the year progresses. We will continue to update this over the coming months and revised figures for historic years will become available once data are next updated for UK Sea Fisheries Statistics in September.\u003c/p\u003e\n\n\u003cp\u003eResults show that for UK vessels landing into the UK, the total of the first estimates for 2014 and 2015 accounts for 97 per cent of the latest estimates. And for the second estimates this rises to 99 per cent. While there is some variation in the scale of revisions between individual months, we can say that we broadly expect the first month estimates to be within 3 per cent of final figures, and the second year estimates to be within 1 per cent. Because of the additional time it takes for landings abroad to be entered on our systems, we expect the first estimates of UK vessels landing into the UK and abroad to be within 6 per cent of the final figures, and the second estimates to be within 3 per cent.\u003c/p\u003e\n\n\u003cp\u003eAs with the cumulative year to date figures, relative revisions for demersal fish and shellfish for UK vessels landing abroad and for foreign vessels landing into the UK will be greater but the amounts involved are considerably smaller.\u003c/p\u003e\n\n\u003ch2 id=\"data-revisions-improving-the-statistics\"\u003eData revisions: Improving the statistics\u003c/h2\u003e\n\n\u003cp\u003e\u003cabbr title=\"Marine Management Organisation\"\u003eMMO\u003c/abbr\u003e is taking steps to improve the electronic data submitted by the fishing industry. The systems on board fishing vessels are supplied directly to fishermen by commercial companies under a government administered type approval scheme. Consequently, fisheries administrations do not have direct control over the design and operation of the software systems so long as they meet the minimum functionality required by EU legislation.\u003c/p\u003e\n\n\u003cp\u003eVery little validation of data is implemented in the at-sea systems and so the quality of data depends strongly on the ability of the skipper to enter the correct information.\u003c/p\u003e\n\n\u003cp\u003e\u003cabbr title=\"Marine Management Organisation\"\u003eMMO\u003c/abbr\u003e has undertaken the following actions to improve the entry of data:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003esupport to the Industry from a dedicated member of staff, who coaches skippers in the use of systems and deals with follow-up queries\u003c/li\u003e\n  \u003cli\u003etraining of ‘super users’ in each \u003cabbr title=\"Marine Management Organisation\"\u003eMMO\u003c/abbr\u003e coastal office to support local skippers to improve the quality of data submitted\u003c/li\u003e\n  \u003cli\u003efunding the software suppliers to provide additional user training\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFurther actions include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ea redesign of \u003cabbr title=\"Marine Management Organisation\"\u003eMMO\u003c/abbr\u003e systems to improve efficiency of processing and to free up staff time to deal more proactively on data quality\u003c/li\u003e\n  \u003cli\u003eimproved reporting within the business to identify and resolve data quality issues more promptly\u003c/li\u003e\n  \u003cli\u003eenhanced management information on the data entry and validation processes to ensure data are fit for purpose\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003e\u003cabbr title=\"Marine Management Organisation\"\u003eMMO\u003c/abbr\u003e is also considering making better use of unconfirmed data, i.e. data which have not gone through the full suite of checks required under EU legislation, but where the key elements within it are regarded as fit for purpose for better management of fisheries. Several operational returns produced by fisheries administrations already make use of the unconfirmed data, for example, the weekly quota uptake monitoring spreadsheets. The \u003cabbr title=\"Marine Management Organisation\"\u003eMMO\u003c/abbr\u003e will be exploring the possibility of including unconfirmed data within the monthly landing release to further reduce the impact of lags in reported statistics.\u003c/p\u003e\n\n\u003ch2 id=\"data-reliability\"\u003eData reliability\u003c/h2\u003e\n\n\u003cp\u003eThe measures for control on the reporting of data on fishing activity provided by EU legislation are enforced through the activity carried out by officials within each of the UK fisheries administrations to ensure compliance with these reporting requirements. Where issues are identified with the data, either with the data being reported by individual fishing vessel owners/operators or individual merchants, or where the control regime itself is thought to have weaknesses, additional activities may be carried out to strengthen or supplement the existing reporting systems. In such cases, care is taken to ensure that there is no excessive or inappropriate additional reporting burden placed on those involved in the fishing industry.\u003c/p\u003e\n\n\u003cp\u003eTogether these activities help to ensure that the data are considered fit for purpose - in terms of coverage and accuracy - as the key source of information with which officials and the industry can manage fishing activity. This includes activities such as the monitoring and management of the uptake of landings against the level of available fish quotas, and also the monitoring of activity by individual fishing vessels to ensure they comply with the limits on fishing effort as set out by various effort control regimes.\u003c/p\u003e\n\n\u003cp\u003eThe information is also widely used to support the development of new and revision of existing fisheries policies within the UK. The data are also made available within the public domain for the use of those with an interest in identifying and assessing the types and levels of fishing activity seen around the UK coast and carried out by the UK fishing fleet.\u003c/p\u003e\n\n\u003ch2 id=\"species-list\"\u003eSpecies list\u003c/h2\u003e\n\n\u003cp\u003eThe following species have been grouped together under a common name with their species code for reporting purposes.\u003c/p\u003e\n\n\u003ch3 id=\"bream\"\u003eBream\u003c/h3\u003e\n\u003cp\u003eBlack seabream | BRB\n\u003cbr\u003e\nBream – Ray’s | POA\n\u003cbr\u003e\nGilt-head seabream | SBG\n\u003cbr\u003e\nRed (Blackspot) seabream | SBR\n\u003cbr\u003e\nSea breams | SBX\u003c/p\u003e\n\n\u003ch3 id=\"crabs\"\u003eCrabs\u003c/h3\u003e\n\u003cp\u003eMixed crabs | CRA\n\u003cbr\u003e\nCrabs (CP mixed sexes) | CRE\n\u003cbr\u003e\nGreen crab | CRG\n\u003cbr\u003e\nDeepwater red crab | CRR\n\u003cbr\u003e\nKing crab | KCS\n\u003cbr\u003e\nStone crab | KCX\n\u003cbr\u003e\nDeepwater red crab | KEF\n\u003cbr\u003e\nCrabs – Velvet (swim) | LIO\n\u003cbr\u003e\nSpider crabs | SCR\u003c/p\u003e\n\n\u003ch3 id=\"dogfish\"\u003eDogfish\u003c/h3\u003e\n\u003cp\u003eBlack dogfish | CFB\n\u003cbr\u003e\nLongnose velvet dogfish | CYP\n\u003cbr\u003e\nBirdbeak dogfish | DCA\n\u003cbr\u003e\nUnidentified dogfish | DGH\n\u003cbr\u003e\nSpurdog | DGS\n\u003cbr\u003e\nBlack mouthed dogfish | SHO\n\u003cbr\u003e\nLesser spotted dog | SYC\n\u003cbr\u003e\nKnifetooth dogfish | SYR\n\u003cbr\u003e\nDogfish (Scyliorhinidae) | SYX\u003c/p\u003e\n\n\u003ch3 id=\"gunnards\"\u003eGunnards\u003c/h3\u003e\n\u003cp\u003eGurnards – Grey | GUG\n\u003cbr\u003e\nGurnards – Red | GUR\n\u003cbr\u003e\nTub gurnard | GUU\n\u003cbr\u003e\nGurnard and latchet | GUX\u003c/p\u003e\n\n\u003ch3 id=\"lobsters\"\u003eLobsters\u003c/h3\u003e\n\u003cp\u003eLobsters | LBE\n\u003cbr\u003e\nLobster – Squat | LOQ\u003c/p\u003e\n\n\u003ch3 id=\"mullet\"\u003eMullet\u003c/h3\u003e\n\u003cp\u003eMullet – Other | MUL\n\u003cbr\u003e\nRed Mullet | MUR\u003c/p\u003e\n\n\u003ch3 id=\"oysters\"\u003eOysters\u003c/h3\u003e\n\u003cp\u003ePortuguese oysters | OYC\n\u003cbr\u003e\nNative oysters | OYF\n\u003cbr\u003e\nPacific oysters | OYG\n\u003cbr\u003e\nOysters | OYX\u003c/p\u003e\n\n\u003ch3 id=\"sardines\"\u003eSardines\u003c/h3\u003e\n\u003cp\u003ePilchards | PIL\n\u003cbr\u003e\nSardinelle aurita (Round) | SAA\n\u003cbr\u003e\nSardinelle maderensis (Flat) | SAE\u003c/p\u003e\n\n\u003ch3 id=\"scallops\"\u003eScallops\u003c/h3\u003e\n\u003cp\u003eQueen scallops | QSC\n\u003cbr\u003e\nScallops | SCE\u003c/p\u003e\n\n\u003ch3 id=\"shrimps-and-prawns\"\u003eShrimps and prawns\u003c/h3\u003e\n\u003cp\u003eBrown shrimps | CSH\n\u003cbr\u003e\nPink shrimps | PAN\n\u003cbr\u003e\nShrimps – Other | PEN\n\u003cbr\u003e\nShrimps – Pink (Northern prawn) | PRA\u003c/p\u003e\n\n\u003ch3 id=\"skates-and-rays\"\u003eSkates and rays\u003c/h3\u003e\n\u003cp\u003eNorwegian skate | JAD\n\u003cbr\u003e\nCommon stingray | JDP\n\u003cbr\u003e\nWhite skate | RJA\n\u003cbr\u003e\nCommon skate (blue or grey) | RJB\n\u003cbr\u003e\nThornback ray | RJC\n\u003cbr\u003e\nSmall-eyed ray | RJE\n\u003cbr\u003e\nShagreen ray | RJF\n\u003cbr\u003e\nArctic skate | RJG\n\u003cbr\u003e\nBlonde ray | RJH\n\u003cbr\u003e\nSandy ray | RJI\n\u003cbr\u003e\nSpotted ray | RJM\n\u003cbr\u003e\nCuckoo ray | RJN\n\u003cbr\u003e\nLong-nosed skate | RJO\n\u003cbr\u003e\nStarry ray | RJR\n\u003cbr\u003e\nUndulate ray | RJU\n\u003cbr\u003e\nSkate (Round) | RJY\n\u003cbr\u003e\nSkates and rays | SKA\n\u003cbr\u003e\nElectric ray | TTO\n\u003cbr\u003e\nMarbled electric ray | TTR\u003c/p\u003e\n\n\u003ch3 id=\"sole\"\u003eSole\u003c/h3\u003e\n\u003cp\u003eSole | SOL\n\u003cbr\u003e\nSand sole | SOS\u003c/p\u003e\n\n\u003ch3 id=\"squid\"\u003eSquid\u003c/h3\u003e\n\u003cp\u003eArgentine shortfin squid | SQA\n\u003cbr\u003e\nSquid | SQC\n\u003cbr\u003e\nEuropean flying squid | SQE\n\u003cbr\u003e\nPatagonian squid | SQP\n\u003cbr\u003e\nMixed squid and octopi | SQU\u003c/p\u003e\n\n\u003ch2 id=\"glossary-of-terms\"\u003eGlossary of terms\u003c/h2\u003e\n\n\u003ch3 id=\"administration-port\"\u003eAdministration port\u003c/h3\u003e\n\u003cp\u003eAdministration ports are responsible for issuing fishing vessel licences. The coastal office designated as a vessel’s administration port is typically the responsible office closest in proximity to a vessel’s operational base. A vessel’s administration port may differ from its registration port.\u003c/p\u003e\n\n\u003ch3 id=\"cod-recovery-zone-crz\"\u003eCod Recovery Zone (\u003cabbr title=\"Cod Recovery Zone\"\u003eCRZ\u003c/abbr\u003e)\u003c/h3\u003e\n\u003cp\u003eThe Cod Recovery Zone (\u003cabbr title=\"Cod Recovery Zone\"\u003eCRZ\u003c/abbr\u003e) is a group of sea areas in which restrictions exist on fishing effort by vessels 10 metres or over using certain regulated gears. The \u003cabbr title=\"Cod Recovery Zone\"\u003eCRZ\u003c/abbr\u003e comprises four areas: Kattegat, Irish Sea (\u003cabbr title=\"The International Council for the Exploration of the Sea\"\u003eICES\u003c/abbr\u003e division VIIa), North Sea (\u003cabbr title=\"The International Council for the Exploration of the Sea\"\u003eICES\u003c/abbr\u003e division IIIa excluding Kattegat; \u003cabbr title=\"The International Council for the Exploration of the Sea\"\u003eICES\u003c/abbr\u003e sub-area IV; EU waters of \u003cabbr title=\"The International Council for the Exploration of the Sea\"\u003eICES\u003c/abbr\u003e division IIa; \u003cabbr title=\"The International Council for the Exploration of the Sea\"\u003eICES\u003c/abbr\u003e division VIId) and West of Scotland (\u003cabbr title=\"The International Council for the Exploration of the Sea\"\u003eICES\u003c/abbr\u003e division VIa and EU waters of \u003cabbr title=\"The International Council for the Exploration of the Sea\"\u003eICES\u003c/abbr\u003e division Vb).\u003c/p\u003e\n\n\u003cp\u003eThe regulated gears are:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eBeam trawls of mesh:\n    \u003cul\u003e\n      \u003cli\u003eequal to or larger than 120 mm (BT1)\u003c/li\u003e\n      \u003cli\u003eequal to or larger than 80 mm and less than 120 mm (BT2)\u003c/li\u003e\n    \u003c/ul\u003e\n  \u003c/li\u003e\n  \u003cli\u003eGill nets, entangling nets (GN1)\u003c/li\u003e\n  \u003cli\u003eTrammel nets (GT1)\u003c/li\u003e\n  \u003cli\u003eLonglines (LL1)\u003c/li\u003e\n  \u003cli\u003eBottom trawls and seines of mesh:\n    \u003cul\u003e\n      \u003cli\u003eequal to or larger than 100 mm (TR1)\u003c/li\u003e\n      \u003cli\u003eequal to or larger than 70 mm and less than 100 mm (TR2)\u003c/li\u003e\n      \u003cli\u003eequal to or larger than 16 mm and less than 32 mm (TR3)\u003c/li\u003e\n    \u003c/ul\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"demersal\"\u003eDemersal\u003c/h3\u003e\n\u003cp\u003eThe term demersal fish covers species living on or near the sea bed.\u003c/p\u003e\n\n\u003ch3 id=\"engine-power\"\u003eEngine power\u003c/h3\u003e\n\u003cp\u003eEngine power refers to a measure of the power of a fishing vessel’s engine (in kW). Where an engine has been permanently de-rated and this has been declared to the Register of Shipping and Seamen (RSS), this is the de-rated engine power; otherwise, it is the maximum continuous engine power (MCEP) declared to the RSS. Where neither of these are available the registered engine power is used.\u003c/p\u003e\n\n\u003ch3 id=\"fishing-areas\"\u003eFishing areas\u003c/h3\u003e\n\u003cp\u003eFishing areas are defined by international convention. The immediate waters around the UK are subdivided into \u003cabbr title=\"The International Council for the Exploration of the Sea\"\u003eICES\u003c/abbr\u003e sub-areas IV (North Sea), VI (West of Scotland) and VII and its divisions the Irish Sea, VIIa; Celtic Sea, VIIg,h; Bristol Channel, VIIf; and the English Channel, VIId,e. See Appendix 3.\u003c/p\u003e\n\n\u003ch3 id=\"fishing-effort\"\u003eFishing effort\u003c/h3\u003e\n\u003cp\u003eFishing effort is an aggregate measure of the activity of fishing vessels in a given sea area. It may be measured as the total time spent at sea (in hours or days), as the sum of the products of fishing capacity and time at sea for each vessel (in GT days) or as the sum of the products of engine power and time at sea for each vessel (in kW days).\u003c/p\u003e\n\n\u003ch3 id=\"fish-producer-organisation-fpo\"\u003eFish producer organisation (\u003cabbr title=\"Fish producer organisation\"\u003eFPO\u003c/abbr\u003e)\u003c/h3\u003e\n\u003cp\u003eFish producer organisations are institutions set up in accordance with EC regulations to improve the market for their members’ catches. FPOs may also be granted responsibility by Fisheries Administrations for the management of fish quotas in addition to this function.\u003c/p\u003e\n\n\u003ch3 id=\"the-international-council-for-the-exploration-of-the-sea-ices\"\u003eThe International Council for the Exploration of the Sea (\u003cabbr title=\"The International Council for the Exploration of the Sea\"\u003eICES\u003c/abbr\u003e)\u003c/h3\u003e\n\u003cp\u003eThe International Council for the Exploration of the Sea (\u003cabbr title=\"The International Council for the Exploration of the Sea\"\u003eICES\u003c/abbr\u003e) coordinates and promotes marine research on oceanography, the marine environment, the marine ecosystem, and on living marine resources in the North Atlantic. See also: Fishing areas.\u003c/p\u003e\n\n\u003ch3 id=\"landed-weight\"\u003eLanded weight\u003c/h3\u003e\n\u003cp\u003eMass (or weight) of a product at the time of landing, regardless of the state in which it has been landed. Landed fish may be whole, gutted and headed or filleted.\u003c/p\u003e\n\n\u003ch3 id=\"live-weight\"\u003eLive weight\u003c/h3\u003e\n\u003cp\u003eThe mass or weight of a product, when removed from the water.\u003c/p\u003e\n\n\u003ch3 id=\"pelagic\"\u003ePelagic\u003c/h3\u003e\n\u003cp\u003eThe term pelagic fish covers species found mainly in shoals in midwater or near the surface of the sea.\u003c/p\u003e\n\n\u003ch3 id=\"quota\"\u003eQuota\u003c/h3\u003e\n\u003cp\u003eA share in a total allowable catch (\u003cabbr title=\"Total allowable catch\"\u003eTAC\u003c/abbr\u003e) held by an EU member state. EU TACs are divided on the basis of a number of factors, including the member state’s past catch record. Shares are awarded according to a principle of ‘relative stability’, namely that each member state should enjoy a fixed percentage share of the fishing opportunities for commercial species across time. See also: Total allowable catch.\u003c/p\u003e\n\n\u003ch3 id=\"shellfish\"\u003eShellfish\u003c/h3\u003e\n\u003cp\u003eThe term shellfish covers all crustaceans and molluscs.\u003c/p\u003e\n\n\u003ch3 id=\"sole-recovery-zone-srz\"\u003eSole Recovery Zone (\u003cabbr title=\"Sole Recovery Zone\"\u003eSRZ\u003c/abbr\u003e)\u003c/h3\u003e\n\u003cp\u003eThe Sole Recovery Zone (\u003cabbr title=\"Sole Recovery Zone\"\u003eSRZ\u003c/abbr\u003e) corresponds to the Western Channel (\u003cabbr title=\"The International Council for the Exploration of the Sea\"\u003eICES\u003c/abbr\u003e division VIIe), in which restrictions exist on fishing effort by vessels 10 metres or over using regulated gears. In the \u003cabbr title=\"Sole Recovery Zone\"\u003eSRZ\u003c/abbr\u003e, regulated gears are beam trawls of mesh size equal to or greater than 80mm and static nets, including gill-nets, trammel-nets and tangle-nets, with mesh size less than 220mm.\u003c/p\u003e\n\n\u003ch3 id=\"stock\"\u003eStock\u003c/h3\u003e\n\u003cp\u003eA stock is that part of a species population exploited in a defined fishing area.\u003c/p\u003e\n\n\u003ch3 id=\"total-allowable-catch-tac\"\u003eTotal allowable catch (\u003cabbr title=\"Total allowable catch\"\u003eTAC\u003c/abbr\u003e)\u003c/h3\u003e\n\u003cp\u003eA total allowable catch (\u003cabbr title=\"Total allowable catch\"\u003eTAC\u003c/abbr\u003e) is a catch limit set by EU fisheries ministers for a particular stock. TACs are fixed on an annual basis on the basis of scientific research by national and international organisations, including \u003cabbr title=\"The International Council for the Exploration of the Sea\"\u003eICES\u003c/abbr\u003e and the European Commission’s Scientific, Technical and Economic Committee for Fisheries (STECF). TACs are usually expressed in tonnes live weight. See also: Quota.\u003c/p\u003e\n\n\u003ch3 id=\"western-waters\"\u003eWestern Waters\u003c/h3\u003e\n\u003cp\u003eThe Western Waters are a group of sea areas in which restrictions exist on fishing effort by vessels 15 metres or over on trips with certain target species. The Western Waters comprise nine areas, of which UK registered vessels are permitted to deploy effort in four: \u003cabbr title=\"The International Council for the Exploration of the Sea\"\u003eICES\u003c/abbr\u003e sub-areas V and VI, \u003cabbr title=\"The International Council for the Exploration of the Sea\"\u003eICES\u003c/abbr\u003e sub-area VII, \u003cabbr title=\"The International Council for the Exploration of the Sea\"\u003eICES\u003c/abbr\u003e sub-area VIII and the Biologically Sensitive Area.\u003c/p\u003e\n\n\u003cp\u003eTarget species are demersal species (excluding those covered by Council Regulation (EEC) No 2347/2002), scallops and edible crab and spider crab. In the Biologically Sensitive Area, restrictions exist on fishing effort by vessels 10 metres or over on trips with these target species.\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "November 2020 Lags published",
+                                               "public_timestamp":  "2021-01-29T09:30:08.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated with October 2020 monthly lags ",
+                                               "public_timestamp":  "2020-12-18T09:30:04.000+00:00"
+                                           },
+                                           {
+                                               "note":  "September lags added ",
+                                               "public_timestamp":  "2020-11-27T12:08:45.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags for August 2020 added ",
+                                               "public_timestamp":  "2020-10-23T09:30:00.000+01:00"
+                                           },
+                                           {
+                                               "note":  "July Lag data added ",
+                                               "public_timestamp":  "2020-09-25T09:30:05.000+01:00"
+                                           },
+                                           {
+                                               "note":  "June data added to monthly lags ",
+                                               "public_timestamp":  "2020-08-28T09:30:00.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated with May Data",
+                                               "public_timestamp":  "2020-07-24T09:30:01.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags updated for April 2020",
+                                               "public_timestamp":  "2020-06-26T09:30:01.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated with March 20 lags",
+                                               "public_timestamp":  "2020-05-22T09:30:02.000+01:00"
+                                           },
+                                           {
+                                               "note":  "updated with Feb lags ",
+                                               "public_timestamp":  "2020-04-24T09:30:03.000+01:00"
+                                           },
+                                           {
+                                               "note":  "January 2020 lags added",
+                                               "public_timestamp":  "2020-03-27T09:30:06.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated with December 2019 lags",
+                                               "public_timestamp":  "2020-02-28T09:30:14.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated with November 2019 data",
+                                               "public_timestamp":  "2020-01-24T09:30:03.000+00:00"
+                                           },
+                                           {
+                                               "note":  "October 2019 data released ",
+                                               "public_timestamp":  "2019-12-20T09:30:00.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Spreadsheet updated",
+                                               "public_timestamp":  "2019-11-22T09:30:28.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated with Monthly Lags for August 2019 ",
+                                               "public_timestamp":  "2019-10-25T09:30:09.000+01:00"
+                                           },
+                                           {
+                                               "note":  "July 2019 statistics added ",
+                                               "public_timestamp":  "2019-09-27T09:30:03.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Spreadsheet updated",
+                                               "public_timestamp":  "2019-08-23T09:40:03.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags updated for May 2019",
+                                               "public_timestamp":  "2019-07-26T09:30:10.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags updated for April",
+                                               "public_timestamp":  "2019-06-28T09:35:25.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags updated for March 2019. ",
+                                               "public_timestamp":  "2019-05-24T09:30:05.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags updated",
+                                               "public_timestamp":  "2019-04-26T11:28:50.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added January 2019 stats",
+                                               "public_timestamp":  "2019-03-22T09:30:00.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lag updated",
+                                               "public_timestamp":  "2019-02-22T09:30:12.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags updated",
+                                               "public_timestamp":  "2019-01-25T09:30:04.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Current month updated ",
+                                               "public_timestamp":  "2018-12-21T09:30:00.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags updated",
+                                               "public_timestamp":  "2018-11-23T09:30:01.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Current month updated ",
+                                               "public_timestamp":  "2018-10-26T09:30:03.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lag updated",
+                                               "public_timestamp":  "2018-09-28T09:30:15.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags updated for June 2018",
+                                               "public_timestamp":  "2018-08-24T09:30:04.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags current month updated",
+                                               "public_timestamp":  "2018-07-27T09:30:08.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lag updated",
+                                               "public_timestamp":  "2018-06-22T09:30:08.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lag for March 2018 added ",
+                                               "public_timestamp":  "2018-05-25T09:30:03.000+01:00"
+                                           },
+                                           {
+                                               "note":  "added new monthly dataset",
+                                               "public_timestamp":  "2018-04-27T09:30:03.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags updated ",
+                                               "public_timestamp":  "2018-03-23T09:30:07.000+00:00"
+                                           },
+                                           {
+                                               "note":  "New data added",
+                                               "public_timestamp":  "2018-02-23T09:30:04.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags updated ",
+                                               "public_timestamp":  "2018-01-26T09:30:29.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags updated for October",
+                                               "public_timestamp":  "2017-12-15T09:30:06.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Data updated",
+                                               "public_timestamp":  "2017-11-24T09:30:09.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags added",
+                                               "public_timestamp":  "2017-10-27T09:30:16.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated monthly lag ",
+                                               "public_timestamp":  "2017-09-22T09:30:08.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags current month changed ",
+                                               "public_timestamp":  "2017-08-25T09:30:23.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags updated",
+                                               "public_timestamp":  "2017-07-28T09:30:36.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags updated for April",
+                                               "public_timestamp":  "2017-06-23T09:30:09.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags updated March 2017",
+                                               "public_timestamp":  "2017-05-26T09:30:16.000+01:00"
+                                           },
+                                           {
+                                               "note":  "February Monthly lags added",
+                                               "public_timestamp":  "2017-04-28T09:30:27.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags updated",
+                                               "public_timestamp":  "2017-03-24T09:30:15.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags updated",
+                                               "public_timestamp":  "2017-02-24T09:30:17.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags updated ",
+                                               "public_timestamp":  "2017-01-27T09:30:22.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags changed",
+                                               "public_timestamp":  "2016-12-16T09:30:28.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags uploaded",
+                                               "public_timestamp":  "2016-11-25T09:30:06.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Documents updated",
+                                               "public_timestamp":  "2016-10-28T09:30:18.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags updated",
+                                               "public_timestamp":  "2016-09-23T09:30:08.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags current month updated",
+                                               "public_timestamp":  "2016-07-22T09:30:11.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags updated",
+                                               "public_timestamp":  "2016-06-24T09:30:01.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags updated for March 2016",
+                                               "public_timestamp":  "2016-05-27T09:30:19.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags updated ",
+                                               "public_timestamp":  "2016-04-22T09:44:22.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags updated",
+                                               "public_timestamp":  "2016-03-24T09:30:29.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags updated",
+                                               "public_timestamp":  "2016-01-22T09:30:08.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags - current month updated",
+                                               "public_timestamp":  "2015-12-17T14:08:09.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags updated",
+                                               "public_timestamp":  "2015-11-26T15:09:52.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags - current month updated",
+                                               "public_timestamp":  "2015-10-23T09:30:37.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Text changed",
+                                               "public_timestamp":  "2015-09-25T09:30:09.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags updated",
+                                               "public_timestamp":  "2015-08-28T09:30:39.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags - current month updated",
+                                               "public_timestamp":  "2015-07-24T09:30:24.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags current month updated",
+                                               "public_timestamp":  "2015-06-26T09:30:02.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Monthly data – 2008 to 2013 added",
+                                               "public_timestamp":  "2015-06-24T12:30:02.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Monthly lags updated",
+                                               "public_timestamp":  "2015-05-22T10:28:39.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated guidance with data revisions general, year to date figures, monthly figures and information on improving the statistics. ",
+                                               "public_timestamp":  "2015-04-23T12:00:19.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2014-07-16T10:50:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "8d56bb52-2f79-4b6d-9fc6-6d7dcc4f7586"
+                                                 ],
+                    "first_public_at":  "2014-07-16T10:50:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2014-07-16T10:50:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/fishing-activity-and-landings-data-collection-and-processing",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/fishing-activity-and-landings-data-collection-and-processing",
+                                                     "base_path":  "/guidance/fishing-activity-and-landings-data-collection-and-processing",
+                                                     "content_id":  "5fa9bb05-7631-11e4-a3cb-005056011aef",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2021-01-29T09:30:08Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Fishing data collection, coverage, processing and revisions",
+                                                     "web_url":  "https://www.gov.uk/guidance/fishing-activity-and-landings-data-collection-and-processing",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/monthly-uk-sea-fisheries-statistics",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/monthly-uk-sea-fisheries-statistics",
+                                                   "base_path":  "/government/collections/monthly-uk-sea-fisheries-statistics",
+                                                   "content_id":  "5f6222fe-7631-11e4-a3cb-005056011aef",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/fishing-activity-and-landings-data-collection-and-processing",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/fishing-activity-and-landings-data-collection-and-processing",
+                                                                                       "base_path":  "/guidance/fishing-activity-and-landings-data-collection-and-processing",
+                                                                                       "content_id":  "5fa9bb05-7631-11e4-a3cb-005056011aef",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2021-01-29T09:30:08Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Fishing data collection, coverage, processing and revisions",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/fishing-activity-and-landings-data-collection-and-processing",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2024-12-13T09:30:01Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Monthly UK sea fisheries statistics",
+                                                   "web_url":  "https://www.gov.uk/government/collections/monthly-uk-sea-fisheries-statistics",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "base_path":  "/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "content_id":  "591c83aa-3b74-437d-a342-612bddd97572",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2015-05-08T00:00:00+00:00",
+                                                         "started_on":  "2010-05-12T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2010 to 2015 Conservative and Liberal Democrat coalition government",
+                                         "web_url":  "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government"
+                                     }
+                                 ],
+                  "lead_organisations":  [
+                                             {
+                                                 "analytics_identifier":  "PB57",
+                                                 "api_path":  "/api/content/government/organisations/marine-management-organisation",
+                                                 "api_url":  "https://www.gov.uk/api/content/government/organisations/marine-management-organisation",
+                                                 "base_path":  "/government/organisations/marine-management-organisation",
+                                                 "content_id":  "8d56bb52-2f79-4b6d-9fc6-6d7dcc4f7586",
+                                                 "details":  {
+                                                                 "acronym":  "MMO",
+                                                                 "brand":  "department-for-environment-food-rural-affairs",
+                                                                 "default_news_image":  null,
+                                                                 "logo":  {
+                                                                              "crest":  "single-identity",
+                                                                              "formatted_title":  "Marine \u003cbr/\u003eManagement \u003cbr/\u003eOrganisation"
+                                                                          },
+                                                                 "organisation_govuk_status":  {
+                                                                                                   "status":  "live",
+                                                                                                   "updated_at":  null,
+                                                                                                   "url":  null
+                                                                                               }
+                                                             },
+                                                 "document_type":  "organisation",
+                                                 "links":  {
+
+                                                           },
+                                                 "locale":  "en",
+                                                 "schema_name":  "organisation",
+                                                 "title":  "Marine Management Organisation",
+                                                 "web_url":  "https://www.gov.uk/government/organisations/marine-management-organisation",
+                                                 "withdrawn":  false
+                                             }
+                                         ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "PB57",
+                                            "api_path":  "/api/content/government/organisations/marine-management-organisation",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/marine-management-organisation",
+                                            "base_path":  "/government/organisations/marine-management-organisation",
+                                            "content_id":  "8d56bb52-2f79-4b6d-9fc6-6d7dcc4f7586",
+                                            "details":  {
+                                                            "acronym":  "MMO",
+                                                            "brand":  "department-for-environment-food-rural-affairs",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Marine \u003cbr/\u003eManagement \u003cbr/\u003eOrganisation"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Marine Management Organisation",
+                                            "web_url":  "https://www.gov.uk/government/organisations/marine-management-organisation",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "PB57",
+                                                                       "api_path":  "/api/content/government/organisations/marine-management-organisation",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/marine-management-organisation",
+                                                                       "base_path":  "/government/organisations/marine-management-organisation",
+                                                                       "content_id":  "8d56bb52-2f79-4b6d-9fc6-6d7dcc4f7586",
+                                                                       "details":  {
+                                                                                       "acronym":  "MMO",
+                                                                                       "brand":  "department-for-environment-food-rural-affairs",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Marine \u003cbr/\u003eManagement \u003cbr/\u003eOrganisation"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Marine Management Organisation",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/marine-management-organisation",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "PB57",
+                                                              "api_path":  "/api/content/government/organisations/marine-management-organisation",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/marine-management-organisation",
+                                                              "base_path":  "/government/organisations/marine-management-organisation",
+                                                              "content_id":  "8d56bb52-2f79-4b6d-9fc6-6d7dcc4f7586",
+                                                              "details":  {
+                                                                              "acronym":  "MMO",
+                                                                              "brand":  "department-for-environment-food-rural-affairs",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Marine \u003cbr/\u003eManagement \u003cbr/\u003eOrganisation"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Marine Management Organisation",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/marine-management-organisation",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/environment/marine-environment",
+                                     "api_url":  "https://www.gov.uk/api/content/environment/marine-environment",
+                                     "base_path":  "/environment/marine-environment",
+                                     "content_id":  "7172945a-aed5-4fa1-af6b-9ae09a584ad8",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Marine environment",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/environment/marine",
+                                                                             "api_url":  "https://www.gov.uk/api/content/environment/marine",
+                                                                             "base_path":  "/environment/marine",
+                                                                             "content_id":  "42fdd045-cadf-474b-b8a6-ca20a77c43bb",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Marine",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/environment",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/environment",
+                                                                                                                     "base_path":  "/environment",
+                                                                                                                     "content_id":  "3cf97f69-84de-41ae-bc7b-7e2cc238fa58",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Environment",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T13:39:00Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Environment",
+                                                                                                                     "web_url":  "https://www.gov.uk/environment",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T11:58:23Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Marine",
+                                                                             "web_url":  "https://www.gov.uk/environment/marine",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-16T09:56:59Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Marine environment",
+                                     "web_url":  "https://www.gov.uk/environment/marine-environment",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2021-01-29T09:30:08+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1713893339.932-10.13.33.117-628",
+    "publishing_scheduled_at":  "2021-01-29T09:30:00+00:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  11,
+    "schema_name":  "detailed_guide",
+    "title":  "Fishing data collection, coverage, processing and revisions",
+    "updated_at":  "2025-01-14T13:08:31+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

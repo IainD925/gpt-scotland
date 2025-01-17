@@ -1,0 +1,623 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/gm-inspectorate-seed-audit-programme",
+    "content_id":  "6bb25b60-c493-4b5b-bd8e-2577cd51837e",
+    "description":  "Guidance on the Genetic Modification Inspectorate (GMI) seed audit programme for companies in England that import, produce or market seed.",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  669944,
+                                            "filename":  "gm-seed-audit-guidance.pdf",
+                                            "id":  "8397307",
+                                            "number_of_pages":  8,
+                                            "title":  "Guidance for seed companies",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/61af41fad3bf7f05539de5e2/gm-seed-audit-guidance.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  668725,
+                                            "filename":  "gm-processor-guidance.pdf",
+                                            "id":  "8397308",
+                                            "number_of_pages":  6,
+                                            "title":  "Processor guidance",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a74ec2340f0b65f6132356c/gm-processor-guidance.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  121193,
+                                            "filename":  "gm-audit-questionnaire.pdf",
+                                            "id":  "8397309",
+                                            "number_of_pages":  18,
+                                            "title":  "Detailed audit questionnaire",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7f5c9eed915d74e6229ff7/gm-audit-questionnaire.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  540489,
+                                            "filename":  "gm-data-request-template.xlsx",
+                                            "id":  "8397310",
+                                            "title":  "Basic audit data gathering template",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5ad5d473ed915d32a65dbc4c/gm-data-request-template.xlsx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  60204,
+                                            "filename":  "gm-audit-flowchart.pdf",
+                                            "id":  "8397311",
+                                            "number_of_pages":  1,
+                                            "title":  "Gathering of basic data and detailed audit visits",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a81ae70e5274a2e8ab5549d/gm-audit-flowchart.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  715448,
+                                            "filename":  "GMI_Seed_Audit_summary_report_January_2025.pdf",
+                                            "id":  "8397312",
+                                            "number_of_pages":  48,
+                                            "title":  "GMI seed audit summary reports",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/677d11a3d721a08c006654f9/GMI_Seed_Audit_summary_report_January_2025.pdf"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eGenetically modified (\u003cabbr title=\"genetically modified\"\u003eGM\u003c/abbr\u003e) seed audits are carried out by, or on behalf of, UK authorities in:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eEngland – the Department for Environment, Food and Rural Affairs (\u003cabbr title=\"Department for Environment, Food and Rural Affairs\"\u003eDefra\u003c/abbr\u003e)\u003c/li\u003e\n  \u003cli\u003eNorthern Ireland – the \u003ca rel=\"external\" href=\"https://www.daera-ni.gov.uk/\" class=\"govuk-link\"\u003eDepartment of Agriculture, Environment and Rural Affairs (DAERA)\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003eScotland – the \u003ca rel=\"external\" href=\"https://www.gov.scot/\" class=\"govuk-link\"\u003eScottish Government\u003c/a\u003e – \u003ca rel=\"external\" href=\"https://www.sasa.gov.uk/wildlife-environment/gm-services\" class=\"govuk-link\"\u003econtact the SASA \u003cabbr title=\"Genetic Modification Inspectorate\"\u003eGMI\u003c/abbr\u003e\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003eWales – the \u003ca rel=\"external\" href=\"https://gov.wales/\" class=\"govuk-link\"\u003eWelsh Government\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"seed-audit-programme-in-england\"\u003eSeed audit programme in England\u003c/h2\u003e\n\n\u003cp\u003eThe programme helps companies in England comply with the rules on \u003cabbr title=\"genetically modified organisms\"\u003eGMOs\u003c/abbr\u003e in seeds by providing evidence of the actions they take.\u003c/p\u003e\n\n\u003cp\u003eThe audits include seeds that are to be:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003emarketed for commercial production\u003c/li\u003e\n  \u003cli\u003eused for trial purposes\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe audits are carried out by the Animal and Plant Health Agency (\u003cabbr title=\"Animal and Plant Health Agency\"\u003eAPHA\u003c/abbr\u003e) Genetic Modification Inspectorate (\u003cabbr title=\"Genetic Modification Inspectorate\"\u003eGMI\u003c/abbr\u003e) on behalf of \u003cabbr title=\"Department for Environment, Food and Rural Affairs\"\u003eDefra\u003c/abbr\u003e.\u003c/p\u003e\n\n\u003cp\u003eTaking part in audits is voluntary but you must always follow the relevant legislation and must not import or produce seeds that contain unauthorised \u003cabbr title=\"genetically modified organisms\"\u003eGMOs\u003c/abbr\u003e. For more information, read Part VI, Section 8, sub-section (2) of the Environmental Protection Act (1990).\u003c/p\u003e\n\n\u003cp\u003eThis guide is updated annually before the next round of audits programme begins.\u003c/p\u003e\n\n\u003ch2 id=\"seed-company-responsibilities\"\u003eSeed company responsibilities\u003c/h2\u003e\n\u003cp\u003eCompanies that import or produce conventional seed in the UK must get consent before they import, acquire, release or market genetically modified organisms (\u003cabbr title=\"genetically modified organisms\"\u003eGMOs\u003c/abbr\u003e). Conventional seed means seed produced to relevant certification standards, that is destined for sowing and has not been genetically modified (\u003cabbr title=\"genetically modified\"\u003eGM\u003c/abbr\u003e).\u003c/p\u003e\n\n\u003cp\u003eThey must put appropriate controls in place to minimise the risk of adventitious \u003cabbr title=\"genetically modified\"\u003eGM\u003c/abbr\u003e presence (\u003cabbr title=\"adventitious GM presence\"\u003eAGMP\u003c/abbr\u003e) (the unexpected, accidental or unplanned occurrence of \u003cabbr title=\"genetically modified\"\u003eGM\u003c/abbr\u003e seeds) in the seed for sowing.\u003c/p\u003e\n\n\u003ch2 id=\"importing-or-producing-seed\"\u003eImporting or producing seed\u003c/h2\u003e\n\n\u003cp\u003eYou need to show the auditor you have taken action to minimise the risk of \u003cabbr title=\"adventitious GM presence\"\u003eAGMP\u003c/abbr\u003e in seed you market or enter into trials.\u003c/p\u003e\n\n\u003ch3 id=\"crops-most-at-risk-of-gm-presence\"\u003eCrops most at risk of \u003cabbr title=\"genetically modified\"\u003eGM\u003c/abbr\u003e presence\u003c/h3\u003e\n\n\u003cp\u003eThe following crop species have been assessed by the \u003cabbr title=\"Genetic Modification Inspectorate\"\u003eGMI\u003c/abbr\u003e as being most at risk of \u003cabbr title=\"adventitious GM presence\"\u003eAGMP\u003c/abbr\u003e:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eBrassica napus: winter and spring oilseed rape, swede, swede fodder rape, salad rape, rape or kale hybrids\u003c/li\u003e\n  \u003cli\u003eBrassica rapa: turnip, turnip fodder rape, stubble turnips, Chinese cabbage, pak choi, oriental greens, rapid-cycling brassicas\u003c/li\u003e\n  \u003cli\u003eGlycine max: soya bean, edamame\u003c/li\u003e\n  \u003cli\u003eZea mays: fodder maize, grain maize and sweetcorn\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"control-measures-to-protect-seed-purity\"\u003eControl measures to protect seed purity\u003c/h3\u003e\n\n\u003cp\u003eThe main approaches that companies use to protect the purity of their seed in terms of \u003cabbr title=\"genetically modified organisms\"\u003eGMOs\u003c/abbr\u003e are production controls and analytical tests.\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003eProduction controls include:\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eThese include, but are not limited to:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eseed provenance – documentation detailing the source of the germplasm, including the breeder and country of origin, and confirmation that the seed has been produced from non-\u003cabbr title=\"genetically modified\"\u003eGM\u003c/abbr\u003e lines\u003c/li\u003e\n  \u003cli\u003evariety maintenance – evidence that the variety has been maintained in isolation from transgenic lines (for example by the use of spatial, temporal, physical or procedural methods)\u003c/li\u003e\n  \u003cli\u003eseed production controls – documentation detailing the controls in place to prevent contamination in the field, including at sowing, during the growing or flowering stage, and at harvest\u003c/li\u003e\n  \u003cli\u003econtrols relating to transport, storage and processing – documentation confirming the use of suitable measures to prevent the introduction of \u003cabbr title=\"adventitious GM presence\"\u003eAGMP\u003c/abbr\u003e due to admixture with other seed (contracted processors should provide written assurances to demonstrate they have appropriate measures in place to minimise the risk of seed acquiring \u003cabbr title=\"adventitious GM presence\"\u003eAGMP\u003c/abbr\u003e)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIf suppliers request written statements (letters of assurance) as a proxy for direct control or knowledge of production controls, the statements should refer to the specific relevant controls and how they have been applied to the seed.\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003eAnalytical tests\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eAnalytical tests on individual seed batches or lots, include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eDNA-based tests, for example, polymerase chain reaction (\u003cabbr title=\"polymerase chain reaction\"\u003ePCR\u003c/abbr\u003e) tests\u003c/li\u003e\n  \u003cli\u003eprotein-based tests, for example, lateral flow devices (LFDs) or lateral flow tests (LFTs)\u003c/li\u003e\n  \u003cli\u003espray tests, for example, for herbicide tolerance\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eAs a minimum, each analytical test should:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ebe carried out on a representative sample of the seed lot\u003c/li\u003e\n  \u003cli\u003ebe carried out on a minimum working sample for analysis that contains at least 3000 seeds (which may need to be tested in batches to align with analytical sensitivity)\u003c/li\u003e\n  \u003cli\u003einclude appropriate positive and negative controls\u003c/li\u003e\n  \u003cli\u003eaddress the risk of possible false positives\u003c/li\u003e\n  \u003cli\u003ebe conducted to an analytical sensitivity level of at least 0.1% (for example, a limit of detection of less than or equal to 0.1%)\u003c/li\u003e\n  \u003cli\u003eindicate any standards or accreditation it conforms to, for example ISO17025, United Kingdom Accreditation Service (\u003cabbr title=\"United Kingdom Accreditation Service\"\u003eUKAS\u003c/abbr\u003e), Association Française de Normalisation (\u003cabbr title=\"Association Française de Normalisation\"\u003eAFNOR\u003c/abbr\u003e), Good Laboratory Practice (\u003cabbr title=\"Good Laboratory Practice\"\u003eGLP\u003c/abbr\u003e)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eEach analytical test should include the result for the test with the associated measurement of uncertainty for the result (for example, plus or minus 95% confidence limits).\u003c/p\u003e\n\n\u003cp\u003eFor \u003cabbr title=\"polymerase chain reaction\"\u003ePCR\u003c/abbr\u003e-based tests, the analysis should also include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003etesting with a combination of commonly used promoter and terminator sequences – for example, cauliflower mosaic virus promoter (CaMV p35S) and nopaline synthase terminator (\u003cabbr title=\"nopaline synthase terminator\"\u003etNOS\u003c/abbr\u003e)\u003c/li\u003e\n  \u003cli\u003eantibiotic markers appropriate to the crop in question – for example, NptII, the selectable marker for kanamycin resistance\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eTesting for sequences that encode specific traits such as PAT/BAR (LibertyLink) and GOX (Roundup Ready) may also be appropriate to strengthen the assurance provided by the testing regime.\u003c/p\u003e\n\n\u003cp\u003eAssurances should be provided on the separate handling of the seed subsequent to any testing. Test certificates should clearly identify the lots or batches they refer to.\u003c/p\u003e\n\n\u003ch3 id=\"mutagenesis-and-gene-editing\"\u003eMutagenesis and gene-editing\u003c/h3\u003e\n\n\u003cp\u003eIn April 2022, the law changed regarding genetically modified plants under the \u003ca rel=\"external\" href=\"https://www.legislation.gov.uk/ukdsi/2022/9780348231328\" class=\"govuk-link\"\u003eGenetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2022\u003c/a\u003e). These changes affect field trials for research and development only and not commercialisation or marketing. These plants are described as ‘qualifying higher plants’, material from which must not be allowed to enter the human food chain or fed to animals.\u003c/p\u003e\n\n\u003cp\u003eThe Genetic Modification Inspectorate carries out inspections of Genetically Modified Organism field trials in accordance with the powers granted under the Environmental Protection Act 1990, including for qualifying higher plants where there is a possibility of non-compliance.\u003c/p\u003e\n\n\u003cp\u003eOn 25 July 2018, the European Court of Justice (case C-528/16) ruled that the use of certain gene editing techniques, such as oligonucleotide-directed mutagenesis (including CRISPR-Cas9 techniques), constitute genetic modification. This means that all organisms produced by gene-editing techniques must be regulated as \u003cabbr title=\"genetically modified organisms\"\u003eGMOs\u003c/abbr\u003e.\u003c/p\u003e\n\n\u003cp\u003ePlant varieties produced in the EU using these techniques need to go through the EU authorisation process before being marketed or commercially cultivated in the EU and Northern Ireland.\u003c/p\u003e\n\n\u003cp\u003eIn Great Britain, separate authorisations are required for the import, acquisition, release or marketing of \u003cabbr title=\"genetically modified organisms\"\u003eGMOs\u003c/abbr\u003e in England, Scotland and Wales.\u003c/p\u003e\n\n\u003cp\u003eBefore the ruling some breeders were known to be preparing to market varieties produced using these now-regulated techniques. The \u003cabbr title=\"Genetic Modification Inspectorate\"\u003eGMI\u003c/abbr\u003e does not believe that any such products have been marketed in the EU. However, companies should remain vigilant to the potential use of regulated gene-editing techniques. If you have any concerns regarding the provenance of varieties you are intending to market \u003ca href=\"#contact\" class=\"govuk-link\"\u003eplease contact \u003cabbr title=\"Genetic Modification Inspectorate\"\u003eGMI\u003c/abbr\u003e.\u003c/a\u003e\u003c/p\u003e\n\n\u003ch3 id=\"genetic-technology-precision-breeding-act\"\u003eGenetic Technology (Precision Breeding) Act\u003c/h3\u003e\n\u003cp\u003eThe Precision Breeding Act was introduced to the house of commons on 25 May 2022 and was passed into law 23 March 2023. The act applies to England only. It will introduce a new, science-based and streamlined regulatory system. The system aims to facilitate greater research and innovation in precision breeding. Stricter regulations for genetically modified organisms (\u003cabbr title=\"genetically modified organisms\"\u003eGMOs\u003c/abbr\u003e) will be maintained.\u003c/p\u003e\n\n\u003cp\u003eThe government will take a step-by-step approach. It will enable precision breeding technologies for plants first, followed by animals later. Precision breeding technologies, such as gene editing (\u003cabbr title=\"gene editing\"\u003eGE\u003c/abbr\u003e), can make targeted genetic changes. The changes can arise through traditional breeding and natural processes and can produce beneficial traits.\u003c/p\u003e\n\n\u003cp\u003eThe act makes a distinction between genetically modified organisms (\u003cabbr title=\"genetically modified organisms\"\u003eGMOs\u003c/abbr\u003e) and ‘precision bred organisms’ (\u003cabbr title=\"precision bred organisms\"\u003ePBOs\u003c/abbr\u003e). \u003cabbr title=\"genetically modified organisms\"\u003eGMOs\u003c/abbr\u003e use techniques to insert functional DNA from an unrelated species into another species. \u003cabbr title=\"precision bred organisms\"\u003ePBOs\u003c/abbr\u003e come from the application of modern biotechnology and every feature of their functional genome could have resulted from traditional processes.\u003c/p\u003e\n\n\u003cp\u003e\u003cabbr title=\"precision bred organisms\"\u003ePBOs\u003c/abbr\u003e should be treated the same as traditionally bred plant varieties where the act is implemented. Officials are currently drafting the statutory instruments. Once complete, they will allow provisions of the act to be brought into force for England only. They have not yet announced the timing of this.\u003c/p\u003e\n\n\u003ch3 id=\"gm-presence-in-zea-mays\"\u003e\n\u003cabbr title=\"genetically modified\"\u003eGM\u003c/abbr\u003e presence in Zea mays\u003c/h3\u003e\n\n\u003cp\u003eIf a \u003cabbr title=\"polymerase chain reaction\"\u003ePCR\u003c/abbr\u003e test on an individual batch or seed lot shows \u003cabbr title=\"adventitious GM presence\"\u003eAGMP\u003c/abbr\u003e at any detection level, you cannot market or plant any of the seeds (except Zea mays). Contact \u003cabbr title=\"Genetic Modification Inspectorate\"\u003eGMI\u003c/abbr\u003e for advice.\u003c/p\u003e\n\n\u003cp\u003eFor Zea mays there is an authorisation for commercial cultivation of \u003cabbr title=\"genetically modified\"\u003eGM\u003c/abbr\u003e maize in England, for MON810 (notification C/F/95/12/02, event code MON-ØØ81Ø-6, Monsanto).\u003c/p\u003e\n\n\u003cp\u003eThere is no marketing restriction on approved \u003cabbr title=\"genetically modified organisms\"\u003eGMOs\u003c/abbr\u003e which have been cleared as presenting no risk to human health or to the environment. However, you must label seeds, as described in \u003ca rel=\"external\" href=\"https://www.legislation.gov.uk/eur/2003/1830/contents\" class=\"govuk-link\"\u003eRegulation 1830/2003\u003c/a\u003e (as amended).\u003c/p\u003e\n\n\u003cp\u003eIn the absence of specific labelling thresholds in English legislation for the adventitious presence of approved \u003cabbr title=\"genetically modified organisms\"\u003eGMOs\u003c/abbr\u003e in conventional seed, UK industry has chosen to adopt a precautionary approach and operates to the level of detection (0.1% or less). If you market seed in England with a detectable level of an approved \u003cabbr title=\"genetically modified organism\"\u003eGMO\u003c/abbr\u003e, you must declare that level on the seed label. You cannot market seed with any level of an unapproved \u003cabbr title=\"genetically modified organism\"\u003eGMO\u003c/abbr\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"pcr-junction-primer-tests\"\u003e\n\u003cabbr title=\"polymerase chain reaction\"\u003ePCR\u003c/abbr\u003e junction primer tests\u003c/h3\u003e\n\n\u003cp\u003eA number of \u003cabbr title=\"genetically modified\"\u003eGM\u003c/abbr\u003e elements are derived from naturally occurring bacteria and viruses. \u003cabbr title=\"polymerase chain reaction\"\u003ePCR\u003c/abbr\u003e tests targeting these elements can give false positive results, as the presence of such bacteria and viruses in seed can give a positive result.\u003c/p\u003e\n\n\u003cp\u003e\u003cabbr title=\"polymerase chain reaction\"\u003ePCR\u003c/abbr\u003e junction primer tests target the adjoining regions between neighbouring \u003cabbr title=\"genetically modified\"\u003eGM\u003c/abbr\u003e elements that would not normally be associated in nature. This makes these tests less likely to produce false positive results compared to standard \u003cabbr title=\"polymerase chain reaction\"\u003ePCR\u003c/abbr\u003e tests. However, because junction-spanning tests have an increased specificity, they target a smaller range of elements, resulting in a potential reduction in the number of \u003cabbr title=\"genetically modified\"\u003eGM\u003c/abbr\u003e lines the test can detect.\u003c/p\u003e\n\n\u003cp\u003eThis is illustrated in Figure 1, which shows a test targeting the p35S and \u003cabbr title=\"neomycin phosphotransferase\"\u003eNPTII\u003c/abbr\u003e junction of a \u003cabbr title=\"genetically modified\"\u003eGM\u003c/abbr\u003e construct.\u003c/p\u003e\n\n\u003cp\u003eFigure 1\u003c/p\u003e\n\n\u003cfigure class=\"image embedded\"\u003e\u003cdiv class=\"img\"\u003e\u003cimg src=\"https://assets.publishing.service.gov.uk/media/62a32c31e90e07039e31b869/2021-11-30_GMI_Guidance_figure_1_960x640.jpg\" alt=\u0027A bar with segments labelled from left to right: p35S, NPTII, EPSPS, tNOS with p35S and NPTII coloured as \"Junction targeted\" and  outside the bar reads Detected by junction primer tests with a check mark\u0027\u003e\u003c/div\u003e\u003c/figure\u003e\n\n\u003cp\u003eIn figure 2 the p35S and \u003cabbr title=\"neomycin phosphotransferase\"\u003eNPTII\u003c/abbr\u003e elements are present in the construct, but not detected by the test, as they are not adjacent.\u003c/p\u003e\n\n\u003cp\u003eFigure 2\u003c/p\u003e\n\n\u003cfigure class=\"image embedded\"\u003e\u003cdiv class=\"img\"\u003e\u003cimg src=\"https://assets.publishing.service.gov.uk/media/62a32c32d3bf7f036a31c786/2021-11-30_GMI_Guidance_figure_2_960x640.jpg\" alt=\"A bar with segments labelled from left to right: NPTII, EPSPS, p35S, tNOS with p35S and NPTII colour. Outside the bar reads not detected by junction primer tests with a cross mark\"\u003e\u003c/div\u003e\u003c/figure\u003e\n\n\u003cp\u003eDespite the p35S and \u003cabbr title=\"neomycin phosphotransferase\"\u003eNPTII\u003c/abbr\u003e elements being present in both constructs, the junction-spanning test only returns a positive result for the construct in figure 1. Consequently, such junction-spanning tests could fail to detect a range of \u003cabbr title=\"genetically modified\"\u003eGM\u003c/abbr\u003e lines containing p35S or \u003cabbr title=\"neomycin phosphotransferase\"\u003eNPTII\u003c/abbr\u003e.\u003c/p\u003e\n\n\u003cp\u003eCompanies that use junction-spanning \u003cabbr title=\"polymerase chain reaction\"\u003ePCR\u003c/abbr\u003e tests should include the names of the specific genetic elements, constructs or events that are targeted on the certificate.\u003c/p\u003e\n\n\u003ch2 id=\"audit-summary-reports\"\u003eAudit summary reports\u003c/h2\u003e\n\n\u003cp\u003eAfter completing a seed audit, the auditor submits a detailed report to \u003cabbr title=\"Department for Environment, Food and Rural Affairs\"\u003eDefra\u003c/abbr\u003e showing the:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003enames of varieties imported or produced by the seed company\u003c/li\u003e\n  \u003cli\u003eassurances provided by them for each seed lot or batch\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eSee recent \u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/677d11a3d721a08c006654f9/GMI_Seed_Audit_summary_report_January_2025.pdf\"\u003eGMI seed audit summary reports\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e699 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e48 pages\u003c/span\u003e)\u003c/span\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"legal-definitions\"\u003eLegal definitions\u003c/h2\u003e\n\n\u003cp\u003eGenetically modified organisms and genetic modification are defined in:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003esection 106 of the \u003ca rel=\"external\" href=\"https://www.legislation.gov.uk/ukpga/1990/43/part/VI\" class=\"govuk-link\"\u003eEnvironmental Protection Act 1990\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://www.legislation.gov.uk/uksi/2002/2443/contents/made\" class=\"govuk-link\"\u003eGenetically Modified Organisms (Deliberate Release) Regulations 2002\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://www.legislation.gov.uk/ukpga/2023/6/contents/enacted\" class=\"govuk-link\"\u003eGenetic Technology (Precision Breeding) Act 2023\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"contact\"\u003eContact\u003c/h2\u003e\n\n\u003cp\u003eContact the \u003cabbr title=\"Genetic Modification Inspectorate\"\u003eGMI\u003c/abbr\u003e:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003efor information about the seed audit programme\u003c/li\u003e\n  \u003cli\u003efor timings of seed audits\u003c/li\u003e\n  \u003cli\u003eif you have concerns or information about unauthorised \u003cabbr title=\"genetically modified organisms\"\u003eGMOs\u003c/abbr\u003e that you believe may have been released in England\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eEmail: \u003ca href=\"mailto:gm-inspec@apha.gov.uk\" class=\"govuk-link\"\u003egm-inspec@apha.gov.uk\u003c/a\u003e\u003c/p\u003e\n\n\u003cdiv class=\"address\"\u003e\u003cdiv class=\"adr org fn\"\u003e\u003cp\u003e\n\u003cabbr title=\"genetically modified\"\u003eGM\u003c/abbr\u003e Inspectorate\u003cbr\u003eAnimal and Plant Health Agency\u003cbr\u003eSand Hutton\u003cbr\u003eYork\u003cbr\u003eYO41 1LZ\u003cbr\u003eNorth Yorkshire\u003cbr\u003eUnited Kingdom\n\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Updated the GMI seed audit summary reports document.",
+                                               "public_timestamp":  "2025-01-07T15:08:09.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated the GMI seed audit summary reports document.",
+                                               "public_timestamp":  "2024-10-04T14:53:01.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated content for the 2024 audit programme covering information about the introduction of the Genetic Technology (Precision Breeding) Act.",
+                                               "public_timestamp":  "2024-06-17T12:22:42.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated the GMI seed audit summary reports document.",
+                                               "public_timestamp":  "2024-03-26T14:26:27.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated the GMI seed audit summary reports document.",
+                                               "public_timestamp":  "2024-01-31T08:33:17.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated the GMI seed audit summary reports document.",
+                                               "public_timestamp":  "2023-11-09T09:47:54.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated GMI seed audit summary reports document.",
+                                               "public_timestamp":  "2023-07-06T17:33:32.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated GMI seed audit summary reports document.\r\n\r\n",
+                                               "public_timestamp":  "2023-03-16T09:53:36.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated GMI seed audit summary reports document.",
+                                               "public_timestamp":  "2022-11-16T18:01:48.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated GMI seed audit summary reports document.",
+                                               "public_timestamp":  "2022-06-20T13:27:17.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated to the content for 2022 audit programme covering amendments to legislation and rearranged the guidance for a more logical flow of information. Separated out Figure 1 into 2 separate figures. Out of date link to questionnaires removed.",
+                                               "public_timestamp":  "2022-06-10T14:19:00.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated the GMI seed audit summary report.",
+                                               "public_timestamp":  "2022-01-28T14:38:00.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Removed guidance for seed companies document and added content to a new section - importing and producing seeds. Updated the content for 2021 audits programme.",
+                                               "public_timestamp":  "2021-12-08T14:16:28.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated document on recent Genetic Modification Inspectorate seed audit summary reports.",
+                                               "public_timestamp":  "2021-06-14T16:24:51.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated document: recent Genetic Modification Inspectorate seed audit summary reports.",
+                                               "public_timestamp":  "2020-06-19T12:54:38.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated recent GMI seed audit summary reports document",
+                                               "public_timestamp":  "2019-11-08T09:04:45.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Clarification that GM seed audits are carried out by, or on behalf of, the competent authorities of the UK. ",
+                                               "public_timestamp":  "2019-10-28T12:47:37.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Guidance for seed companies updated",
+                                               "public_timestamp":  "2019-05-17T09:13:31.000+01:00"
+                                           },
+                                           {
+                                               "note":  "GMI seed audit report updated",
+                                               "public_timestamp":  "2019-03-28T14:09:28.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Recent GMI seed audit summary report updated",
+                                               "public_timestamp":  "2019-01-25T11:20:12.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Recent GMI seed audit summary report updated.",
+                                               "public_timestamp":  "2018-12-20T09:18:57.000+00:00"
+                                           },
+                                           {
+                                               "note":  "GMI Seed Audit Summary report updated",
+                                               "public_timestamp":  "2018-11-06T11:53:19.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Recent GMI seed audit summary report published.",
+                                               "public_timestamp":  "2018-09-10T09:39:19.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Published summary report for 2018 audit programme",
+                                               "public_timestamp":  "2018-08-24T12:10:58.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Seed audit summary 2017 updated ",
+                                               "public_timestamp":  "2018-04-19T12:07:47.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Seed audit summary 2017 updated ",
+                                               "public_timestamp":  "2018-02-26T12:01:34.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Seed audit summary 2017 updated ",
+                                               "public_timestamp":  "2018-02-08T13:02:02.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Seed audit summary 2017 updated ",
+                                               "public_timestamp":  "2018-01-18T18:42:31.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Seed audit summary 2017 updated ",
+                                               "public_timestamp":  "2017-12-06T17:12:09.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Seed audit summary 2017 updated",
+                                               "public_timestamp":  "2017-11-15T12:19:11.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Seed audit summary 2017 added",
+                                               "public_timestamp":  "2017-10-19T15:15:44.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated document: guidance for seed companies",
+                                               "public_timestamp":  "2017-08-31T14:33:43.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Seed audit summary 2015/16 updated ",
+                                               "public_timestamp":  "2017-07-04T11:36:04.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Seed audit summary 2015/16 updated ",
+                                               "public_timestamp":  "2017-06-22T11:25:49.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Seed audit summary 2015/16 updated ",
+                                               "public_timestamp":  "2017-05-19T14:10:28.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Seed audit summary 2015/16 updated ",
+                                               "public_timestamp":  "2017-02-09T15:55:05.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Seed audit summary 2015/16 updated ",
+                                               "public_timestamp":  "2016-11-04T16:27:37.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Seed audit summary 2015/16 updated ",
+                                               "public_timestamp":  "2016-10-19T10:12:31.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Seed audit summary 2015/16 updated",
+                                               "public_timestamp":  "2016-10-04T10:59:28.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Seed audit summary 2015/16 updated",
+                                               "public_timestamp":  "2016-09-16T16:46:05.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Seed audit summary 2015/16 updated",
+                                               "public_timestamp":  "2016-08-19T11:21:58.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Seed audit summary 2015/16 updated",
+                                               "public_timestamp":  "2016-08-17T09:59:25.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Seed audit summary 2014/15 updated. Seed audit summary 2015/16 added. ",
+                                               "public_timestamp":  "2016-07-28T10:30:58.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Seed audit summary 2014/15 updated",
+                                               "public_timestamp":  "2016-07-06T14:03:31.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Seed audit summary 2014/15 updated",
+                                               "public_timestamp":  "2016-06-09T14:33:05.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Seed audit summary 2014/15 updated",
+                                               "public_timestamp":  "2016-02-22T17:02:06.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Seed audit summary 2014/15 updated",
+                                               "public_timestamp":  "2016-02-10T15:13:39.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Seed audit summary 2014/15 updated",
+                                               "public_timestamp":  "2016-01-28T13:46:04.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Seed audit summary 2014/15 updated",
+                                               "public_timestamp":  "2016-01-08T15:10:50.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Seed audit summary 2014/15 updated",
+                                               "public_timestamp":  "2016-01-05T15:16:49.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Seed audit summary 2014/15 updated",
+                                               "public_timestamp":  "2015-12-11T14:32:18.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Seed audit summary 2014/15 updated",
+                                               "public_timestamp":  "2015-10-09T11:33:12.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Seed audit summary table 2014/15 updated",
+                                               "public_timestamp":  "2015-08-19T10:39:22.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Summary report for 2014/15 published",
+                                               "public_timestamp":  "2015-06-19T10:07:27.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2014-10-01T00:00:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "4ad67f14-6f9c-4fa4-80ab-687b6d81ea6f"
+                                                 ],
+                    "first_public_at":  "2014-10-01T00:00:00.000+01:00",
+                    "national_applicability":  {
+                                                   "england":  {
+                                                                   "applicable":  true,
+                                                                   "label":  "England"
+                                                               },
+                                                   "northern_ireland":  {
+                                                                            "alternative_url":  "",
+                                                                            "applicable":  false,
+                                                                            "label":  "Northern Ireland"
+                                                                        },
+                                                   "scotland":  {
+                                                                    "alternative_url":  "",
+                                                                    "applicable":  false,
+                                                                    "label":  "Scotland"
+                                                                },
+                                                   "wales":  {
+                                                                 "alternative_url":  "",
+                                                                 "applicable":  false,
+                                                                 "label":  "Wales"
+                                                             }
+                                               },
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2014-10-01T00:00:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/gm-inspectorate-seed-audit-programme",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/gm-inspectorate-seed-audit-programme",
+                                                     "base_path":  "/guidance/gm-inspectorate-seed-audit-programme",
+                                                     "content_id":  "6bb25b60-c493-4b5b-bd8e-2577cd51837e",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2025-01-07T15:08:09Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Genetic Modification Inspectorate: seed audit programme",
+                                                     "web_url":  "https://www.gov.uk/guidance/gm-inspectorate-seed-audit-programme",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/guidance-and-reports-on-gm-inspections",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/guidance-and-reports-on-gm-inspections",
+                                                   "base_path":  "/government/collections/guidance-and-reports-on-gm-inspections",
+                                                   "content_id":  "4661f20c-3abf-4ec6-b7cf-7a61327c98ac",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/gm-inspectorate-seed-audit-programme",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/gm-inspectorate-seed-audit-programme",
+                                                                                       "base_path":  "/guidance/gm-inspectorate-seed-audit-programme",
+                                                                                       "content_id":  "6bb25b60-c493-4b5b-bd8e-2577cd51837e",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2025-01-07T15:08:09Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Genetic Modification Inspectorate: seed audit programme",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/gm-inspectorate-seed-audit-programme",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2015-11-27T14:18:00Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Guidance and reports on GM inspections",
+                                                   "web_url":  "https://www.gov.uk/government/collections/guidance-and-reports-on-gm-inspections",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "base_path":  "/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "content_id":  "591c83aa-3b74-437d-a342-612bddd97572",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2015-05-08T00:00:00+00:00",
+                                                         "started_on":  "2010-05-12T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2010 to 2015 Conservative and Liberal Democrat coalition government",
+                                         "web_url":  "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government"
+                                     }
+                                 ],
+                  "lead_organisations":  [
+                                             {
+                                                 "analytics_identifier":  "EA1079",
+                                                 "api_path":  "/api/content/government/organisations/animal-and-plant-health-agency",
+                                                 "api_url":  "https://www.gov.uk/api/content/government/organisations/animal-and-plant-health-agency",
+                                                 "base_path":  "/government/organisations/animal-and-plant-health-agency",
+                                                 "content_id":  "4ad67f14-6f9c-4fa4-80ab-687b6d81ea6f",
+                                                 "details":  {
+                                                                 "acronym":  "APHA",
+                                                                 "brand":  "department-for-environment-food-rural-affairs",
+                                                                 "default_news_image":  null,
+                                                                 "logo":  {
+                                                                              "crest":  "single-identity",
+                                                                              "formatted_title":  "Animal \u0026amp;\u003cbr/\u003ePlant Health\u003cbr/\u003eAgency"
+                                                                          },
+                                                                 "organisation_govuk_status":  {
+                                                                                                   "status":  "live",
+                                                                                                   "updated_at":  null,
+                                                                                                   "url":  null
+                                                                                               }
+                                                             },
+                                                 "document_type":  "organisation",
+                                                 "links":  {
+
+                                                           },
+                                                 "locale":  "en",
+                                                 "schema_name":  "organisation",
+                                                 "title":  "Animal and Plant Health Agency",
+                                                 "web_url":  "https://www.gov.uk/government/organisations/animal-and-plant-health-agency",
+                                                 "withdrawn":  false
+                                             }
+                                         ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "EA1079",
+                                            "api_path":  "/api/content/government/organisations/animal-and-plant-health-agency",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/animal-and-plant-health-agency",
+                                            "base_path":  "/government/organisations/animal-and-plant-health-agency",
+                                            "content_id":  "4ad67f14-6f9c-4fa4-80ab-687b6d81ea6f",
+                                            "details":  {
+                                                            "acronym":  "APHA",
+                                                            "brand":  "department-for-environment-food-rural-affairs",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Animal \u0026amp;\u003cbr/\u003ePlant Health\u003cbr/\u003eAgency"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Animal and Plant Health Agency",
+                                            "web_url":  "https://www.gov.uk/government/organisations/animal-and-plant-health-agency",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA1079",
+                                                                       "api_path":  "/api/content/government/organisations/animal-and-plant-health-agency",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/animal-and-plant-health-agency",
+                                                                       "base_path":  "/government/organisations/animal-and-plant-health-agency",
+                                                                       "content_id":  "4ad67f14-6f9c-4fa4-80ab-687b6d81ea6f",
+                                                                       "details":  {
+                                                                                       "acronym":  "APHA",
+                                                                                       "brand":  "department-for-environment-food-rural-affairs",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Animal \u0026amp;\u003cbr/\u003ePlant Health\u003cbr/\u003eAgency"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Animal and Plant Health Agency",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/animal-and-plant-health-agency",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "EA1079",
+                                                              "api_path":  "/api/content/government/organisations/animal-and-plant-health-agency",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/animal-and-plant-health-agency",
+                                                              "base_path":  "/government/organisations/animal-and-plant-health-agency",
+                                                              "content_id":  "4ad67f14-6f9c-4fa4-80ab-687b6d81ea6f",
+                                                              "details":  {
+                                                                              "acronym":  "APHA",
+                                                                              "brand":  "department-for-environment-food-rural-affairs",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Animal \u0026amp;\u003cbr/\u003ePlant Health\u003cbr/\u003eAgency"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Animal and Plant Health Agency",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/animal-and-plant-health-agency",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/environment/food-and-farming",
+                                     "api_url":  "https://www.gov.uk/api/content/environment/food-and-farming",
+                                     "base_path":  "/environment/food-and-farming",
+                                     "content_id":  "52ff5c99-a17b-42c4-a9d7-2cc92cccca39",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Food and farming",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/environment",
+                                                                             "api_url":  "https://www.gov.uk/api/content/environment",
+                                                                             "base_path":  "/environment",
+                                                                             "content_id":  "3cf97f69-84de-41ae-bc7b-7e2cc238fa58",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Environment",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T13:39:00Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Environment",
+                                                                             "web_url":  "https://www.gov.uk/environment",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-16T11:59:10Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Food and farming",
+                                     "web_url":  "https://www.gov.uk/environment/food-and-farming",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2025-01-07T15:08:09+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1736262489.241-10.13.22.132-2465",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Genetic Modification Inspectorate: seed audit programme",
+    "updated_at":  "2025-01-07T15:08:09+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

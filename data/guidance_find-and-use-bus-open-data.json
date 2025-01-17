@@ -1,0 +1,508 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/find-and-use-bus-open-data",
+    "content_id":  "a206b293-dfa9-4d0c-af83-7ef7b0b606e7",
+    "description":  "Find and use timetable, location and fares data for local bus services in England.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eThe Bus Open Data Service (\u003cabbr title=\"Bus Open Data service\"\u003eBODS\u003c/abbr\u003e) provides timetable, vehicle location and fares data for every local bus service in England. This data is freely available for anyone to use.\u003c/p\u003e\n\n\u003ch2 id=\"using-bus-open-data\"\u003eUsing bus open data\u003c/h2\u003e\n\n\u003cp\u003eBus open data is now available for use, and we encourage consumers to access this for commercial and non-commercial purposes. We expect that the primary use will be to make applications which help passengers plan journeys. However, this data may be used for academic research and inform government policy in other areas.\u003c/p\u003e\n\n\u003cp\u003eYou can find and use bus data in the following ways:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://data.bus-data.dft.gov.uk/search/\" class=\"govuk-link\"\u003ebrowse bus open data\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou can browse individual data sets or data feeds\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://data.bus-data.dft.gov.uk/downloads/\" class=\"govuk-link\"\u003edownload bus open data data sets\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou can download timetables data or bus location data cached on the service.\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003euse the interactive API service\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou can also \u003ca rel=\"external\" href=\"https://data.bus-data.dft.gov.uk/api/\" class=\"govuk-link\"\u003eaccess the bus open data through an API (application programming interface)\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"data-formats\"\u003eData formats\u003c/h2\u003e\n\n\u003ch3 id=\"timetable-data\"\u003eTimetable data\u003c/h3\u003e\n\n\u003cp\u003eRoute and timetable information is available in \u003ca href=\"https://www.gov.uk/government/collections/transxchange\" class=\"govuk-link\"\u003eTransXChange format\u003c/a\u003e. This is an XML standard used for exchanging bus schedules and related data.\u003c/p\u003e\n\n\u003ch3 id=\"location-data\"\u003eLocation data\u003c/h3\u003e\n\n\u003cp\u003eBus location data provides real-time vehicle position data in \u003cabbr title=\"Standard Interface for Real-Time Information\"\u003eSIRI\u003c/abbr\u003e-VM format. The Standard Interface for Real-Time Information (\u003cabbr title=\"Standard Interface for Real-Time Information\"\u003eSIRI\u003c/abbr\u003e)  was set by a group of European countries and provides the exchange of real-time information between different computer systems in a format which is also compatible across the EU.\u003c/p\u003e\n\n\u003ch3 id=\"fares-data\"\u003eFares data\u003c/h3\u003e\n\n\u003cp\u003eFares and ticketing data will be available in the \u003ca rel=\"external\" href=\"http://www.netex.uk/\" class=\"govuk-link\"\u003eUK NeTEx profile\u003c/a\u003e. The UK NeTEx profile allows for accurate representations of operators’ fares offerings to the market, which can then be accessed and used in journey planning applications.\u003c/p\u003e\n\n\u003ch2 id=\"support\"\u003eSupport\u003c/h2\u003e\n\n\u003cp\u003eIf you have a question that isn’t answered on this website, you can contact us at \u003ca href=\"mailto:bodshelpdesk@kpmg.co.uk\" class=\"govuk-link\"\u003ebodshelpdesk@kpmg.co.uk\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eAdditionally, through the \u003ca rel=\"external\" href=\"https://data.bus-data.dft.gov.uk/\" class=\"govuk-link\"\u003eFind Bus Open Data Service\u003c/a\u003e, data consumers can now give feedback to publishing operators directly on their individual data sets and data feeds. You can do this in the browse section when you choose an individual dataset.\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "The guidance has been updated to reflect changes to the Bus Open Data Service.",
+                                               "public_timestamp":  "2020-11-25T12:09:29.000+00:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2020-01-28T14:17:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "4c717efc-f47b-478e-a76d-ce1ae0af1946"
+                                                 ],
+                    "first_public_at":  "2020-01-28T14:17:00.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2020-01-28T14:17:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/find-and-use-bus-open-data",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/find-and-use-bus-open-data",
+                                                     "base_path":  "/guidance/find-and-use-bus-open-data",
+                                                     "content_id":  "a206b293-dfa9-4d0c-af83-7ef7b0b606e7",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2020-11-25T12:09:29Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Find and use bus open data",
+                                                     "web_url":  "https://www.gov.uk/guidance/find-and-use-bus-open-data",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D9",
+                                            "api_path":  "/api/content/government/organisations/department-for-transport",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-transport",
+                                            "base_path":  "/government/organisations/department-for-transport",
+                                            "content_id":  "4c717efc-f47b-478e-a76d-ce1ae0af1946",
+                                            "details":  {
+                                                            "acronym":  "DfT",
+                                                            "brand":  "department-for-transport",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/654bbccfe2e16a000d42abe1/s960_dft-gmh-960.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/654bbccfe70413000dfc4a51/s300_dft-gmh-960.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Department\u003cbr/\u003efor Transport"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Department for Transport",
+                                            "web_url":  "https://www.gov.uk/government/organisations/department-for-transport",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "D9",
+                                                                       "api_path":  "/api/content/government/organisations/department-for-transport",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-transport",
+                                                                       "base_path":  "/government/organisations/department-for-transport",
+                                                                       "content_id":  "4c717efc-f47b-478e-a76d-ce1ae0af1946",
+                                                                       "details":  {
+                                                                                       "acronym":  "DfT",
+                                                                                       "brand":  "department-for-transport",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/654bbccfe2e16a000d42abe1/s960_dft-gmh-960.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/654bbccfe70413000dfc4a51/s300_dft-gmh-960.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Department\u003cbr/\u003efor Transport"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Department for Transport",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/department-for-transport",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D9",
+                                                              "api_path":  "/api/content/government/organisations/department-for-transport",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-transport",
+                                                              "base_path":  "/government/organisations/department-for-transport",
+                                                              "content_id":  "4c717efc-f47b-478e-a76d-ce1ae0af1946",
+                                                              "details":  {
+                                                                              "acronym":  "DfT",
+                                                                              "brand":  "department-for-transport",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/654bbccfe2e16a000d42abe1/s960_dft-gmh-960.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/654bbccfe70413000dfc4a51/s300_dft-gmh-960.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Department\u003cbr/\u003efor Transport"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Department for Transport",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/department-for-transport",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related_guides":  [
+                                         {
+                                             "api_path":  "/api/content/guidance/publish-bus-open-data",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/publish-bus-open-data",
+                                             "base_path":  "/guidance/publish-bus-open-data",
+                                             "content_id":  "cf35e548-13f3-4517-9400-ba6e10102fec",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2022-05-31T15:26:43Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Publish bus open data",
+                                             "web_url":  "https://www.gov.uk/guidance/publish-bus-open-data",
+                                             "withdrawn":  false
+                                         }
+                                     ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/government/collections/xml-standards-public-transport",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/collections/xml-standards-public-transport",
+                                                              "base_path":  "/government/collections/xml-standards-public-transport",
+                                                              "content_id":  "5f181249-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "document_collection",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2014-01-27T00:00:00Z",
+                                                              "schema_name":  "document_collection",
+                                                              "title":  "Data exchange standards for public transport systems",
+                                                              "web_url":  "https://www.gov.uk/government/collections/xml-standards-public-transport",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/transxchange-downloads-and-schema",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/transxchange-downloads-and-schema",
+                                                              "base_path":  "/government/publications/transxchange-downloads-and-schema",
+                                                              "content_id":  "5ef78d4c-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2014-03-12T00:00:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "TransXChange: downloads and schema",
+                                                              "web_url":  "https://www.gov.uk/government/publications/transxchange-downloads-and-schema",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/national-public-transport-gazetteer",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/national-public-transport-gazetteer",
+                                                              "base_path":  "/government/publications/national-public-transport-gazetteer",
+                                                              "content_id":  "5f184607-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2013-03-24T00:00:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "National public transport gazetteer",
+                                                              "web_url":  "https://www.gov.uk/government/publications/national-public-transport-gazetteer",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/transxchange-publisher",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/transxchange-publisher",
+                                                              "base_path":  "/government/publications/transxchange-publisher",
+                                                              "content_id":  "5ef78d95-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2016-11-15T06:45:07Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "TransXChange publisher guidance",
+                                                              "web_url":  "https://www.gov.uk/government/publications/transxchange-publisher",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/collections/transxchange",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/collections/transxchange",
+                                                              "base_path":  "/government/collections/transxchange",
+                                                              "content_id":  "5ef7544d-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "document_collection",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2014-01-20T09:00:00Z",
+                                                              "schema_name":  "document_collection",
+                                                              "title":  "TransXChange",
+                                                              "web_url":  "https://www.gov.uk/government/collections/transxchange",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/transport/bus-services-routes-and-timetables",
+                                     "api_url":  "https://www.gov.uk/api/content/transport/bus-services-routes-and-timetables",
+                                     "base_path":  "/transport/bus-services-routes-and-timetables",
+                                     "content_id":  "62072d08-8552-4b0e-9efe-bf8641c30958",
+                                     "description":  "TransXChange bus data and journey times.",
+                                     "details":  {
+                                                     "internal_name":  "Bus services, routes and timetables",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/transport/buses",
+                                                                             "api_url":  "https://www.gov.uk/api/content/transport/buses",
+                                                                             "base_path":  "/transport/buses",
+                                                                             "content_id":  "5c76ad4e-4b4d-4f72-a6ef-b277b31b98a1",
+                                                                             "description":  "Bus operations, services, emissions, funding, security, passenger experience and accessibility.",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Buses",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/transport/local-transport",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/transport/local-transport",
+                                                                                                                     "base_path":  "/transport/local-transport",
+                                                                                                                     "content_id":  "3b4d6319-fcef-4637-b35a-e3df76321894",
+                                                                                                                     "description":  "Local transport funding, concessionary travel, buses, taxis, private hire vehicles and trams.",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Local transport",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  false
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "parent_taxons":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-06-14T09:27:20Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Local transport",
+                                                                                                                     "web_url":  "https://www.gov.uk/transport/local-transport",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-06-14T09:27:20Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Buses",
+                                                                             "web_url":  "https://www.gov.uk/transport/buses",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-06-14T09:27:20Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Bus services, routes and timetables",
+                                     "web_url":  "https://www.gov.uk/transport/bus-services-routes-and-timetables",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/government/technology-guidance-technology-guidance-apis",
+                                     "api_url":  "https://www.gov.uk/api/content/government/technology-guidance-technology-guidance-apis",
+                                     "base_path":  "/government/technology-guidance-technology-guidance-apis",
+                                     "content_id":  "f695028c-ca84-41e4-ba72-d17878eadf35",
+                                     "details":  {
+                                                     "internal_name":  "APIs [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/apis-and-app-development",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/apis-and-app-development",
+                                                                             "base_path":  "/government/apis-and-app-development",
+                                                                             "content_id":  "34dfe08a-a416-4052-9952-4266ffb08dba",
+                                                                             "details":  {
+                                                                                             "internal_name":  "APIs and application development",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/government/government-technology-and-digital-services",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/government/government-technology-and-digital-services",
+                                                                                                                     "base_path":  "/government/government-technology-and-digital-services",
+                                                                                                                     "content_id":  "90c9b9f1-0a4f-4639-b1e9-2bfb23d611bd",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Government technology and digital services",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  false
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "parent_taxons":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "beta",
+                                                                                                                     "public_updated_at":  "2018-08-28T10:56:47Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Government technology and digital services",
+                                                                                                                     "web_url":  "https://www.gov.uk/government/government-technology-and-digital-services",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "beta",
+                                                                             "public_updated_at":  "2018-08-20T09:26:15Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "APIs and app development",
+                                                                             "web_url":  "https://www.gov.uk/government/apis-and-app-development",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "beta",
+                                     "public_updated_at":  "2018-08-20T09:26:15Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "APIs",
+                                     "web_url":  "https://www.gov.uk/government/technology-guidance-technology-guidance-apis",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/government/technology-guidance-technology-guidance-open-standards",
+                                     "api_url":  "https://www.gov.uk/api/content/government/technology-guidance-technology-guidance-open-standards",
+                                     "base_path":  "/government/technology-guidance-technology-guidance-open-standards",
+                                     "content_id":  "e122c1bf-6b8a-4145-975c-31612a3f344c",
+                                     "details":  {
+                                                     "internal_name":  "Open standards [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/open-source-and-open-standards",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/open-source-and-open-standards",
+                                                                             "base_path":  "/government/open-source-and-open-standards",
+                                                                             "content_id":  "9ea62430-3c48-440d-b29d-32f0d75878a3",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Open source and open standards",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/government/government-technology-and-digital-services",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/government/government-technology-and-digital-services",
+                                                                                                                     "base_path":  "/government/government-technology-and-digital-services",
+                                                                                                                     "content_id":  "90c9b9f1-0a4f-4639-b1e9-2bfb23d611bd",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Government technology and digital services",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  false
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "parent_taxons":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "beta",
+                                                                                                                     "public_updated_at":  "2018-08-28T10:56:47Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Government technology and digital services",
+                                                                                                                     "web_url":  "https://www.gov.uk/government/government-technology-and-digital-services",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "beta",
+                                                                             "public_updated_at":  "2018-08-20T09:26:15Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Open source and open standards",
+                                                                             "web_url":  "https://www.gov.uk/government/open-source-and-open-standards",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "beta",
+                                     "public_updated_at":  "2018-08-20T09:26:15Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Open standards",
+                                     "web_url":  "https://www.gov.uk/government/technology-guidance-technology-guidance-open-standards",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2020-11-25T12:09:29+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "32514-1631279043.580-10.13.3.75-2304",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Find and use bus open data",
+    "updated_at":  "2024-12-04T09:57:55+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

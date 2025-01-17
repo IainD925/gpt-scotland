@@ -1,0 +1,350 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/accessibility-monitoring-how-we-test",
+    "content_id":  "b0c205b6-dc82-409c-8bdd-1b3652cae68d",
+    "description":  "Find out how the accessibility monitoring methodology is used to test websites and mobile apps under the Accessibility Regulations ",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003ch2 id=\"accessibility-monitoring-methodology\"\u003eAccessibility monitoring methodology\u003c/h2\u003e\n\n\u003cp\u003eMonitoring looks at the accessibility of a site or mobile app against W3C \u003ca rel=\"external\" href=\"https://www.w3.org/TR/WCAG22/\" class=\"govuk-link\"\u003eWeb Content Accessibility Guidelines (WCAG) 2.2\u003c/a\u003e levels A and AA.\u003c/p\u003e\n\n\u003cp\u003eThe Government Digital Service (GDS) also reviews the accessibility statement that must be published to meet the accessibility regulations.\u003c/p\u003e\n\n\u003cp\u003eThere are 3 types of testing:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003esimplified testing covers a small sample of pages and uses mainly automated accessibility testing with some manual testing\u003c/li\u003e\n  \u003cli\u003edetailed testing covers a wider range of pages, each tested against all relevant WCAG success criteria\u003c/li\u003e\n  \u003cli\u003emobile app testing, which is similar to detailed testing, but across the screens and flows within mobile apps\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFor all test types, we send a report of our findings to the public sector body, who then have time (12 weeks) to make fixes and report their progress to us. We reassess and pass information to the relevant equality body to make further decisions on compliance or enforcement action.\u003c/p\u003e\n\n\u003ch2 id=\"simplified-testing-process\"\u003eSimplified testing process\u003c/h2\u003e\n\n\u003ch3 id=\"summary\"\u003eSummary\u003c/h3\u003e\n\n\u003cp\u003eSimplified audits examine a small selection of web pages. An automated accessibility checker is run on each page with some quick manual checks.\u003c/p\u003e\n\n\u003ch3 id=\"preparing-for-an-audit\"\u003ePreparing for an audit\u003c/h3\u003e\n\n\u003cp\u003eWe look at core pages like the home page and contact page with a sample of other pages from across the site. We look for different types of pages that contain a range of elements, like tables or different layout styles when possible. We also specifically look for a form and PDFs with an administrative purpose or that have been published since 28 September 2018.\u003c/p\u003e\n\n\u003ch3 id=\"auditing\"\u003eAuditing\u003c/h3\u003e\n\n\u003cp\u003eWe use an automated accessibility testing extension for Google Chrome called Axe, created by Deque Systems. We only record severe or critical errors and manually check issues highlighted to make sure they are not just best practice suggestions.\u003c/p\u003e\n\n\u003cp\u003eWe do manual tests for some of the most common barriers to users with accessibility needs that are not likely to be found by automated tests.\u003c/p\u003e\n\n\u003cp\u003eThis includes tabbing through each page without a mouse to check:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe user can navigate to all links and interactive elements without a mouse (WCAG 2.1.1 Keyboard)\u003c/li\u003e\n  \u003cli\u003ethere are no keyboard traps (WCAG 2.1.2 No Keyboard Trap)\u003c/li\u003e\n  \u003cli\u003ethe focus surrounding elements is visible (WCAG 2.4.7 Focus Visible)\u003c/li\u003e\n  \u003cli\u003efocus order is logical (WCAG 2.4.3 Focus Order)\u003c/li\u003e\n  \u003cli\u003ethere are no unexpected actions when tabbing (WCAG 3.2.1 On Focus)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eEach page is viewed at different zoom settings up to 400%, and we simulate viewing the page on a small screen. This is designed to check page navigation and readability with no content cut off (WCAG 1.4.4 Resize text and WCAG 1.4.10 Reflow).\u003c/p\u003e\n\n\u003cp\u003eWe look for audio/visual content such as images, videos, podcasts and animations. This is to check:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethere are accessible alternatives for video-only or audio-only content (WCAG 1.2.1 Audio-only and Video-only)\u003c/li\u003e\n  \u003cli\u003ethere are no images of text with significant content (WCAG 1.4.5 Images of Text)\u003c/li\u003e\n  \u003cli\u003eanimations and carousels follow WCAG 2.2.2 Pause, Stop, Hide requirements\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThere are issues we do not directly look for, but will note if we find them. This includes the page refreshing unexpectedly (WCAG 2.2.1 Timing Adjustable) and audio playing for more than 3 seconds with no way to stop it (WCAG 1.4.2 Audio Control).\u003c/p\u003e\n\n\u003cp\u003eWe sometimes find usability errors and bad practice issues that do not fail WCAG. If they are significant, we include them separately in our report making it clear it was not a fail.\u003c/p\u003e\n\n\u003cp\u003eSimplified tests do not show every accessibility error and we encourage organisations to get a full audit.\u003c/p\u003e\n\n\u003cp\u003eWe look for an accessibility statement and check that this meets the required legislative format. This must include all mandatory wording, list all known accessibility issues and be up to date.\u003c/p\u003e\n\n\u003ch2 id=\"detailed-testing-process\"\u003eDetailed testing process\u003c/h2\u003e\n\n\u003ch3 id=\"summary-1\"\u003eSummary\u003c/h3\u003e\n\n\u003cp\u003eDetailed audits take a more in-depth look at a website. They test against the full range of WCAG success criteria to level A and AA. We use assistive technology to check compliance as well as the automated and manual methods used in simplified testing.\u003c/p\u003e\n\n\u003ch3 id=\"before-an-audit\"\u003eBefore an audit\u003c/h3\u003e\n\n\u003cp\u003eBefore a detailed audit happens, we contact the public sector body to get information such as:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003estatistics on page usage\u003c/li\u003e\n  \u003cli\u003epage template types\u003c/li\u003e\n  \u003cli\u003eprevious audit reports\u003c/li\u003e\n  \u003cli\u003eaccess to the website or service if it is not publicly available\u003c/li\u003e\n  \u003cli\u003edisproportionate burden assessments (if applicable)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"preparing-for-an-audit-1\"\u003ePreparing for an audit\u003c/h3\u003e\n\n\u003cp\u003eWe use the information provided to decide on a sample of pages to test. We try to include a range of pages from the website or mobile application such as:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003esome of the most popular pages\u003c/li\u003e\n  \u003cli\u003ea range of template types\u003c/li\u003e\n  \u003cli\u003eat least one service end-to-end (where possible)\u003c/li\u003e\n  \u003cli\u003eother pages the monitoring body really thinks need to be tested\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe regulations allow previous accessibility audits to be considered when deciding the coverage of our monitoring if they meet certain criteria in the regulations. This includes how old and how detailed an audit is.\u003c/p\u003e\n\n\u003cp\u003eIf the previous audit provided by the public sector body is sufficient, it is compared against the sample of pages chosen for testing by the monitoring body. If the page has already been tested by the public sector body as part of their audit and is satisfactory, the regulations say the monitoring body is only required to do a simplified test on that page. Any other pages will need a detailed test.\u003c/p\u003e\n\n\u003ch3 id=\"auditing-1\"\u003eAuditing\u003c/h3\u003e\n\n\u003cp\u003eThe detailed test covers all WCAG success criteria in scope at level A and AA, but remains a sample-based approach and does not provide full coverage of the website.\u003c/p\u003e\n\n\u003ch2 id=\"mobile-app-testing-process\"\u003eMobile app testing process\u003c/h2\u003e\n\n\u003cp\u003eFor mobile application tests, both Android and iOS versions of an application are tested.\u003c/p\u003e\n\n\u003cp\u003eThe mobile application tests follow the same process as detailed audits, and are tested against WCAG level A and AA success criteria.\u003c/p\u003e\n\n\u003ch2 id=\"what-happens-after-an-audit\"\u003eWhat happens after an audit\u003c/h2\u003e\n\n\u003cp\u003eAfter the audit we send a report to the public sector body that runs the website detailing accessibility issues found. They are asked to acknowledge the report and are given 12 weeks to fix issues.\u003c/p\u003e\n\n\u003cp\u003eWe send the report to the contacts in the organisations’ accessibility statements. If we cannot find contact details in an accessibility statement, we check the contact page or use feedback forms to request contact information. If we do not hear from organisations after a month and have tried all known methods of communication, we forward information about the website to the enforcement bodies.\u003c/p\u003e\n\n\u003cp\u003eAfter 12 weeks the public sector body is contacted to give an update on their progress. The monitoring body may retest certain parts of the website or mobile application to confirm the issues no longer exist but this does not constitute a full retest of the website or mobile application.\u003c/p\u003e\n\n\u003cp\u003eWe then make a recommendation on whether we think further compliance action should be taken. An email will be sent to the public sector body to confirm the outcome of the monitoring.\u003c/p\u003e\n\n\u003ch2 id=\"after-testing-and-correspondence\"\u003eAfter testing and correspondence\u003c/h2\u003e\n\n\u003cp\u003eInformation about the monitoring process and outcome, as well as our recommendation, are passed to the Equality and Human Rights Commission (EHRC) in England, Scotland and Wales or Equality Commission for Northern Ireland (ECNI), who are responsible for enforcement of equality and non-discrimination laws. They decide whether any further action is required and will contact the public sector body directly if necessary.\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Section about when GDS is monitoring the new success criteria in WCAG 2.2 has been removed",
+                                               "public_timestamp":  "2024-09-30T13:07:52.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added information about WCAG 2.2 and what GDS is doing as a result of the new success criteria in WCAG 2.2.",
+                                               "public_timestamp":  "2023-10-05T16:02:56.000+01:00"
+                                           },
+                                           {
+                                               "note":  "We\u0027ve updated the guidance to reflect responsibility moving to Government Digital Service (GDS) from the Central Digital and Data Office (CDDO).",
+                                               "public_timestamp":  "2022-08-22T13:35:02.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2022-02-09T00:00:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "af07d5a5-df63-4ddc-9383-6a666845ebe9"
+                                                 ],
+                    "first_public_at":  "2022-02-09T00:00:00.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2022-02-09T00:00:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/accessibility-monitoring-how-we-test",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/accessibility-monitoring-how-we-test",
+                                                     "base_path":  "/guidance/accessibility-monitoring-how-we-test",
+                                                     "content_id":  "b0c205b6-dc82-409c-8bdd-1b3652cae68d",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2024-09-30T12:07:52Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Accessibility monitoring: how we test",
+                                                     "web_url":  "https://www.gov.uk/guidance/accessibility-monitoring-how-we-test",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2019-to-2022-johnson-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2019-to-2022-johnson-conservative-government",
+                                         "base_path":  "/government/2019-to-2022-johnson-conservative-government",
+                                         "content_id":  "4ed901ec-c8ce-42d5-a2aa-6d7f462480df",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2022-09-06T00:00:00+00:00",
+                                                         "started_on":  "2019-07-24T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2019 to 2022 Johnson Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2019-to-2022-johnson-conservative-government"
+                                     }
+                                 ],
+                  "ordered_related_items":  [
+                                                {
+                                                    "api_path":  "/api/content/guidance/make-your-website-or-app-accessible-and-publish-an-accessibility-statement",
+                                                    "api_url":  "https://www.gov.uk/api/content/guidance/make-your-website-or-app-accessible-and-publish-an-accessibility-statement",
+                                                    "base_path":  "/guidance/make-your-website-or-app-accessible-and-publish-an-accessibility-statement",
+                                                    "content_id":  "53d25865-6696-406c-b251-c7560a1c9f23",
+                                                    "document_type":  "detailed_guide",
+                                                    "links":  {
+
+                                                              },
+                                                    "locale":  "en",
+                                                    "public_updated_at":  "2024-09-27T14:45:51Z",
+                                                    "schema_name":  "detailed_guide",
+                                                    "title":  "Make your website or app accessible and publish an accessibility statement",
+                                                    "web_url":  "https://www.gov.uk/guidance/make-your-website-or-app-accessible-and-publish-an-accessibility-statement",
+                                                    "withdrawn":  false
+                                                },
+                                                {
+                                                    "api_path":  "/api/content/guidance/accessibility-requirements-for-public-sector-websites-and-apps",
+                                                    "api_url":  "https://www.gov.uk/api/content/guidance/accessibility-requirements-for-public-sector-websites-and-apps",
+                                                    "base_path":  "/guidance/accessibility-requirements-for-public-sector-websites-and-apps",
+                                                    "content_id":  "e0d9966f-408d-48e7-bded-dd03c3ae355d",
+                                                    "document_type":  "detailed_guide",
+                                                    "links":  {
+
+                                                              },
+                                                    "locale":  "en",
+                                                    "public_updated_at":  "2024-09-30T12:15:01Z",
+                                                    "schema_name":  "detailed_guide",
+                                                    "title":  "Understanding accessibility requirements for public sector bodies",
+                                                    "web_url":  "https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps",
+                                                    "withdrawn":  false
+                                                },
+                                                {
+                                                    "api_path":  "/api/content/guidance/public-sector-website-and-mobile-application-accessibility-monitoring",
+                                                    "api_url":  "https://www.gov.uk/api/content/guidance/public-sector-website-and-mobile-application-accessibility-monitoring",
+                                                    "base_path":  "/guidance/public-sector-website-and-mobile-application-accessibility-monitoring",
+                                                    "content_id":  "85e91229-9993-4b80-9e8e-893bb320e33b",
+                                                    "document_type":  "detailed_guide",
+                                                    "links":  {
+
+                                                              },
+                                                    "locale":  "en",
+                                                    "public_updated_at":  "2024-09-30T12:09:07Z",
+                                                    "schema_name":  "detailed_guide",
+                                                    "title":  "Public sector website and mobile application accessibility monitoring",
+                                                    "web_url":  "https://www.gov.uk/guidance/public-sector-website-and-mobile-application-accessibility-monitoring",
+                                                    "withdrawn":  false
+                                                },
+                                                {
+                                                    "api_path":  "/api/content/guidance/model-accessibility-statement",
+                                                    "api_url":  "https://www.gov.uk/api/content/guidance/model-accessibility-statement",
+                                                    "base_path":  "/guidance/model-accessibility-statement",
+                                                    "content_id":  "a4ff35f0-f31f-469a-b7aa-ef99dec711b4",
+                                                    "document_type":  "detailed_guide",
+                                                    "links":  {
+
+                                                              },
+                                                    "locale":  "en",
+                                                    "public_updated_at":  "2024-09-30T12:12:50Z",
+                                                    "schema_name":  "detailed_guide",
+                                                    "title":  "Model accessibility statement",
+                                                    "web_url":  "https://www.gov.uk/guidance/model-accessibility-statement",
+                                                    "withdrawn":  false
+                                                },
+                                                {
+                                                    "api_path":  "/api/content/guidance/guidance-and-tools-for-digital-accessibility",
+                                                    "api_url":  "https://www.gov.uk/api/content/guidance/guidance-and-tools-for-digital-accessibility",
+                                                    "base_path":  "/guidance/guidance-and-tools-for-digital-accessibility",
+                                                    "content_id":  "377dfd08-553e-42ad-84e4-1a9ccafde8d0",
+                                                    "document_type":  "detailed_guide",
+                                                    "links":  {
+
+                                                              },
+                                                    "locale":  "en",
+                                                    "public_updated_at":  "2021-08-09T13:37:31Z",
+                                                    "schema_name":  "detailed_guide",
+                                                    "title":  "Guidance and tools for digital accessibility",
+                                                    "web_url":  "https://www.gov.uk/guidance/guidance-and-tools-for-digital-accessibility",
+                                                    "withdrawn":  false
+                                                }
+                                            ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "OT1056",
+                                            "api_path":  "/api/content/government/organisations/government-digital-service",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+                                            "base_path":  "/government/organisations/government-digital-service",
+                                            "content_id":  "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+                                            "details":  {
+                                                            "acronym":  "GDS",
+                                                            "brand":  "department-for-science-innovation-and-technology",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Government Digital Service"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Government Digital Service",
+                                            "web_url":  "https://www.gov.uk/government/organisations/government-digital-service",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "OT1329",
+                                                                       "api_path":  "/api/content/government/organisations/central-digital-and-data-office",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/central-digital-and-data-office",
+                                                                       "base_path":  "/government/organisations/central-digital-and-data-office",
+                                                                       "content_id":  "2fb482e7-3c4d-496f-887d-f8a55a15e89a",
+                                                                       "details":  {
+                                                                                       "acronym":  "CDDO",
+                                                                                       "brand":  "department-for-science-innovation-and-technology",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Central Digital \u003cbr/\u003e\u0026amp; Data Office"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Central Digital and Data Office",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/central-digital-and-data-office",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "OT1056",
+                                                              "api_path":  "/api/content/government/organisations/government-digital-service",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+                                                              "base_path":  "/government/organisations/government-digital-service",
+                                                              "content_id":  "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+                                                              "details":  {
+                                                                              "acronym":  "GDS",
+                                                                              "brand":  "department-for-science-innovation-and-technology",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Government Digital Service"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Government Digital Service",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/government-digital-service",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/government/digital-accessibility",
+                                     "api_url":  "https://www.gov.uk/api/content/government/digital-accessibility",
+                                     "base_path":  "/government/digital-accessibility",
+                                     "content_id":  "ab82cf21-da63-4d7c-8289-7b5506f6ea71",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Digital accessibility (government technology and digital services)",
+                                                     "notes_for_editors":  "",
+                                                     "url_override":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/government-technology-and-digital-services",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/government-technology-and-digital-services",
+                                                                             "base_path":  "/government/government-technology-and-digital-services",
+                                                                             "content_id":  "90c9b9f1-0a4f-4639-b1e9-2bfb23d611bd",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Government technology and digital services",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/government/all",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/government/all",
+                                                                                                                     "base_path":  "/government/all",
+                                                                                                                     "content_id":  "e48ab80a-de80-4e83-bf59-26316856a5f9",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Government",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:29:39Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Government",
+                                                                                                                     "web_url":  "https://www.gov.uk/government/all",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "beta",
+                                                                             "public_updated_at":  "2018-08-28T10:56:47Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Government technology and digital services",
+                                                                             "web_url":  "https://www.gov.uk/government/government-technology-and-digital-services",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2022-01-31T15:08:30Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Digital accessibility",
+                                     "web_url":  "https://www.gov.uk/government/digital-accessibility",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2024-09-30T13:07:52+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1727698072.481-10.13.21.134-2941",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Accessibility monitoring: how we test",
+    "updated_at":  "2024-12-12T10:27:37+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

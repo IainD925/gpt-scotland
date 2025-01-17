@@ -1,0 +1,767 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/data-collection-framework",
+    "content_id":  "5fe400c3-7631-11e4-a3cb-005056011aef",
+    "description":  "Information on the UK\u0027s implementation of Data Collection Framework legislation (as amended in retained EU law)",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.ms-excel",
+                                            "file_size":  150016,
+                                            "filename":  "UK_BUDGET-costs-summary__2_.xls",
+                                            "id":  "8144731",
+                                            "title":  "View a summary of the UK\u0027s budgets for recent years ",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7edd24ed915d74e6226f0f/UK_BUDGET-costs-summary__2_.xls"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  8633524,
+                                            "filename":  "2011-2013national.pdf",
+                                            "id":  "8144732",
+                                            "number_of_pages":  307,
+                                            "title":  "text",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7eaac7ed915d74e33f1a7f/2011-2013national.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.ms-excel",
+                                            "file_size":  1103872,
+                                            "filename":  "2011-2013national__1_.xls",
+                                            "id":  "8144733",
+                                            "title":  "tables",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7d52d3e5274a2af0ae2ea6/2011-2013national__1_.xls"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  3536122,
+                                            "filename":  "2012-technical.pdf",
+                                            "id":  "8144734",
+                                            "number_of_pages":  133,
+                                            "title":  "technical report",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7dfe3ded915d74e622367c/2012-technical.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.ms-excel",
+                                            "file_size":  1805824,
+                                            "filename":  "2012-technical.xls",
+                                            "id":  "8144735",
+                                            "title":  "accompanying tables",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7def1a40f0b6230268813d/2012-technical.xls"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  485477,
+                                            "filename":  "Stock_Annex_anglerfish_IIa_IIIa_IV_VI.pdf",
+                                            "id":  "8144736",
+                                            "number_of_pages":  18,
+                                            "title":  "Stock Annex anglerfish IIa IIIa IV VI",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7f8eb3ed915d74e622b307/Stock_Annex_anglerfish_IIa_IIIa_IV_VI.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  752797,
+                                            "filename":  "UK_EMP_2015_report_published.pdf",
+                                            "id":  "8144737",
+                                            "number_of_pages":  52,
+                                            "title":  "UK EMP 2015 report published",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a80f28840f0b62302696673/UK_EMP_2015_report_published.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  30574,
+                                            "filename":  "Fully_documented_fisheries_2017_to_2019.pdf",
+                                            "id":  "8144738",
+                                            "number_of_pages":  3,
+                                            "title":  "Fully documented fisheries 2017 to 2019",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a81ac8e40f0b6230269893a/Fully_documented_fisheries_2017_to_2019.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  4883455,
+                                            "filename":  "UK_WorkPlan_2023.pdf",
+                                            "id":  "8144739",
+                                            "number_of_pages":  125,
+                                            "title":  "United Kingdom Work Plan for data collection in the fisheries and aquaculture sectors 2023",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6499645d9e7a8b000c932b39/UK_WorkPlan_2023.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.spreadsheet",
+                                            "file_size":  745447,
+                                            "filename":  "UK_WorkPlan_2023.ods",
+                                            "id":  "8144740",
+                                            "title":  "United Kingdom Work Plan for data collection in the fisheries and aquaculture sectors 2023 (tables)",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/649964af8313110013296330/UK_WorkPlan_2023.ods"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  328062,
+                                            "filename":  "Age_determination_of_Irish_Sea_demersal_fish.pdf",
+                                            "id":  "8144741",
+                                            "number_of_pages":  10,
+                                            "title":  "Age determination of Irish Sea demersal fish",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b1118a940f0b634cfb5055c/Age_determination_of_Irish_Sea_demersal_fish.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  323474,
+                                            "filename":  "Age_determination_of_Irish_Sea_herring.pdf",
+                                            "id":  "8144742",
+                                            "number_of_pages":  7,
+                                            "title":  "Age determination of Irish Sea herring",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b1118bee5274a18f42a8b1c/Age_determination_of_Irish_Sea_herring.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  140592,
+                                            "filename":  "Age_determination_of_Scallops__Pecten_maximus_L_.pdf",
+                                            "id":  "8144743",
+                                            "number_of_pages":  6,
+                                            "title":  "Age determination of Scallops (Pecten maximus L)",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b1118e5e5274a18fe26653e/Age_determination_of_Scallops__Pecten_maximus_L_.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  348838,
+                                            "filename":  "Embedding_fish_otoliths_in_resin_blocks.pdf",
+                                            "id":  "8144744",
+                                            "number_of_pages":  6,
+                                            "title":  "Embedding fish otoliths in resin blocks",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b1118fae5274a18fc321ba6/Embedding_fish_otoliths_in_resin_blocks.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  206261,
+                                            "filename":  "Otolin_System_for_the_Embedding_Sectioning_and_Slide_Mounting_of_Demersal_Fish_Sagittae_Otoliths.pdf",
+                                            "id":  "8144745",
+                                            "number_of_pages":  12,
+                                            "title":  "Otolin System for the Embedding Sectioning and Slide Mounting of Demersal Fish Sagittae Otoliths",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b11190ced915d2cd7a1656d/Otolin_System_for_the_Embedding_Sectioning_and_Slide_Mounting_of_Demersal_Fish_Sagittae_Otoliths.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  351110,
+                                            "filename":  "Sampling_retained_demersal_fish_catches_and_discards_from_semi-pelagic_fishery_vessels_at_sea.pdf",
+                                            "id":  "8144746",
+                                            "number_of_pages":  6,
+                                            "title":  "Sampling retained demersal fish catches and discards from semi-pelagic fishery vessels at sea",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b11192240f0b634cb3dd71f/Sampling_retained_demersal_fish_catches_and_discards_from_semi-pelagic_fishery_vessels_at_sea.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  579995,
+                                            "filename":  "Sampling_retained_fish_catches__Nephrops_and_discards_from_commercial_vessels_at_sea.pdf",
+                                            "id":  "8144747",
+                                            "number_of_pages":  12,
+                                            "title":  "Sampling retained fish catches, Nephrops and discards from commercial vessels at sea",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b111939e5274a1912717834/Sampling_retained_fish_catches__Nephrops_and_discards_from_commercial_vessels_at_sea.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  331837,
+                                            "filename":  "Sampling_retained_fish_catches__Scallops_Queen_scallops__and_discards_from_commercial_vessels_at_sea.pdf",
+                                            "id":  "8144748",
+                                            "number_of_pages":  7,
+                                            "title":  "Sampling retained fish catches, Scallops Queen scallops, and discards from commercial vessels at sea",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b11194de5274a18e5ea84c1/Sampling_retained_fish_catches__Scallops_Queen_scallops__and_discards_from_commercial_vessels_at_sea.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  764953,
+                                            "filename":  "SamplingAboardNephropsTrawlers_Ver3.pdf",
+                                            "id":  "8144749",
+                                            "number_of_pages":  8,
+                                            "title":  "Nephrops Trawlers - Sampling Nephrops onboard a vessel targeting Nephrops",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5cf62a5de5274a07678906a7/SamplingAboardNephropsTrawlers_Ver3.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  801197,
+                                            "filename":  "Anglerfish_otolith_reading_manual_NS.PDF",
+                                            "id":  "8144750",
+                                            "number_of_pages":  7,
+                                            "title":  "Fish Age Determination Procedures: Anglerfish",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5cf62affe5274a076158e6b2/Anglerfish_otolith_reading_manual_NS.PDF"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1978524,
+                                            "filename":  "Gadoid_otolith_reading_manualNS.PDF",
+                                            "id":  "8144751",
+                                            "number_of_pages":  15,
+                                            "title":  "Fish Age Determination Procedures: Gadoids",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5cf62bbf40f0b60a1e37cbac/Gadoid_otolith_reading_manualNS.PDF"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  808123,
+                                            "filename":  "Herring_otolith_reading_manual_NS.PDF",
+                                            "id":  "8144752",
+                                            "number_of_pages":  6,
+                                            "title":  "Fish Age Determination Procedures: Herring",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5cf62cb9ed915d0972b598c2/Herring_otolith_reading_manual_NS.PDF"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  749931,
+                                            "filename":  "Mackerel_otolith_reading_manual_NS.PDF",
+                                            "id":  "8144753",
+                                            "number_of_pages":  6,
+                                            "title":  "Fish Age Determination Procedures: Mackerel",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5cf62ccfed915d097064e76f/Mackerel_otolith_reading_manual_NS.PDF"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  802517,
+                                            "filename":  "Megrim_otolith_reading_manual_NS.PDF",
+                                            "id":  "8144754",
+                                            "number_of_pages":  7,
+                                            "title":  "Fish Age Determination Procedures: Megrim",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5cf62ce240f0b60a30d7bb61/Megrim_otolith_reading_manual_NS.PDF"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1208893,
+                                            "filename":  "Pre-cruise_NEPHROPS_complex_ID_refresher.pdf",
+                                            "id":  "8144755",
+                                            "number_of_pages":  12,
+                                            "title":  "Pre-cruise NEPHROPS complex ID refresher",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5cf62d06ed915d0980db28b3/Pre-cruise_NEPHROPS_complex_ID_refresher.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  271752,
+                                            "filename":  "EA_eel_sampling_SOP.pdf",
+                                            "id":  "8144756",
+                                            "number_of_pages":  11,
+                                            "title":  "Sampling eel populations in rivers",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5cf62fa3e5274a0765ddb172/EA_eel_sampling_SOP.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  407951,
+                                            "filename":  "EA_electrofishing_SOP.pdf",
+                                            "id":  "8144757",
+                                            "number_of_pages":  25,
+                                            "title":  "Electric fishing operations: equipment and working practices",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5cf62fb3e5274a076f4b78d5/EA_electrofishing_SOP.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  6285076,
+                                            "filename":  "SalmonBackgroundReport-2017-final.pdf",
+                                            "id":  "8144758",
+                                            "number_of_pages":  80,
+                                            "title":  "Assessment of Salmon Stocks in England and Wales - Standing report on methods, approaches and wider stock conservation and management considerations",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5cf62fcd40f0b60a1ca97250/SalmonBackgroundReport-2017-final.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  9128044,
+                                            "filename":  "SalmonAssessmentReport-2017-final.pdf",
+                                            "id":  "8144759",
+                                            "number_of_pages":  88,
+                                            "title":  "Salmon Stocks and Fisheries in England and Wales, 2017 - Preliminary assessment prepared for ICES, April 2018",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5cf62fede5274a0763f21dfc/SalmonAssessmentReport-2017-final.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  4902837,
+                                            "filename":  "United_Kingdom_Annual_Report_2021_Text_FIN_202210.pdf",
+                                            "id":  "8144760",
+                                            "number_of_pages":  165,
+                                            "title":  "United Kingdom annual report on data collection in the Fisheries and aquaculture sectors 2021",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/63c7bc108fa8f572a788452e/United_Kingdom_Annual_Report_2021_Text_FIN_202210.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.spreadsheet",
+                                            "file_size":  930043,
+                                            "filename":  "GBR__Annual_Report_2021_fisheries_data_tables_FIN_20220711.ods",
+                                            "id":  "8144761",
+                                            "title":  "United Kingdom annual report on data collection in the Fisheries and aquaculture sectors 2021 (tables)",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/63c7bc2ad3bf7f580f5367e7/GBR__Annual_Report_2021_fisheries_data_tables_FIN_20220711.ods"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  4385846,
+                                            "filename":  "UK_DCF_Annual_Report_2022_FIN_202301012.pdf",
+                                            "id":  "8144762",
+                                            "number_of_pages":  204,
+                                            "title":  "United Kingdom annual report on data collection in the Fisheries and aquaculture sectors 2022",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/65a1090fe8f5ec000f1f8c25/UK_DCF_Annual_Report_2022_FIN_202301012.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.spreadsheet",
+                                            "file_size":  295637,
+                                            "filename":  "UK_Annual_Report_2022_tables_20231012_FIN.ods",
+                                            "id":  "8144763",
+                                            "title":  "United Kingdom annual report on data collection in the Fisheries and aquaculture sectors 2022 (tables)",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/65a109473308d200131fbed1/UK_Annual_Report_2022_tables_20231012_FIN.ods"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  4242347,
+                                            "filename":  "UK_WorkPlan_2024_FIN_2023_10_27.pdf",
+                                            "id":  "8144764",
+                                            "number_of_pages":  125,
+                                            "title":  "United Kingdom Work Plan for data collection in the fisheries and aquaculture sectors 2024",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/660d611097e606001a2b222c/UK_WorkPlan_2024_FIN_2023_10_27.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.spreadsheet",
+                                            "file_size":  747292,
+                                            "filename":  "UK_WorkPlan_2024_tables_FIN_2023_10_27.ods",
+                                            "id":  "8144765",
+                                            "title":  "United Kingdom Work Plan for data collection in the fisheries and aquaculture sectors 2024 (tables)",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/660d612c97e60600112b223f/UK_WorkPlan_2024_tables_FIN_2023_10_27.ods"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  8443727,
+                                            "filename":  "UK_DCF_Annual_Report_document_2023_final.pdf",
+                                            "id":  "8144766",
+                                            "number_of_pages":  205,
+                                            "title":  "United Kingdom annual report on data collection in the Fisheries and aquaculture sectors 2023",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/66bf41eca44f1c4c23e5bd29/UK_DCF_Annual_Report_document_2023_final.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "communications@marinemanagement.org.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.spreadsheet",
+                                            "file_size":  305240,
+                                            "filename":  "UK_Annual_Report_tables_2023_final.ods",
+                                            "id":  "8144767",
+                                            "title":  "United Kingdom annual report on data collection in the Fisheries and aquaculture sectors 2023 (tables)",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/66bf421ca44f1c4c23e5bd2a/UK_Annual_Report_tables_2023_final.ods"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eAs an independent coastal State, the UK is responsible for meeting a wide range of international agreements and commitments which involve the collection of fisheries data. Section 1 of the \u003ca rel=\"external\" href=\"https://www.legislation.gov.uk/ukpga/2020/22/contents/enacted\" class=\"govuk-link\"\u003eFisheries Act 2020\u003c/a\u003e provides for a “scientific evidence objective” where:\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003escientific data relevant to the management of fish and aquaculture activities is collected,\u003c/li\u003e\n  \u003cli\u003ewhere appropriate, the fisheries policy authorities work together on the collection of, and share, such scientific data, and\u003c/li\u003e\n  \u003cli\u003ethe management of fish and aquaculture activities is based on the best available scientific advice.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003ch2 id=\"background\"\u003eBackground\u003c/h2\u003e\n\n\u003cp\u003eIn order to meet the Fisheries Act 2020 “scientific evidence objective”, and to ensure the continuity and consistency of fisheries data collection in the short-term, the UK will follow the data collection requirements of:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.legislation.gov.uk/eur/2017/1004/contents\" class=\"govuk-link\"\u003eRegulation (EU) 2017/1004\u003c/a\u003e of the European Parliament and of the Council of 17 May 2017 on the establishment of a Union framework for the collection, management and use of data in the fisheries sector and support for scientific advice regarding the common fisheries policy and repealing Council Regulation (EC) No 199/2008 (recast) ’ (as amended in retained EU law)\nHereafter referred to as the Data Collection Framework.\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"multiannual-programme\"\u003eMultiannual Programme\u003c/h3\u003e\n\n\u003cp\u003eUnder the Data Collection Framework, each Fisheries Administration may establish a multiannual programme for the collection and management of fisheries data. The UK’s current multiannual programme comprises of:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca rel=\"external\" href=\"https://www.legislation.gov.uk/eudn/2019/909\" class=\"govuk-link\"\u003eCommission Implementing Decision (EU) 2019/909\u003c/a\u003e of 18 February 2019 establishing the list of mandatory research surveys and thresholds for the purposes of the multiannual Union programme for the collection and management of data in the fisheries and aquaculture sectors  (as amended in retained EU law), and\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca rel=\"external\" href=\"https://www.legislation.gov.uk/eudn/2019/910\" class=\"govuk-link\"\u003eCommission Delegated Decision (EU) 2019/910\u003c/a\u003e of 13 March 2019 establishing the multiannual Union programme for the collection and management of biological, environmental, technical and socioeconomic data in the fisheries and aquaculture sectors  (as amended in retained EU law).\u003c/p\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"uk-work-programme\"\u003eUK Work Programme\u003c/h2\u003e\n\n\u003cp\u003eThe UK work programme sets out in detail the data collection activities to be carried out in line with the multiannual programme. The current UK work programme for the period 2024 is available below:\u003c/p\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/660d611097e606001a2b222c/UK_WorkPlan_2024_FIN_2023_10_27.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/660d6110758315001a4a49ad/thumbnail_UK_WorkPlan_2024_FIN_2023_10_27.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/660d611097e606001a2b222c/UK_WorkPlan_2024_FIN_2023_10_27.pdf\"\u003eUnited Kingdom Work Plan for data collection in the fisheries and aquaculture sectors 2024\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e4.05 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e125 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n\u003c/div\u003e\u003c/section\u003e\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/660d612c97e60600112b223f/UK_WorkPlan_2024_tables_FIN_2023_10_27.ods\"\u003e\n        \u003csvg class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--spreadsheet\" version=\"1.1\" viewbox=\"0 0 99 140\" width=\"99\" height=\"140\" aria-hidden=\"true\"\u003e\n  \u003cpath d=\"M12 12h75v27H12zm0 47h18.75v63H12zm55 2v59H51V61h16m2-2H49v63h20V59z\" stroke-width=\"0\"\u003e\u003c/path\u003e\n  \u003cpath d=\"M49 61.05V120H32.8V61.05H49m2-2H30.75v63H51V59zm34 2V120H69.05V61.05H85m2-2H67v63h20V59z\" stroke-width=\"0\"\u003e\u003c/path\u003e\n  \u003cpath d=\"M30 68.5h56.5M30 77.34h56.5M30 112.7h56.5M30 95.02h56.5M30 86.18h56.5M30 103.86h56.5\" fill=\"none\" stroke-miterlimit=\"10\" stroke-width=\"2\"\u003e\u003c/path\u003e\n\u003c/svg\u003e\n\n\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/660d612c97e60600112b223f/UK_WorkPlan_2024_tables_FIN_2023_10_27.ods\"\u003eUnited Kingdom Work Plan for data collection in the fisheries and aquaculture sectors 2024 (tables)\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"OpenDocument Spreadsheet\" class=\"gem-c-attachment__abbr\"\u003eODS\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e730 KB\u003c/span\u003e\u003c/p\u003e\n\n\n\n        \u003cp class=\"gem-c-attachment__metadata\"\u003e\n          This file is in an \u003ca href=\"https://www.gov.uk/guidance/using-open-document-formats-odf-in-your-organisation\" target=\"_self\" class=\"govuk-link\"\u003eOpenDocument\u003c/a\u003e format\n\u003c/p\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003ch2 id=\"uk-annual-report-2023\"\u003eUK Annual Report 2023\u003c/h2\u003e\n\u003cp\u003eThis report sets out how the UK has implemented its multi-annual programme under the Data Collection Framework for 2023.\u003c/p\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/66bf41eca44f1c4c23e5bd29/UK_DCF_Annual_Report_document_2023_final.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/66bf41ec885e2bf285cc3863/thumbnail_UK_DCF_Annual_Report_document_2023_final.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/66bf41eca44f1c4c23e5bd29/UK_DCF_Annual_Report_document_2023_final.pdf\"\u003eUnited Kingdom annual report on data collection in the Fisheries and aquaculture sectors 2023\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e8.05 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e205 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n\u003c/div\u003e\u003c/section\u003e\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/66bf421ca44f1c4c23e5bd2a/UK_Annual_Report_tables_2023_final.ods\"\u003e\n        \u003csvg class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--spreadsheet\" version=\"1.1\" viewbox=\"0 0 99 140\" width=\"99\" height=\"140\" aria-hidden=\"true\"\u003e\n  \u003cpath d=\"M12 12h75v27H12zm0 47h18.75v63H12zm55 2v59H51V61h16m2-2H49v63h20V59z\" stroke-width=\"0\"\u003e\u003c/path\u003e\n  \u003cpath d=\"M49 61.05V120H32.8V61.05H49m2-2H30.75v63H51V59zm34 2V120H69.05V61.05H85m2-2H67v63h20V59z\" stroke-width=\"0\"\u003e\u003c/path\u003e\n  \u003cpath d=\"M30 68.5h56.5M30 77.34h56.5M30 112.7h56.5M30 95.02h56.5M30 86.18h56.5M30 103.86h56.5\" fill=\"none\" stroke-miterlimit=\"10\" stroke-width=\"2\"\u003e\u003c/path\u003e\n\u003c/svg\u003e\n\n\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/66bf421ca44f1c4c23e5bd2a/UK_Annual_Report_tables_2023_final.ods\"\u003eUnited Kingdom annual report on data collection in the Fisheries and aquaculture sectors 2023 (tables)\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"OpenDocument Spreadsheet\" class=\"gem-c-attachment__abbr\"\u003eODS\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e298 KB\u003c/span\u003e\u003c/p\u003e\n\n\n\n        \u003cp class=\"gem-c-attachment__metadata\"\u003e\n          This file is in an \u003ca href=\"https://www.gov.uk/guidance/using-open-document-formats-odf-in-your-organisation\" target=\"_self\" class=\"govuk-link\"\u003eOpenDocument\u003c/a\u003e format\n\u003c/p\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003ch2 id=\"uk-annual-report-2022\"\u003eUK Annual Report 2022\u003c/h2\u003e\n\n\u003cp\u003eThis report sets out how the UK has implemented its multi-annual programme under the Data Collection Framework for 2022.\u003c/p\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/65a1090fe8f5ec000f1f8c25/UK_DCF_Annual_Report_2022_FIN_202301012.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/65a1090ee8f5ec000d1f8c36/thumbnail_UK_DCF_Annual_Report_2022_FIN_202301012.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/65a1090fe8f5ec000f1f8c25/UK_DCF_Annual_Report_2022_FIN_202301012.pdf\"\u003eUnited Kingdom annual report on data collection in the Fisheries and aquaculture sectors 2022\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e4.18 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e204 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n\u003c/div\u003e\u003c/section\u003e\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/65a109473308d200131fbed1/UK_Annual_Report_2022_tables_20231012_FIN.ods\"\u003e\n        \u003csvg class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--spreadsheet\" version=\"1.1\" viewbox=\"0 0 99 140\" width=\"99\" height=\"140\" aria-hidden=\"true\"\u003e\n  \u003cpath d=\"M12 12h75v27H12zm0 47h18.75v63H12zm55 2v59H51V61h16m2-2H49v63h20V59z\" stroke-width=\"0\"\u003e\u003c/path\u003e\n  \u003cpath d=\"M49 61.05V120H32.8V61.05H49m2-2H30.75v63H51V59zm34 2V120H69.05V61.05H85m2-2H67v63h20V59z\" stroke-width=\"0\"\u003e\u003c/path\u003e\n  \u003cpath d=\"M30 68.5h56.5M30 77.34h56.5M30 112.7h56.5M30 95.02h56.5M30 86.18h56.5M30 103.86h56.5\" fill=\"none\" stroke-miterlimit=\"10\" stroke-width=\"2\"\u003e\u003c/path\u003e\n\u003c/svg\u003e\n\n\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/65a109473308d200131fbed1/UK_Annual_Report_2022_tables_20231012_FIN.ods\"\u003eUnited Kingdom annual report on data collection in the Fisheries and aquaculture sectors 2022 (tables)\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"OpenDocument Spreadsheet\" class=\"gem-c-attachment__abbr\"\u003eODS\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e289 KB\u003c/span\u003e\u003c/p\u003e\n\n\n\n        \u003cp class=\"gem-c-attachment__metadata\"\u003e\n          This file is in an \u003ca href=\"https://www.gov.uk/guidance/using-open-document-formats-odf-in-your-organisation\" target=\"_self\" class=\"govuk-link\"\u003eOpenDocument\u003c/a\u003e format\n\u003c/p\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003ch2 id=\"uk-annual-report-2021\"\u003eUK Annual Report 2021\u003c/h2\u003e\n\n\u003cp\u003eThis report sets out how the UK has implemented its multi-annual programme under the Data Collection Framework for 2021.\u003c/p\u003e\n\n\u003cp\u003eThe work plan followed in 2021 is as was supplied to the European Commission in October 2019.\u003c/p\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/63c7bc108fa8f572a788452e/United_Kingdom_Annual_Report_2021_Text_FIN_202210.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/63c7bc10e90e074eecb1c293/thumbnail_United_Kingdom_Annual_Report_2021_Text_FIN_202210.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/63c7bc108fa8f572a788452e/United_Kingdom_Annual_Report_2021_Text_FIN_202210.pdf\"\u003eUnited Kingdom annual report on data collection in the Fisheries and aquaculture sectors 2021\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e4.68 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e165 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n\u003c/div\u003e\u003c/section\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/63c7bc2ad3bf7f580f5367e7/GBR__Annual_Report_2021_fisheries_data_tables_FIN_20220711.ods\"\u003e\n        \u003csvg class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--spreadsheet\" version=\"1.1\" viewbox=\"0 0 99 140\" width=\"99\" height=\"140\" aria-hidden=\"true\"\u003e\n  \u003cpath d=\"M12 12h75v27H12zm0 47h18.75v63H12zm55 2v59H51V61h16m2-2H49v63h20V59z\" stroke-width=\"0\"\u003e\u003c/path\u003e\n  \u003cpath d=\"M49 61.05V120H32.8V61.05H49m2-2H30.75v63H51V59zm34 2V120H69.05V61.05H85m2-2H67v63h20V59z\" stroke-width=\"0\"\u003e\u003c/path\u003e\n  \u003cpath d=\"M30 68.5h56.5M30 77.34h56.5M30 112.7h56.5M30 95.02h56.5M30 86.18h56.5M30 103.86h56.5\" fill=\"none\" stroke-miterlimit=\"10\" stroke-width=\"2\"\u003e\u003c/path\u003e\n\u003c/svg\u003e\n\n\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/63c7bc2ad3bf7f580f5367e7/GBR__Annual_Report_2021_fisheries_data_tables_FIN_20220711.ods\"\u003eUnited Kingdom annual report on data collection in the Fisheries and aquaculture sectors 2021 (tables)\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"OpenDocument Spreadsheet\" class=\"gem-c-attachment__abbr\"\u003eODS\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e908 KB\u003c/span\u003e\u003c/p\u003e\n\n\n\n        \u003cp class=\"gem-c-attachment__metadata\"\u003e\n          This file is in an \u003ca href=\"https://www.gov.uk/guidance/using-open-document-formats-odf-in-your-organisation\" target=\"_self\" class=\"govuk-link\"\u003eOpenDocument\u003c/a\u003e format\n\u003c/p\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003ch2 id=\"national-fisheries-laboratories\"\u003eNational Fisheries Laboratories\u003c/h2\u003e\n\n\u003cp\u003eThe national fisheries laboratories are responsible for delivery of UK fishery and survey data. All three laboratories, working together, carry out shore-based and sea-based sampling of UK fleets operating in waters off each country, as well as conducting internationally coordinated surveys:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eEngland and Wales: \u003ca href=\"https://www.gov.uk/government/organisations/centre-for-environment-fisheries-and-aquaculture-science\" class=\"govuk-link\"\u003eCentre for Environment, Fisheries and Aquaculture Science\u003c/a\u003e (Cefas)\u003c/li\u003e\n  \u003cli\u003eScotland: \u003ca rel=\"external\" href=\"https://www.gov.scot/about/how-government-is-run/\" class=\"govuk-link\"\u003eMarine Scotland\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003eNorthern Ireland: \u003ca rel=\"external\" href=\"https://www.afbini.gov.uk/\" class=\"govuk-link\"\u003eAgri-Food and Biosciences Institute\u003c/a\u003e (AFBI)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eAdditional to the three national fisheries laboratories:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.seafish.org/\" class=\"govuk-link\"\u003eSeafish\u003c/a\u003e, a non-departmental public body, is currently commissioned on behalf of the UK to collect a range of socio-economic data for the fishing fleet, processing and aquaculture sectors.\u003c/li\u003e\n  \u003cli\u003e\n\u003ca href=\"https://www.gov.uk/government/organisations/environment-agency\" class=\"govuk-link\"\u003eThe Environment Agency\u003c/a\u003e (EA) and \u003ca rel=\"external\" href=\"https://naturalresources.wales/?lang=en\" class=\"govuk-link\"\u003eNatural Resources Wales\u003c/a\u003e (NRW) have a role in working with CEFAS in carrying out activities related to eels in river systems in England and Wales.\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Update 16/08/24",
+                                               "public_timestamp":  "2024-08-16T16:29:41.000+01:00"
+                                           },
+                                           {
+                                               "note":  "UK Work Programme - update",
+                                               "public_timestamp":  "2024-04-03T15:02:46.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Update 12 January 2024",
+                                               "public_timestamp":  "2024-01-12T09:42:28.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated UK Work programme and its attachments. ",
+                                               "public_timestamp":  "2023-06-26T11:16:33.000+01:00"
+                                           },
+                                           {
+                                               "note":  "UK Annual Report 2021",
+                                               "public_timestamp":  "2023-01-18T09:31:34.000+00:00"
+                                           },
+                                           {
+                                               "note":  "page content updated for 2022",
+                                               "public_timestamp":  "2022-01-01T09:30:01.000+00:00"
+                                           },
+                                           {
+                                               "note":  "June 2019 update",
+                                               "public_timestamp":  "2019-06-04T14:57:39.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Page updated ",
+                                               "public_timestamp":  "2018-06-01T11:03:43.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Text updated",
+                                               "public_timestamp":  "2017-03-31T15:39:39.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Text amended",
+                                               "public_timestamp":  "2016-11-11T10:17:03.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Changes to the text",
+                                               "public_timestamp":  "2016-11-09T15:23:48.000+00:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2014-03-05T00:00:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "8d56bb52-2f79-4b6d-9fc6-6d7dcc4f7586"
+                                                 ],
+                    "first_public_at":  "2014-03-05T00:00:00.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2014-03-05T00:00:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/data-collection-framework",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/data-collection-framework",
+                                                     "base_path":  "/guidance/data-collection-framework",
+                                                     "content_id":  "5fe400c3-7631-11e4-a3cb-005056011aef",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2024-08-16T15:29:41Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Data Collection Framework",
+                                                     "web_url":  "https://www.gov.uk/guidance/data-collection-framework",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "base_path":  "/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "content_id":  "591c83aa-3b74-437d-a342-612bddd97572",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2015-05-08T00:00:00+00:00",
+                                                         "started_on":  "2010-05-12T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2010 to 2015 Conservative and Liberal Democrat coalition government",
+                                         "web_url":  "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government"
+                                     }
+                                 ],
+                  "lead_organisations":  [
+                                             {
+                                                 "analytics_identifier":  "PB57",
+                                                 "api_path":  "/api/content/government/organisations/marine-management-organisation",
+                                                 "api_url":  "https://www.gov.uk/api/content/government/organisations/marine-management-organisation",
+                                                 "base_path":  "/government/organisations/marine-management-organisation",
+                                                 "content_id":  "8d56bb52-2f79-4b6d-9fc6-6d7dcc4f7586",
+                                                 "details":  {
+                                                                 "acronym":  "MMO",
+                                                                 "brand":  "department-for-environment-food-rural-affairs",
+                                                                 "default_news_image":  null,
+                                                                 "logo":  {
+                                                                              "crest":  "single-identity",
+                                                                              "formatted_title":  "Marine \u003cbr/\u003eManagement \u003cbr/\u003eOrganisation"
+                                                                          },
+                                                                 "organisation_govuk_status":  {
+                                                                                                   "status":  "live",
+                                                                                                   "updated_at":  null,
+                                                                                                   "url":  null
+                                                                                               }
+                                                             },
+                                                 "document_type":  "organisation",
+                                                 "links":  {
+
+                                                           },
+                                                 "locale":  "en",
+                                                 "schema_name":  "organisation",
+                                                 "title":  "Marine Management Organisation",
+                                                 "web_url":  "https://www.gov.uk/government/organisations/marine-management-organisation",
+                                                 "withdrawn":  false
+                                             }
+                                         ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "PB57",
+                                            "api_path":  "/api/content/government/organisations/marine-management-organisation",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/marine-management-organisation",
+                                            "base_path":  "/government/organisations/marine-management-organisation",
+                                            "content_id":  "8d56bb52-2f79-4b6d-9fc6-6d7dcc4f7586",
+                                            "details":  {
+                                                            "acronym":  "MMO",
+                                                            "brand":  "department-for-environment-food-rural-affairs",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Marine \u003cbr/\u003eManagement \u003cbr/\u003eOrganisation"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Marine Management Organisation",
+                                            "web_url":  "https://www.gov.uk/government/organisations/marine-management-organisation",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "PB57",
+                                                                       "api_path":  "/api/content/government/organisations/marine-management-organisation",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/marine-management-organisation",
+                                                                       "base_path":  "/government/organisations/marine-management-organisation",
+                                                                       "content_id":  "8d56bb52-2f79-4b6d-9fc6-6d7dcc4f7586",
+                                                                       "details":  {
+                                                                                       "acronym":  "MMO",
+                                                                                       "brand":  "department-for-environment-food-rural-affairs",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Marine \u003cbr/\u003eManagement \u003cbr/\u003eOrganisation"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Marine Management Organisation",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/marine-management-organisation",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "PB57",
+                                                              "api_path":  "/api/content/government/organisations/marine-management-organisation",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/marine-management-organisation",
+                                                              "base_path":  "/government/organisations/marine-management-organisation",
+                                                              "content_id":  "8d56bb52-2f79-4b6d-9fc6-6d7dcc4f7586",
+                                                              "details":  {
+                                                                              "acronym":  "MMO",
+                                                                              "brand":  "department-for-environment-food-rural-affairs",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Marine \u003cbr/\u003eManagement \u003cbr/\u003eOrganisation"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Marine Management Organisation",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/marine-management-organisation",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/environment/marine-environment",
+                                     "api_url":  "https://www.gov.uk/api/content/environment/marine-environment",
+                                     "base_path":  "/environment/marine-environment",
+                                     "content_id":  "7172945a-aed5-4fa1-af6b-9ae09a584ad8",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Marine environment",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/environment/marine",
+                                                                             "api_url":  "https://www.gov.uk/api/content/environment/marine",
+                                                                             "base_path":  "/environment/marine",
+                                                                             "content_id":  "42fdd045-cadf-474b-b8a6-ca20a77c43bb",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Marine",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/environment",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/environment",
+                                                                                                                     "base_path":  "/environment",
+                                                                                                                     "content_id":  "3cf97f69-84de-41ae-bc7b-7e2cc238fa58",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Environment",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T13:39:00Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Environment",
+                                                                                                                     "web_url":  "https://www.gov.uk/environment",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T11:58:23Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Marine",
+                                                                             "web_url":  "https://www.gov.uk/environment/marine",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-16T09:56:59Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Marine environment",
+                                     "web_url":  "https://www.gov.uk/environment/marine-environment",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2024-08-16T16:29:41+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1723822181.395-10.13.21.48-2799",
+    "publishing_scheduled_at":  "2022-01-01T09:30:00+00:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  4,
+    "schema_name":  "detailed_guide",
+    "title":  "Data Collection Framework",
+    "updated_at":  "2025-01-14T13:08:31+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

@@ -1,0 +1,484 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/hm-land-registry-portal-manage-your-organisations-accounts",
+    "content_id":  "a2d47067-bf75-4e07-b8ec-ff62acd614fb",
+    "description":  "Business e-services customers can manage their portal accounts at any time.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003ch2 id=\"overview\"\u003eOverview\u003c/h2\u003e\n\n\u003cp\u003eOrganisations that use Business e-services will have signed the \u003ca href=\"https://www.gov.uk/government/publications/conditions-of-use-hm-land-registry-business-e-services\" class=\"govuk-link\"\u003eConditions of use: Portal and Business Gateway (COU)\u003c/a\u003e. Conveyancers may also have signed the \u003ca href=\"https://www.gov.uk/government/publications/hm-land-registry-network-access-agreement\" class=\"govuk-link\"\u003eNetwork Access Agreement (NAA)\u003c/a\u003e. These agreements set out the obligations that organisations must comply with.\u003c/p\u003e\n\n\u003cp\u003eEach organisation that uses our Business e-services via the portal, our online channel for transactions, or via Business Gateway, automatically through a case management system, has at least one person who’s responsible for understanding our security policies and making sure their organisation adheres to them. They are called the responsible person. An organisation can also have as many deputy responsible persons as they need.\u003c/p\u003e\n\n\u003cp\u003eThese roles were created to assist organisations in fulfilling their obligations under their regulatory Codes of Conduct, and the Legal Services Act 2007 and to make sure their users are given access to the Business e-services corresponding to their ability, experience and qualifications, and so their work can be supervised by a qualified conveyancer if necessary.\u003c/p\u003e\n\n\u003cp\u003eIf you are the responsible person or a deputy responsible person for your organisation, you must make sure your organisation adheres to the user account provisions, and you play your part in protecting the security and integrity of the network.\u003c/p\u003e\n\n\u003cp\u003eYou need to make sure:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eyou do not allow users (all roles) to share accounts\u003c/li\u003e\n  \u003cli\u003eyou do not allow your administrators to create ‘generic’ accounts to be shared by multiple authorised users\u003c/li\u003e\n  \u003cli\u003eyour administrators delete authorised user accounts that are no longer needed\u003c/li\u003e\n  \u003cli\u003eyou contact us to delete responsible person, deputy responsible person and administrator accounts that are no longer needed\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIf you become aware of any unauthorised use of or access to Business e-services you must take reasonable steps to stop such activity and prevent it happening again.\u003c/p\u003e\n\n\u003ch3 id=\"account-sharing\"\u003eAccount sharing\u003c/h3\u003e\n\n\u003cp\u003eA user account is personal to the user for whom it is set up, and only that person should use the User ID (login name), password and any security token. This ensures that HM Land Registry knows who is using the system, and that it is being used with the authority and under the supervision of a registered customer.\u003c/p\u003e\n\n\u003cp\u003eYou must not allow simultaneous access to services using the same login, or the transfer or sharing of a User ID. For example, administrators must not create ‘generic’ accounts to be used by more than one person, such as for an ‘Accounts Team’.\u003c/p\u003e\n\n\u003cp\u003eIf you allow administrators to do this, users may be able to access services after they leave your organisation and you will have no easy way of identifying transactions they submit.\u003c/p\u003e\n\n\u003ch3 id=\"account-deletion\"\u003eAccount deletion\u003c/h3\u003e\n\n\u003cp\u003eYou should regularly review your organisation’s Business e-services accounts to make sure that no former employees continue to have access to services using security credentials requested or issued by you. If you do not do this, you are putting your business and the integrity of the register at risk.\u003c/p\u003e\n\n\u003cp\u003eThere have been instances where staff have left organisations who used Business e-services but whose accounts have not been deleted. Individuals have assumed that user accounts were theirs personally, where in fact they belong to the organisation who set them up. The major consequence of this has been that services have been ordered and paid for using the account of a previous employer.\u003c/p\u003e\n\n\u003cp\u003eThis highlights the importance of maintaining your organisation’s accounts and ensuring the accounts of people who leave or move onto other roles are deleted. This applies to all staff including the responsible person, any deputy responsible persons and administrators as well as authorised users.\u003c/p\u003e\n\n\u003cp\u003eFind more information on managing the different types of account in:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"#manage-responsible-persons\" class=\"govuk-link\"\u003emanage responsible persons\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"#manage-a-deputy-responsible-person\" class=\"govuk-link\"\u003emanage a deputy responsible person\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"#manage-administrators\" class=\"govuk-link\"\u003emanage administrators\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"#manage-authorised-users\" class=\"govuk-link\"\u003emanage authorised users\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"monitoring-your-organisations-use-of-business-e-services\"\u003eMonitoring your organisation’s use of Business e-services\u003c/h3\u003e\n\n\u003cp\u003eHM Land Registry has created several reports to help responsible persons and deputy responsible persons to supervise the actions of administrators and authorised users:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe ‘Administrator Report’ includes details of your administrators’ actions during the last 31 calendar days (access it from the ‘My Portal homepage’, under ‘Administrative Services’)\u003c/li\u003e\n  \u003cli\u003ethe ‘\u003cabbr title=\"Variable Direct Debit\"\u003eVDD\u003c/abbr\u003e information’ provides you with access to details of transactions on your organisation’s variable Direct Debit (\u003cabbr title=\"Variable Direct Debit\"\u003eVDD\u003c/abbr\u003e) accounts (access it from the ‘My Portal homepage’, under ‘Administrative Services’)\u003c/li\u003e\n  \u003cli\u003ethe ‘Services Requested’ report provides you with access to details of services requested by users during the last 7 days (access it from the My Portal Home page under the heading, ‘General Facilities’)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eResponsible persons, deputy responsible persons and administrators should:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eread our \u003ca href=\"https://www.gov.uk/government/publications/technical-manual\" class=\"govuk-link\"\u003eBusiness e-services Technical Manual\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003elogin to the Business e-services portal regularly to access the reports outlined above and read messages within the Message Area\u003c/li\u003e\n  \u003cli\u003eread our guidance on \u003ca href=\"https://www.gov.uk/government/collections/how-to-use-the-land-registry-portal\" class=\"govuk-link\"\u003ehow to use Business e-services: portal login and guides\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"manage-your-organisations-portal-accounts\"\u003eManage your organisation’s portal accounts\u003c/h2\u003e\n\n\u003ch3 id=\"additional-services\"\u003eAdditional services\u003c/h3\u003e\n\n\u003cp\u003eIf your organisation is an existing Business e-services customer, you can apply for \u003ca href=\"https://www.gov.uk/guidance/apply-for-additional-hm-land-registry-business-e-services\" class=\"govuk-link\"\u003eadditional services Business e-services\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"update-organisation-account\"\u003eUpdate organisation account\u003c/h3\u003e\n\n\u003cp\u003eAn administrator can update an organisation’s contact details including address, email address, landline, mobile telephone number and fax number. Find out more in the guide \u003ca href=\"https://www.gov.uk/guidance/land-registry-portal-update-a-business-unit-account\" class=\"govuk-link\"\u003eUpdate a business unit account\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"change-of-organisation-name\"\u003eChange of organisation name\u003c/h3\u003e\n\n\u003cp\u003eBusiness e-services customers must notify us if an organisation name changes because of a change of legal entity or rebranding. Find out more in the guide \u003ca href=\"https://www.gov.uk/guidance/land-registry-portal-change-of-organisation-name\" class=\"govuk-link\"\u003eChange of organisation name\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"agreements\"\u003eAgreements\u003c/h3\u003e\n\n\u003cp\u003eA responsible person should \u003ca href=\"#contact\" class=\"govuk-link\"\u003econtact us\u003c/a\u003e in writing, by post or email, to request the suspension or termination of an organisation’s NAA or Memorandum of Understanding.\u003c/p\u003e\n\n\u003ch3 id=\"closure-of-an-organisations-business-e-services-account\"\u003eClosure of an organisation’s Business e-services account\u003c/h3\u003e\n\n\u003cp\u003eA responsible person should \u003ca href=\"#contact\" class=\"govuk-link\"\u003econtact us\u003c/a\u003e in writing, by post or email, to notify us of the closure of an organisation or to request termination of a Business e-services account.\u003c/p\u003e\n\n\u003ch2 id=\"manage-the-variable-direct-debit-accounts\"\u003eManage the variable Direct Debit accounts\u003c/h2\u003e\n\n\u003ch3 id=\"apply-for-an-additional-vdd-account\"\u003eApply for an additional \u003cabbr title=\"Variable Direct Debit\"\u003eVDD\u003c/abbr\u003e account\u003c/h3\u003e\n\n\u003cp\u003eComplete the application form and mandate on pages 13, 14 and 15 of our \u003cabbr title=\"Variable Direct Debit\"\u003eVDD\u003c/abbr\u003e guide, \u003ca href=\"https://www.gov.uk/government/publications/set-up-a-variable-direct-debit-to-pay-for-hm-land-registry-services\" class=\"govuk-link\"\u003ePaying for HM Land Registry services by variable direct debit\u003c/a\u003e to apply for an additional \u003cabbr title=\"Variable Direct Debit\"\u003eVDD\u003c/abbr\u003e account.\u003c/p\u003e\n\n\u003ch3 id=\"update-the-bank-details-of-an-existing-vdd-account\"\u003eUpdate the bank details of an existing \u003cabbr title=\"Variable Direct Debit\"\u003eVDD\u003c/abbr\u003e account\u003c/h3\u003e\n\n\u003cp\u003eComplete a \u003ca href=\"https://www.gov.uk/government/publications/hm-land-registry-variable-direct-debit-vdd-mandate\" class=\"govuk-link\"\u003evariable Direct Debit mandate form\u003c/a\u003e to tell us about changes to the bank account details of a \u003cabbr title=\"Variable Direct Debit\"\u003eVDD\u003c/abbr\u003e account.\u003c/p\u003e\n\n\u003ch3 id=\"update-the-name-of-a-vdd-account-holder-or-to-close-a-vdd-account\"\u003eUpdate the name of a \u003cabbr title=\"Variable Direct Debit\"\u003eVDD\u003c/abbr\u003e Account Holder or to close a \u003cabbr title=\"Variable Direct Debit\"\u003eVDD\u003c/abbr\u003e account\u003c/h3\u003e\n\n\u003cp\u003eA responsible person should send details of the change to:\u003c/p\u003e\n\n\u003cdiv class=\"address\"\u003e\u003cdiv class=\"adr org fn\"\u003e\u003cp\u003e\n\nHM Land Registry Accounts Receivable\n\u003cbr\u003ePO Box 2079\n\u003cbr\u003eTrafalgar House (6th Floor)\n\u003cbr\u003eCroydon\n\u003cbr\u003eCR90 9NU\n\u003cbr\u003e\n\u003cbr\u003eDX 8888\n\u003cbr\u003eCroydon 3\n\u003cbr\u003e\n\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e\n\n\u003ch2 id=\"manage-responsible-persons\"\u003eManage responsible persons\u003c/h2\u003e\n\n\u003ch3 id=\"reset-suspend-or-unsuspend-a-responsible-person-account\"\u003eReset, suspend or unsuspend a responsible person account\u003c/h3\u003e\n\n\u003cp\u003eA responsible person can change or reset their password if they have set their Shared Secrets, or they must contact the Service Access Team.\u003c/p\u003e\n\n\u003cp\u003eRequests to suspend or unsuspend a responsible person account or to update contact details should be made to Service Access Team by the responsible person who can:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003esubmit an electronic request using Administrative Services\u003c/li\u003e\n  \u003cli\u003euse our \u003ca rel=\"external\" href=\"https://customerhelp.landregistry.gov.uk/contactus_businesseservices\" class=\"govuk-link\"\u003econtact form to send us a message\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003esubmit a request in writing by \u003ca href=\"#contact\" class=\"govuk-link\"\u003eemail or post\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003emake a verbal request by \u003ca href=\"#contact\" class=\"govuk-link\"\u003etelephone\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"update-the-personal-details-of-a-responsible-person\"\u003eUpdate the personal details of a responsible person\u003c/h3\u003e\n\n\u003cp\u003eA responsible person can only update their Preferred Contact Method by logging on to the portal and selecting Administrative Services \u0026gt; Personal Details.\u003c/p\u003e\n\n\u003ch3 id=\"change-a-responsible-person\"\u003eChange a responsible person\u003c/h3\u003e\n\n\u003cp\u003eA request for a new responsible person must be made by the existing responsible person or, if they have already left the organisation, from a duly authorised person within the organisation such as a company director, company secretary, partner or equivalent.\u003c/p\u003e\n\n\u003cp\u003eRequests should be made using \u003ca href=\"https://www.gov.uk/government/publications/change-responsible-person-afs6\" class=\"govuk-link\"\u003eform AFS6\u003c/a\u003e or \u003ca rel=\"external\" href=\"https://customerhelp.landregistry.gov.uk/afs-start/\" class=\"govuk-link\"\u003eelectronically\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eIf you confirm that your existing responsible person has left the organisation and they had an administrator account we will also delete that account.\u003c/p\u003e\n\n\u003cp\u003ePlease return their security token to the Service Access Team or dispose of it in accordance with Waste Electrical and Electronic Equipment (WEEE) environmental legislation.\u003c/p\u003e\n\n\u003cp\u003eIf they were also an authorised user, you should direct one of your administrators to delete that account.\u003c/p\u003e\n\n\u003cp\u003eMore information about the role of a responsible person is available in the \u003ca href=\"https://www.gov.uk/government/publications/technical-manual\" class=\"govuk-link\"\u003eHM Land Registry Business e-services technical manual\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"manage-a-deputy-responsible-person\"\u003eManage a deputy responsible person\u003c/h2\u003e\n\n\u003cp\u003eThe role of deputy responsible person has been created to assist organisations with the proper supervision of their employees’ use of our services. Deputy responsible persons can be nominated to cover for the responsible person when they are not available or to manage a particular group or office within your organisation.\u003c/p\u003e\n\n\u003ch3 id=\"create-a-deputy-responsible-person-account\"\u003eCreate a deputy responsible person account\u003c/h3\u003e\n\n\u003cp\u003eRequests to create deputy responsible person accounts must be made to the Service Access Team by a responsible person who must fill in \u003ca href=\"https://www.gov.uk/government/publications/application-for-deputy-responsible-persons-afs5a\" class=\"govuk-link\"\u003eform AFS5a\u003c/a\u003e or make a request \u003ca rel=\"external\" href=\"https://customerhelp.landregistry.gov.uk/afs-start/\" class=\"govuk-link\"\u003eelectronically\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"reset-a-deputy-responsible-person-password\"\u003eReset a deputy responsible person password\u003c/h3\u003e\n\n\u003cp\u003eA deputy responsible person can reset a deputy responsible person password if they have set their Shared Secrets, otherwise they must contact the Service Access Team.\u003c/p\u003e\n\n\u003ch3 id=\"update-the-personal-details-of-a-deputy-responsible-person\"\u003eUpdate the personal details of a deputy responsible person\u003c/h3\u003e\n\n\u003cp\u003eA deputy responsible person can update their Preferred Contact Method by logging on to the portal and selecting Administrative Services \u0026gt; Personal Details.\u003c/p\u003e\n\n\u003ch3 id=\"suspend-unsuspend-or-delete-a-deputy-responsible-person-account\"\u003eSuspend, unsuspend or delete a deputy responsible person account\u003c/h3\u003e\n\n\u003cp\u003eRequests should be made to the Service Access Team by a responsible person or a deputy responsible person (only if they are dealing with their own account) who can:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003esubmit an electronic request using Administrative Services\u003c/li\u003e\n  \u003cli\u003esubmit a request in writing by \u003ca href=\"#contact\" class=\"govuk-link\"\u003eemail or post\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003emake a verbal request by \u003ca href=\"#contact\" class=\"govuk-link\"\u003etelephone\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eMore information about the role of a deputy responsible person is available in the \u003ca href=\"https://www.gov.uk/government/publications/technical-manual\" class=\"govuk-link\"\u003eHM Land Registry Business e-services technical manual\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"manage-administrators\"\u003eManage administrators\u003c/h2\u003e\n\n\u003ch3 id=\"create-administrator-account\"\u003eCreate administrator account\u003c/h3\u003e\n\n\u003cp\u003eA responsible person or deputy responsible person should complete \u003ca href=\"https://www.gov.uk/government/publications/additional-administrators-details-afs4a\" class=\"govuk-link\"\u003eform AFS4a\u003c/a\u003e or make a request \u003ca rel=\"external\" href=\"https://customerhelp.landregistry.gov.uk/afs-start/\" class=\"govuk-link\"\u003eelectronically\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"reset-an-administrators-password-or-security-token\"\u003eReset an administrator’s password or security token\u003c/h3\u003e\n\n\u003cp\u003eAdministrators can reset or change a password or reset their security token by following the onscreen prompts in the Login Problem section on the HM Land Registry Portal Login page. They must have set their Shared Secrets, otherwise, they should \u003ca rel=\"external\" href=\"https://customerhelp.landregistry.gov.uk/contactus_businesseservices\" class=\"govuk-link\"\u003econtact our Service Access Team\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"suspend-unsuspend-update-or-delete-an-administrator-account\"\u003eSuspend, unsuspend, update or delete an administrator account\u003c/h3\u003e\n\n\u003cp\u003eRequests to update or delete administrator accounts must be made to the Service Access Team by a responsible person or a deputy responsible person who can:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003esubmit an electronic request using Administrative Services\u003c/li\u003e\n  \u003cli\u003esubmit a request in writing by \u003ca href=\"#contact\" class=\"govuk-link\"\u003eemail or post\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003emake a verbal request by \u003ca href=\"#contact\" class=\"govuk-link\"\u003etelephone\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"manage-authorised-users\"\u003eManage authorised users\u003c/h2\u003e\n\n\u003cp\u003eYour organisation’s administrators are responsible for managing all aspects of your authorised user accounts. HM Land Registry does not manage authorised user accounts.\u003c/p\u003e\n\n\u003ch3 id=\"update-authorised-user-accounts\"\u003eUpdate authorised user accounts\u003c/h3\u003e\n\n\u003cp\u003eAn authorised user can:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n    \u003cp\u003echange or reset their password if they have set their Shared Secrets; otherwise they must refer to their organisation’s administrator.\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eset an alternative despatch address by logging into the portal and selecting Administrative Services.\u003c/p\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"update-authorised-user-role\"\u003eUpdate authorised user role\u003c/h3\u003e\n\n\u003cp\u003eThe role associated with an authorised user account can be changed by their organisation’s administrator to control which services they have access to.\u003c/p\u003e\n\n\u003cp\u003eIf your organisation applies for additional services, then your administrators must update authorised users roles in order for them to access those services. Find out more in the guide \u003ca href=\"https://www.gov.uk/guidance/land-registry-portal-update-a-user-account\" class=\"govuk-link\"\u003eUpdate a user account\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eThe roles and associated privileges for authorised users can be found in the \u003ca href=\"https://www.gov.uk/government/publications/technical-manual\" class=\"govuk-link\"\u003eHM Land Registry Business e-services technical manual\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"contact\"\u003eContact\u003c/h2\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://customerhelp.landregistry.gov.uk/contactus_businesseservices\" class=\"govuk-link\"\u003eSend our Service Access Team a message\u003c/a\u003e if you have a query about managing HM Land Registry Business e-services accounts. Alternatively you can contact us by phone or post.\u003c/p\u003e\n\n\u003cdiv class=\"contact contact\" id=\"contact_3035\"\u003e\n    \u003cp class=\"govuk-body\"\u003eService Access Team\u003c/p\u003e\n\n    \u003cp class=\"govuk-body govuk-!-margin-bottom-4\"\u003e\n      PO Box 650\n\u003cbr\u003eSouthfield House\n\u003cbr\u003eSouthfield Way\n\u003cbr\u003eDurham\n\u003cbr\u003eDH1 9LR\n\u003cbr\u003e\n\u003cbr\u003eDX313201\n\u003cbr\u003eDurham 24\n    \u003c/p\u003e\n\n    \u003cdiv\u003e\n\n        \u003cp class=\"govuk-body govuk-!-margin-bottom-4\"\u003e\n          Contact form \u003ca class=\"govuk-link\" href=\"https://customerhelp.landregistry.gov.uk/contactus\"\u003ehttps://customerhelp.l...\u003c/a\u003e\n        \u003c/p\u003e\n\n        \u003cp class=\"govuk-body govuk-!-margin-bottom-4\"\u003e\n          Telephone 0300 006 0411\n        \u003c/p\u003e\n    \u003c/div\u003e\n\n\n\u003c/div\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Added links to submit requests to update or create Business e-services accounts electronically.",
+                                               "public_timestamp":  "2020-11-09T07:00:00.000+00:00"
+                                           },
+                                           {
+                                               "note":  "We\u0027ve added guidance to help customers meet their obligations to monitor their organisation\u0027s use of Business e-services.",
+                                               "public_timestamp":  "2018-06-20T15:19:16.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2017-08-31T00:00:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "5c54ae52-341b-499e-a6dd-67f04633b8cf"
+                                                 ],
+                    "first_public_at":  "2017-08-31T00:00:00.000+01:00",
+                    "national_applicability":  {
+                                                   "england":  {
+                                                                   "applicable":  true,
+                                                                   "label":  "England"
+                                                               },
+                                                   "northern_ireland":  {
+                                                                            "alternative_url":  "",
+                                                                            "applicable":  false,
+                                                                            "label":  "Northern Ireland"
+                                                                        },
+                                                   "scotland":  {
+                                                                    "alternative_url":  "",
+                                                                    "applicable":  false,
+                                                                    "label":  "Scotland"
+                                                                },
+                                                   "wales":  {
+                                                                 "applicable":  true,
+                                                                 "label":  "Wales"
+                                                             }
+                                               },
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+                                                "56a0b436-2ed3-4a75-971c-74b0c62ba75d"
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2017-08-31T00:00:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/hm-land-registry-portal-manage-your-organisations-accounts",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/hm-land-registry-portal-manage-your-organisations-accounts",
+                                                     "base_path":  "/guidance/hm-land-registry-portal-manage-your-organisations-accounts",
+                                                     "content_id":  "a2d47067-bf75-4e07-b8ec-ff62acd614fb",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2020-11-09T07:00:00Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "HM Land Registry Business e-services: manage your organisation’s portal accounts",
+                                                     "web_url":  "https://www.gov.uk/guidance/hm-land-registry-portal-manage-your-organisations-accounts",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/land-registration-business-and-mortgage-services",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/land-registration-business-and-mortgage-services",
+                                                   "base_path":  "/government/collections/land-registration-business-and-mortgage-services",
+                                                   "content_id":  "d49f9683-3e79-4140-a032-7ffb48bdd2dd",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/hm-land-registry-portal-manage-your-organisations-accounts",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/hm-land-registry-portal-manage-your-organisations-accounts",
+                                                                                       "base_path":  "/guidance/hm-land-registry-portal-manage-your-organisations-accounts",
+                                                                                       "content_id":  "a2d47067-bf75-4e07-b8ec-ff62acd614fb",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2020-11-09T07:00:00Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "HM Land Registry Business e-services: manage your organisation’s portal accounts",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/hm-land-registry-portal-manage-your-organisations-accounts",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2023-09-18T14:23:07Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Land registration: Business and mortgage services",
+                                                   "web_url":  "https://www.gov.uk/government/collections/land-registration-business-and-mortgage-services",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D69",
+                                            "api_path":  "/api/content/government/organisations/land-registry",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/land-registry",
+                                            "base_path":  "/government/organisations/land-registry",
+                                            "content_id":  "5c54ae52-341b-499e-a6dd-67f04633b8cf",
+                                            "details":  {
+                                                            "acronym":  "HM Land Registry",
+                                                            "brand":  "ministry-of-housing-communities-local-government",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37dad8ed915d5a5f96600a/s960_HMLR960640.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5a37dad7ed915d5a5f966009/s300_HMLR960640.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "formatted_title":  "HM Land Registry",
+                                                                         "image":  {
+                                                                                       "alt_text":  "HM Land Registry",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/59fa00e440f0b62eeb2ec8df/HMLR_logo.png"
+                                                                                   }
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "HM Land Registry",
+                                            "web_url":  "https://www.gov.uk/government/organisations/land-registry",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "D69",
+                                                                       "api_path":  "/api/content/government/organisations/land-registry",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/land-registry",
+                                                                       "base_path":  "/government/organisations/land-registry",
+                                                                       "content_id":  "5c54ae52-341b-499e-a6dd-67f04633b8cf",
+                                                                       "details":  {
+                                                                                       "acronym":  "HM Land Registry",
+                                                                                       "brand":  "ministry-of-housing-communities-local-government",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37dad8ed915d5a5f96600a/s960_HMLR960640.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5a37dad7ed915d5a5f966009/s300_HMLR960640.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "formatted_title":  "HM Land Registry",
+                                                                                                    "image":  {
+                                                                                                                  "alt_text":  "HM Land Registry",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/59fa00e440f0b62eeb2ec8df/HMLR_logo.png"
+                                                                                                              }
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "HM Land Registry",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/land-registry",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D69",
+                                                              "api_path":  "/api/content/government/organisations/land-registry",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/land-registry",
+                                                              "base_path":  "/government/organisations/land-registry",
+                                                              "content_id":  "5c54ae52-341b-499e-a6dd-67f04633b8cf",
+                                                              "details":  {
+                                                                              "acronym":  "HM Land Registry",
+                                                                              "brand":  "ministry-of-housing-communities-local-government",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37dad8ed915d5a5f96600a/s960_HMLR960640.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/5a37dad7ed915d5a5f966009/s300_HMLR960640.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "formatted_title":  "HM Land Registry",
+                                                                                           "image":  {
+                                                                                                         "alt_text":  "HM Land Registry",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/59fa00e440f0b62eeb2ec8df/HMLR_logo.png"
+                                                                                                     }
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "HM Land Registry",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/land-registry",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/hm-land-registry-electronic-document-registration-service",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/hm-land-registry-electronic-document-registration-service",
+                                                              "base_path":  "/guidance/hm-land-registry-electronic-document-registration-service",
+                                                              "content_id":  "e6ffb178-6843-45d5-9614-c070c28840b5",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2017-05-04T14:07:12Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "HM Land Registry electronic Document Registration Service (e-DRS)",
+                                                              "web_url":  "https://www.gov.uk/guidance/hm-land-registry-electronic-document-registration-service",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/technical-manual",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/technical-manual",
+                                                              "base_path":  "/government/publications/technical-manual",
+                                                              "content_id":  "5f62a52e-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2019-08-05T05:00:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "HM Land Registry Business e-services technical manual",
+                                                              "web_url":  "https://www.gov.uk/government/publications/technical-manual",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/conditions-of-use-hm-land-registry-business-e-services",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/conditions-of-use-hm-land-registry-business-e-services",
+                                                              "base_path":  "/government/publications/conditions-of-use-hm-land-registry-business-e-services",
+                                                              "content_id":  "0174a676-64a8-49f8-8ffd-4014b53d99c2",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-11-09T07:00:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Conditions of use: HM Land Registry Business e-services",
+                                                              "web_url":  "https://www.gov.uk/government/publications/conditions-of-use-hm-land-registry-business-e-services",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/land-registry-portal-change-of-organisation-name",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/land-registry-portal-change-of-organisation-name",
+                                                              "base_path":  "/guidance/land-registry-portal-change-of-organisation-name",
+                                                              "content_id":  "3bf00191-c83e-493c-bfc7-1a097e9a0bdf",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2016-05-13T14:27:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "HM Land Registry portal: change of organisation name",
+                                                              "web_url":  "https://www.gov.uk/guidance/land-registry-portal-change-of-organisation-name",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/hm-land-registry-portal-first-time-login-for-business-unit-administrators",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/hm-land-registry-portal-first-time-login-for-business-unit-administrators",
+                                                              "base_path":  "/guidance/hm-land-registry-portal-first-time-login-for-business-unit-administrators",
+                                                              "content_id":  "b8f63119-2fbf-4310-8ba7-6ad37c783d09",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-01-20T06:00:02Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "HM Land Registry portal: first time login for business unit administrators",
+                                                              "web_url":  "https://www.gov.uk/guidance/hm-land-registry-portal-first-time-login-for-business-unit-administrators",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/housing-local-and-community/housing-and-communities",
+                                     "api_url":  "https://www.gov.uk/api/content/housing-local-and-community/housing-and-communities",
+                                     "base_path":  "/housing-local-and-community/housing-and-communities",
+                                     "content_id":  "4ad66168-274d-4d83-9195-f4ab0ccc97cb",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Housing and communities (level 2)",
+                                                     "notes_for_editors":  "",
+                                                     "url_override":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/housing-local-and-community",
+                                                                             "api_url":  "https://www.gov.uk/api/content/housing-local-and-community",
+                                                                             "base_path":  "/housing-local-and-community",
+                                                                             "content_id":  "4794066e-e3cc-425e-8cc4-e7ff3edb4c39",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Housing, local and community",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:32:02Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Housing, local and community",
+                                                                             "web_url":  "https://www.gov.uk/housing-local-and-community",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2022-02-14T14:24:18Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Housing and communities",
+                                     "web_url":  "https://www.gov.uk/housing-local-and-community/housing-and-communities",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/housing-local-and-community/land-registration-business-mortgage-services-conveyancing-services",
+                                     "api_url":  "https://www.gov.uk/api/content/housing-local-and-community/land-registration-business-mortgage-services-conveyancing-services",
+                                     "base_path":  "/housing-local-and-community/land-registration-business-mortgage-services-conveyancing-services",
+                                     "content_id":  "13afc950-0182-429f-a7c0-e02f1fcb04a5",
+                                     "details":  {
+                                                     "internal_name":  "Conveyancing services  [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/housing-local-and-community/land-registration-business-mortgage-services",
+                                                                             "api_url":  "https://www.gov.uk/api/content/housing-local-and-community/land-registration-business-mortgage-services",
+                                                                             "base_path":  "/housing-local-and-community/land-registration-business-mortgage-services",
+                                                                             "content_id":  "ff24cafc-c478-40e6-8a5d-754caf3659eb",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Business and mortgage services [T]",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/housing-local-and-community/land-registration",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/housing-local-and-community/land-registration",
+                                                                                                                     "base_path":  "/housing-local-and-community/land-registration",
+                                                                                                                     "content_id":  "82730dd2-4ead-4ae6-943b-2c910e758279",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Land registration [T] (level 2, housing theme)",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  false
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "parent_taxons":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-08-22T12:54:41Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Land registration",
+                                                                                                                     "web_url":  "https://www.gov.uk/housing-local-and-community/land-registration",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-08-22T12:54:41Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Business and mortgage services",
+                                                                             "web_url":  "https://www.gov.uk/housing-local-and-community/land-registration-business-mortgage-services",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-08-22T12:54:42Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Conveyancing services ",
+                                     "web_url":  "https://www.gov.uk/housing-local-and-community/land-registration-business-mortgage-services-conveyancing-services",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2020-11-09T07:00:00+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1706880579.852-10.13.21.38-2395",
+    "publishing_scheduled_at":  "2020-11-09T07:00:00+00:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  2,
+    "schema_name":  "detailed_guide",
+    "title":  "HM Land Registry Business e-services: manage your organisation’s portal accounts",
+    "updated_at":  "2025-01-06T11:09:48+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

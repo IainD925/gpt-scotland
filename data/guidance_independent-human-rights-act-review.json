@@ -1,0 +1,655 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/independent-human-rights-act-review",
+    "content_id":  "ad547a28-87b9-459f-8a88-1dacb6531c23",
+    "description":  "The Review was set up to consider how the Human Rights Act is working in practice and whether any change is needed. The independent Panel submitted their report to the Deputy Prime Minister in October 2021.",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "web.comments@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  120469,
+                                            "filename":  "human-rights-review-tor.pdf",
+                                            "id":  "6324931",
+                                            "number_of_pages":  2,
+                                            "title":  "Terms of Reference",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6005acb9d3bf7f33b1050c87/human-rights-review-tor.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "web.comments@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  301488,
+                                            "filename":  "Call-for-Evidence.pdf",
+                                            "id":  "6324932",
+                                            "number_of_pages":  12,
+                                            "title":  "Call for Evidence",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/602d5a0fe90e0709e9050d95/Call-for-Evidence.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "web.comments@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  269947,
+                                            "filename":  "ihrar-call-for-evdience-welsh.pdf",
+                                            "id":  "6324933",
+                                            "number_of_pages":  12,
+                                            "title":  "Cais am Dystiolaeth",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6005acd2e90e0763a312817d/ihrar-call-for-evdience-welsh.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "web.comments@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  151744,
+                                            "filename":  "ichr-tor-welsh.pdf",
+                                            "id":  "6324934",
+                                            "number_of_pages":  2,
+                                            "title":  "Cylch Gorchwyl",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60128d748fa8f5654e870f24/ichr-tor-welsh.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "web.comments@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/zip",
+                                            "file_size":  9801401,
+                                            "filename":  "individuals-a-l.zip",
+                                            "id":  "6324935",
+                                            "title":  "Call for Evidence: Individual responses A to L",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60914e998fa8f51b8b34c924/individuals-a-l.zip"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "web.comments@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  151081,
+                                            "filename":  "Privacy-Notice.pdf",
+                                            "id":  "6324936",
+                                            "number_of_pages":  2,
+                                            "title":  "Privacy Notice",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/602d5a318fa8f54332e9ff05/Privacy-Notice.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "web.comments@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/zip",
+                                            "file_size":  13057677,
+                                            "filename":  "organisations-r-z.zip",
+                                            "id":  "6324937",
+                                            "title":  "Organisations responses: R to Z",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60914e4a8fa8f51b96b127c5/organisations-r-z.zip"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "web.comments@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/zip",
+                                            "file_size":  15621394,
+                                            "filename":  "ihrar-organisations-a-d.zip",
+                                            "id":  "6324938",
+                                            "title":  "Organisation responses: A to D",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/618905e08fa8f52986e61eea/ihrar-organisations-a-d.zip"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "web.comments@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/zip",
+                                            "file_size":  13900729,
+                                            "filename":  "ihrar-organisations-e-k.zip",
+                                            "id":  "6324939",
+                                            "title":  "Organisation responses: E to K",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6082e727d3bf7f013b4534df/ihrar-organisations-e-k.zip"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "web.comments@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/zip",
+                                            "file_size":  23534388,
+                                            "filename":  "ihrar-organisations-l-q.zip",
+                                            "id":  "6324940",
+                                            "title":  "Organisation responses: L to Q",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/618905fdd3bf7f55fa926c4c/ihrar-organisations-l-q.zip"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "web.comments@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/zip",
+                                            "file_size":  7455327,
+                                            "filename":  "individuals-m-z.zip",
+                                            "id":  "6324941",
+                                            "title":  "Call for Evidence: Individual responses M to Z",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60b0f9bee90e0732aae354f6/individuals-m-z.zip"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "web.comments@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/zip",
+                                            "file_size":  3709766,
+                                            "filename":  "ihrar-minutes-meetings.zip",
+                                            "id":  "6324942",
+                                            "title":  "Meeting minutes",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/612de9f68fa8f53dcd3ae926/ihrar-minutes-meetings.zip"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "web.comments@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  4111144,
+                                            "filename":  "ihrar-final-report.pdf",
+                                            "id":  "6324943",
+                                            "number_of_pages":  580,
+                                            "title":  "The Independent Human Rights Act Review: Full Report",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/61b8531c8fa8f5037778c3ae/ihrar-final-report.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "web.comments@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  2093961,
+                                            "filename":  "ihrar-executive-summary.pdf",
+                                            "id":  "6324944",
+                                            "number_of_pages":  28,
+                                            "title":  "The Independent Human Rights Act Review: Executive Summary",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/61b853608fa8f5037cc5e1ec/ihrar-executive-summary.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "web.comments@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  600636,
+                                            "filename":  "The_Independent_Human_Rights_Act_Review_Executive_Summary_Welsh_24-12-21_5_.pdf",
+                                            "id":  "6324945",
+                                            "number_of_pages":  27,
+                                            "title":  "Adolygiad Annibynnol o’r Ddeddf Hawliau Dynol: Crynodeb Gweithredol",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/61c5c292d3bf7f1f7036fb2d/The_Independent_Human_Rights_Act_Review_Executive_Summary_Welsh_24-12-21_5_.pdf"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003ch2 id=\"about-the-independent-human-rights-act-review\"\u003eAbout the Independent Human Rights Act Review\u003c/h2\u003e\n\n\u003cp\u003eThe government established the Independent Human Rights Act Review in December 2020 to examine the framework of the \u003cabbr title=\"Human Rights Act\"\u003eHRA\u003c/abbr\u003e, how it is operating in practice and whether any change is required. Specifically, the review considered two key themes, which are outlined in the Terms of Reference (\u003cabbr title=\"Terms of Reference\"\u003eToR\u003c/abbr\u003e) as follows:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe relationship between domestic courts and the European Court of Human Rights (\u003cabbr title=\"European Court of Human Rights\"\u003eECtHR\u003c/abbr\u003e)\u003c/li\u003e\n  \u003cli\u003ethe impact of the \u003cabbr title=\"Human Rights Act\"\u003eHRA\u003c/abbr\u003e on the relationship between the judiciary, the executive and the legislature\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe Panel submitted its report to the Deputy Prime Minister in October 2021. The report has now been published.\u003c/p\u003e\n\n\u003cp\u003eThe government has responded to the report by setting out its \u003ca rel=\"external\" href=\"https://consult.justice.gov.uk/human-rights/human-rights-act-reform\" class=\"govuk-link\"\u003eproposals to reform the Human Rights Act\u003c/a\u003e in a consultation paper published on consult.justice.\u003c/p\u003e\n\n\u003ch2 id=\"the-panels-report\"\u003eThe Panel’s Report\u003c/h2\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/61b8531c8fa8f5037778c3ae/ihrar-final-report.pdf\"\u003eThe Independent Human Rights Act Review: Full Report\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e3.92 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e580 pages\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/61b853608fa8f5037cc5e1ec/ihrar-executive-summary.pdf\"\u003eThe Independent Human Rights Act Review: Executive Summary\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e2 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e28 pages\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/61c5c292d3bf7f1f7036fb2d/The_Independent_Human_Rights_Act_Review_Executive_Summary_Welsh_24-12-21_5_.pdf\"\u003eAdolygiad Annibynnol o’r Ddeddf Hawliau Dynol: Crynodeb Gweithredol\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e587 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e27 pages\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003ch2 id=\"call-for-evidence\"\u003eCall for Evidence\u003c/h2\u003e\n\n\u003cp\u003eThe Review launched a public \u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/602d5a0fe90e0709e9050d95/Call-for-Evidence.pdf\"\u003eCall for Evidence\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e294 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e12 pages\u003c/span\u003e)\u003c/span\u003e on 13 January 2021, which closed on the 3 March 2021. Responses have been uploaded to this webpage.\u003c/p\u003e\n\n\u003cp\u003ePublication of submissions on this website does not imply the views contained therein are endorsed by the Independent Human Rights Act Review. The Independent Human Rights Act Review Panel reserves the right not to publish submissions on this website. It may decide not to publish submissions where it concludes their publication is likely to be abusive, defamatory, likely to incite the commission of an offence or otherwise potentially unlawful.\u003c/p\u003e\n\n\u003ch2 id=\"call-for-evidence-responses\"\u003eCall for Evidence responses\u003c/h2\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/60914e998fa8f51b8b34c924/individuals-a-l.zip\"\u003eCall for Evidence: Individual responses A to L\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Zip archive\" class=\"gem-c-attachment-link__abbr\"\u003eZIP\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e9.35 MB\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/60b0f9bee90e0732aae354f6/individuals-m-z.zip\"\u003eCall for Evidence: Individual responses M to Z\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Zip archive\" class=\"gem-c-attachment-link__abbr\"\u003eZIP\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e7.11 MB\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/618905e08fa8f52986e61eea/ihrar-organisations-a-d.zip\"\u003eOrganisation responses: A to D\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Zip archive\" class=\"gem-c-attachment-link__abbr\"\u003eZIP\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e14.9 MB\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/6082e727d3bf7f013b4534df/ihrar-organisations-e-k.zip\"\u003eOrganisation responses: E to K\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Zip archive\" class=\"gem-c-attachment-link__abbr\"\u003eZIP\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e13.3 MB\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/618905fdd3bf7f55fa926c4c/ihrar-organisations-l-q.zip\"\u003eOrganisation responses: L to Q\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Zip archive\" class=\"gem-c-attachment-link__abbr\"\u003eZIP\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e22.4 MB\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/60914e4a8fa8f51b96b127c5/organisations-r-z.zip\"\u003eOrganisations responses: R to Z\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Zip archive\" class=\"gem-c-attachment-link__abbr\"\u003eZIP\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e12.5 MB\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003ch2 id=\"roadshows\"\u003eRoadshows\u003c/h2\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://youtube.com/playlist?list=PL5g5tPp-sxrioE_CE4b25Wy5MKSOtTSSQ\" class=\"govuk-link\"\u003eRecordings of \u003cabbr title=\"Independent Human Rights Act Review\"\u003eIHRAR\u003c/abbr\u003e’s roadshow events\u003c/a\u003e can be found on Youtube.\u003c/p\u003e\n\n\u003ch2 id=\"privacy-notice\"\u003ePrivacy Notice\u003c/h2\u003e\n\n\u003cp\u003eThe Ministry of Justice is the data controller for any personal data included in responses to the \u003cabbr title=\"Independent Human Rights Act Review\"\u003eIHRAR\u003c/abbr\u003e Call for Evidence. That data will be collected and processed for the purpose of informing the \u003cabbr title=\"Independent Human Rights Act Review\"\u003eIHRAR\u003c/abbr\u003e Panel’s consideration of the issues set out in its Terms of Reference and associated purposes, such as development of the Government’s response to the Panel’s report. For more information, see the \u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/602d5a318fa8f54332e9ff05/Privacy-Notice.pdf\"\u003ePrivacy Notice\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e148 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e2 pages\u003c/span\u003e)\u003c/span\u003e.\u003c/p\u003e\n\n\u003cp\u003eIn the interests of openness and transparency, responses to the call for evidence have been published on the \u003cabbr title=\"Independent Human Rights Act Review\"\u003eIHRAR\u003c/abbr\u003e website, with the respondent identified.\u003c/p\u003e\n\n\u003cp\u003eIt should be noted that even if your response has not been published, it may still be disclosed in accordance with the access to information regimes (these are primarily the Freedom of Information Act 2000, the UK General Data Protection Regulation, and the Environmental Information Regulations 2004).\u003c/p\u003e\n\n\u003ch2 id=\"membership\"\u003eMembership\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003eSir Peter Gross – Panel Chair\u003c/li\u003e\n  \u003cli\u003eSimon Davis\u003c/li\u003e\n  \u003cli\u003eBaroness O’Loan\u003c/li\u003e\n  \u003cli\u003eSir Stephen Laws QC\u003c/li\u003e\n  \u003cli\u003eLisa Giovannetti QC\u003c/li\u003e\n  \u003cli\u003eProfessor Maria Cahill\u003c/li\u003e\n  \u003cli\u003eProfessor Tom Mullen\u003c/li\u003e\n  \u003cli\u003eAlan Bates\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"meeting-minutes\"\u003eMeeting minutes\u003c/h2\u003e\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/612de9f68fa8f53dcd3ae926/ihrar-minutes-meetings.zip\"\u003eMeeting minutes\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Zip archive\" class=\"gem-c-attachment-link__abbr\"\u003eZIP\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e3.54 MB\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003ch2 id=\"terms-of-reference\"\u003eTerms of Reference\u003c/h2\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/6005acb9d3bf7f33b1050c87/human-rights-review-tor.pdf\"\u003eTerms of Reference\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e118 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e2 pages\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003ch2 id=\"secretariat\"\u003eSecretariat\u003c/h2\u003e\n\n\u003cp\u003eThe Secretariat was provided by the Ministry of Justice.\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Full report and executive summary published.",
+                                               "public_timestamp":  "2021-12-14T11:01:00.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Meeting minutes updated.",
+                                               "public_timestamp":  "2021-08-31T09:36:36.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Meeting minutes updated.",
+                                               "public_timestamp":  "2021-07-27T16:27:13.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Meeting minutes updated.",
+                                               "public_timestamp":  "2021-07-21T10:09:32.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Meeting minutes updated.",
+                                               "public_timestamp":  "2021-07-15T09:51:37.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Meeting minutes updated.",
+                                               "public_timestamp":  "2021-06-30T10:05:13.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Meeting minutes updated.",
+                                               "public_timestamp":  "2021-06-29T10:04:03.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Link to Roadshow videos added.",
+                                               "public_timestamp":  "2021-06-28T11:20:23.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Meeting minutes published.",
+                                               "public_timestamp":  "2021-06-02T09:44:45.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Call for Evidence: Individual responses M to Z updated.",
+                                               "public_timestamp":  "2021-05-28T15:10:35.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Oxford roadshow registration link added.",
+                                               "public_timestamp":  "2021-05-28T09:00:56.000+01:00"
+                                           },
+                                           {
+                                               "note":  "UCL Roadshow event register link added.",
+                                               "public_timestamp":  "2021-05-14T11:54:26.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Glasgow roadshow registration link added.",
+                                               "public_timestamp":  "2021-05-12T16:58:45.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Roadshow dates updated.",
+                                               "public_timestamp":  "2021-04-29T10:52:34.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Roadshow information published.",
+                                               "public_timestamp":  "2021-04-20T14:24:21.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Organisation \u0026 individual responses updated.",
+                                               "public_timestamp":  "2021-04-06T11:34:09.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Organisation responses to Call for Evidence published.",
+                                               "public_timestamp":  "2021-03-25T15:37:05.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Organisation responses updated.",
+                                               "public_timestamp":  "2021-03-16T08:34:29.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Call for evidence individual and organisation responses updated and published. ",
+                                               "public_timestamp":  "2021-02-26T11:41:28.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Minor updates to call for evidence document, added privacy notice and responses",
+                                               "public_timestamp":  "2021-02-17T18:34:51.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Call for Evidence responses published.",
+                                               "public_timestamp":  "2021-01-28T10:38:54.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Call for Evidence published.",
+                                               "public_timestamp":  "2021-01-13T11:05:59.000+00:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2020-12-07T16:05:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "dcc907d6-433c-42df-9ffb-d9c68be5dc4d"
+                                                 ],
+                    "first_public_at":  "2020-12-07T16:05:00.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2020-12-07T16:05:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/independent-human-rights-act-review.cy",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/independent-human-rights-act-review.cy",
+                                                     "base_path":  "/guidance/independent-human-rights-act-review.cy",
+                                                     "content_id":  "ad547a28-87b9-459f-8a88-1dacb6531c23",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "cy",
+                                                     "public_updated_at":  "2021-12-14T11:01:00Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Adolygiad Annibynnol o’r Ddeddf Hawliau Dynol",
+                                                     "web_url":  "https://www.gov.uk/guidance/independent-human-rights-act-review.cy",
+                                                     "withdrawn":  false
+                                                 },
+                                                 {
+                                                     "api_path":  "/api/content/guidance/independent-human-rights-act-review",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/independent-human-rights-act-review",
+                                                     "base_path":  "/guidance/independent-human-rights-act-review",
+                                                     "content_id":  "ad547a28-87b9-459f-8a88-1dacb6531c23",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2021-12-14T11:01:00Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Independent Human Rights Act Review",
+                                                     "web_url":  "https://www.gov.uk/guidance/independent-human-rights-act-review",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D18",
+                                            "api_path":  "/api/content/government/organisations/ministry-of-justice",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/ministry-of-justice",
+                                            "base_path":  "/government/organisations/ministry-of-justice",
+                                            "content_id":  "dcc907d6-433c-42df-9ffb-d9c68be5dc4d",
+                                            "details":  {
+                                                            "acronym":  "MOJ",
+                                                            "brand":  "ministry-of-justice",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db21ed915d5a62fdc762/s960_ministry-of-justice.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5a37db21e5274a7908e352d9/s300_ministry-of-justice.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Ministry\u003cbr/\u003eof Justice"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Ministry of Justice",
+                                            "web_url":  "https://www.gov.uk/government/organisations/ministry-of-justice",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "D18",
+                                                                       "api_path":  "/api/content/government/organisations/ministry-of-justice",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/ministry-of-justice",
+                                                                       "base_path":  "/government/organisations/ministry-of-justice",
+                                                                       "content_id":  "dcc907d6-433c-42df-9ffb-d9c68be5dc4d",
+                                                                       "details":  {
+                                                                                       "acronym":  "MOJ",
+                                                                                       "brand":  "ministry-of-justice",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db21ed915d5a62fdc762/s960_ministry-of-justice.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5a37db21e5274a7908e352d9/s300_ministry-of-justice.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Ministry\u003cbr/\u003eof Justice"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Ministry of Justice",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/ministry-of-justice",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D18",
+                                                              "api_path":  "/api/content/government/organisations/ministry-of-justice",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/ministry-of-justice",
+                                                              "base_path":  "/government/organisations/ministry-of-justice",
+                                                              "content_id":  "dcc907d6-433c-42df-9ffb-d9c68be5dc4d",
+                                                              "details":  {
+                                                                              "acronym":  "MOJ",
+                                                                              "brand":  "ministry-of-justice",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db21ed915d5a62fdc762/s960_ministry-of-justice.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/5a37db21e5274a7908e352d9/s300_ministry-of-justice.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Ministry\u003cbr/\u003eof Justice"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Ministry of Justice",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/ministry-of-justice",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/bill-of-rights-bill-documents",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/bill-of-rights-bill-documents",
+                                                              "base_path":  "/government/publications/bill-of-rights-bill-documents",
+                                                              "content_id":  "e1ec3e49-3b22-4be1-b96d-1ea2549d60c2",
+                                                              "document_type":  "policy_paper",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-06-22T14:09:36Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Bill of Rights: Bill documents",
+                                                              "web_url":  "https://www.gov.uk/government/publications/bill-of-rights-bill-documents",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/how-coronavirus-covid-19-affected-driving-instructors-june-2021",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/how-coronavirus-covid-19-affected-driving-instructors-june-2021",
+                                                              "base_path":  "/government/publications/how-coronavirus-covid-19-affected-driving-instructors-june-2021",
+                                                              "content_id":  "08b3f024-6c6b-4fcb-8014-872dea522552",
+                                                              "document_type":  "research",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-01-25T14:23:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Working as a driving instructor survey: June 2021 results",
+                                                              "web_url":  "https://www.gov.uk/government/publications/how-coronavirus-covid-19-affected-driving-instructors-june-2021",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/speeches/election-2015-prime-ministers-speech",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/speeches/election-2015-prime-ministers-speech",
+                                                              "base_path":  "/government/speeches/election-2015-prime-ministers-speech",
+                                                              "content_id":  "7176a989-9e44-4105-9bee-58ed6e0dc8eb",
+                                                              "document_type":  "speech",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2015-05-08T16:52:00Z",
+                                                              "schema_name":  "speech",
+                                                              "title":  "Election 2015: Prime Minister\u0027s speech",
+                                                              "web_url":  "https://www.gov.uk/government/speeches/election-2015-prime-ministers-speech",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/memorandum-of-understanding-between-the-uk-and-sweden-regarding-life-sciences",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/memorandum-of-understanding-between-the-uk-and-sweden-regarding-life-sciences",
+                                                              "base_path":  "/government/publications/memorandum-of-understanding-between-the-uk-and-sweden-regarding-life-sciences",
+                                                              "content_id":  "7ef674ef-692b-4a47-860d-d0a2f3eb080c",
+                                                              "document_type":  "policy_paper",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-05-27T15:59:16Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Memorandum of understanding between the UK and Sweden regarding life sciences",
+                                                              "web_url":  "https://www.gov.uk/government/publications/memorandum-of-understanding-between-the-uk-and-sweden-regarding-life-sciences",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/speeches/ofsted-further-education-and-skills-annual-lecture-2013-seizing-the-moment",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/speeches/ofsted-further-education-and-skills-annual-lecture-2013-seizing-the-moment",
+                                                              "base_path":  "/government/speeches/ofsted-further-education-and-skills-annual-lecture-2013-seizing-the-moment",
+                                                              "content_id":  "b64ebcff-ef67-4da9-910d-ee9261614a03",
+                                                              "document_type":  "speech",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2013-10-09T23:00:00Z",
+                                                              "schema_name":  "speech",
+                                                              "title":  "Ofsted further education and skills annual lecture 2013: seizing the moment",
+                                                              "web_url":  "https://www.gov.uk/government/speeches/ofsted-further-education-and-skills-annual-lecture-2013-seizing-the-moment",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/international/human-rights-internationally",
+                                     "api_url":  "https://www.gov.uk/api/content/international/human-rights-internationally",
+                                     "base_path":  "/international/human-rights-internationally",
+                                     "content_id":  "cb7db7bb-d0b4-4e22-9f0b-58a28c2db38c",
+                                     "details":  {
+                                                     "internal_name":  "Human rights internationally [P]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/international",
+                                                                             "api_url":  "https://www.gov.uk/api/content/international",
+                                                                             "base_path":  "/international",
+                                                                             "content_id":  "37d0fa26-abed-4c74-8835-b3b51ae1c8b2",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "International",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:30:28Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "International",
+                                                                             "web_url":  "https://www.gov.uk/international",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-05T16:14:19Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Human rights internationally",
+                                     "web_url":  "https://www.gov.uk/international/human-rights-internationally",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/crime-justice-and-law",
+                                     "api_url":  "https://www.gov.uk/api/content/crime-justice-and-law",
+                                     "base_path":  "/crime-justice-and-law",
+                                     "content_id":  "ba951b09-5146-43be-87af-44075eac3ae9",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Crime, justice and law",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  true
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "root_taxon":  [
+                                                                      {
+                                                                          "api_path":  "/api/content/",
+                                                                          "api_url":  "https://www.gov.uk/api/content/",
+                                                                          "base_path":  "/",
+                                                                          "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                          "document_type":  "homepage",
+                                                                          "links":  {
+
+                                                                                    },
+                                                                          "locale":  "en",
+                                                                          "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                          "schema_name":  "homepage",
+                                                                          "title":  "GOV.UK homepage",
+                                                                          "web_url":  "https://www.gov.uk/",
+                                                                          "withdrawn":  false
+                                                                      }
+                                                                  ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-16T20:34:51Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Crime, justice and law",
+                                     "web_url":  "https://www.gov.uk/crime-justice-and-law",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2021-12-14T11:01:00+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1713891486.521-10.13.28.206-628",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Independent Human Rights Act Review",
+    "updated_at":  "2024-12-02T12:49:32+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

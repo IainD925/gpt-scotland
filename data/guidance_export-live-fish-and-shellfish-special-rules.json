@@ -1,0 +1,597 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/export-live-fish-and-shellfish-special-rules",
+    "content_id":  "56de907a-8a38-4c9d-b701-ce3f7a9f1e02",
+    "description":  "Check if you need a certificate to export fish, molluscs and crustaceans (shellfish) products.",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "accessibleformats@digital.cabinet-office.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  99567,
+                                            "filename":  "uk-catch-certificate.pdf",
+                                            "id":  "3606410",
+                                            "number_of_pages":  3,
+                                            "title":  "UK catch certificate",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a80cf5f40f0b62305b8d45d/uk-catch-certificate.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "accessibleformats@digital.cabinet-office.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.ms-excel",
+                                            "file_size":  536576,
+                                            "filename":  "Multiple_vessel_schedule_template.xls",
+                                            "id":  "3606411",
+                                            "title":  "multiple vessel schedule",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a81b03ae5274a2e8ab55536/Multiple_vessel_schedule_template.xls"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "accessibleformats@digital.cabinet-office.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  30318,
+                                            "filename":  "form-fed1012.pdf",
+                                            "id":  "3606412",
+                                            "number_of_pages":  2,
+                                            "title":  "form FED1012",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5aeb1fa6e5274a702130debe/form-fed1012.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "accessibleformats@digital.cabinet-office.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/msword",
+                                            "file_size":  68608,
+                                            "filename":  "form-fed1012-wd.doc",
+                                            "id":  "3606413",
+                                            "title":  "form FED1012",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5aeb1fb4e5274a7024fd7150/form-fed1012-wd.doc"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "accessibleformats@digital.cabinet-office.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  620943,
+                                            "filename":  "guid-fed1012.pdf",
+                                            "id":  "3606414",
+                                            "number_of_pages":  15,
+                                            "title":  "guidance notes",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5aeb1fc0e5274a7024fd7151/guid-fed1012.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "accessibleformats@digital.cabinet-office.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/msword",
+                                            "file_size":  199680,
+                                            "filename":  "form-CITB20.doc",
+                                            "id":  "3606415",
+                                            "title":  "form CITB20",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7f307ae5274a2e87db4576/form-CITB20.doc"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "accessibleformats@digital.cabinet-office.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  59360,
+                                            "filename":  "form-citb20.pdf",
+                                            "id":  "3606416",
+                                            "number_of_pages":  4,
+                                            "title":  "form CITB20",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7f19a0ed915d74e6228622/form-citb20.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "accessibleformats@digital.cabinet-office.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  297462,
+                                            "filename":  "guid-gn17.pdf",
+                                            "id":  "3606417",
+                                            "number_of_pages":  2,
+                                            "title":  "guidance notes",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7f69f340f0b62305b87008/guid-gn17.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "accessibleformats@digital.cabinet-office.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  756921,
+                                            "filename":  "guid-fed0172.pdf",
+                                            "id":  "3606418",
+                                            "number_of_pages":  13,
+                                            "title":  "guidance notes",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5aeb1fcfe5274a7024fd7152/guid-fed0172.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "accessibleformats@digital.cabinet-office.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/msword",
+                                            "file_size":  80896,
+                                            "filename":  "form-fed0172-wd.doc",
+                                            "id":  "3606419",
+                                            "title":  "form FED0172",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5aeb1fe4ed915d42f42b6222/form-fed0172-wd.doc"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "accessibleformats@digital.cabinet-office.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  98654,
+                                            "filename":  "form-fed0172.pdf",
+                                            "id":  "3606420",
+                                            "number_of_pages":  2,
+                                            "title":  "form FED0172",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5aeb1ff540f0b63154caae3a/form-fed0172.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "accessibleformats@digital.cabinet-office.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  2845862,
+                                            "filename":  "referenceguide_en.pdf",
+                                            "id":  "3606421",
+                                            "number_of_pages":  208,
+                                            "title":  "a travelling exhibition certificate",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a8010c940f0b62305b88f67/referenceguide_en.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "accessibleformats@digital.cabinet-office.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  65945,
+                                            "filename":  "form-fed0173.pdf",
+                                            "id":  "3606422",
+                                            "number_of_pages":  2,
+                                            "title":  "form FED0173",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a8025f1ed915d74e33f8ba9/form-fed0173.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "accessibleformats@digital.cabinet-office.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1206805,
+                                            "filename":  "London_Diplomatic_List_-_November_2016.pdf",
+                                            "id":  "3606423",
+                                            "number_of_pages":  138,
+                                            "title":  "or their embassy",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a80ef7ded915d74e623147f/London_Diplomatic_List_-_November_2016.pdf"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003ch2 id=\"exports-to-the-eu-if-theres-a-no-deal-brexit\"\u003eExports to the \u003cabbr title=\"European Union\"\u003eEU\u003c/abbr\u003e if there’s a no deal Brexit\u003c/h2\u003e\n\n\u003cp\u003eYou’ll need to apply for an export health certificate (\u003cabbr title=\"Export Health Certificate\"\u003eEHC\u003c/abbr\u003e) if you’re exporting fish, molluscs and crustaceans (shellfish) to the \u003cabbr title=\"European Union\"\u003eEU\u003c/abbr\u003e if there’s a no deal Brexit\u003c/p\u003e\n\n\u003cp\u003eFind out \u003ca href=\"https://www.gov.uk/guidance/get-an-export-health-certificate\" class=\"govuk-link\"\u003ehow to apply for an \u003cabbr title=\"Export Health Certificate\"\u003eEHC\u003c/abbr\u003e and download the forms\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"outside-the-eu\"\u003eOutside the \u003cabbr title=\"European Union\"\u003eEU\u003c/abbr\u003e\n\u003c/h2\u003e\n\n\u003cp\u003eIf your goods are not being used as food, check with the fish authority in the destination country (or their \u003ca href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\" class=\"govuk-link\"\u003eembassy in the UK\u003c/a\u003e) to find out what documentation you need.\u003c/p\u003e\n\n\u003cp\u003eIf you’re exporting fish or shellfish product to be used as food, check if you need a:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca href=\"#check-if-you-need-an-ehc\" class=\"govuk-link\"\u003eExport Health Certificate\u003c/a\u003e (\u003cabbr title=\"Export Health Certificate\"\u003eEHC\u003c/abbr\u003e)\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"#catch-certificate\" class=\"govuk-link\"\u003eUK catch certificate\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"check-if-you-need-an-ehc\"\u003eCheck if you need an \u003cabbr title=\"Export Health Certificate\"\u003eEHC\u003c/abbr\u003e\n\u003c/h3\u003e\n\n\u003cp\u003eYou’ll usually need to complete an \u003cabbr title=\"Export Health Certificate\"\u003eEHC\u003c/abbr\u003e and some supporting documents to be able to export live fish and shellfish.\u003c/p\u003e\n\n\u003cp\u003eThe \u003cabbr title=\"Export Health Certificate\"\u003eEHC\u003c/abbr\u003e is an official document that confirms your export meets the health requirements of the destination country.\u003c/p\u003e\n\n\u003cp\u003eFind out \u003ca href=\"https://www.gov.uk/guidance/get-an-export-health-certificate\" class=\"govuk-link\"\u003ehow to apply for an \u003cabbr title=\"Export Health Certificate\"\u003eEHC\u003c/abbr\u003e and download the forms\u003c/a\u003e.\u003c/p\u003e\n\n\u003cdiv class=\"call-to-action\"\u003e\n  \u003cp\u003eThere are some types of live fish and shellfish you cannot export, and some cases where you do not need a certificate. \nIf you cannot find the \u003cabbr title=\"Export Health Certificate\"\u003eEHC\u003c/abbr\u003e you need, contact the \u003ca href=\"https://www.gov.uk/government/organisations/animal-and-plant-health-agency/about/access-and-opening\" class=\"govuk-link\"\u003eAnimal and Plant Health Agency\u003c/a\u003e (\u003cabbr title=\"Animal and Plant Health Agency\"\u003eAPHA\u003c/abbr\u003e).\u003c/p\u003e\n\u003c/div\u003e\n\n\u003ch3 id=\"check-if-you-need-a-uk-catch-certificate\"\u003eCheck if you need a UK catch certificate\u003c/h3\u003e\n\n\u003cp\u003eYou need a UK catch certificate to export marine caught fish for human consumption to:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eIceland\u003c/li\u003e\n  \u003cli\u003eIvory Coast\u003c/li\u003e\n  \u003cli\u003eKuwait\u003c/li\u003e\n  \u003cli\u003eMadagascar\u003c/li\u003e\n  \u003cli\u003eNorway\u003c/li\u003e\n  \u003cli\u003eThailand\u003c/li\u003e\n  \u003cli\u003eTunisia\u003c/li\u003e\n  \u003cli\u003eUkraine\u003c/li\u003e\n  \u003cli\u003eany other non-\u003cabbr title=\"European Union\"\u003eEU\u003c/abbr\u003e country if you’ll re-import the fish back to the \u003cabbr title=\"European Union\"\u003eEU\u003c/abbr\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou do not need a catch certificate to export:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003efarmed fish and shellfish, or freshwater fish\u003c/li\u003e\n  \u003cli\u003emussels, cockles, oysters and scallops\u003c/li\u003e\n  \u003cli\u003efish fry or larvae\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"how-to-apply\"\u003eHow to apply\u003c/h3\u003e\n\n\u003cp\u003eFill in a \u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a81b03ae5274a2e8ab55536/Multiple_vessel_schedule_template.xls\"\u003emultiple vessel schedule\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003eMS Excel Spreadsheet\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e524 KB\u003c/span\u003e)\u003c/span\u003e.\nEmail your completed form to \u003ca href=\"mailto:UKIUUCCC@marinemanagement.gsi.gov.uk\" class=\"govuk-link\"\u003eUKIUUCCC@marinemanagement.gsi.gov.uk\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eIf the fish came from more than one UK vessel, also fill in a \u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5aeb1fa6e5274a702130debe/form-fed1012.pdf\"\u003eform FED1012\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e29.6 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e2 pages\u003c/span\u003e)\u003c/span\u003e. Submit it with the catch certificate application form.\u003c/p\u003e\n\n\u003cdiv role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\"\u003e\n\u003cp\u003eIf you’re exporting from Scotland, contact \u003ca rel=\"external\" href=\"http://www.gov.scot/Topics/marine/contact\" class=\"govuk-link\"\u003eMarine Scotland\u003c/a\u003e to get the certificate.\u003c/p\u003e\n\u003c/div\u003e\n\n\u003ch2 id=\"contacts\"\u003eContacts\u003c/h2\u003e\n\n\u003ch3 id=\"uk-illegal-unreported-and-unregulated-iuu-catch-certificate-centre\"\u003eUK Illegal, unreported and unregulated (IUU) catch certificate centre\u003c/h3\u003e\n\n\u003cp\u003e\u003ca href=\"mailto:UKIUUCCC@marinemanagement.org.uk\" class=\"govuk-link\"\u003eUKIUUCCC@marinemanagement.org.uk\u003c/a\u003e  \u003cbr\u003e\nTelephone: 0300 123 1032  \u003cbr\u003e\nFax: 0207 238 5147  \u003cbr\u003e\nMonday to Friday, 9am to 5pm  \u003cbr\u003e\n\u003ca href=\"http://www.gov.uk/call-charges\" class=\"govuk-link\"\u003eFind out about call charges\u003c/a\u003e.\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Updated EHC section to make it more to the point. ",
+                                               "public_timestamp":  "2019-08-22T16:21:19.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Removed the content for live fish exports because this is covered under another page. This page is now soley about fish ad shellfish product to save confusion for our users. ",
+                                               "public_timestamp":  "2019-04-09T16:46:52.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Removed Cefas because this page is referring to the export of animal product not live animal movements. ",
+                                               "public_timestamp":  "2019-03-28T11:23:11.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Added information for exporters about how to get an export health certificate if the UK leaves the EU without a deal.",
+                                               "public_timestamp":  "2019-02-20T12:25:01.000+00:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2016-11-08T16:15:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "447f8075-1c8c-40d3-8119-3e45ea9e6496"
+                                                 ],
+                    "first_public_at":  "2016-11-08T16:15:00.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+                                                       "ab149dee-c04a-4ab2-836d-a4d1e941f554"
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2016-11-08T16:15:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/export-live-fish-and-shellfish-special-rules",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/export-live-fish-and-shellfish-special-rules",
+                                                     "base_path":  "/guidance/export-live-fish-and-shellfish-special-rules",
+                                                     "content_id":  "56de907a-8a38-4c9d-b701-ce3f7a9f1e02",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2019-08-22T15:21:19Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Export of fish and shellfish products",
+                                                     "web_url":  "https://www.gov.uk/guidance/export-live-fish-and-shellfish-special-rules",
+                                                     "withdrawn":  true
+                                                 }
+                                             ],
+                  "facet_groups":  [
+                                       {
+                                           "content_id":  "52435175-82ed-4a04-adef-74c0199d0f46",
+                                           "document_type":  "facet_group",
+                                           "links":  {
+
+                                                     },
+                                           "locale":  "en",
+                                           "public_updated_at":  "2019-04-16T08:46:54Z",
+                                           "schema_name":  "facet_group",
+                                           "title":  "Find EU Exit guidance business",
+                                           "withdrawn":  false
+                                       }
+                                   ],
+                  "facet_values":  [
+                                       {
+                                           "content_id":  "c5e26d37-def8-40aa-8b46-d9a23ffaceb1",
+                                           "document_type":  "facet_value",
+                                           "links":  {
+
+                                                     },
+                                           "locale":  "en",
+                                           "public_updated_at":  "2019-04-16T08:46:56Z",
+                                           "schema_name":  "facet_value",
+                                           "title":  "Fisheries (including wholesale)",
+                                           "withdrawn":  false
+                                       }
+                                   ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "mainstream_browse_pages":  [
+                                                  {
+                                                      "api_path":  "/api/content/browse/business/exports",
+                                                      "api_url":  "https://www.gov.uk/api/content/browse/business/exports",
+                                                      "base_path":  "/browse/business/exports",
+                                                      "content_id":  "2d9131f5-d1a8-4f0c-b087-53ea0adfd160",
+                                                      "description":  "Includes moving goods in the EU and commodity codes",
+                                                      "document_type":  "mainstream_browse_page",
+                                                      "links":  {
+
+                                                                },
+                                                      "locale":  "en",
+                                                      "public_updated_at":  "2024-11-01T10:38:24Z",
+                                                      "schema_name":  "mainstream_browse_page",
+                                                      "title":  "Exporting and doing business abroad",
+                                                      "web_url":  "https://www.gov.uk/browse/business/exports",
+                                                      "withdrawn":  false
+                                                  }
+                                              ],
+                  "ordered_related_items":  [
+                                                {
+                                                    "api_path":  "/api/content/guidance/atp-rules-on-carrying-perishable-foodstuffs-in-road-vehicles",
+                                                    "api_url":  "https://www.gov.uk/api/content/guidance/atp-rules-on-carrying-perishable-foodstuffs-in-road-vehicles",
+                                                    "base_path":  "/guidance/atp-rules-on-carrying-perishable-foodstuffs-in-road-vehicles",
+                                                    "content_id":  "5d5e0cc5-7631-11e4-a3cb-005056011aef",
+                                                    "document_type":  "detailed_guide",
+                                                    "links":  {
+
+                                                              },
+                                                    "locale":  "en",
+                                                    "public_updated_at":  "2022-09-20T10:01:45Z",
+                                                    "schema_name":  "detailed_guide",
+                                                    "title":  "Get a vehicle approved to transport perishable food in or out of the UK by road",
+                                                    "web_url":  "https://www.gov.uk/guidance/atp-rules-on-carrying-perishable-foodstuffs-in-road-vehicles",
+                                                    "withdrawn":  false
+                                                }
+                                            ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D102",
+                                            "api_path":  "/api/content/government/organisations/food-standards-agency",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/food-standards-agency",
+                                            "base_path":  "/government/organisations/food-standards-agency",
+                                            "content_id":  "447f8075-1c8c-40d3-8119-3e45ea9e6496",
+                                            "details":  {
+                                                            "acronym":  "FSA",
+                                                            "brand":  "department-of-health",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "formatted_title":  "Food Standards Agency"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "exempt",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  "http://www.food.gov.uk/"
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Food Standards Agency",
+                                            "web_url":  "https://www.gov.uk/government/organisations/food-standards-agency",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA53",
+                                                                       "api_path":  "/api/content/government/organisations/centre-for-environment-fisheries-and-aquaculture-science",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/centre-for-environment-fisheries-and-aquaculture-science",
+                                                                       "base_path":  "/government/organisations/centre-for-environment-fisheries-and-aquaculture-science",
+                                                                       "content_id":  "fd6cee28-ac4c-4fb5-9f46-54d24a500818",
+                                                                       "details":  {
+                                                                                       "acronym":  "Cefas",
+                                                                                       "brand":  "department-for-environment-food-rural-affairs",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Centre for Environment\u003cbr/\u003eFisheries and Aquaculture \u003cbr/\u003eScience"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Centre for Environment, Fisheries and Aquaculture Science",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/centre-for-environment-fisheries-and-aquaculture-science",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D102",
+                                                              "api_path":  "/api/content/government/organisations/food-standards-agency",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/food-standards-agency",
+                                                              "base_path":  "/government/organisations/food-standards-agency",
+                                                              "content_id":  "447f8075-1c8c-40d3-8119-3e45ea9e6496",
+                                                              "details":  {
+                                                                              "acronym":  "FSA",
+                                                                              "brand":  "department-of-health",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "formatted_title":  "Food Standards Agency"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "exempt",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  "http://www.food.gov.uk/"
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Food Standards Agency",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/food-standards-agency",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related_guides":  [
+                                         {
+                                             "api_path":  "/api/content/guidance/get-an-export-health-certificate",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/get-an-export-health-certificate",
+                                             "base_path":  "/guidance/get-an-export-health-certificate",
+                                             "content_id":  "dd537bcd-f9ce-4a63-9c39-c3a0450a5ef9",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2024-12-05T17:13:19Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Get an export health certificate",
+                                             "web_url":  "https://www.gov.uk/guidance/get-an-export-health-certificate",
+                                             "withdrawn":  false
+                                         }
+                                     ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/export-live-animals-special-rules",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/export-live-animals-special-rules",
+                                                              "base_path":  "/guidance/export-live-animals-special-rules",
+                                                              "content_id":  "50148125-71ce-4ca3-9339-984b494267b7",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-11-13T09:27:49Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Export or move live animals",
+                                                              "web_url":  "https://www.gov.uk/guidance/export-live-animals-special-rules",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/government/brexit",
+                                     "api_url":  "https://www.gov.uk/api/content/government/brexit",
+                                     "base_path":  "/government/brexit",
+                                     "content_id":  "d6c2de5d-ef90-45d1-82d4-5f2438369eea",
+                                     "description":  "Find out how new Brexit rules apply to things like travel and doing business with Europe.",
+                                     "details":  {
+                                                     "internal_name":  "Brexit",
+                                                     "notes_for_editors":  "",
+                                                     "url_override":  "/government/collections/brexit-guidance",
+                                                     "visible_to_departmental_editors":  true
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/all",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/all",
+                                                                             "base_path":  "/government/all",
+                                                                             "content_id":  "e48ab80a-de80-4e83-bf59-26316856a5f9",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Government",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:29:39Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Government",
+                                                                             "web_url":  "https://www.gov.uk/government/all",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2024-11-14T17:47:34Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Brexit",
+                                     "web_url":  "https://www.gov.uk/government/brexit",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/business-and-industry/export-controls",
+                                     "api_url":  "https://www.gov.uk/api/content/business-and-industry/export-controls",
+                                     "base_path":  "/business-and-industry/export-controls",
+                                     "content_id":  "71a02800-becf-40d7-a135-1277345ca8a2",
+                                     "details":  {
+                                                     "internal_name":  "Export controls and licensing",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/business-and-industry/exporting",
+                                                                             "api_url":  "https://www.gov.uk/api/content/business-and-industry/exporting",
+                                                                             "base_path":  "/business-and-industry/exporting",
+                                                                             "content_id":  "efa9782b-a3d0-4ca0-9c92-3b89748175b7",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Exporting",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/business-and-industry/trade-and-investment",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/business-and-industry/trade-and-investment",
+                                                                                                                     "base_path":  "/business-and-industry/trade-and-investment",
+                                                                                                                     "content_id":  "ed2ca1f7-5463-4eda-9324-b597e269e242",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Trade and investment",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  false
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "parent_taxons":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-03T15:41:05Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Trade and investment",
+                                                                                                                     "web_url":  "https://www.gov.uk/business-and-industry/trade-and-investment",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-03T15:41:06Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Exporting",
+                                                                             "web_url":  "https://www.gov.uk/business-and-industry/exporting",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-03T15:41:06Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Export controls and licensing",
+                                     "web_url":  "https://www.gov.uk/business-and-industry/export-controls",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2019-08-22T16:21:19+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1713894839.841-10.13.27.83-628",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Export of fish and shellfish products",
+    "updated_at":  "2024-12-05T17:13:20+00:00",
+    "withdrawn_notice":  {
+                             "explanation":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eThis page has been replaced by a newer version. Go to \u003ca href=\"https://www.gov.uk/guidance/exporting-and-importing-fish-if-theres-no-brexit-deal\" class=\"govuk-link\"\u003eExport fish after a no-deal Brexit\u003c/a\u003e for the latest information.\u003c/p\u003e\n\u003c/div\u003e",
+                             "withdrawn_at":  "2019-10-30T08:51:30Z"
+                         }
+}

@@ -1,0 +1,510 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/defining-an-api-management-strategy",
+    "content_id":  "1fb86193-22ad-4833-9eb3-cbe738e16017",
+    "description":  "Reduce development overhead and time to deployment by standardising how teams design, launch and manage APIs in your organisation.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eIf you build or manage any number of APIs, it’s best practice to have an API management strategy in place. This guidance outlines some areas you should consider when making decisions about how to manage APIs in your team or organisation.\u003c/p\u003e\n\n\u003ch2 id=\"principles-for-your-api-strategy\"\u003ePrinciples for your API strategy\u003c/h2\u003e\n\n\u003ch3 id=\"build-foundations-early\"\u003eBuild foundations early\u003c/h3\u003e\n\u003cp\u003eIf you have APIs, you should use an API gateway. Even a single API will benefit from the standardised tools an API gateway provides, by not having to develop and deploy those elements of functionality. If you build more APIs later, having an API gateway already in place will mean you will not have to build those tools again, reducing duplication of effort for future teams.\u003c/p\u003e\n\n\u003cp\u003eIt might be difficult to apply this model if: \u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eyou already have APIs in production which have their own security or monitoring\u003c/li\u003e\n  \u003cli\u003eyour APIs have each been developed using different methods and technologies\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eConsider how you can put in place standardised patterns, processes and governance your teams will use to build and deploy APIs. You should focus on principles and frameworks rather than specific technologies, and consider how detailed and rigid these should be. For example, you might apply strict rules for security, while allowing more flexibility in other areas.\u003c/p\u003e\n\n\u003cp\u003eYou can read more about using an API gateway in the section of this guidance called ‘Managing operations with an API gateway’.\u003c/p\u003e\n\n\u003ch3 id=\"keep-the-future-in-mind\"\u003eKeep the future in mind\u003c/h3\u003e\n\u003cp\u003eWhen putting together your API strategy, it’s important to consider what your organisation’s future needs are likely to be, not just think about the first few APIs.\u003c/p\u003e\n\n\u003cp\u003eMaintain a high level view of your APIs. You should have a way to judge the maturity of your APIs and determine how much resource you need to invest in them. Since APIs at different stages of their life cycle require different levels of investment, having a coherent strategy allows you to identify and meet these needs.\u003c/p\u003e\n\n\u003ch3 id=\"design-your-strategy-to-meet-user-needs\"\u003eDesign your strategy to meet user needs\u003c/h3\u003e\n\n\u003cp\u003eWhen making decisions about API management, you must meet user needs as well as organisational goals. Make sure you understand how development teams in your organisation work so your policies and processes are not counter-productive. For example, overly strict criteria for assuring or publishing APIs might make teams reluctant to try new solutions that do not fit the pattern, which could discourage innovation.\u003c/p\u003e\n\n\u003cp\u003eUser research will help you gain insight into how teams are producing and consuming APIs, or what technologies they are using or considering using.\u003c/p\u003e\n\n\u003cp\u003eA robust API management process will help build credibility and trust with users of your APIs. It’s important to demonstrate your APIs are well designed and well supported. For example, being clear about how you retire APIs will reassure external developers they will not suddenly lose access to an API without notice.\u003c/p\u003e\n\n\u003ch3 id=\"define-roles-for-api-management\"\u003eDefine roles for API management\u003c/h3\u003e\n\n\u003cp\u003eDepending on the size and structure of your organisation, you might have several teams involved in building and maintaining APIs. Your API management strategy can help set out things like:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n    \u003cp\u003ewho owns different parts of the API life cycle\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003ewhat skills or roles API teams should include\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003ehow ownership changes as an API goes into service\u003c/p\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFor example, it’s common for a central team to run the API gateway, and therefore have control over service levels and capacity. You should then consider how that responsibility might interact with the design and delivery responsibilities of an API owner, like versioning.\u003c/p\u003e\n\n\u003cp\u003eHaving a clear structure for escalating issues will save a lot of time and energy in the future. Support from senior management or stakeholders can help formalise organisational structures and policies.\u003c/p\u003e\n\n\u003ch2 id=\"what-api-management-strategy-can-help-with\"\u003eWhat API management strategy can help with\u003c/h2\u003e\n\n\u003cp\u003eAn API management strategy can:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eprovide visibility of all your APIs, which helps people discover them and promotes reusing existing technology \u003c/li\u003e\n  \u003cli\u003eallow you to standardise common design patterns \u003c/li\u003e\n  \u003cli\u003ehelp you automate administrative and operational tasks\u003c/li\u003e\n  \u003cli\u003eprovide a central place for your users to access API documentation and support\u003c/li\u003e\n  \u003cli\u003eprovide data and metrics to help you understand your API’s performance and usage\u003c/li\u003e\n  \u003cli\u003ehelp you implement and maintain good security and data protection practices\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYour API management strategy should cover the full life cycle of APIs, from design to retirement. \u003c/p\u003e\n\n\u003ch2 id=\"designing-apis\"\u003eDesigning APIs\u003c/h2\u003e\n\u003cp\u003eYou should establish design guidance to help maintain consistency across your APIs. It’s difficult to manage APIs that are not consistent, so the more your APIs follow the same design principles and practices, the easier it will be to manage them at scale.\u003c/p\u003e\n\n\u003cp\u003eThe level of guidance you provide will depend on the size and structure of your organisation. For example, guidance might be different for an environment where API design follows strict standards, and an organisation using many different technologies and approaches.\u003c/p\u003e\n\n\u003ch3 id=\"review-and-challenge-assumptions\"\u003eReview and challenge assumptions\u003c/h3\u003e\n\u003cp\u003eOrganisations often develop their API strategy based on the first few APIs they built, where choices teams made in response to specific problems are then applied across very different areas. If you have an existing API strategy in place, consider what assumptions you might be relying on and make a plan to review your approach regularly.\u003c/p\u003e\n\n\u003cp\u003eUser research can help you test these assumptions and define needs. You might design your research to help you understand:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ewhat technologies are in use, or might be in the future\u003c/li\u003e\n  \u003cli\u003ethe different levels of maturity of development teams in the organisation\u003c/li\u003e\n  \u003cli\u003ewhether the APIs produced are primarily internal or external facing, or a mixture\u003c/li\u003e\n  \u003cli\u003ewhat service level agreements (SLAs) APIs should meet and whether different SLAs are appropriate for different use cases\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"bring-developers-into-the-design-process\"\u003eBring developers into the design process\u003c/h3\u003e\n\u003cp\u003eAPI design guidance reduces the time and effort developers need to spend making decisions, by providing a framework for them to work from.\u003c/p\u003e\n\n\u003cp\u003eYou should also explain design choices. Being open with the reasoning behind the guidance increases developer trust and helps get them on board with the process.\u003c/p\u003e\n\n\u003ch3 id=\"use-standards\"\u003eUse standards\u003c/h3\u003e\n\u003cp\u003eTechnology standards like \u003ca rel=\"external\" href=\"https://www.openapis.org/\" class=\"govuk-link\"\u003eOpenAPI\u003c/a\u003e can help increase confidence in software decisions. Standards can also give credibility to your strategy as they reflect widely accepted ways of doing things.\u003c/p\u003e\n\n\u003cp\u003eIt’s helpful to specify use cases for different API standards. As an example, you might require using REST for microservices and \u003ca href=\"https://www.gov.uk/guidance/using-graphql-for-your-api\" class=\"govuk-link\"\u003eGraphQL\u003c/a\u003e for more data intensive processes.\u003c/p\u003e\n\n\u003cp\u003eYou should also consider what guidelines make sense for specific technical details. For example, using a consistent data format, or requiring that all APIs follow the same approach to versioning.\u003c/p\u003e\n\n\u003ch3 id=\"make-the-design-process-clear-and-easy-to-use\"\u003eMake the design process clear and easy to use\u003c/h3\u003e\n\u003cp\u003eSetting out decisions in a central place helps development teams get started on projects more quickly and with less effort. You should keep these guidelines in a document store or repository that is easy for people to find and access.\u003c/p\u003e\n\n\u003cp\u003eVarious tools are available to store and share API specifications. Many tools have an open source version which allows you to try them out with little to no cost or commitment. These tools often form part of an API management suite that also includes a developer hub and an API gateway but can also be used as standalone design or governance modules.\u003c/p\u003e\n\n\u003ch3 id=\"put-your-api-through-assurance-and-assessment\"\u003ePut your API through assurance and assessment\u003c/h3\u003e\n\u003cp\u003eAssurance is a governance process to make sure APIs meet various organisational standards. For example, assurance will help teams make sure they are building APIs to follow the design guidelines of your organisation.\u003c/p\u003e\n\n\u003cp\u003eYour assurance assessment programme should be appropriate for the teams who need to go through it. Make it clear what the benefits of going through assurance are so that teams see it as a worthwhile exercise to help them improve their APIs. If your assurance process is too rigid, or requires too much effort for not enough benefit, teams might try to avoid it. This will weaken your organisation’s governance and can impact the overall quality of your organisation’s APIs.\u003c/p\u003e\n\n\u003ch3 id=\"test-and-validate-your-apis\"\u003eTest and validate your APIs\u003c/h3\u003e\n\u003cp\u003eTesting is the process of making sure the APIs function properly, and is usually an automatic process which validates the code. Testing should be an ongoing process, and regular validation of the API should be part of a monitoring scheme.\u003c/p\u003e\n\n\u003cp\u003eUsually, testing is done by an automated tool against the specification, sometimes known as the contract. Contract testing should include checking the:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003especification against internal policies to make sure that APIs submitted to the developer portal are compliant with internal standards\u003c/li\u003e\n  \u003cli\u003eAPI to make sure its responses match the specification and that deployed APIs are behaving correctly in production\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"putting-apis-into-production\"\u003ePutting APIs into production\u003c/h2\u003e\n\u003cp\u003eDeploying your API involves more than just pushing code to production. There are a number of things you should put in place to support the publishing process and to provide a good developer experience.\u003c/p\u003e\n\n\u003ch3 id=\"document-your-apis\"\u003eDocument your APIs\u003c/h3\u003e\n\n\u003cp\u003eYour API documentation is the starting point for development teams looking to use your API.\u003c/p\u003e\n\n\u003cp\u003eYou should work with a \u003ca href=\"https://www.gov.uk/guidance/technical-writer\" class=\"govuk-link\"\u003etechnical writer\u003c/a\u003e from the start of your project. If you do not have technical writing resources in your organisation, you can contact  the cross-government \u003ca href=\"https://www.gov.uk/service-manual/communities/technical-writing-community\" class=\"govuk-link\"\u003etechnical writing community\u003c/a\u003e for help.\u003c/p\u003e\n\n\u003cp\u003eWhen \u003ca href=\"https://www.gov.uk/guidance/how-to-document-apis\" class=\"govuk-link\"\u003edocumenting APIs\u003c/a\u003e, you should include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003econceptual information to introduce the API\u003c/li\u003e\n  \u003cli\u003epractical information such as a ‘getting started’ guide\u003c/li\u003e\n  \u003cli\u003edetailed \u003ca href=\"https://www.gov.uk/guidance/writing-api-reference-documentation\" class=\"govuk-link\"\u003ereference documentation\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou can use an API specification to generate and auto update reference documentation for your API as you build and iterate it.\u003c/p\u003e\n\n\u003ch3 id=\"developer-portal\"\u003eDeveloper portal\u003c/h3\u003e\n\n\u003cp\u003eA developer portal, also sometimes called a developer hub, is where external developers can access everything they need to set up and manage their integration with your API. This usually includes:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003edocumentation for your API\u003c/li\u003e\n  \u003cli\u003edeveloper registration and authorisation\u003c/li\u003e\n  \u003cli\u003eself service tools for things like renewing API keys and changing their password\u003c/li\u003e\n  \u003cli\u003ea test environment - for example a mock API, a ‘sandbox’ and test users\u003c/li\u003e\n  \u003cli\u003eissue reporting and ticket support\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou can also use your developer portal to gather internal metrics about your API programme. For example, you might want to measure how quickly developers are able to set up a test version of an API. This is sometimes known as “time to live” or “time to 200” and is a useful metric to measure how easy your API is to integrate. It can also help you identify where there might be pain points for users.\u003c/p\u003e\n\n\u003ch2 id=\"managing-operations-with-an-api-gateway\"\u003eManaging operations with an API gateway\u003c/h2\u003e\n\n\u003cp\u003eThe everyday operations of API service management are usually handled by an API gateway. Generally, an API gateway service acts as a proxy for APIs, and allows central services like access control and security to be provided for all the APIs using the service.\u003c/p\u003e\n\n\u003cp\u003eAt a minimum, an API gateway should provide:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003euser and application authentication\u003c/li\u003e\n  \u003cli\u003erate limiting and throttling inbound requests\u003c/li\u003e\n  \u003cli\u003elogging and reporting\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eMany organisations do not put an API gateway into production until they have several APIs in use. However, you should consider implementing one at the very beginning of an API programme because this will allow you to:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003estandardise how APIs use central services such as network access, security and authentication, throttling and rate limiting, logging and monitoring\u003c/li\u003e\n  \u003cli\u003elower developer costs and reduce time to deployment, since you will not need to rebuild these services for each new API\u003c/li\u003e\n  \u003cli\u003erequire minimum standards of security, access control and monitoring, while providing an easy way for developers to meet them\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eAdding an API gateway means you will need to deploy and manage another service, but it reduces complexity in managing your APIs and introduces a consistent front end for services.\u003c/p\u003e\n\n\u003cp\u003eThere are many different API gateway products available, both open source and proprietary. They will often include elements for a developer portal or a catalogue.\u003c/p\u003e\n\n\u003ch2 id=\"making-your-apis-easy-to-find\"\u003eMaking your APIs easy to find\u003c/h2\u003e\n\n\u003cp\u003eAPIs should be visible and discoverable in a central and up-to-date place. You can use an API catalogue to help users discover your APIs, find out what they do and how to use them. An API catalogue also helps your organisation keep an inventory of what APIs it manages.\u003c/p\u003e\n\n\u003ch3 id=\"keep-api-discovery-separate-from-your-developer-portal\"\u003eKeep API discovery separate from your developer portal\u003c/h3\u003e\n\n\u003cp\u003eMost API management tooling includes features for implementing an API gateway, the developer portal and an API catalogue, making it a convenient way to use one tool for all of these things. However, you should not rely solely on a developer portal to make your APIs discoverable.\u003c/p\u003e\n\n\u003cp\u003eThere are cases where an API might not be appropriate to sit on the gateway or the developer portal, but should still be discoverable in a catalogue. This might be because the API is still in experimental stages, does not meet standards, or because the team is not ready to hand over management of the API.\u003c/p\u003e\n\n\u003cp\u003eKeeping the catalogue separate from the other parts of your API management tool helps people discover all your APIs without restricting them to those that meet certain criteria.\u003c/p\u003e\n\n\u003cp\u003eThis helps:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003epromote an environment where innovation can happen in the open\u003c/li\u003e\n  \u003cli\u003eavoid teams developing in silos to get around rules\u003c/li\u003e\n  \u003cli\u003eimprove transparency and reduce duplication of effort\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"consider-who-will-be-looking-for-apis-in-your-organisation\"\u003eConsider who will be looking for APIs in your organisation\u003c/h3\u003e\n\n\u003cp\u003eMost organisations have 3 levels of access for their APIs:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eprivate - internal and kept entirely within the organisation\u003c/li\u003e\n  \u003cli\u003epartner - shared externally with a limited set of trusted users and partners\u003c/li\u003e\n  \u003cli\u003epublic - open to external users either directly or through a self-service sign up platform\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eConsider how best to help each group of users find your APIs. You could do this with separate catalogues, but you should consider the cost and effort it would require to maintain these. You can also use access control to restrict visibility of APIs, or details of the APIs, to registered users at different levels of authentication.\u003c/p\u003e\n\n\u003cp\u003eYou should aim to expose as much detail as possible to all users. Even for sensitive data sets, you should expose basic details of an API with information about how to get access. This helps developers understand the value of the API and start interacting with it while they wait for access approval.\u003c/p\u003e\n\n\u003cp\u003eCheck with your internal security teams about what level of exposure is acceptable for each API. You might also find it helpful to review the \u003ca rel=\"external\" href=\"https://github.com/alphagov/api-catalogue/blob/main/data/catalogue.csv-metadata.json\" class=\"govuk-link\"\u003emetadata model for the government API catalogue\u003c/a\u003e. This provides a basic discovery framework that does not increase the vulnerability of published resources.\u003c/p\u003e\n\n\u003ch3 id=\"link-your-catalogue-to-the-government-api-catalogue\"\u003eLink your catalogue to the government API catalogue\u003c/h3\u003e\n\u003cp\u003eYour internal catalogue should update the \u003ca rel=\"external\" href=\"https://api.gov.uk\" class=\"govuk-link\"\u003egovernment API catalogue\u003c/a\u003e, either programmatically or with manual submissions. This catalogue is a centralised directory of government APIs, and any external APIs (whether inter-departmental, restricted or public) should be listed on there.\u003c/p\u003e\n\n\u003cp\u003eContact the API Catalogue team at \u003ca href=\"mailto:api-catalogue@digital.cabinet-office.gov.uk\" class=\"govuk-link\"\u003eapi-catalogue@digital.cabinet-office.gov.uk\u003c/a\u003e for more information and help with adding your APIs or connecting your internal catalogue.\u003c/p\u003e\n\n\u003ch2 id=\"taking-your-api-out-of-service\"\u003eTaking your API out of service\u003c/h2\u003e\n\u003cp\u003eYou must plan how to take your APIs out of service when they are no longer needed. This is often referred to as retirement, deprecation, sunsetting or decommissioning.\u003c/p\u003e\n\n\u003cdiv role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\"\u003e\n\u003cp\u003eTaking an API out of service suddenly or with poor support can significantly impact the services integrating that API. It can also damage your organisation’s credibility.\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cp\u003eBeing prepared for how you’ll retire APIs helps:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ebuild trust with users - these are the external developers using your APIs\u003c/li\u003e\n  \u003cli\u003eusers plan for any changes they need to make to their services\u003c/li\u003e\n  \u003cli\u003eprotect your organisation’s credibility\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIt might be useful to put together an API retirement workflow or checklist for your organisation to help teams follow a consistent process. Below is an example of what this might look like.\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003eUse analytics to support your case for deprecation.\u003c/li\u003e\n  \u003cli\u003ePublish a blog post to explain the reasons and offer alternatives where possible.\u003c/li\u003e\n  \u003cli\u003eAdd a deprecation notice to documentation with the date it will happen.\u003c/li\u003e\n  \u003cli\u003eDisable sign ups in self-service to stop new users accessing the service.\u003c/li\u003e\n  \u003cli\u003eEmail subscribed users with the date of deprecation - as the date approaches, emails should get more frequent.\u003c/li\u003e\n  \u003cli\u003eUse \u003ca rel=\"external\" href=\"https://tools.ietf.org/html/rfc8594\" class=\"govuk-link\"\u003eSunset\u003c/a\u003e or \u003ca rel=\"external\" href=\"https://tools.ietf.org/id/draft-dalal-deprecation-header-02.html\" class=\"govuk-link\"\u003eDeprecated\u003c/a\u003e HTTP headers, with a link to the documentation and blog post.\u003c/li\u003e\n  \u003cli\u003eWait and see how usage changes - make sure it’s dropping and contact any remaining active users.\u003c/li\u003e\n  \u003cli\u003eAgree an acceptable number of active users at retirement.\u003c/li\u003e\n  \u003cli\u003eKeep the API in retired status for a while - this could be months or years.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eYou should publish your retirement policy somewhere external developers can see it, for example on your developer hub or in API documentation. This will help reassure users that you provide a good level of support throughout the API life cycle.\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2021-12-30T13:22:59.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "2fb482e7-3c4d-496f-887d-f8a55a15e89a"
+                                                 ],
+                    "first_public_at":  "2021-12-30T13:22:59.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2021-12-30T13:22:59+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/defining-an-api-management-strategy",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/defining-an-api-management-strategy",
+                                                     "base_path":  "/guidance/defining-an-api-management-strategy",
+                                                     "content_id":  "1fb86193-22ad-4833-9eb3-cbe738e16017",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2021-12-30T13:22:59Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Defining an API management strategy",
+                                                     "web_url":  "https://www.gov.uk/guidance/defining-an-api-management-strategy",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/api-design-guidance",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/api-design-guidance",
+                                                   "base_path":  "/government/collections/api-design-guidance",
+                                                   "content_id":  "8866170f-22f6-446a-ad7c-3733519dfa2c",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/defining-an-api-management-strategy",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/defining-an-api-management-strategy",
+                                                                                       "base_path":  "/guidance/defining-an-api-management-strategy",
+                                                                                       "content_id":  "1fb86193-22ad-4833-9eb3-cbe738e16017",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2021-12-30T13:22:59Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Defining an API management strategy",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/defining-an-api-management-strategy",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2022-07-11T14:18:52Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "API design guidance",
+                                                   "web_url":  "https://www.gov.uk/government/collections/api-design-guidance",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "OT1329",
+                                            "api_path":  "/api/content/government/organisations/central-digital-and-data-office",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/central-digital-and-data-office",
+                                            "base_path":  "/government/organisations/central-digital-and-data-office",
+                                            "content_id":  "2fb482e7-3c4d-496f-887d-f8a55a15e89a",
+                                            "details":  {
+                                                            "acronym":  "CDDO",
+                                                            "brand":  "department-for-science-innovation-and-technology",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Central Digital \u003cbr/\u003e\u0026amp; Data Office"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Central Digital and Data Office",
+                                            "web_url":  "https://www.gov.uk/government/organisations/central-digital-and-data-office",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "OT1329",
+                                                                       "api_path":  "/api/content/government/organisations/central-digital-and-data-office",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/central-digital-and-data-office",
+                                                                       "base_path":  "/government/organisations/central-digital-and-data-office",
+                                                                       "content_id":  "2fb482e7-3c4d-496f-887d-f8a55a15e89a",
+                                                                       "details":  {
+                                                                                       "acronym":  "CDDO",
+                                                                                       "brand":  "department-for-science-innovation-and-technology",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Central Digital \u003cbr/\u003e\u0026amp; Data Office"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Central Digital and Data Office",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/central-digital-and-data-office",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "OT1329",
+                                                              "api_path":  "/api/content/government/organisations/central-digital-and-data-office",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/central-digital-and-data-office",
+                                                              "base_path":  "/government/organisations/central-digital-and-data-office",
+                                                              "content_id":  "2fb482e7-3c4d-496f-887d-f8a55a15e89a",
+                                                              "details":  {
+                                                                              "acronym":  "CDDO",
+                                                                              "brand":  "department-for-science-innovation-and-technology",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Central Digital \u003cbr/\u003e\u0026amp; Data Office"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Central Digital and Data Office",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/central-digital-and-data-office",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/managing-apis-to-meet-user-needs",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/managing-apis-to-meet-user-needs",
+                                                              "base_path":  "/guidance/managing-apis-to-meet-user-needs",
+                                                              "content_id":  "059c27ec-7bfc-4a7e-8ad6-9d23dc751ea7",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-12-17T14:45:40Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Managing APIs to meet user needs",
+                                                              "web_url":  "https://www.gov.uk/guidance/managing-apis-to-meet-user-needs",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/collections/api-design-guidance",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/collections/api-design-guidance",
+                                                              "base_path":  "/government/collections/api-design-guidance",
+                                                              "content_id":  "8866170f-22f6-446a-ad7c-3733519dfa2c",
+                                                              "document_type":  "document_collection",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-07-11T14:18:52Z",
+                                                              "schema_name":  "document_collection",
+                                                              "title":  "API design guidance",
+                                                              "web_url":  "https://www.gov.uk/government/collections/api-design-guidance",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/how-to-document-apis",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/how-to-document-apis",
+                                                              "base_path":  "/guidance/how-to-document-apis",
+                                                              "content_id":  "71442439-cd0f-41ab-b35a-f3636eab5066",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-01-17T08:53:33Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Documenting APIs",
+                                                              "web_url":  "https://www.gov.uk/guidance/how-to-document-apis",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/managing-your-api-beta",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/managing-your-api-beta",
+                                                              "base_path":  "/guidance/managing-your-api-beta",
+                                                              "content_id":  "f1de8666-4909-4f7c-b849-251e72112e44",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-11-27T11:08:33Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Managing your API beta",
+                                                              "web_url":  "https://www.gov.uk/guidance/managing-your-api-beta",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/using-graphql-for-your-api",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/using-graphql-for-your-api",
+                                                              "base_path":  "/guidance/using-graphql-for-your-api",
+                                                              "content_id":  "f938d2f9-ceb7-420c-9399-b0b97a172e09",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-10-06T14:56:55Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Using GraphQL for your API",
+                                                              "web_url":  "https://www.gov.uk/guidance/using-graphql-for-your-api",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/government/technology-guidance-technology-guidance-apis",
+                                     "api_url":  "https://www.gov.uk/api/content/government/technology-guidance-technology-guidance-apis",
+                                     "base_path":  "/government/technology-guidance-technology-guidance-apis",
+                                     "content_id":  "f695028c-ca84-41e4-ba72-d17878eadf35",
+                                     "details":  {
+                                                     "internal_name":  "APIs [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/apis-and-app-development",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/apis-and-app-development",
+                                                                             "base_path":  "/government/apis-and-app-development",
+                                                                             "content_id":  "34dfe08a-a416-4052-9952-4266ffb08dba",
+                                                                             "details":  {
+                                                                                             "internal_name":  "APIs and application development",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/government/government-technology-and-digital-services",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/government/government-technology-and-digital-services",
+                                                                                                                     "base_path":  "/government/government-technology-and-digital-services",
+                                                                                                                     "content_id":  "90c9b9f1-0a4f-4639-b1e9-2bfb23d611bd",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Government technology and digital services",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  false
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "parent_taxons":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "beta",
+                                                                                                                     "public_updated_at":  "2018-08-28T10:56:47Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Government technology and digital services",
+                                                                                                                     "web_url":  "https://www.gov.uk/government/government-technology-and-digital-services",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "beta",
+                                                                             "public_updated_at":  "2018-08-20T09:26:15Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "APIs and app development",
+                                                                             "web_url":  "https://www.gov.uk/government/apis-and-app-development",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "beta",
+                                     "public_updated_at":  "2018-08-20T09:26:15Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "APIs",
+                                     "web_url":  "https://www.gov.uk/government/technology-guidance-technology-guidance-apis",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/government/technology-guidance-technology-guidance-buying-technology",
+                                     "api_url":  "https://www.gov.uk/api/content/government/technology-guidance-technology-guidance-buying-technology",
+                                     "base_path":  "/government/technology-guidance-technology-guidance-buying-technology",
+                                     "content_id":  "685d131a-5bcc-46e0-b952-8d9a3ffc6f0a",
+                                     "details":  {
+                                                     "internal_name":  "Buying technology [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/government-technology-and-digital-services",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/government-technology-and-digital-services",
+                                                                             "base_path":  "/government/government-technology-and-digital-services",
+                                                                             "content_id":  "90c9b9f1-0a4f-4639-b1e9-2bfb23d611bd",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Government technology and digital services",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/government/all",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/government/all",
+                                                                                                                     "base_path":  "/government/all",
+                                                                                                                     "content_id":  "e48ab80a-de80-4e83-bf59-26316856a5f9",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Government",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:29:39Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Government",
+                                                                                                                     "web_url":  "https://www.gov.uk/government/all",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "beta",
+                                                                             "public_updated_at":  "2018-08-28T10:56:47Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Government technology and digital services",
+                                                                             "web_url":  "https://www.gov.uk/government/government-technology-and-digital-services",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "beta",
+                                     "public_updated_at":  "2018-08-20T09:26:14Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Buying technology",
+                                     "web_url":  "https://www.gov.uk/government/technology-guidance-technology-guidance-buying-technology",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/government/technology-guidance-technology-guidance-design-principles",
+                                     "api_url":  "https://www.gov.uk/api/content/government/technology-guidance-technology-guidance-design-principles",
+                                     "base_path":  "/government/technology-guidance-technology-guidance-design-principles",
+                                     "content_id":  "8f7df72d-ecfe-45df-a5a1-52bd133aaf82",
+                                     "details":  {
+                                                     "internal_name":  "Design principles [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/design-and-build-of-government-services",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/design-and-build-of-government-services",
+                                                                             "base_path":  "/government/design-and-build-of-government-services",
+                                                                             "content_id":  "f4f8cd96-0d45-49fe-8996-c82154b168ee",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Design and build of government services",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/government/government-technology-and-digital-services",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/government/government-technology-and-digital-services",
+                                                                                                                     "base_path":  "/government/government-technology-and-digital-services",
+                                                                                                                     "content_id":  "90c9b9f1-0a4f-4639-b1e9-2bfb23d611bd",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Government technology and digital services",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  false
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "parent_taxons":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "beta",
+                                                                                                                     "public_updated_at":  "2018-08-28T10:56:47Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Government technology and digital services",
+                                                                                                                     "web_url":  "https://www.gov.uk/government/government-technology-and-digital-services",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "beta",
+                                                                             "public_updated_at":  "2018-08-20T09:26:16Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Design and build of government services",
+                                                                             "web_url":  "https://www.gov.uk/government/design-and-build-of-government-services",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "beta",
+                                     "public_updated_at":  "2018-08-20T09:26:16Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Design principles",
+                                     "web_url":  "https://www.gov.uk/government/technology-guidance-technology-guidance-design-principles",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2021-12-30T13:22:59+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "15639-1640870579.171-10.13.2.112-1868",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Defining an API management strategy",
+    "updated_at":  "2024-12-12T10:27:30+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

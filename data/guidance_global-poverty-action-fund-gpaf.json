@@ -1,0 +1,919 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/global-poverty-action-fund-gpaf",
+    "content_id":  "5d37a5e4-7631-11e4-a3cb-005056011aef",
+    "description":  "The Global Poverty Action Fund is closed to funding applications. Further announcements regarding funding opportunities are not expected before Autumn 2014.",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  51287,
+                                            "filename":  "GPAF-review-notice.pdf",
+                                            "id":  "4605573",
+                                            "number_of_pages":  1,
+                                            "title":  "GPAF review notice",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a79cf6540f0b670a8025972/GPAF-review-notice.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  362609,
+                                            "filename":  "Community-partnership-guidelines-applicants-dec13.pdf",
+                                            "id":  "4605574",
+                                            "number_of_pages":  13,
+                                            "title":  "Community partnership guidelines",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a750091e5274a3cb2868e30/Community-partnership-guidelines-applicants-dec13.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/msword",
+                                            "file_size":  121344,
+                                            "filename":  "gpaf-cpw-rnd2-concept-note.doc",
+                                            "id":  "4605575",
+                                            "title":  "Community partnership concept note form",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7c09d5e5274a13acca2f23/gpaf-cpw-rnd2-concept-note.doc"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.ms-powerpoint",
+                                            "file_size":  380416,
+                                            "filename":  "gpaf-comm-part-wdow-intro-logframes.ppt",
+                                            "id":  "4605576",
+                                            "title":  "Introduction to logframes presentation",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a78baf440f0b63247699b6f/gpaf-comm-part-wdow-intro-logframes.ppt"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  73842,
+                                            "filename":  "gpaf-community-partership-project-countries-may13.pdf",
+                                            "id":  "4605577",
+                                            "number_of_pages":  1,
+                                            "title":  "Community partnership project countries",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7562dfed915d73149598f3/gpaf-community-partership-project-countries-may13.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  767077,
+                                            "filename":  "glob-pov-act-fnd-impact-gnt-guide-appls-merged.pdf",
+                                            "id":  "4605578",
+                                            "number_of_pages":  34,
+                                            "title":  "Impact window guidelines for applicants",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a79a55240f0b642860d9ac6/glob-pov-act-fnd-impact-gnt-guide-appls-merged.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/msword",
+                                            "file_size":  141312,
+                                            "filename":  "glob-pov-act-fnd-impact-gnt-conc-nt-frm.doc",
+                                            "id":  "4605579",
+                                            "title":  "Impact grant round 3 concept note form",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a795f4640f0b63d72fc542d/glob-pov-act-fnd-impact-gnt-conc-nt-frm.doc"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.ms-excel",
+                                            "file_size":  44032,
+                                            "filename":  "GPAF-logical-framework-template.xls",
+                                            "id":  "4605580",
+                                            "title":  "Impact window logframe template",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a79b769e5274a18ba50e4f3/GPAF-logical-framework-template.xls"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.ms-excel",
+                                            "file_size":  158720,
+                                            "filename":  "standard-indicators.xls",
+                                            "id":  "4605581",
+                                            "title":  "Standard indicators",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a78f766ed915d0422066bf8/standard-indicators.xls"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  98391,
+                                            "filename":  "GPAF-Impact2-prov-grant-awards.pdf",
+                                            "id":  "4605582",
+                                            "number_of_pages":  3,
+                                            "title":  "Impact 2 – list of provisional grant awards",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a78c28be5274a277e68f3fa/GPAF-Impact2-prov-grant-awards.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  103112,
+                                            "filename":  "GPAF-Impact1-grant-awards.pdf",
+                                            "id":  "4605583",
+                                            "number_of_pages":  5,
+                                            "title":  "Impact 1 – list of grant awards",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a79713ae5274a3864fd7056/GPAF-Impact1-grant-awards.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  36218,
+                                            "filename":  "GPAF-Innovation1-grant-awards.pdf",
+                                            "id":  "4605584",
+                                            "number_of_pages":  1,
+                                            "title":  "Innovation round 1 grants",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a757e6a40f0b6397f35edc9/GPAF-Innovation1-grant-awards.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  103112,
+                                            "filename":  "GPAF-Impact1-grant-awards-1.pdf",
+                                            "id":  "4605585",
+                                            "number_of_pages":  5,
+                                            "title":  "Impact round 1 grants",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7b9d97ed915d131106065d/GPAF-Impact1-grant-awards-1.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  34738,
+                                            "filename":  "GPAF-Innovation2-grant-awards.pdf",
+                                            "id":  "4605586",
+                                            "number_of_pages":  1,
+                                            "title":  "Innovation round 2 grants",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a78cb63ed915d0422065658/GPAF-Innovation2-grant-awards.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  98391,
+                                            "filename":  "GPAF-Impact2-prov-grant-awards-1.pdf",
+                                            "id":  "4605587",
+                                            "number_of_pages":  3,
+                                            "title":  "Impact round 2 provisional grants",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7c0b47e5274a13acca2fae/GPAF-Impact2-prov-grant-awards-1.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  86940,
+                                            "filename":  "GPAF-Inovation3-prov-grant-awards.pdf",
+                                            "id":  "4605588",
+                                            "number_of_pages":  2,
+                                            "title":  "Innovation round 3 provisional grants",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a79766ce5274a3864fd734d/GPAF-Inovation3-prov-grant-awards.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  177128,
+                                            "filename":  "Impact-Grant-Awards-aug2014.pdf",
+                                            "id":  "4605589",
+                                            "number_of_pages":  14,
+                                            "title":  "Impact grants",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7dcad340f0b65d88634708/Impact-Grant-Awards-aug2014.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  151754,
+                                            "filename":  "Innovation-Grant-Awards-august2014.pdf",
+                                            "id":  "4605590",
+                                            "number_of_pages":  12,
+                                            "title":  "Community partnership grants",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7da868e5274a5eaea658c5/Innovation-Grant-Awards-august2014.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  52733,
+                                            "filename":  "GPAF-Impact-project-country-list.pdf",
+                                            "id":  "4605591",
+                                            "number_of_pages":  2,
+                                            "title":  "Impact organisation and project countries",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7b21d740f0b66eab99f34e/GPAF-Impact-project-country-list.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.ms-excel",
+                                            "file_size":  43520,
+                                            "filename":  "GPAF-logical-framework-template-1.xls",
+                                            "id":  "4605592",
+                                            "title":  "Logframe template",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7cd5c4e5274a2c9a48466b/GPAF-logical-framework-template-1.xls"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  314987,
+                                            "filename":  "vfm-integration-prog-lifecycle.pdf",
+                                            "id":  "4605593",
+                                            "number_of_pages":  2,
+                                            "title":  "Integrating value for money into the programme cycle",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7b224440f0b66eab99f37e/vfm-integration-prog-lifecycle.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  73427,
+                                            "filename":  "gpaf-community-partership-concept-note-strengths-weaknesses-nov13.pdf",
+                                            "id":  "4605594",
+                                            "number_of_pages":  5,
+                                            "title":  "Community partnership concept note strengths and weaknesses",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7b86da40f0b62826a04262/gpaf-community-partership-concept-note-strengths-weaknesses-nov13.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  178166,
+                                            "filename":  "Impact-window-round4-faqs-dec13.pdf",
+                                            "id":  "4605595",
+                                            "number_of_pages":  10,
+                                            "title":  "Impact window round 4: concept note frequently asked questions December 2013",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7b9af140f0b645ba3c565e/Impact-window-round4-faqs-dec13.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  141899,
+                                            "filename":  "GPAF-Impact-Concept-Notes-Key-strengths-Weaknesses.pdf",
+                                            "id":  "4605596",
+                                            "number_of_pages":  8,
+                                            "title":  "Impact concept note strengths and weaknesses",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7ad5cee5274a34770e7717/GPAF-Impact-Concept-Notes-Key-strengths-Weaknesses.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  239574,
+                                            "filename":  "Additional-Guidance-GPAF-Initiatives-Empowerment-Accountability-nov13.pdf",
+                                            "id":  "4605597",
+                                            "number_of_pages":  5,
+                                            "title":  "Additional guidance on Empowerment and Accountability",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7c2a82ed915d1d1741c85e/Additional-Guidance-GPAF-Initiatives-Empowerment-Accountability-nov13.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  525125,
+                                            "filename":  "GPAF-Gender-Guidelines-june13.pdf",
+                                            "id":  "4605598",
+                                            "number_of_pages":  19,
+                                            "title":  "Gender and the Global Poverty Action Fund",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7cc0efed915d6822362578/GPAF-Gender-Guidelines-june13.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  145960,
+                                            "filename":  "Impact-round-3-concept-notes-key-strengths-weaknesses.pdf",
+                                            "id":  "4605599",
+                                            "number_of_pages":  8,
+                                            "title":  "Impact round 3 concept notes: key strengths and weaknesses",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a74bcdfe5274a3f93b4867a/Impact-round-3-concept-notes-key-strengths-weaknesses.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  82372,
+                                            "filename":  "Impact-Window-Organisation-project-countries-Nov2013.pdf",
+                                            "id":  "4605600",
+                                            "number_of_pages":  1,
+                                            "title":  "Impact Window - Organisation and Project Countries",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7cc9d440f0b65b3de0b2b5/Impact-Window-Organisation-project-countries-Nov2013.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  77435,
+                                            "filename":  "Community-partnership-project-countries-Nov2013.pdf",
+                                            "id":  "4605601",
+                                            "number_of_pages":  1,
+                                            "title":  "Community Partnership Window - Project Countries",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7cd89d40f0b6629523c294/Community-partnership-project-countries-Nov2013.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                            "file_size":  47298,
+                                            "filename":  "Impact-4-concept-note-form.docx",
+                                            "id":  "4605602",
+                                            "title":  "Impact window concept note form round 4",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7b8c1a40f0b62826a0448a/Impact-4-concept-note-form.docx"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                            "file_size":  38684,
+                                            "filename":  "Community-partnership-concept-note-form-round3.docx",
+                                            "id":  "4605603",
+                                            "title":  "Community partnership concept note form round 3",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7c288ced915d0b036b566e/Community-partnership-concept-note-form-round3.docx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  330708,
+                                            "filename":  "Impact-guidance-applicants-round4.pdf",
+                                            "id":  "4605604",
+                                            "number_of_pages":  15,
+                                            "title":  "Impact window guidance for applicants: round 4",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7c864fe5274a2674eab402/Impact-guidance-applicants-round4.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  362609,
+                                            "filename":  "Community-partnership-guidelines-applicants-dec13-1.pdf",
+                                            "id":  "4605605",
+                                            "number_of_pages":  13,
+                                            "title":  "Community partnership guidance for applicants round 3",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7ce97ee5274a2c9a484e1c/Community-partnership-guidelines-applicants-dec13-1.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  556531,
+                                            "filename":  "GPAF-logframe-advice.pdf",
+                                            "id":  "4605606",
+                                            "number_of_pages":  38,
+                                            "title":  "GPAF logframe guidance",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7c0e30ed915d41476227ca/GPAF-logframe-advice.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  155939,
+                                            "filename":  "community-partnership-concept-note-faq-jan2014.pdf",
+                                            "id":  "4605607",
+                                            "number_of_pages":  7,
+                                            "title":  "Community partnership round 3: concept note frequently asked questions January 2014",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7c7b3540f0b62aff6c1fa3/community-partnership-concept-note-faq-jan2014.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.ms-powerpoint",
+                                            "file_size":  433664,
+                                            "filename":  "Comm-part3-concept-note-presentation.ppt",
+                                            "id":  "4605608",
+                                            "title":  "Community Partnership Window funding seminar: January 2014",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7c961ced915d6969f45ecf/Comm-part3-concept-note-presentation.ppt"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  112883,
+                                            "filename":  "Concept-note-extracts.pdf",
+                                            "id":  "4605609",
+                                            "number_of_pages":  7,
+                                            "title":  "Community Partnership: extracts from previous Concept Notes",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7c413ded915d76e2ebc1ef/Concept-note-extracts.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "fcdo.correspondence@fcdo.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1333489,
+                                            "filename":  "Uganda-learning-workshop-report-2014.pdf",
+                                            "id":  "4605610",
+                                            "number_of_pages":  37,
+                                            "title":  "Uganda CSCF and GPAF Learning Workshop Report, May 2014",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7dc84140f0b65d8b4e377e/Uganda-learning-workshop-report-2014.pdf"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cdiv class=\"call-to-action\"\u003e\n  \u003cp\u003eFor DFID funding information visit the \u003ca href=\"https://www.gov.uk/international-development-funding\" class=\"govuk-link\"\u003eDFID Funding Finder\u003c/a\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003ch2 id=\"overview\"\u003eOverview\u003c/h2\u003e\n\n\u003cp\u003eThe Global Poverty Action Fund (\u003cabbr title=\"Global poverty action fund\"\u003eGPAF\u003c/abbr\u003e) is a demand-led fund supporting projects focused on poverty reduction and pursuit of the Millennium Development Goals (\u003cabbr title=\"Millennium Development Goals\"\u003eMDGs\u003c/abbr\u003e) through tangible changes to poor people’s lives including through:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eservice delivery\u003c/li\u003e\n  \u003cli\u003eempowerment and accountability\u003c/li\u003e\n  \u003cli\u003ework on conflict, security and justice\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eProjects will be selected on the basis of demonstrable impact on poverty, clarity of outputs and outcomes, and appropriate consideration of value for money and gender.\u003c/p\u003e\n\n\u003cp\u003eThe next \u003cabbr title=\"Global poverty action fund\"\u003eGPAF\u003c/abbr\u003e round will focus on \u003cabbr title=\"Millennium Development Goal\"\u003eMDG\u003c/abbr\u003e 1 - ‘Eradication of extreme poverty and hunger’, with a thematic focus on jobs and livelihoods.  Concept note applications will be invited for projects that bring tangible change to poor people’s lives through sustainably raising household incomes and livelihoods. The round opens on Friday 29 November 2013, and funding will be available through both the \u003cabbr title=\"Global poverty action fund\"\u003eGPAF\u003c/abbr\u003e Community Partnership and Impact windows.\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca href=\"https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/262038/Community-partnership-guidelines-applicants-round3.pdf\" class=\"govuk-link\"\u003eCommunity Partnership window - guidelines for applications\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca href=\"https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/262276/Impact-guidance-applicants-round4.pdf\" class=\"govuk-link\"\u003eImpact window - guidelines for applications\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"what-can-be-funded-under-this-gpaf-funding-round\"\u003eWhat can be funded under this \u003cabbr title=\"Global poverty action fund\"\u003eGPAF\u003c/abbr\u003e funding round?\u003c/h2\u003e\n\n\u003cp\u003eProjects that lead to tangible positive changes to poor people’s lives in the form of:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eincreased household income\u003c/li\u003e\n  \u003cli\u003eimproved household financial and/or consumption resilience\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eProject approaches such as (this is not a comprehensive list):\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003einitiatives focused on microenterprise development and making markets work for the poor eg improving market information, strengthening informal networks and other supportive institutions, and coaching\u003c/li\u003e\n  \u003cli\u003eaccess to financial services supporting the creation of sustainable jobs and income generating activities (traditional and non-traditional), and savings schemes\u003c/li\u003e\n  \u003cli\u003eskills training including technical skills to improve production, entrepreneurial and financial literacy skills\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eDFID does not pre-define the specific poverty criteria for beneficiaries, but is interested in initiatives for poor groups that are excluded from participation in economic growth and markets for various reasons, including ethnicity, gender and geography. \u003cabbr title=\"Global poverty action fund\"\u003eGPAF\u003c/abbr\u003e applicants must present their own analysis of specific project contexts and the rationale for selection of beneficiary target groups, with reference to relevant \u003cabbr title=\"Millennium Development Goal\"\u003eMDG\u003c/abbr\u003e targets.\u003c/p\u003e\n\n\u003ch2 id=\"what-cannot-be-supported-under-this-gpaf-funding-round\"\u003eWhat cannot be supported under this \u003cabbr title=\"Global poverty action fund\"\u003eGPAF\u003c/abbr\u003e funding round?\u003c/h2\u003e\n\n\u003cp\u003eProjects focused primarily on other \u003cabbr title=\"Millennium Development Goal\"\u003eMDG\u003c/abbr\u003e areas such as health and education cannot be supported under this specific \u003cabbr title=\"Global poverty action fund\"\u003eGPAF\u003c/abbr\u003e funding round. For example, projects mainly focused on the following areas could not be funded under this specific \u003cabbr title=\"Global poverty action fund\"\u003eGPAF\u003c/abbr\u003e round:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eaccess to and quality of general primary or secondary education\u003c/li\u003e\n  \u003cli\u003eaccess to and quality of health services (including HIV/AIDS, major diseases, mother and child health)\u003c/li\u003e\n  \u003cli\u003echanges related to environmental outcomes\u003c/li\u003e\n  \u003cli\u003eaccess to and quality of water and sanitation services and hygiene education\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eHowever, other \u003cabbr title=\"Millennium Development Goal\"\u003eMDG\u003c/abbr\u003e areas may be addressed as components of projects if there is a clear and direct link between these components and the achievement of outcomes related to sustainable increases in household income and/or household financial or consumption resilience.\u003c/p\u003e\n\n\u003ch2 id=\"criteria-for-gpaf-applicants\"\u003eCriteria for \u003cabbr title=\"Global poverty action fund\"\u003eGPAF\u003c/abbr\u003e applicants\u003c/h2\u003e\n\u003cp\u003eThere are 2 funding windows, the Community Partnership window and the Impact window. The summary criteria for the windows are below.\u003c/p\u003e\n\n\u003cp\u003eFor full details and application templates will be provided with the guidelines for each window at launch.\u003c/p\u003e\n\n\u003ctable\u003e\n  \u003cthead\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"col\"\u003eStatus\u003c/th\u003e\n      \u003cth scope=\"col\"\u003eCommunity Partnership window\u003c/th\u003e\n      \u003cth scope=\"col\"\u003eImpact window\u003c/th\u003e\n    \u003c/tr\u003e\n  \u003c/thead\u003e\n  \u003ctbody\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eProposed Value (estimated)\u003c/td\u003e\n      \u003ctd\u003e10% of funding\u003c/td\u003e\n      \u003ctd\u003e90% of funding\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003ePurpose\u003c/td\u003e\n      \u003ctd\u003ePoverty reduction linked to \u003cabbr title=\"Millennium Development Goal\"\u003eMDG\u003c/abbr\u003e 1. Projects focused on bringing tangible change to poor people’s lives through raising household income and improving livelihoods. Initiatives focused on delivering results at community level. Innovative approaches considered suitable for scale up.\u003c/td\u003e\n      \u003ctd\u003ePoverty reduction linked to \u003cabbr title=\"Millennium Development Goal\"\u003eMDG\u003c/abbr\u003e 1. Projects focused on bringing tangible change to poor people’s lives through raising household income and improving livelihoods. Initiatives focused on delivering results at greater scale. Innovative approaches considered suitable for scale up.\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eRisk appetite\u003c/td\u003e\n      \u003ctd\u003eThe \u003cabbr title=\"Global poverty action fund\"\u003eGPAF\u003c/abbr\u003e balances higher risk for higher rewards from innovative work and lower risk for work to deliver tried and tested approaches.\u003c/td\u003e\n      \u003ctd\u003eThe \u003cabbr title=\"Global poverty action fund\"\u003eGPAF\u003c/abbr\u003e balances higher risk for higher rewards from innovative work and lower risk for work to deliver tried and tested approaches.\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eGeography (countries where projects can be set up)\u003c/td\u003e\n      \u003ctd\u003eCountries on the ‘Community Partnership Project Countries’ list (see Documents below)\u003c/td\u003e\n      \u003ctd\u003eCountries on the ‘Impact Organisation and Project Countries’ list (see Documents below)\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eGrant size\u003c/td\u003e\n      \u003ctd\u003eUp to £250,000 Max 2 grants per CSO (this includes grants from the Innovation window/Community Partnership window combined)\u003c/td\u003e\n      \u003ctd\u003eMin £250,000 - max £4m. Annual value of grant less than 40% of CSO’s annual income. Max 3 grants per CSO\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eDuration\u003c/td\u003e\n      \u003ctd\u003eUp to 3 years\u003c/td\u003e\n      \u003ctd\u003eUp to 3 years\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eMatched funding\u003c/td\u003e\n      \u003ctd\u003eNot required\u003c/td\u003e\n      \u003ctd\u003eAt least 25%. Proposals deemed to be technically strong would stand an increased chance of being successful if they demonstrate a level of match funding above the minimum 25%\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eEligibility\u003c/td\u003e\n      \u003ctd\u003eSmall UK-based not for profit organisations with an average income of less than £1m per annum for the past 3 years\u003c/td\u003e\n      \u003ctd\u003eMedium sized UK-based not for profit organisations (but no fixed upper or lower limit). Organisations receiving \u003cabbr title=\"Programme partnership arrangements\"\u003ePPAs\u003c/abbr\u003e excluded. Locally registered \u003cabbr title=\"Civil society organisations\"\u003eCSOs\u003c/abbr\u003e in countries on the ‘Organisation’ section of the ‘impact organisation and project countries’ list (see Documents below)\u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e\n\n\u003ch2 id=\"announcements\"\u003eAnnouncements\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe Global Poverty Action Fund is closed to funding applications.  Further announcements regarding funding opportunities are not expected before Autumn 2014\u003c/li\u003e\n  \u003cli\u003ethe Jobs and Livelihoods themed round opened on Friday 29 November 2013\u003c/li\u003e\n  \u003cli\u003ethe closing date for Community Partnership concept notes was 23:59 on Monday 27 January 2014\u003c/li\u003e\n  \u003cli\u003ethe closing date for Impact concept notes was 23:59 on Monday 20 January 2014\u003c/li\u003e\n  \u003cli\u003eplease see full lists of all previously awarded \u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7dcad340f0b65d88634708/Impact-Grant-Awards-aug2014.pdf\"\u003eImpact grants\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e173 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e14 pages\u003c/span\u003e)\u003c/span\u003e and \u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7da868e5274a5eaea658c5/Innovation-Grant-Awards-august2014.pdf\"\u003eCommunity partnership grants\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e148 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e12 pages\u003c/span\u003e)\u003c/span\u003e (including previous innovation grants)\u003c/li\u003e\n  \u003cli\u003efull details of all projects can be found on our \u003ca rel=\"external\" href=\"http://devtracker.dfid.gov.uk/\" class=\"govuk-link\"\u003eDevelopment Tracker\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"responsible-dfid-department\"\u003eResponsible DFID department\u003c/h3\u003e\n\u003cp\u003eThe department within DFID that is responsible for overseeing the \u003cabbr title=\"Global poverty action fund\"\u003eGPAF\u003c/abbr\u003e is\u003c/p\u003e\n\n\u003cp\u003eCivil Society Department, Policy and Research Division.\u003c/p\u003e\n\n\u003ch2 id=\"enquiries-about-the-gpaf\"\u003eEnquiries about the \u003cabbr title=\"Global poverty action fund\"\u003eGPAF\u003c/abbr\u003e\n\u003c/h2\u003e\n\u003cp\u003eManagement of the Fund has been contracted out to Triple Line Consulting Ltd (in a joint venture with Crown Agents):\u003c/p\u003e\n\n\u003cdiv class=\"address\"\u003e\u003cdiv class=\"adr org fn\"\u003e\u003cp\u003e\n\nTriple Line Consulting Ltd.\n\u003cbr\u003e3 Princeton Court\n\u003cbr\u003e55 Felsham Road\n\u003cbr\u003ePutney\n\u003cbr\u003eLondon SW15 1AZ\n\u003cbr\u003eTelephone: 020 8788 4680 \n\u003cbr\u003e\n\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e\n\n\u003cp\u003eE-mail: \u003ca href=\"mailto:GPAFenquiries@tripleline.com\" class=\"govuk-link\"\u003eGPAFenquiries@tripleline.com\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eAny questions about the fund should be addressed to \u003ca rel=\"external\" href=\"http://www.tripleline.com/\" class=\"govuk-link\"\u003eTriple Line\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"community-partnership-window-documents\"\u003eCommunity Partnership window documents\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7cd89d40f0b6629523c294/Community-partnership-project-countries-Nov2013.pdf\"\u003eCommunity Partnership Window - Project Countries\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e75.6 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e1 page\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7ce97ee5274a2c9a484e1c/Community-partnership-guidelines-applicants-dec13-1.pdf\"\u003eCommunity partnership guidance for applicants round 3\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e354 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e13 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7c288ced915d0b036b566e/Community-partnership-concept-note-form-round3.docx\"\u003eCommunity partnership concept note form round 3\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003eMS Word Document\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e37.8 KB\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7b86da40f0b62826a04262/gpaf-community-partership-concept-note-strengths-weaknesses-nov13.pdf\"\u003eCommunity partnership concept note strengths and weaknesses\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e71.7 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e5 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7c7b3540f0b62aff6c1fa3/community-partnership-concept-note-faq-jan2014.pdf\"\u003eCommunity partnership round 3: concept note frequently asked questions January 2014\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e152 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e7 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a78baf440f0b63247699b6f/gpaf-comm-part-wdow-intro-logframes.ppt\"\u003eIntroduction to logframes presentation\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003eMS PowerPoint Presentation\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e372 KB\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7cd5c4e5274a2c9a48466b/GPAF-logical-framework-template-1.xls\"\u003eLogframe template\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003eMS Excel Spreadsheet\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e42.5 KB\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7b224440f0b66eab99f37e/vfm-integration-prog-lifecycle.pdf\"\u003eIntegrating value for money into the programme cycle\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e308 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e2 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/due-diligence-and-civil-society-organisations\" title=\"Due diligence\" class=\"govuk-link\"\u003eDue diligence\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7c2a82ed915d1d1741c85e/Additional-Guidance-GPAF-Initiatives-Empowerment-Accountability-nov13.pdf\"\u003eAdditional guidance on Empowerment and Accountability\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e234 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e5 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7cc0efed915d6822362578/GPAF-Gender-Guidelines-june13.pdf\"\u003eGender and the Global Poverty Action Fund\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e513 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e19 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7c961ced915d6969f45ecf/Comm-part3-concept-note-presentation.ppt\"\u003eCommunity Partnership Window funding seminar: January 2014\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003eMS PowerPoint Presentation\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e424 KB\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7c413ded915d76e2ebc1ef/Concept-note-extracts.pdf\"\u003eCommunity Partnership: extracts from previous Concept Notes\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e110 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e7 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"impact-window-documents\"\u003eImpact window documents\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7c864fe5274a2674eab402/Impact-guidance-applicants-round4.pdf\"\u003eImpact window guidance for applicants: round 4\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e323 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e15 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7cc9d440f0b65b3de0b2b5/Impact-Window-Organisation-project-countries-Nov2013.pdf\"\u003eImpact Window - Organisation and Project Countries\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e80.4 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e1 page\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7b8c1a40f0b62826a0448a/Impact-4-concept-note-form.docx\"\u003eImpact window concept note form round 4\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003eMS Word Document\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e46.2 KB\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a74bcdfe5274a3f93b4867a/Impact-round-3-concept-notes-key-strengths-weaknesses.pdf\"\u003eImpact round 3 concept notes: key strengths and weaknesses\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e143 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e8 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7c0e30ed915d41476227ca/GPAF-logframe-advice.pdf\"\u003eGPAF logframe guidance\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e543 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e38 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a79b769e5274a18ba50e4f3/GPAF-logical-framework-template.xls\"\u003eImpact window logframe template\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003eMS Excel Spreadsheet\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e43 KB\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a78baf440f0b63247699b6f/gpaf-comm-part-wdow-intro-logframes.ppt\"\u003eIntroduction to logframes presentation\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003eMS PowerPoint Presentation\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e372 KB\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a78f766ed915d0422066bf8/standard-indicators.xls\"\u003eStandard indicators\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003eMS Excel Spreadsheet\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e155 KB\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7b224440f0b66eab99f37e/vfm-integration-prog-lifecycle.pdf\"\u003eIntegrating value for money into the programme cycle\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e308 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e2 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7c2a82ed915d1d1741c85e/Additional-Guidance-GPAF-Initiatives-Empowerment-Accountability-nov13.pdf\"\u003eAdditional guidance on Empowerment and Accountability\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e234 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e5 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7b9af140f0b645ba3c565e/Impact-window-round4-faqs-dec13.pdf\"\u003eImpact window round 4: concept note frequently asked questions December 2013\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e174 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e10 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7cc0efed915d6822362578/GPAF-Gender-Guidelines-june13.pdf\"\u003eGender and the Global Poverty Action Fund\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e513 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e19 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/due-diligence-and-civil-society-organisations\" class=\"govuk-link\"\u003eDue diligence\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"documents\"\u003eDocuments\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/evaluation-strategy-programme-partnership-arrangements-ppa-and-global-poverty-action-fund-gpaf\" class=\"govuk-link\"\u003eEvaluation strategy: Programme Partnership Arrangements (PPA) and Global Poverty Action Fund (\u003cabbr title=\"Global poverty action fund\"\u003eGPAF\u003c/abbr\u003e)\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7dc84140f0b65d8b4e377e/Uganda-learning-workshop-report-2014.pdf\"\u003eUganda CSCF and GPAF Learning Workshop Report, May 2014\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e1.27 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e37 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Community partnership and Innovation awards list August 2014",
+                                               "public_timestamp":  "2014-08-12T10:48:13.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Revised Impact and Innovation grants awarded files added July 2014",
+                                               "public_timestamp":  "2014-07-11T15:13:28.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Summary amended to: The Global Poverty Action Fund is closed to funding applications. Further announcements regarding funding opportunities are not expected before Autumn 2014. ",
+                                               "public_timestamp":  "2014-06-11T12:58:02.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added: Uganda CSCF and GPAF Learning Workshop Report, May 2014\r\n List of updated Community partnership grants June 2014 added",
+                                               "public_timestamp":  "2014-06-04T15:31:45.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Revised Community Partnership Grants list: May 2014 added",
+                                               "public_timestamp":  "2014-05-07T14:34:20.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Revised community partnership grant awards document added ",
+                                               "public_timestamp":  "2014-03-17T13:21:53.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Revised version of logical framework guidance document added.",
+                                               "public_timestamp":  "2014-03-07T09:52:52.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Community Partnership: extracts from previous Concept Notes added\r\nCommunity Partnership round 3: concept note frequently asked questions January 2014 added\r\nCommunity Partnership Window funding seminar presentation: January 2014 added",
+                                               "public_timestamp":  "2014-01-23T15:10:19.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated Impact grants wards list and Community Partnership grants list - January 2014 ",
+                                               "public_timestamp":  "2014-01-10T09:41:19.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Community partnership and Impact window frequently asked questions december 2013 added",
+                                               "public_timestamp":  "2013-12-17T15:47:58.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Revised Community partnership guidelines added",
+                                               "public_timestamp":  "2013-12-16T17:05:37.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Revised Innovation and Impact grant awards added",
+                                               "public_timestamp":  "2013-12-05T16:51:23.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Impact window concept note form for round 4 added\r\nCommunity partnership concept note form round 3 added\r\nImpact guidance for applicants round 4 added\r\nCommunity partnership guidance for applicants round 3 added",
+                                               "public_timestamp":  "2013-11-28T16:19:59.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated version of \"Additional guidance on Empowerment and Accountability\" added\r\nUpdated version of \"Community partnership concept note strengths and weaknesses\" added\r\nImpact and Community partnership: organisation and project countries files added \r\n ",
+                                               "public_timestamp":  "2013-11-28T14:06:08.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Change to overview and additional information on new funding rounds",
+                                               "public_timestamp":  "2013-11-25T12:58:49.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated Impact grant awards and Community Partnership and Innovation grant awards November 2013 added ",
+                                               "public_timestamp":  "2013-11-06T11:02:11.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated Impact grant awards list: October 2013",
+                                               "public_timestamp":  "2013-10-09T16:04:50.000+01:00"
+                                           },
+                                           {
+                                               "note":  "evaluation strategy added",
+                                               "public_timestamp":  "2013-09-13T10:14:28.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Impact and Innovation grant awards lists updated September 2013",
+                                               "public_timestamp":  "2013-09-09T10:05:30.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Lists of all previously awarded Impact grants and Community partnership grants changed",
+                                               "public_timestamp":  "2013-04-17T09:59:16.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2013-03-26T15:50:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "db994552-7644-404d-a770-a2fe659c661f"
+                                                 ],
+                    "first_public_at":  "2013-03-26T15:50:00.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2013-03-26T15:50:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/global-poverty-action-fund-gpaf",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/global-poverty-action-fund-gpaf",
+                                                     "base_path":  "/guidance/global-poverty-action-fund-gpaf",
+                                                     "content_id":  "5d37a5e4-7631-11e4-a3cb-005056011aef",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2014-08-12T09:48:13Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Global Poverty Action Fund (GPAF)",
+                                                     "web_url":  "https://www.gov.uk/guidance/global-poverty-action-fund-gpaf",
+                                                     "withdrawn":  true
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "base_path":  "/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "content_id":  "591c83aa-3b74-437d-a342-612bddd97572",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2015-05-08T00:00:00+00:00",
+                                                         "started_on":  "2010-05-12T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2010 to 2015 Conservative and Liberal Democrat coalition government",
+                                         "web_url":  "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government"
+                                     }
+                                 ],
+                  "lead_organisations":  [
+                                             {
+                                                 "analytics_identifier":  "D8",
+                                                 "api_path":  "/api/content/government/organisations/department-for-international-development",
+                                                 "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-international-development",
+                                                 "base_path":  "/government/organisations/department-for-international-development",
+                                                 "content_id":  "db994552-7644-404d-a770-a2fe659c661f",
+                                                 "details":  {
+                                                                 "acronym":  "DFID",
+                                                                 "brand":  "department-for-international-development",
+                                                                 "default_news_image":  {
+                                                                                            "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db1de5274a7908e352d4/s960_DFID-default-image-v2.jpg",
+                                                                                            "url":  "https://assets.publishing.service.gov.uk/media/5a37db1ded915d5a62fdc758/s300_DFID-default-image-v2.jpg"
+                                                                                        },
+                                                                 "logo":  {
+                                                                              "crest":  "single-identity",
+                                                                              "formatted_title":  "Department\u003cbr/\u003efor International \u003cbr/\u003eDevelopment"
+                                                                          },
+                                                                 "organisation_govuk_status":  {
+                                                                                                   "status":  "replaced",
+                                                                                                   "updated_at":  "2020-09-02T00:00:00.000+01:00",
+                                                                                                   "url":  "http://www.dfid.gov.uk/"
+                                                                                               }
+                                                             },
+                                                 "document_type":  "organisation",
+                                                 "links":  {
+
+                                                           },
+                                                 "locale":  "en",
+                                                 "schema_name":  "organisation",
+                                                 "title":  "Department for International Development",
+                                                 "web_url":  "https://www.gov.uk/government/organisations/department-for-international-development",
+                                                 "withdrawn":  false
+                                             }
+                                         ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D8",
+                                            "api_path":  "/api/content/government/organisations/department-for-international-development",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-international-development",
+                                            "base_path":  "/government/organisations/department-for-international-development",
+                                            "content_id":  "db994552-7644-404d-a770-a2fe659c661f",
+                                            "details":  {
+                                                            "acronym":  "DFID",
+                                                            "brand":  "department-for-international-development",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db1de5274a7908e352d4/s960_DFID-default-image-v2.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5a37db1ded915d5a62fdc758/s300_DFID-default-image-v2.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Department\u003cbr/\u003efor International \u003cbr/\u003eDevelopment"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "replaced",
+                                                                                              "updated_at":  "2020-09-02T00:00:00.000+01:00",
+                                                                                              "url":  "http://www.dfid.gov.uk/"
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Department for International Development",
+                                            "web_url":  "https://www.gov.uk/government/organisations/department-for-international-development",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "D8",
+                                                                       "api_path":  "/api/content/government/organisations/department-for-international-development",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-international-development",
+                                                                       "base_path":  "/government/organisations/department-for-international-development",
+                                                                       "content_id":  "db994552-7644-404d-a770-a2fe659c661f",
+                                                                       "details":  {
+                                                                                       "acronym":  "DFID",
+                                                                                       "brand":  "department-for-international-development",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db1de5274a7908e352d4/s960_DFID-default-image-v2.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5a37db1ded915d5a62fdc758/s300_DFID-default-image-v2.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Department\u003cbr/\u003efor International \u003cbr/\u003eDevelopment"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "replaced",
+                                                                                                                         "updated_at":  "2020-09-02T00:00:00.000+01:00",
+                                                                                                                         "url":  "http://www.dfid.gov.uk/"
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Department for International Development",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/department-for-international-development",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D8",
+                                                              "api_path":  "/api/content/government/organisations/department-for-international-development",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-international-development",
+                                                              "base_path":  "/government/organisations/department-for-international-development",
+                                                              "content_id":  "db994552-7644-404d-a770-a2fe659c661f",
+                                                              "details":  {
+                                                                              "acronym":  "DFID",
+                                                                              "brand":  "department-for-international-development",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db1de5274a7908e352d4/s960_DFID-default-image-v2.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/5a37db1ded915d5a62fdc758/s300_DFID-default-image-v2.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Department\u003cbr/\u003efor International \u003cbr/\u003eDevelopment"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "replaced",
+                                                                                                                "updated_at":  "2020-09-02T00:00:00.000+01:00",
+                                                                                                                "url":  "http://www.dfid.gov.uk/"
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Department for International Development",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/department-for-international-development",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related_guides":  [
+                                         {
+                                             "api_path":  "/api/content/guidance/girls-education-challenge",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/girls-education-challenge",
+                                             "base_path":  "/guidance/girls-education-challenge",
+                                             "content_id":  "5d2c8a8f-7631-11e4-a3cb-005056011aef",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2018-08-16T08:05:31Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Girls\u0027 Education Challenge",
+                                             "web_url":  "https://www.gov.uk/guidance/girls-education-challenge",
+                                             "withdrawn":  false
+                                         }
+                                     ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/dfid-due-diligence-frequently-asked-questions",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/dfid-due-diligence-frequently-asked-questions",
+                                                              "base_path":  "/government/publications/dfid-due-diligence-frequently-asked-questions",
+                                                              "content_id":  "5d8dbeef-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2012-12-10T00:00:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Due diligence frequently asked questions",
+                                                              "web_url":  "https://www.gov.uk/government/publications/dfid-due-diligence-frequently-asked-questions",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/key-lessons-learned-from-due-diligence-assessments",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/key-lessons-learned-from-due-diligence-assessments",
+                                                              "base_path":  "/government/publications/key-lessons-learned-from-due-diligence-assessments",
+                                                              "content_id":  "5e2dd786-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2014-02-14T14:55:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Key lessons learned from due diligence assessments",
+                                                              "web_url":  "https://www.gov.uk/government/publications/key-lessons-learned-from-due-diligence-assessments",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/pre-grant-due-diligence-guidance-for-dfid-global-poverty-action-fund",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/pre-grant-due-diligence-guidance-for-dfid-global-poverty-action-fund",
+                                                              "base_path":  "/government/publications/pre-grant-due-diligence-guidance-for-dfid-global-poverty-action-fund",
+                                                              "content_id":  "5d8cdfd3-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2012-02-11T00:00:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Pre-grant due diligence guidance for DFID Global Poverty Action Fund",
+                                                              "web_url":  "https://www.gov.uk/government/publications/pre-grant-due-diligence-guidance-for-dfid-global-poverty-action-fund",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/due-diligence-examples-of-good-practice",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/due-diligence-examples-of-good-practice",
+                                                              "base_path":  "/government/publications/due-diligence-examples-of-good-practice",
+                                                              "content_id":  "5e2debb5-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2014-02-14T14:55:21Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Due diligence examples of good practice",
+                                                              "web_url":  "https://www.gov.uk/government/publications/due-diligence-examples-of-good-practice",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/evaluation-strategy-programme-partnership-arrangements-ppa-and-global-poverty-action-fund-gpaf",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/evaluation-strategy-programme-partnership-arrangements-ppa-and-global-poverty-action-fund-gpaf",
+                                                              "base_path":  "/government/publications/evaluation-strategy-programme-partnership-arrangements-ppa-and-global-poverty-action-fund-gpaf",
+                                                              "content_id":  "5e8dd3d3-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "independent_report",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2013-09-06T15:35:51Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Evaluation strategy: Programme Partnership Arrangements (PPA) and Global Poverty Action Fund (GPAF)",
+                                                              "web_url":  "https://www.gov.uk/government/publications/evaluation-strategy-programme-partnership-arrangements-ppa-and-global-poverty-action-fund-gpaf",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/international/international-aid-and-development",
+                                     "api_url":  "https://www.gov.uk/api/content/international/international-aid-and-development",
+                                     "base_path":  "/international/international-aid-and-development",
+                                     "content_id":  "9fb30a53-70fb-4f1c-878b-0064b202d1ba",
+                                     "details":  {
+                                                     "internal_name":  "International aid and development [PA]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/international",
+                                                                             "api_url":  "https://www.gov.uk/api/content/international",
+                                                                             "base_path":  "/international",
+                                                                             "content_id":  "37d0fa26-abed-4c74-8835-b3b51ae1c8b2",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "International",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:30:28Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "International",
+                                                                             "web_url":  "https://www.gov.uk/international",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-05T16:14:19Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "International aid and development",
+                                     "web_url":  "https://www.gov.uk/international/international-aid-and-development",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2014-08-12T10:48:13+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1713887749.587-10.13.33.117-628",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Global Poverty Action Fund (GPAF)",
+    "updated_at":  "2024-04-23T16:55:51+01:00",
+    "withdrawn_notice":  {
+                             "explanation":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eThis fund is now closed.\u003c/p\u003e\n\u003c/div\u003e",
+                             "withdrawn_at":  "2020-10-07T11:46:17Z"
+                         }
+}

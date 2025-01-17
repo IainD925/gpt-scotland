@@ -1,0 +1,455 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/cost-utility-analysis-health-economic-studies",
+    "content_id":  "754a03bf-2b71-4b26-9599-22696bdb6276",
+    "description":  "How to use a cost utility analysis to evaluate your digital health product.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eThis page is part of a \u003ca href=\"https://www.gov.uk/government/collections/evaluating-digital-health-products\" class=\"govuk-link\"\u003ecollection of guidance on evaluating digital health products\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eCost utility analysis (\u003cabbr title=\"Cost utility analysis\"\u003eCUA\u003c/abbr\u003e) is one type of economic evaluation that can help you compare the costs and effects of alternative interventions. \u003cabbr title=\"Cost utility analysis\"\u003eCUA\u003c/abbr\u003e measures health effects in terms of both quantity (life years) and quality of life. These are combined into a single measure of health: quality-adjusted life years (\u003cabbr title=\"quality-adjusted life years\"\u003eQALYs\u003c/abbr\u003e).\u003c/p\u003e\n\n\u003cp\u003e\u003cabbr title=\"Cost utility analysis\"\u003eCUA\u003c/abbr\u003e can help you understand how far your product extends people’s lives (life year gains) and improves the quality of life compared to alternative options. The incremental cost and incremental effect (\u003cabbr title=\"quality-adjusted life year\"\u003eQALY\u003c/abbr\u003e) of your product is then combined into a single metric, the cost per \u003cabbr title=\"quality-adjusted life year\"\u003eQALY\u003c/abbr\u003e (or incremental cost-effectiveness ratio).\u003c/p\u003e\n\n\u003cp\u003e\u003cabbr title=\"Cost utility analysis\"\u003eCUA\u003c/abbr\u003e studies are routinely used in the UK to inform resource allocation decisions across different healthcare settings. For example, they help inform decisions made by the \u003ca rel=\"external\" href=\"https://www.nice.org.uk/\" class=\"govuk-link\"\u003eNational Institute for Health and Care Excellence (\u003cabbr title=\"National Institute for Health and Care Excellence\"\u003eNICE\u003c/abbr\u003e)\u003c/a\u003e about which drugs and medical devices to provide in the English NHS.\u003c/p\u003e\n\n\u003ch2 id=\"what-to-use-it-for\"\u003eWhat to use it for\u003c/h2\u003e\n\n\u003cp\u003eUse a cost utility analysis when:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eyou want to assess the value for money of a digital product that might be funded by the NHS\u003c/li\u003e\n  \u003cli\u003eyou need to establish the cost-effectiveness of a product that is likely to involve a high financial commitment from the payer\u003c/li\u003e\n  \u003cli\u003eboth quantity and quality of life are important dimensions of the health benefits from using your product\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"pros\"\u003ePros\u003c/h2\u003e\n\n\u003cp\u003eAdvantages include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003cabbr title=\"quality-adjusted life years\"\u003eQALYs\u003c/abbr\u003e show health benefits in terms of both quantity and quality of life\u003c/li\u003e\n  \u003cli\u003e\n\u003cabbr title=\"Cost utility analysis\"\u003eCUA\u003c/abbr\u003e facilitates comparisons across different health interventions and policies by using a common unit of effect (\u003cabbr title=\"quality-adjusted life year\"\u003eQALY\u003c/abbr\u003e)\u003c/li\u003e\n  \u003cli\u003e\n\u003cabbr title=\"Cost utility analysis\"\u003eCUA\u003c/abbr\u003e can inform resource allocation decisions across different healthcare settings\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"cons\"\u003eCons\u003c/h2\u003e\n\n\u003cp\u003eDrawbacks include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003equality of life measures tend to be more subjective than clinical measures\u003c/li\u003e\n  \u003cli\u003egeneric health-related quality of life instruments can be less accurate at capturing subtle health effects, for example, effects on mental health\u003c/li\u003e\n  \u003cli\u003e\n\u003cabbr title=\"Cost utility analysis\"\u003eCUA\u003c/abbr\u003e does not capture non-health effects\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"how-to-carry-out-a-cost-utility-analysis\"\u003eHow to carry out a cost utility analysis\u003c/h2\u003e\n\n\u003cp\u003eYou should follow the \u003ca href=\"https://www.gov.uk/guidance/economic-evaluation-health-economic-studies\" class=\"govuk-link\"\u003egeneral considerations for any economic evaluation study\u003c/a\u003e. There are also points that are particularly relevant to cost utility analysis (\u003cabbr title=\"Cost utility analysis\"\u003eCUA\u003c/abbr\u003e):\u003c/p\u003e\n\n\u003ch3 id=\"choosing-your-study-perspective\"\u003eChoosing your study perspective\u003c/h3\u003e\n\n\u003cp\u003e\u003cabbr title=\"Cost utility analysis\"\u003eCUA\u003c/abbr\u003e studies aim to inform resource allocation to achieve maximum population health for a given health budget. In principle, they should take a broad societal perspective. This would consider all costs, whoever incurs them, and effects beyond the patient.\u003c/p\u003e\n\n\u003cp\u003eHowever, quantifying the costs and effects to everyone directly or indirectly affected by a digital health product can be very challenging. As a result, \u003cabbr title=\"Cost utility analysis\"\u003eCUA\u003c/abbr\u003e usually adopts the perspective of the NHS and personal social services. This is the viewpoint recommended by \u003cabbr title=\"National Institute for Health and Care Excellence\"\u003eNICE\u003c/abbr\u003e for its Health Technology Appraisal Programme.\u003c/p\u003e\n\n\u003ch3 id=\"measuring-effects\"\u003eMeasuring effects\u003c/h3\u003e\n\n\u003cp\u003e\u003cabbr title=\"quality-adjusted life years\"\u003eQALYs\u003c/abbr\u003e attempt to combine the effects of your product on both mortality (how long people live for) and morbidity (how well people are). One \u003cabbr title=\"quality-adjusted life year\"\u003eQALY\u003c/abbr\u003e represents one year of life in full health. To calculate \u003cabbr title=\"quality-adjusted life years\"\u003eQALYs\u003c/abbr\u003e, you will need to measure:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003elife years\u003c/li\u003e\n  \u003cli\u003ehealth-related quality of life (\u003cabbr title=\"health-related quality of life\"\u003eHRQL\u003c/abbr\u003e)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eLife years are estimates of how far an intervention extends life.\u003c/p\u003e\n\n\u003cp\u003e\u003cabbr title=\"health-related quality of life\"\u003eHRQL\u003c/abbr\u003e reflects an individual’s perceptions of their own health, shown as specific health states or dimensions.\u003c/p\u003e\n\n\u003cp\u003eThere are many ways to measure \u003cabbr title=\"health-related quality of life\"\u003eHRQL\u003c/abbr\u003e. The most widely used are generic measures, such as the \u003ca rel=\"external\" href=\"https://euroqol.org/\" class=\"govuk-link\"\u003e5-dimension EuroQol (EQ-5D)\u003c/a\u003e and the \u003ca rel=\"external\" href=\"https://www.rand.org/health-care/surveys_tools/mos/36-item-short-form.html\" class=\"govuk-link\"\u003e36-item Sort Form Survey (SF-36)\u003c/a\u003e. Each measures ask individuals to describe their health across different domains.\u003c/p\u003e\n\n\u003cp\u003eFor example, the EQ-5D measure includes 5 dimensions:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003emobility\u003c/li\u003e\n  \u003cli\u003eself-care\u003c/li\u003e\n  \u003cli\u003eusual activities\u003c/li\u003e\n  \u003cli\u003epain or discomfort\u003c/li\u003e\n  \u003cli\u003eanxiety or depression\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003ePatients indicate their own health state by answering how they feel across the different health domains. Each health state is then assigned a value, taken from the general public, to generate an \u003cabbr title=\"health-related quality of life\"\u003eHRQL\u003c/abbr\u003e score. For example, the EQ-5D score uses a scale from 0 (death) to 1 (perfect health).\u003c/p\u003e\n\n\u003cp\u003e\u003cabbr title=\"quality-adjusted life years\"\u003eQALYs\u003c/abbr\u003e are calculated by multiplying the time spent in a particular health state by the corresponding \u003cabbr title=\"health-related quality of life\"\u003eHRQL\u003c/abbr\u003e score. For instance, if a digital product for managing heart failure extends a person’s life by 5 years at a quality of life by 0.8, compared to an alternative option, then it would generate 4 (5x0.8) \u003cabbr title=\"quality-adjusted life years\"\u003eQALYs\u003c/abbr\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"reporting-the-results\"\u003eReporting the results\u003c/h3\u003e\n\n\u003cp\u003eTo summarise the relative cost-effectiveness of your product compared to alternative products, you should report an incremental cost effectiveness ratio (\u003cabbr title=\"incremental cost effectiveness ratio\"\u003eICER\u003c/abbr\u003e). The \u003cabbr title=\"incremental cost effectiveness ratio\"\u003eICER\u003c/abbr\u003e is calculated by taking the ratio between the incremental cost and the incremental \u003cabbr title=\"quality-adjusted life year\"\u003eQALY\u003c/abbr\u003e, which gives you the cost per additional \u003cabbr title=\"quality-adjusted life year\"\u003eQALY\u003c/abbr\u003e gained.\u003c/p\u003e\n\n\u003cp\u003eFor example, a digital product for managing heart failure generates 4 \u003cabbr title=\"quality-adjusted life years\"\u003eQALYs\u003c/abbr\u003e compared to an alternative option. If that digital product costs £4,000 more than the alternative, then the \u003cabbr title=\"incremental cost effectiveness ratio\"\u003eICER\u003c/abbr\u003e would be £4,000 divided by 4, that is £1,000 per \u003cabbr title=\"quality-adjusted life year\"\u003eQALY\u003c/abbr\u003e.\u003c/p\u003e\n\n\u003cp\u003eThis measure is useful to inform resource allocation decisions at national level. It allows a quick assessment of whether a specific product is cost-effective by identifying whether the \u003cabbr title=\"incremental cost effectiveness ratio\"\u003eICER\u003c/abbr\u003e is below the maximum a decision-maker is willing to pay for a \u003cabbr title=\"quality-adjusted life year\"\u003eQALY\u003c/abbr\u003e.\u003c/p\u003e\n\n\u003cp\u003eFor example, the cost per \u003cabbr title=\"quality-adjusted life year\"\u003eQALY\u003c/abbr\u003e threshold by \u003cabbr title=\"National Institute for Health and Care Excellence\"\u003eNICE\u003c/abbr\u003e for England and Wales is between £20,000 and £30,000. The example digital product for managing heart failure would be judged highly cost-effective because its \u003cabbr title=\"incremental cost effectiveness ratio\"\u003eICER\u003c/abbr\u003e (£1,000 per \u003cabbr title=\"quality-adjusted life year\"\u003eQALY\u003c/abbr\u003e) is well below this threshold.\u003c/p\u003e\n\n\u003ch2 id=\"example-the-pas-study\"\u003eExample: the \u003cabbr title=\"Personal Advice in Stopping Smoking\"\u003ePAS\u003c/abbr\u003e study\u003c/h2\u003e\n\n\u003cp\u003eSee Smit and others (2013): \u003ca rel=\"external\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3636293/\" class=\"govuk-link\"\u003eCost-effectiveness and cost-utility of internet-based computer tailoring for Smoking Cessation\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eThe Personal Advice in Stopping Smoking (\u003cabbr title=\"Personal Advice in Stopping Smoking\"\u003ePAS\u003c/abbr\u003e) programme for smoking cessation combined multiple computer tailoring and tailored counselling by a practice nurse. The multiple computer tailoring consisted of computer-generated letters personalised according to patient characteristics.\u003c/p\u003e\n\n\u003cp\u003eThe \u003cabbr title=\"Cost utility analysis\"\u003eCUA\u003c/abbr\u003e compared 3 options:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe \u003cabbr title=\"Personal Advice in Stopping Smoking\"\u003ePAS\u003c/abbr\u003e intervention\u003c/li\u003e\n  \u003cli\u003emultiple computer tailoring only\u003c/li\u003e\n  \u003cli\u003eusual care\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eAs well as the main clinical outcome (smoking abstinence), the \u003cabbr title=\"Cost utility analysis\"\u003eCUA\u003c/abbr\u003e considered health-related quality of life at 12 months, measured using the EuroQol EQ-5D.\u003c/p\u003e\n\n\u003cp\u003eThe \u003cabbr title=\"Cost utility analysis\"\u003eCUA\u003c/abbr\u003e took a societal perspective and considered costs to the healthcare system as well as to the patient:\u003c/p\u003e\n\n\u003ch3 id=\"intervention-costs\"\u003eIntervention costs\u003c/h3\u003e\n\n\u003cp\u003eThese included resources needed for the delivery of the web-based multiple computer tailoring and the nurse counselling sessions.\u003c/p\u003e\n\n\u003cp\u003eCosts of the digital component related to hosting and maintenance of the website. They excluded development and research-specific costs because those had been incurred before the relevant implementation period.\u003c/p\u003e\n\n\u003ch3 id=\"healthcare-resources\"\u003eHealthcare resources\u003c/h3\u003e\n\u003cp\u003eThese included healthcare resources used in:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eprimary care (\u003cabbr title=\"general practitioner\"\u003eGP\u003c/abbr\u003e and nurse consultations)\u003c/li\u003e\n  \u003cli\u003esecondary care (hospital admissions)\u003c/li\u003e\n  \u003cli\u003ecommunity services (mental health and alternative support)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eResource use data were collected for both the intervention and control groups using the study’s case report forms.\u003c/p\u003e\n\n\u003ch3 id=\"patient-costs\"\u003ePatient costs\u003c/h3\u003e\n\n\u003cp\u003eThese included costs to patients of:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003etravel\u003c/li\u003e\n  \u003cli\u003etime lost through participating in the interventions\u003c/li\u003e\n  \u003cli\u003eover-the-counter drugs\u003c/li\u003e\n  \u003cli\u003einformal care\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eData were collected retrospectively using self-reported questionnaires.\u003c/p\u003e\n\n\u003cp\u003eThe researchers used the updated Dutch manual for cost analysis in healthcare research to value healthcare resources. Unit costs for informal care were based on estimated unpaid work rates. Time lost due to the intervention was costed using average earnings.\u003c/p\u003e\n\n\u003cp\u003eThe \u003cabbr title=\"Cost utility analysis\"\u003eCUA\u003c/abbr\u003e found that multiple computer tailoring only was clearly not cost-effective because it cost more than usual care and provided fewer \u003cabbr title=\"quality-adjusted life years\"\u003eQALYs\u003c/abbr\u003e.\u003c/p\u003e\n\n\u003cp\u003eThe \u003cabbr title=\"Personal Advice in Stopping Smoking\"\u003ePAS\u003c/abbr\u003e programme was relatively more expensive (incremental costs were €806), and provided a small additional benefit (0.02 \u003cabbr title=\"quality-adjusted life years\"\u003eQALYs\u003c/abbr\u003e) compared to usual care. This resulted in a cost per \u003cabbr title=\"quality-adjusted life year\"\u003eQALY\u003c/abbr\u003e of €40,000.\u003c/p\u003e\n\n\u003cp\u003eBecause the recommended willingness to pay for a \u003cabbr title=\"quality-adjusted life year\"\u003eQALY\u003c/abbr\u003e gain in the Dutch system is €18,000, the \u003cabbr title=\"Cost utility analysis\"\u003eCUA\u003c/abbr\u003e study concluded that usual care was the most cost-effective option.\u003c/p\u003e\n\n\u003ch2 id=\"more-information-and-resources\"\u003eMore information and resources\u003c/h2\u003e\n\n\u003cp\u003eKidholm and others (2016): \u003ca rel=\"external\" href=\"https://pubmed.ncbi.nlm.nih.gov/26713491/\" class=\"govuk-link\"\u003eCost-utility analysis of a cardiac rehabilitation program: the Teledialog project\u003c/a\u003e. The \u003cabbr title=\"Cost utility analysis\"\u003eCUA\u003c/abbr\u003e suggested that the total cost of the app-based cardiac rehabilitation programme (Teledialog) was about €1,700 higher than the usual rehab in a hospital setting. The \u003cabbr title=\"quality-adjusted life year\"\u003eQALY\u003c/abbr\u003e gain (\u003cabbr title=\"health-related quality of life\"\u003eHRQL\u003c/abbr\u003e was measured using the SF-36 instrument) associated with Teledialog was very small (0.004). The resulting \u003cabbr title=\"incremental cost effectiveness ratio\"\u003eICER\u003c/abbr\u003e was about €484,000, suggesting that the digital rehab programme was unlikely to be cost-effective.\u003c/p\u003e\n\n\u003cp\u003eWarmerdam and others (2010): \u003ca rel=\"external\" href=\"https://www.jmir.org/2010/5/e53/\" class=\"govuk-link\"\u003eCost-utility and cost-effectiveness of internet-based treatment for adults with depressive symptoms\u003c/a\u003e. The study compared an internet-based cognitive behavioural therapy, an internet-based problem-solving therapy, and usual care. It found that both costs and \u003cabbr title=\"quality-adjusted life years\"\u003eQALYs\u003c/abbr\u003e (\u003cabbr title=\"health-related quality of life\"\u003eHRQL\u003c/abbr\u003e was measured using the EQ-5D instrument) were similar across the comparison groups. Both internet-based interventions appeared to be cost-effective compared to usual care, but problem-solving therapy was the most cost effective with a cost per \u003cabbr title=\"quality-adjusted life year\"\u003eQALY\u003c/abbr\u003e of €11,523.\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2020-10-13T14:50:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "e85f9a3f-451d-4a3e-9b63-17b13149269f"
+                                                 ],
+                    "first_public_at":  "2020-10-13T14:50:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2020-10-13T14:50:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/cost-utility-analysis-health-economic-studies",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/cost-utility-analysis-health-economic-studies",
+                                                     "base_path":  "/guidance/cost-utility-analysis-health-economic-studies",
+                                                     "content_id":  "754a03bf-2b71-4b26-9599-22696bdb6276",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2020-10-13T13:50:00Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Cost utility analysis: health economic studies",
+                                                     "web_url":  "https://www.gov.uk/guidance/cost-utility-analysis-health-economic-studies",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/evaluating-digital-health-products",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/evaluating-digital-health-products",
+                                                   "base_path":  "/government/collections/evaluating-digital-health-products",
+                                                   "content_id":  "9f286c51-0fa2-43c0-abc3-988f75423e36",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/cost-utility-analysis-health-economic-studies",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/cost-utility-analysis-health-economic-studies",
+                                                                                       "base_path":  "/guidance/cost-utility-analysis-health-economic-studies",
+                                                                                       "content_id":  "754a03bf-2b71-4b26-9599-22696bdb6276",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2020-10-13T13:50:00Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Cost utility analysis: health economic studies",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/cost-utility-analysis-health-economic-studies",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2021-10-19T09:59:42Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Evaluating digital health products",
+                                                   "web_url":  "https://www.gov.uk/government/collections/evaluating-digital-health-products",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  true,
+                                                         "ended_on":  null,
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "OT1341",
+                                            "api_path":  "/api/content/government/organisations/office-for-health-improvement-and-disparities",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/office-for-health-improvement-and-disparities",
+                                            "base_path":  "/government/organisations/office-for-health-improvement-and-disparities",
+                                            "content_id":  "e85f9a3f-451d-4a3e-9b63-17b13149269f",
+                                            "details":  {
+                                                            "acronym":  "OHID",
+                                                            "brand":  "department-of-health",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/6155e1378fa8f5297cc029fc/s960_39vs-at-night.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/6155e1378fa8f52985dd7449/s300_39vs-at-night.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Office for Health\u003cbr/\u003eImprovement \u003cbr/\u003e\u0026amp; Disparities"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Office for Health Improvement and Disparities",
+                                            "web_url":  "https://www.gov.uk/government/organisations/office-for-health-improvement-and-disparities",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA480",
+                                                                       "api_path":  "/api/content/government/organisations/public-health-england",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/public-health-england",
+                                                                       "base_path":  "/government/organisations/public-health-england",
+                                                                       "content_id":  "1343f283-19e9-4fbb-86b1-58c7549d874b",
+                                                                       "details":  {
+                                                                                       "acronym":  "PHE",
+                                                                                       "brand":  "department-of-health",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db2de5274a7908e352ef/s960_sign5.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5a37db2d40f0b649cceb18bf/s300_sign5.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Public Health \u003cbr/\u003eEngland"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "split",
+                                                                                                                         "updated_at":  "2021-10-01T00:00:00.000+01:00",
+                                                                                                                         "url":  "https://www.gov.uk/phe"
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Public Health England",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/public-health-england",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "OT1341",
+                                                              "api_path":  "/api/content/government/organisations/office-for-health-improvement-and-disparities",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/office-for-health-improvement-and-disparities",
+                                                              "base_path":  "/government/organisations/office-for-health-improvement-and-disparities",
+                                                              "content_id":  "e85f9a3f-451d-4a3e-9b63-17b13149269f",
+                                                              "details":  {
+                                                                              "acronym":  "OHID",
+                                                                              "brand":  "department-of-health",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/6155e1378fa8f5297cc029fc/s960_39vs-at-night.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/6155e1378fa8f52985dd7449/s300_39vs-at-night.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Office for Health\u003cbr/\u003eImprovement \u003cbr/\u003e\u0026amp; Disparities"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Office for Health Improvement and Disparities",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/office-for-health-improvement-and-disparities",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/economic-evaluation-health-economic-studies",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/economic-evaluation-health-economic-studies",
+                                                              "base_path":  "/guidance/economic-evaluation-health-economic-studies",
+                                                              "content_id":  "f02df372-4ae1-4357-871a-0f8be526eeda",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-05-19T09:38:16Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Economic evaluation: health economic studies",
+                                                              "web_url":  "https://www.gov.uk/guidance/economic-evaluation-health-economic-studies",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/define-how-your-product-works-evaluating-digital-health-products",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/define-how-your-product-works-evaluating-digital-health-products",
+                                                              "base_path":  "/guidance/define-how-your-product-works-evaluating-digital-health-products",
+                                                              "content_id":  "993dedba-2748-4b51-8181-4851b49d4d13",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-07-06T10:53:55Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Define how your product works: evaluating digital health products",
+                                                              "web_url":  "https://www.gov.uk/guidance/define-how-your-product-works-evaluating-digital-health-products",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/carry-out-your-evaluation-evaluating-digital-health-products",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/carry-out-your-evaluation-evaluating-digital-health-products",
+                                                              "base_path":  "/guidance/carry-out-your-evaluation-evaluating-digital-health-products",
+                                                              "content_id":  "975b6fb7-2db1-4739-8df0-1d7ef8932f2d",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-01-30T17:00:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Carry out your evaluation: evaluating digital health products",
+                                                              "web_url":  "https://www.gov.uk/guidance/carry-out-your-evaluation-evaluating-digital-health-products",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/cost-effectiveness-analysis-health-economic-studies",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/cost-effectiveness-analysis-health-economic-studies",
+                                                              "base_path":  "/guidance/cost-effectiveness-analysis-health-economic-studies",
+                                                              "content_id":  "822f16ec-7b5c-40d3-96eb-30b863a3d21f",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-10-13T13:50:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Cost effectiveness analysis: health economic studies",
+                                                              "web_url":  "https://www.gov.uk/guidance/cost-effectiveness-analysis-health-economic-studies",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/use-your-results-evaluating-digital-health-products",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/use-your-results-evaluating-digital-health-products",
+                                                              "base_path":  "/guidance/use-your-results-evaluating-digital-health-products",
+                                                              "content_id":  "8c34fb91-5703-435d-bc42-02c7816a451f",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-01-30T17:00:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Use your results: evaluating digital health products",
+                                                              "web_url":  "https://www.gov.uk/guidance/use-your-results-evaluating-digital-health-products",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/health-and-social-care/health-improvement",
+                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care/health-improvement",
+                                     "base_path":  "/health-and-social-care/health-improvement",
+                                     "content_id":  "42350cb9-f4ab-4e4c-abfb-b5662f3d14f4",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Health improvement",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/health-and-social-care/public-health",
+                                                                             "api_url":  "https://www.gov.uk/api/content/health-and-social-care/public-health",
+                                                                             "base_path":  "/health-and-social-care/public-health",
+                                                                             "content_id":  "d6a4884e-769d-4b81-8ba5-b64394362d92",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Public health",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/health-and-social-care",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care",
+                                                                                                                     "base_path":  "/health-and-social-care",
+                                                                                                                     "content_id":  "8124ead8-8ebc-4faf-88ad-dd5cbcc92ba8",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Health and social care",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:30:51Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Health and social care",
+                                                                                                                     "web_url":  "https://www.gov.uk/health-and-social-care",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-17T15:15:14Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Public health",
+                                                                             "web_url":  "https://www.gov.uk/health-and-social-care/public-health",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-17T15:16:49Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Health improvement",
+                                     "web_url":  "https://www.gov.uk/health-and-social-care/health-improvement",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/health-and-social-care/health-protection-services-research-testing-and-standards",
+                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care/health-protection-services-research-testing-and-standards",
+                                     "base_path":  "/health-and-social-care/health-protection-services-research-testing-and-standards",
+                                     "content_id":  "b19e0be5-22a3-4d79-b693-e42d7f3a608f",
+                                     "details":  {
+                                                     "internal_name":  "Research, testing and standards [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/health-and-social-care/health-protection",
+                                                                             "api_url":  "https://www.gov.uk/api/content/health-and-social-care/health-protection",
+                                                                             "base_path":  "/health-and-social-care/health-protection",
+                                                                             "content_id":  "30ba2d05-d0d6-4978-a5d6-707511894111",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Health protection",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/health-and-social-care/public-health",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care/public-health",
+                                                                                                                     "base_path":  "/health-and-social-care/public-health",
+                                                                                                                     "content_id":  "d6a4884e-769d-4b81-8ba5-b64394362d92",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Public health",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  false
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "parent_taxons":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-17T15:15:14Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Public health",
+                                                                                                                     "web_url":  "https://www.gov.uk/health-and-social-care/public-health",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2019-03-11T14:19:39Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Health protection",
+                                                                             "web_url":  "https://www.gov.uk/health-and-social-care/health-protection",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-08-22T12:56:17Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Research, testing and standards",
+                                     "web_url":  "https://www.gov.uk/health-and-social-care/health-protection-services-research-testing-and-standards",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2020-10-13T14:50:00+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "5125-1665064388.083-10.13.2.171-2191",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Cost utility analysis: health economic studies",
+    "updated_at":  "2024-07-04T14:57:03+01:00",
+    "withdrawn_notice":  {
+
+                         }
+}

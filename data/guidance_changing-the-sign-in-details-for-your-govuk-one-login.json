@@ -1,0 +1,295 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/changing-the-sign-in-details-for-your-govuk-one-login",
+    "content_id":  "2c8718ac-e053-4cb0-a224-6b233fd247d1",
+    "description":  "How to change the password, phone number or email address you use to sign in to your GOV.UK One Login.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003ch2 id=\"change-or-reset-your-password\"\u003eChange or reset your password\u003c/h2\u003e\n\n\u003ch3 id=\"change-your-password\"\u003eChange your password\u003c/h3\u003e\n\n\u003cp\u003eYou can change your password in your GOV.UK One Login. To do this:\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003e\n\u003ca href=\"https://www.gov.uk/account\" class=\"govuk-link\"\u003eSign in to your GOV.UK One Login\u003c/a\u003e.\u003c/li\u003e\n  \u003cli\u003eGo to ‘Security’.\u003c/li\u003e\n  \u003cli\u003eUnder ‘Your sign in details’, find the row for ‘Password’ and select ‘change’.\u003c/li\u003e\n  \u003cli\u003eEnter your current password and select ‘Continue’.\u003c/li\u003e\n  \u003cli\u003eEnter a new password and select ‘Continue’.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003ch3 id=\"reset-your-password\"\u003eReset your password\u003c/h3\u003e\n\n\u003cp\u003eIf you’ve forgotten your password, you can reset it. To do this:\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003eGo to \u003ca href=\"https://www.gov.uk/account\" class=\"govuk-link\"\u003esign in to your GOV.UK One Login\u003c/a\u003e.\u003c/li\u003e\n  \u003cli\u003eSelect ‘Sign in’.\u003c/li\u003e\n  \u003cli\u003eEnter your email address.\u003c/li\u003e\n  \u003cli\u003eOn the ‘Enter password’ screen, select the link that says ‘I’ve forgotten my password’.\u003c/li\u003e\n  \u003cli\u003eCheck your email for a security code.\u003c/li\u003e\n  \u003cli\u003eEnter the security code and select ‘Continue’.\u003c/li\u003e\n  \u003cli\u003eEnter another security code - you’ll get this by text message or from your authenticator app.\u003c/li\u003e\n  \u003cli\u003eEnter a new password and select ‘Continue’.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003ch2 id=\"change-your-phone-number\"\u003eChange your phone number\u003c/h2\u003e\n\n\u003cp\u003eYou can change the phone number you use to get security codes to sign in. To do this:\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003e\n\u003ca href=\"https://www.gov.uk/account\" class=\"govuk-link\"\u003eSign in to your GOV.UK One Login\u003c/a\u003e.\u003c/li\u003e\n  \u003cli\u003eGo to ‘Security’.\u003c/li\u003e\n  \u003cli\u003eUnder ‘How you get security codes’, find the row for ‘Text message’ and select ‘change’.\u003c/li\u003e\n  \u003cli\u003eEnter your password and select ‘Continue’.\u003c/li\u003e\n  \u003cli\u003eEnter a new phone number and select ‘Continue’.\u003c/li\u003e\n  \u003cli\u003eCheck your phone for a text message containing a security code.\u003c/li\u003e\n  \u003cli\u003eEnter the security code and select ‘Continue’.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003ch3 id=\"if-youve-lost-access-to-your-phone\"\u003eIf you’ve lost access to your phone\u003c/h3\u003e\n\n\u003cp\u003eIf you’ve lost access to your phone number or changed it, you can change how you get security codes, as long as you do not also need to reset your password.\u003c/p\u003e\n\n\u003cp\u003eTo change how you get security codes: \u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003e\n\u003ca href=\"https://www.gov.uk/account\" class=\"govuk-link\"\u003eSign in to your GOV.UK One Login\u003c/a\u003e.\u003c/li\u003e\n  \u003cli\u003eEnter your password.\u003c/li\u003e\n  \u003cli\u003eWhen asked to enter the security code, select ‘Problems with the code’.\u003c/li\u003e\n  \u003cli\u003eSelect ‘change how you get security codes’ - this will send a code to your email address.\u003c/li\u003e\n  \u003cli\u003eEnter the code from your email.\u003c/li\u003e\n  \u003cli\u003eChoose how you want to get security codes - this can be a new phone number or an authenticator app.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eYour old phone number will be deleted from your GOV.UK One Login.\u003c/p\u003e\n\n\u003ch2 id=\"change-your-email-address\"\u003eChange your email address\u003c/h2\u003e\n\n\u003cp\u003eYou can change your email address in your GOV.UK One Login. To do this:\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003e\n\u003ca href=\"https://www.gov.uk/account\" class=\"govuk-link\"\u003eSign in to your GOV.UK One Login\u003c/a\u003e.\u003c/li\u003e\n  \u003cli\u003eGo to ‘Security’.\u003c/li\u003e\n  \u003cli\u003eUnder ‘Your sign in details’, find the row for ‘Email’ and select ‘change’.\u003c/li\u003e\n  \u003cli\u003eEnter your password and select ‘Continue’.\u003c/li\u003e\n  \u003cli\u003eEnter a new email address and select ‘Continue’.\u003c/li\u003e\n  \u003cli\u003eCheck your email for a security code.\u003c/li\u003e\n  \u003cli\u003eEnter the security code and select ‘Continue’.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cdiv class=\"call-to-action\"\u003e\n  \u003cp\u003e\u003ca rel=\"external\" href=\"https://home.account.gov.uk/contact-gov-uk-one-login?lng=en\" class=\"govuk-link\"\u003eContact GOV.UK One Login\u003c/a\u003e if you need more help.\u003c/p\u003e\n\u003c/div\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "The instructions for changing your phone number if you have lost access to your phone or changed your number have been updated to include the rule that you can only do this if you are not also resetting your password.",
+                                               "public_timestamp":  "2024-03-12T15:37:49.000+00:00"
+                                           },
+                                           {
+                                               "note":  "The steps for resetting your password have been updated.",
+                                               "public_timestamp":  "2024-02-28T15:23:07.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Added translation",
+                                               "public_timestamp":  "2023-10-26T00:00:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "af07d5a5-df63-4ddc-9383-6a666845ebe9"
+                                                 ],
+                    "first_public_at":  "2023-10-26T00:00:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+                                                       "327f2333-e77a-4642-a236-01009903e72c"
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2023-10-26T00:00:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/changing-the-sign-in-details-for-your-govuk-one-login.cy",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/changing-the-sign-in-details-for-your-govuk-one-login.cy",
+                                                     "base_path":  "/guidance/changing-the-sign-in-details-for-your-govuk-one-login.cy",
+                                                     "content_id":  "2c8718ac-e053-4cb0-a224-6b233fd247d1",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "cy",
+                                                     "public_updated_at":  "2024-03-12T15:37:49Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Newid y manylion mewngofnodi ar gyfer eich GOV.UK One Login",
+                                                     "web_url":  "https://www.gov.uk/guidance/changing-the-sign-in-details-for-your-govuk-one-login.cy",
+                                                     "withdrawn":  false
+                                                 },
+                                                 {
+                                                     "api_path":  "/api/content/guidance/changing-the-sign-in-details-for-your-govuk-one-login",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/changing-the-sign-in-details-for-your-govuk-one-login",
+                                                     "base_path":  "/guidance/changing-the-sign-in-details-for-your-govuk-one-login",
+                                                     "content_id":  "2c8718ac-e053-4cb0-a224-6b233fd247d1",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2024-03-12T15:37:49Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Changing the sign in details for your GOV.UK One Login",
+                                                     "web_url":  "https://www.gov.uk/guidance/changing-the-sign-in-details-for-your-govuk-one-login",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2022-to-2024-sunak-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2022-to-2024-sunak-conservative-government",
+                                         "base_path":  "/government/2022-to-2024-sunak-conservative-government",
+                                         "content_id":  "acbd9825-4303-45cf-85bc-20f200c146ff",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2024-07-05T00:00:00+00:00",
+                                                         "started_on":  "2022-10-25T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2022 to 2024 Sunak Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "OT1056",
+                                            "api_path":  "/api/content/government/organisations/government-digital-service",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+                                            "base_path":  "/government/organisations/government-digital-service",
+                                            "content_id":  "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+                                            "details":  {
+                                                            "acronym":  "GDS",
+                                                            "brand":  "department-for-science-innovation-and-technology",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Government Digital Service"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Government Digital Service",
+                                            "web_url":  "https://www.gov.uk/government/organisations/government-digital-service",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "OT1056",
+                                                                       "api_path":  "/api/content/government/organisations/government-digital-service",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+                                                                       "base_path":  "/government/organisations/government-digital-service",
+                                                                       "content_id":  "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+                                                                       "details":  {
+                                                                                       "acronym":  "GDS",
+                                                                                       "brand":  "department-for-science-innovation-and-technology",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Government Digital Service"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Government Digital Service",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/government-digital-service",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "OT1056",
+                                                              "api_path":  "/api/content/government/organisations/government-digital-service",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+                                                              "base_path":  "/government/organisations/government-digital-service",
+                                                              "content_id":  "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+                                                              "details":  {
+                                                                              "acronym":  "GDS",
+                                                                              "brand":  "department-for-science-innovation-and-technology",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Government Digital Service"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Government Digital Service",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/government-digital-service",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related_mainstream_content":  [
+                                                     {
+                                                         "api_path":  "/api/content/using-your-gov-uk-one-login",
+                                                         "api_url":  "https://www.gov.uk/api/content/using-your-gov-uk-one-login",
+                                                         "base_path":  "/using-your-gov-uk-one-login",
+                                                         "content_id":  "327f2333-e77a-4642-a236-01009903e72c",
+                                                         "document_type":  "guide",
+                                                         "links":  {
+
+                                                                   },
+                                                         "locale":  "en",
+                                                         "public_updated_at":  "2024-10-11T14:43:26Z",
+                                                         "schema_name":  "guide",
+                                                         "title":  "Using your GOV.UK One Login",
+                                                         "web_url":  "https://www.gov.uk/using-your-gov-uk-one-login",
+                                                         "withdrawn":  false
+                                                     }
+                                                 ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/government/technology-guidance-technology-guidance-identity-assurance",
+                                     "api_url":  "https://www.gov.uk/api/content/government/technology-guidance-technology-guidance-identity-assurance",
+                                     "base_path":  "/government/technology-guidance-technology-guidance-identity-assurance",
+                                     "content_id":  "28e3bfa0-7148-4ab4-8bd9-a839e0563869",
+                                     "details":  {
+                                                     "internal_name":  "Identity assurance [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/technology-guidance-digital-security",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/technology-guidance-digital-security",
+                                                                             "base_path":  "/government/technology-guidance-digital-security",
+                                                                             "content_id":  "578871e4-b755-4664-b0e6-1b2e8b841600",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Digital security",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/government/government-technology-and-digital-services",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/government/government-technology-and-digital-services",
+                                                                                                                     "base_path":  "/government/government-technology-and-digital-services",
+                                                                                                                     "content_id":  "90c9b9f1-0a4f-4639-b1e9-2bfb23d611bd",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Government technology and digital services",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  false
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "parent_taxons":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "beta",
+                                                                                                                     "public_updated_at":  "2018-08-28T10:56:47Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Government technology and digital services",
+                                                                                                                     "web_url":  "https://www.gov.uk/government/government-technology-and-digital-services",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "beta",
+                                                                             "public_updated_at":  "2018-08-20T09:26:15Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Digital security",
+                                                                             "web_url":  "https://www.gov.uk/government/technology-guidance-digital-security",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "beta",
+                                     "public_updated_at":  "2018-08-20T09:26:15Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Identity assurance",
+                                     "web_url":  "https://www.gov.uk/government/technology-guidance-technology-guidance-identity-assurance",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2024-03-12T15:37:49+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1720782129.942-10.13.21.75-2829",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Changing the sign in details for your GOV.UK One Login",
+    "updated_at":  "2024-11-20T10:33:34+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

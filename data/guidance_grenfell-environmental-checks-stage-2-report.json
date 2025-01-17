@@ -1,0 +1,709 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/grenfell-environmental-checks-stage-2-report",
+    "content_id":  "851d7a17-4150-4c9d-9488-d7a2160a2ca3",
+    "description":  "Full results of the second stage of environmental checks carried out on the soil around the Grenfell Tower site between May 2020 and April 2021.",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  251525,
+                                            "filename":  "Environmental_Checks_Summary.pdf",
+                                            "id":  "5375930",
+                                            "number_of_pages":  10,
+                                            "title":  "Grenfell environmental checks - Stage 2 results - summary  ",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60e869e3d3bf7f5689612815/Environmental_Checks_Summary.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  4208558,
+                                            "filename":  "Grenfell_Part_2A_Soil_Investigation_Non-technical_summary.pdf",
+                                            "id":  "5375933",
+                                            "number_of_pages":  21,
+                                            "title":  "Stage 2 investigation: non-technical summary",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60e84b4de90e0764d0ab7c68/Grenfell_Part_2A_Soil_Investigation_Non-technical_summary.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  7235426,
+                                            "filename":  "Grenfell_Part_2A_Soil_Investigation_full_report.pdf",
+                                            "id":  "5375938",
+                                            "number_of_pages":  174,
+                                            "title":  "Stage 2 investigation: full report",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60e84c62e90e0764c9ee4653/Grenfell_Part_2A_Soil_Investigation_full_report.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  135685,
+                                            "filename":  "PHE_Information_Sheet_Stage_2.pdf",
+                                            "id":  "5375939",
+                                            "number_of_pages":  2,
+                                            "title":  "Information sheet: public health summary",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60e84ce68fa8f50c7eee086c/PHE_Information_Sheet_Stage_2.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.ms-excel.sheet.macroEnabled.12",
+                                            "file_size":  3951036,
+                                            "filename":  "Full_data_set_and_by_location.xlsm",
+                                            "id":  "5375986",
+                                            "title":  "Full data set, and by location",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60e8518fe90e0764d36143ec/Full_data_set_and_by_location.xlsm"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.ms-excel.sheet.macroEnabled.12",
+                                            "file_size":  435757,
+                                            "filename":  "Summary_soil_results_data_above_GSC.xlsm",
+                                            "id":  "5375990",
+                                            "title":  "Results above screening levels by location",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60e851dd8fa8f50c7d6fcf27/Summary_soil_results_data_above_GSC.xlsm"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  8054754,
+                                            "filename":  "60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_A.pdf",
+                                            "id":  "5378365",
+                                            "number_of_pages":  25,
+                                            "title":  "Stage 2 investigation appendix A: figures",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60ec0e0cd3bf7f568dc8a499/60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_A.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  362665,
+                                            "filename":  "60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_B.pdf",
+                                            "id":  "5378367",
+                                            "number_of_pages":  32,
+                                            "title":  "Stage 2 investigation appendix B: tables",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60ec0e4ed3bf7f568be1e058/60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_B.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  155393748,
+                                            "filename":  "60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_C.pdf",
+                                            "id":  "5378371",
+                                            "number_of_pages":  338,
+                                            "title":  "Stage 2 investigation appendix C: data-gap assessments",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60ec0f42e90e0764cd989fc2/60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_C.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  378747,
+                                            "filename":  "60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_D.pdf",
+                                            "id":  "5378374",
+                                            "number_of_pages":  23,
+                                            "title":  "Stage 2 investigation appendix D: sampling procedures",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60ec103bd3bf7f568cde90c7/60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_D.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  9030693,
+                                            "filename":  "60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_E.pdf",
+                                            "id":  "5378378",
+                                            "number_of_pages":  48,
+                                            "title":  "Stage 2 investigation appendix E: sample location figures",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60ec1073e90e0764ce8266a8/60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_E.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  87865649,
+                                            "filename":  "60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_F.pdf",
+                                            "id":  "5378379",
+                                            "number_of_pages":  475,
+                                            "title":  "Stage 2 investigation appendix F: field sampling notes and photologs",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60ec1109d3bf7f568a2d9349/60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_F.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  13415900,
+                                            "filename":  "60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_G.pdf",
+                                            "id":  "5378381",
+                                            "number_of_pages":  50,
+                                            "title":  "Stage 2 investigation appendix G: lead concentration in soil figures",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60ec123ae90e0764d0ab7c83/60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_G.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  12544865,
+                                            "filename":  "60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_H.pdf",
+                                            "id":  "5378430",
+                                            "number_of_pages":  49,
+                                            "title":  "Stage 2 investigation appendix H: benzo(a)pyrene concentration in soil figures",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60ec1376d3bf7f568961282e/60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_H.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  5829606,
+                                            "filename":  "60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_I.pdf",
+                                            "id":  "5378438",
+                                            "number_of_pages":  22,
+                                            "title":  "Stage 2 investigation appendix I: asbestos identification in soil figures",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60ec1521e90e0764d3614401/60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_I.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  2970547,
+                                            "filename":  "60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_J.pdf",
+                                            "id":  "5378457",
+                                            "number_of_pages":  296,
+                                            "title":  "Stage 2 investigation appendix J: quantitative risk assessment",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60ec17df8fa8f50c774581f7/60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_J.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  22902833,
+                                            "filename":  "60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_K.pdf",
+                                            "id":  "5378483",
+                                            "number_of_pages":  700,
+                                            "title":  "Stage 2 investigation appendix K: laboratory information",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60ec1a98e90e0764cfc22961/60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_K.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  51240722,
+                                            "filename":  "60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_L.pdf",
+                                            "id":  "5378491",
+                                            "number_of_pages":  308,
+                                            "title":  "Stage 2 investigation appendix L: Envirocheck reports",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60ec1c6ae90e0764c6eb38d9/60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_L.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  261065,
+                                            "filename":  "SQP_Sign-off_Declaration_Stage_2.pdf",
+                                            "id":  "5378493",
+                                            "number_of_pages":  3,
+                                            "title":  "Senior qualified person (SQP) declaration sign-off",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60ec1cca8fa8f50c7450eb0c/SQP_Sign-off_Declaration_Stage_2.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alternativeformats@communities.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.ms-excel.sheet.macroEnabled.12",
+                                            "file_size":  175449,
+                                            "filename":  "Stage_2_Chart_Chemicals_and_Guidelines.xlsm",
+                                            "id":  "5378494",
+                                            "title":  "Stage 2 chart chemicals and guidelines",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60ec1cead3bf7f568ffe86e1/Stage_2_Chart_Chemicals_and_Guidelines.xlsm"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003ch2 id=\"introduction\"\u003e1.\tIntroduction\u003c/h2\u003e\n\n\u003cp\u003eEnvironmental checks in and around Grenfell Tower were announced in October 2018. Stage 1, of a two-stage programme, was carried out over the spring and summer of 2019 and the full \u003ca href=\"https://www.gov.uk/guidance/grenfell-environmental-checks-stage-1-report\" class=\"govuk-link\"\u003eStage 1 report\u003c/a\u003e was published in October 2019. Stage 1 informed the design of Stage 2 which involves more extensive soil sampling and analysis.\u003c/p\u003e\n\n\u003cp\u003eThe initial results of Stage 2 were shared with residents. We have now published the full Stage 2 report, produced by the independent specialists, AECOM, on behalf of the Multi-Agency Partnership, which is responsible for overseeing the programme.\u003c/p\u003e\n\n\u003cp\u003eThe full Stage 2 report provides a non-technical summary, a detailed technical report and appendices which provide detailed background information and all the data from the sampling.\u003c/p\u003e\n\n\u003ch2 id=\"summary-of-report-and-next-steps\"\u003e2.\tSummary of report and next steps\u003c/h2\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/60e869e3d3bf7f5689612815/Environmental_Checks_Summary.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/60e869e3e90e0764c593829e/thumbnail_Environmental_Checks_Summary.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/60e869e3d3bf7f5689612815/Environmental_Checks_Summary.pdf\"\u003eGrenfell environmental checks - Stage 2 results - summary  \u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e246 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e10 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n\u003c/div\u003e\u003c/section\u003e\n\n\u003ch2 id=\"report-documents\"\u003e3.\tReport documents\u003c/h2\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/60e84b4de90e0764d0ab7c68/Grenfell_Part_2A_Soil_Investigation_Non-technical_summary.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/60e84b4dd3bf7f568be1e040/thumbnail_Grenfell_Part_2A_Soil_Investigation_Non-technical_summary.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/60e84b4de90e0764d0ab7c68/Grenfell_Part_2A_Soil_Investigation_Non-technical_summary.pdf\"\u003eStage 2 investigation: non-technical summary\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e4.01 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e21 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n\u003c/div\u003e\u003c/section\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/60e84c62e90e0764c9ee4653/Grenfell_Part_2A_Soil_Investigation_full_report.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/60e84c628fa8f50c70bc65b4/thumbnail_Grenfell_Part_2A_Soil_Investigation_full_report.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/60e84c62e90e0764c9ee4653/Grenfell_Part_2A_Soil_Investigation_full_report.pdf\"\u003eStage 2 investigation: full report\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e6.9 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e174 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n\u003c/div\u003e\u003c/section\u003e\n\n\u003ch3 id=\"appendices\"\u003eAppendices\u003c/h3\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/60ec0e0cd3bf7f568dc8a499/60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_A.pdf\"\u003eStage 2 investigation appendix A: figures\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e7.68 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e25 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/60ec0e4ed3bf7f568be1e058/60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_B.pdf\"\u003eStage 2 investigation appendix B: tables\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e354 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e32 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/60ec0f42e90e0764cd989fc2/60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_C.pdf\"\u003eStage 2 investigation appendix C: data-gap assessments\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e148 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e338 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/60ec103bd3bf7f568cde90c7/60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_D.pdf\"\u003eStage 2 investigation appendix D: sampling procedures\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e370 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e23 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/60ec1073e90e0764ce8266a8/60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_E.pdf\"\u003eStage 2 investigation appendix E: sample location figures\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e8.61 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e48 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/60ec1109d3bf7f568a2d9349/60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_F.pdf\"\u003eStage 2 investigation appendix F: field sampling notes and photologs\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e83.8 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e475 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/60ec123ae90e0764d0ab7c83/60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_G.pdf\"\u003eStage 2 investigation appendix G: lead concentration in soil figures\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e12.8 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e50 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/60ec1376d3bf7f568961282e/60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_H.pdf\"\u003eStage 2 investigation appendix H: benzo(a)pyrene concentration in soil figures\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e12 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e49 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/60ec1521e90e0764d3614401/60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_I.pdf\"\u003eStage 2 investigation appendix I: asbestos identification in soil figures\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e5.56 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e22 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/60ec17df8fa8f50c774581f7/60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_J.pdf\"\u003eStage 2 investigation appendix J: quantitative risk assessment\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e2.83 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e296 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/60ec1a98e90e0764cfc22961/60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_K.pdf\"\u003eStage 2 investigation appendix K: laboratory information\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e21.8 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e700 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/60ec1c6ae90e0764c6eb38d9/60632092_Grenfell_Part_2A_Soil_Investigation_FINAL_11_June_21_Appendix_L.pdf\"\u003eStage 2 investigation appendix L: Envirocheck reports\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e48.9 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e308 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"public-health-advice\"\u003e4.\tPublic health advice\u003c/h2\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/60e84ce68fa8f50c7eee086c/PHE_Information_Sheet_Stage_2.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/60e84ce6d3bf7f5688e5d8fd/thumbnail_PHE_Information_Sheet_Stage_2.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/60e84ce68fa8f50c7eee086c/PHE_Information_Sheet_Stage_2.pdf\"\u003eInformation sheet: public health summary\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e133 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e2 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n\u003c/div\u003e\u003c/section\u003e\n\n\u003ch2 id=\"full-sampling-data\"\u003e5.\tFull sampling data\u003c/h2\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/60e8518fe90e0764d36143ec/Full_data_set_and_by_location.xlsm\"\u003e\n        \u003csvg class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--generic\" version=\"1.1\" viewbox=\"0 0 84 120\" width=\"84\" height=\"120\" aria-hidden=\"true\"\u003e\n  \u003cpath d=\"M74.85 5v106H5\" fill=\"none\" stroke-miterlimit=\"10\" stroke-width=\"2\"\u003e\u003c/path\u003e\n  \u003cpath d=\"M79.85 10v106H10\" fill=\"none\" stroke-miterlimit=\"10\" stroke-width=\"2\"\u003e\u003c/path\u003e\n\u003c/svg\u003e\n\n\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/60e8518fe90e0764d36143ec/Full_data_set_and_by_location.xlsm\"\u003eFull data set, and by location\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e3.77 MB\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:alternativeformats@communities.gov.uk\" target=\"_blank\" class=\"govuk-link\"\u003ealternativeformats@communities.gov.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/60e851dd8fa8f50c7d6fcf27/Summary_soil_results_data_above_GSC.xlsm\"\u003e\n        \u003csvg class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--generic\" version=\"1.1\" viewbox=\"0 0 84 120\" width=\"84\" height=\"120\" aria-hidden=\"true\"\u003e\n  \u003cpath d=\"M74.85 5v106H5\" fill=\"none\" stroke-miterlimit=\"10\" stroke-width=\"2\"\u003e\u003c/path\u003e\n  \u003cpath d=\"M79.85 10v106H10\" fill=\"none\" stroke-miterlimit=\"10\" stroke-width=\"2\"\u003e\u003c/path\u003e\n\u003c/svg\u003e\n\n\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/60e851dd8fa8f50c7d6fcf27/Summary_soil_results_data_above_GSC.xlsm\"\u003eResults above screening levels by location\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e426 KB\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:alternativeformats@communities.gov.uk\" target=\"_blank\" class=\"govuk-link\"\u003ealternativeformats@communities.gov.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/60ec1cead3bf7f568ffe86e1/Stage_2_Chart_Chemicals_and_Guidelines.xlsm\"\u003e\n        \u003csvg class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--generic\" version=\"1.1\" viewbox=\"0 0 84 120\" width=\"84\" height=\"120\" aria-hidden=\"true\"\u003e\n  \u003cpath d=\"M74.85 5v106H5\" fill=\"none\" stroke-miterlimit=\"10\" stroke-width=\"2\"\u003e\u003c/path\u003e\n  \u003cpath d=\"M79.85 10v106H10\" fill=\"none\" stroke-miterlimit=\"10\" stroke-width=\"2\"\u003e\u003c/path\u003e\n\u003c/svg\u003e\n\n\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/60ec1cead3bf7f568ffe86e1/Stage_2_Chart_Chemicals_and_Guidelines.xlsm\"\u003eStage 2 chart chemicals and guidelines\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e171 KB\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:alternativeformats@communities.gov.uk\" target=\"_blank\" class=\"govuk-link\"\u003ealternativeformats@communities.gov.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003cp\u003eView an \u003ca rel=\"external\" href=\"https://communities.maps.arcgis.com/apps/webappviewer/index.html?id=7d57af657cb44ba493258b79ed936b69\" class=\"govuk-link\"\u003einteractive map\u003c/a\u003e showing soil sampling locations around Grenfell\u003c/p\u003e\n\n\u003ch2 id=\"sqp-sign-off\"\u003e6.\tSQP sign-off\u003c/h2\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/60ec1cca8fa8f50c7450eb0c/SQP_Sign-off_Declaration_Stage_2.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/60ec1cca8fa8f50c7eee0892/thumbnail_SQP_Sign-off_Declaration_Stage_2.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/60ec1cca8fa8f50c7450eb0c/SQP_Sign-off_Declaration_Stage_2.pdf\"\u003eSenior qualified person (SQP) declaration sign-off\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e255 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e3 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:alternativeformats@communities.gov.uk\" target=\"_blank\" class=\"govuk-link\"\u003ealternativeformats@communities.gov.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2021-07-12T14:10:13.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "1390d07f-12b3-4f55-9dd5-fec5fd9e3649"
+                                                 ],
+                    "first_public_at":  "2021-07-12T14:10:13.000+01:00",
+                    "national_applicability":  {
+                                                   "england":  {
+                                                                   "applicable":  true,
+                                                                   "label":  "England"
+                                                               },
+                                                   "northern_ireland":  {
+                                                                            "alternative_url":  "",
+                                                                            "applicable":  false,
+                                                                            "label":  "Northern Ireland"
+                                                                        },
+                                                   "scotland":  {
+                                                                    "alternative_url":  "",
+                                                                    "applicable":  false,
+                                                                    "label":  "Scotland"
+                                                                },
+                                                   "wales":  {
+                                                                 "alternative_url":  "",
+                                                                 "applicable":  false,
+                                                                 "label":  "Wales"
+                                                             }
+                                               },
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2021-07-12T14:10:13+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/grenfell-environmental-checks-stage-2-report",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/grenfell-environmental-checks-stage-2-report",
+                                                     "base_path":  "/guidance/grenfell-environmental-checks-stage-2-report",
+                                                     "content_id":  "851d7a17-4150-4c9d-9488-d7a2160a2ca3",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2021-07-12T13:10:13Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Grenfell environmental checks: Stage 2 report",
+                                                     "web_url":  "https://www.gov.uk/guidance/grenfell-environmental-checks-stage-2-report",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2019-to-2022-johnson-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2019-to-2022-johnson-conservative-government",
+                                         "base_path":  "/government/2019-to-2022-johnson-conservative-government",
+                                         "content_id":  "4ed901ec-c8ce-42d5-a2aa-6d7f462480df",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2022-09-06T00:00:00+00:00",
+                                                         "started_on":  "2019-07-24T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2019 to 2022 Johnson Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2019-to-2022-johnson-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D1419",
+                                            "api_path":  "/api/content/government/organisations/ministry-of-housing-communities-local-government",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/ministry-of-housing-communities-local-government",
+                                            "base_path":  "/government/organisations/ministry-of-housing-communities-local-government",
+                                            "content_id":  "1390d07f-12b3-4f55-9dd5-fec5fd9e3649",
+                                            "details":  {
+                                                            "acronym":  "MHCLG",
+                                                            "brand":  "ministry-of-housing-communities-local-government",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/668f9d9ea3c2a28abb50cd88/s960_2_Marsham_Street_1_-_960x640.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/668f9d9eab418ab055592384/s300_2_Marsham_Street_1_-_960x640.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Ministry of Housing,\u003cbr/\u003eCommunities \u0026amp; \u003cbr/\u003eLocal Government"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Ministry of Housing, Communities and Local Government",
+                                            "web_url":  "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+                                            "withdrawn":  false
+                                        },
+                                        {
+                                            "analytics_identifier":  "D4",
+                                            "api_path":  "/api/content/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                            "base_path":  "/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                            "content_id":  "2e7868a8-38f5-4ff6-b62f-9a15d1c22d28",
+                                            "details":  {
+                                                            "acronym":  "",
+                                                            "brand":  "department-for-communities-and-local-government",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db37ed915d5a62fdc789/s960_2_Marsham_Street_960x640.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5a37db36e5274a79051c927d/s300_2_Marsham_Street_960x640.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Ministry of Housing,\u003cbr/\u003eCommunities \u0026amp;\u003cbr/\u003eLocal Government (2018 to 2021)"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "changed_name",
+                                                                                              "updated_at":  "2021-09-20T00:00:00.000+01:00",
+                                                                                              "url":  "http://www.communities.gov.uk/"
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Ministry of Housing, Communities \u0026 Local Government (2018 to 2021)",
+                                            "web_url":  "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                            "withdrawn":  false
+                                        },
+                                        {
+                                            "analytics_identifier":  "D1342",
+                                            "api_path":  "/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-levelling-up-housing-and-communities",
+                                            "base_path":  "/government/organisations/department-for-levelling-up-housing-and-communities",
+                                            "content_id":  "c45c316a-a4f5-42c7-b94d-d7f1821be18e",
+                                            "details":  {
+                                                            "acronym":  "DLUHC",
+                                                            "brand":  "department-for-levelling-up-housing-and-communities",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52983494766/s960_2_Marsham_Street_960x640.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/6156c35c8fa8f52985dd7453/s300_2_Marsham_Street_960x640.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Department for Levelling Up,\u003cbr/\u003eHousing \u0026amp; Communities"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "changed_name",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  ""
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Department for Levelling Up, Housing and Communities ",
+                                            "web_url":  "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "D1419",
+                                                                       "api_path":  "/api/content/government/organisations/ministry-of-housing-communities-local-government",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/ministry-of-housing-communities-local-government",
+                                                                       "base_path":  "/government/organisations/ministry-of-housing-communities-local-government",
+                                                                       "content_id":  "1390d07f-12b3-4f55-9dd5-fec5fd9e3649",
+                                                                       "details":  {
+                                                                                       "acronym":  "MHCLG",
+                                                                                       "brand":  "ministry-of-housing-communities-local-government",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/668f9d9ea3c2a28abb50cd88/s960_2_Marsham_Street_1_-_960x640.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/668f9d9eab418ab055592384/s300_2_Marsham_Street_1_-_960x640.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Ministry of Housing,\u003cbr/\u003eCommunities \u0026amp; \u003cbr/\u003eLocal Government"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Ministry of Housing, Communities and Local Government",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D1419",
+                                                              "api_path":  "/api/content/government/organisations/ministry-of-housing-communities-local-government",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/ministry-of-housing-communities-local-government",
+                                                              "base_path":  "/government/organisations/ministry-of-housing-communities-local-government",
+                                                              "content_id":  "1390d07f-12b3-4f55-9dd5-fec5fd9e3649",
+                                                              "details":  {
+                                                                              "acronym":  "MHCLG",
+                                                                              "brand":  "ministry-of-housing-communities-local-government",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/668f9d9ea3c2a28abb50cd88/s960_2_Marsham_Street_1_-_960x640.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/668f9d9eab418ab055592384/s300_2_Marsham_Street_1_-_960x640.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Ministry of Housing,\u003cbr/\u003eCommunities \u0026amp; \u003cbr/\u003eLocal Government"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Ministry of Housing, Communities and Local Government",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/grenfell-environmental-checks-stage-1-report",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/grenfell-environmental-checks-stage-1-report",
+                                                              "base_path":  "/guidance/grenfell-environmental-checks-stage-1-report",
+                                                              "content_id":  "fd021d29-cbe7-4c9e-acd2-89184ef6beae",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2019-10-10T15:01:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Grenfell environmental checks: stage 1 report",
+                                                              "web_url":  "https://www.gov.uk/guidance/grenfell-environmental-checks-stage-1-report",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/environment",
+                                     "api_url":  "https://www.gov.uk/api/content/environment",
+                                     "base_path":  "/environment",
+                                     "content_id":  "3cf97f69-84de-41ae-bc7b-7e2cc238fa58",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Environment",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  true
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "root_taxon":  [
+                                                                      {
+                                                                          "api_path":  "/api/content/",
+                                                                          "api_url":  "https://www.gov.uk/api/content/",
+                                                                          "base_path":  "/",
+                                                                          "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                          "document_type":  "homepage",
+                                                                          "links":  {
+
+                                                                                    },
+                                                                          "locale":  "en",
+                                                                          "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                          "schema_name":  "homepage",
+                                                                          "title":  "GOV.UK homepage",
+                                                                          "web_url":  "https://www.gov.uk/",
+                                                                          "withdrawn":  false
+                                                                      }
+                                                                  ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-16T13:39:00Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Environment",
+                                     "web_url":  "https://www.gov.uk/environment",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/housing-local-and-community/housing-and-communities",
+                                     "api_url":  "https://www.gov.uk/api/content/housing-local-and-community/housing-and-communities",
+                                     "base_path":  "/housing-local-and-community/housing-and-communities",
+                                     "content_id":  "4ad66168-274d-4d83-9195-f4ab0ccc97cb",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Housing and communities (level 2)",
+                                                     "notes_for_editors":  "",
+                                                     "url_override":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/housing-local-and-community",
+                                                                             "api_url":  "https://www.gov.uk/api/content/housing-local-and-community",
+                                                                             "base_path":  "/housing-local-and-community",
+                                                                             "content_id":  "4794066e-e3cc-425e-8cc4-e7ff3edb4c39",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Housing, local and community",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:32:02Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Housing, local and community",
+                                                                             "web_url":  "https://www.gov.uk/housing-local-and-community",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2022-02-14T14:24:18Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Housing and communities",
+                                     "web_url":  "https://www.gov.uk/housing-local-and-community/housing-and-communities",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/housing-local-and-community/building-regulation",
+                                     "api_url":  "https://www.gov.uk/api/content/housing-local-and-community/building-regulation",
+                                     "base_path":  "/housing-local-and-community/building-regulation",
+                                     "content_id":  "91486f5f-37b0-401a-8e16-22be5dd1a6e9",
+                                     "details":  {
+                                                     "internal_name":  "Building regulation [P] (level 3, housing theme)",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/housing-local-and-community/planning-and-building",
+                                                                             "api_url":  "https://www.gov.uk/api/content/housing-local-and-community/planning-and-building",
+                                                                             "base_path":  "/housing-local-and-community/planning-and-building",
+                                                                             "content_id":  "e3147d4f-4bd5-4a14-a386-4ba7ccb058b4",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Planning and building (merged, level 2)",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/housing-local-and-community",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/housing-local-and-community",
+                                                                                                                     "base_path":  "/housing-local-and-community",
+                                                                                                                     "content_id":  "4794066e-e3cc-425e-8cc4-e7ff3edb4c39",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Housing, local and community",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:32:02Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Housing, local and community",
+                                                                                                                     "web_url":  "https://www.gov.uk/housing-local-and-community",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-08-24T11:05:58Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Planning and building",
+                                                                             "web_url":  "https://www.gov.uk/housing-local-and-community/planning-and-building",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-08-22T12:54:44Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Building regulation",
+                                     "web_url":  "https://www.gov.uk/housing-local-and-community/building-regulation",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2021-07-12T14:10:13+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1721653252.499-10.13.31.198-699",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Grenfell environmental checks: Stage 2 report",
+    "updated_at":  "2024-10-30T14:38:02+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

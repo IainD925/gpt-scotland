@@ -1,0 +1,938 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/crown-court-digital-case-system-training-guides-and-videos",
+    "content_id":  "ac2c27a5-48d2-4424-bd4f-e54b5c345a64",
+    "description":  "Guides and interactive videos for defence lawyers and prosecutors on using the Digital Case System to work on Crown Court cases online.",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1014389,
+                                            "filename":  "QRG01_Register__Login_and_Find_a_Case.pdf",
+                                            "id":  "5308192",
+                                            "number_of_pages":  4,
+                                            "title":  "Register, log in and find a case",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b585a18e5274a3fe9e1bac8/QRG01_Register__Login_and_Find_a_Case.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  722544,
+                                            "filename":  "QRG02_Managing_Account_Details.pdf",
+                                            "id":  "5308193",
+                                            "number_of_pages":  3,
+                                            "title":  "Manage account details",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b585a2440f0b6338b116dc8/QRG02_Managing_Account_Details.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  344670,
+                                            "filename":  "QRG04_Case_Access.pdf",
+                                            "id":  "5308194",
+                                            "number_of_pages":  4,
+                                            "title":  "Give or ask for access to a case",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6009b0c98fa8f529735144a7/QRG04_Case_Access.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  872442,
+                                            "filename":  "QRG05_Ingesting_a_Bundle_27.11.19.pdf",
+                                            "id":  "5308195",
+                                            "number_of_pages":  3,
+                                            "title":  "Ingest a bundle into a case",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5ddfa28b40f0b650da54c551/QRG05_Ingesting_a_Bundle_27.11.19.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1021616,
+                                            "filename":  "QRG06_Managing_the_Digital_File_Cover.pdf",
+                                            "id":  "5308196",
+                                            "number_of_pages":  5,
+                                            "title":  "Manage the digital file cover",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b585a4f40f0b6338e4178e5/QRG06_Managing_the_Digital_File_Cover.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  711188,
+                                            "filename":  "QRG07_Memoranda.pdf",
+                                            "id":  "5308197",
+                                            "number_of_pages":  3,
+                                            "title":  "Memoranda: leave notes and messages",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b585a5ce5274a3fd704ba8e/QRG07_Memoranda.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  516472,
+                                            "filename":  "QRG08_Managing_the_Index___uploading_documents.pdf",
+                                            "id":  "5308198",
+                                            "number_of_pages":  10,
+                                            "title":  "Manage the index and upload documents",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5d8261bded915d52428dc113/QRG08_Managing_the_Index___uploading_documents.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  790389,
+                                            "filename":  "QRG09_Managing_the_Structure_of_a_Case.pdf",
+                                            "id":  "5308199",
+                                            "number_of_pages":  5,
+                                            "title":  "Manage the structure of a case",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b585a88ed915d0b6985cc28/QRG09_Managing_the_Structure_of_a_Case.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  945628,
+                                            "filename":  "QRG10_Redactions_and_Hyperlinks.pdf",
+                                            "id":  "5308200",
+                                            "number_of_pages":  5,
+                                            "title":  "Redact and add hyperlinks in documents",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b585a99e5274a3fe21f8af5/QRG10_Redactions_and_Hyperlinks.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  694740,
+                                            "filename":  "QRG11_Linking_Cases.pdf",
+                                            "id":  "5308201",
+                                            "number_of_pages":  3,
+                                            "title":  "Link cases",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b585aa7e5274a3fce48594f/QRG11_Linking_Cases.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  508199,
+                                            "filename":  "QRG12_Downloading_the_bundle_and_index.pdf",
+                                            "id":  "5308202",
+                                            "number_of_pages":  6,
+                                            "title":  "Download a copy of the index and bundle",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60afb51bd3bf7f435a09eb1b/QRG12_Downloading_the_bundle_and_index.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  761873,
+                                            "filename":  "QRG13_Searching_within_a_Case.pdf",
+                                            "id":  "5308203",
+                                            "number_of_pages":  2,
+                                            "title":  "Search within a case",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b585ac6e5274a3ffb73d77e/QRG13_Searching_within_a_Case.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1014793,
+                                            "filename":  "QRG14_Navigating_the_Digital_Case_File.pdf",
+                                            "id":  "5308204",
+                                            "number_of_pages":  3,
+                                            "title":  "Navigate a digital case file",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b585adc40f0b6339bc65b9f/QRG14_Navigating_the_Digital_Case_File.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  685537,
+                                            "filename":  "QRG15_Navigating_on_a_Page.pdf",
+                                            "id":  "5308205",
+                                            "number_of_pages":  2,
+                                            "title":  "Navigate on a page",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b585aee40f0b6338e4178e7/QRG15_Navigating_on_a_Page.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1145530,
+                                            "filename":  "QRG16_Additional_review_tools.pdf",
+                                            "id":  "5308206",
+                                            "number_of_pages":  3,
+                                            "title":  "Additional review tools",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b585affed915d0b63dfd3ea/QRG16_Additional_review_tools.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  694424,
+                                            "filename":  "QRG17_Directing_the_Court_to_a_Page.pdf",
+                                            "id":  "5308207",
+                                            "number_of_pages":  2,
+                                            "title":  "Direct the court to a page",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b585b1240f0b63385e6a1a1/QRG17_Directing_the_Court_to_a_Page.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  784853,
+                                            "filename":  "QRG18_Downloading___Uploading_Documents.pdf",
+                                            "id":  "5308208",
+                                            "number_of_pages":  2,
+                                            "title":  "Download and upload documents in the review pane",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b585b22ed915d0b8b4006e0/QRG18_Downloading___Uploading_Documents.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1112443,
+                                            "filename":  "QRG19_Working_with_Notes.pdf",
+                                            "id":  "5308209",
+                                            "number_of_pages":  7,
+                                            "title":  "Working with notes in a digital case file",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b585b39e5274a3fe21f8af7/QRG19_Working_with_Notes.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  589142,
+                                            "filename":  "QRG21_The_LAA_Report.pdf",
+                                            "id":  "5308210",
+                                            "number_of_pages":  2,
+                                            "title":  "Legal Aid Agency reports (simple reports showing non-private sections and documents)",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b585b4940f0b6338e4178e8/QRG21_The_LAA_Report.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  835436,
+                                            "filename":  "QRG22_The_editable_Indictment.pdf",
+                                            "id":  "5308211",
+                                            "number_of_pages":  3,
+                                            "title":  "Manage the indictment",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b585b5ae5274a3ff594d126/QRG22_The_editable_Indictment.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  939131,
+                                            "filename":  "QRG23_The_editable_PTPH_Form.pdf",
+                                            "id":  "5308212",
+                                            "number_of_pages":  4,
+                                            "title":  "Manage the plea and trial preparation hearing (PTPH) form",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b585b6ee5274a3fd124c978/QRG23_The_editable_PTPH_Form.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  926077,
+                                            "filename":  "QRG28_The_DCS-CMS_Two_Way_Interface.pdf",
+                                            "id":  "5308213",
+                                            "number_of_pages":  7,
+                                            "title":  "Digital Case System to CPS two-way interface",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b585b8540f0b6338b116dc9/QRG28_The_DCS-CMS_Two_Way_Interface.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  871486,
+                                            "filename":  "QRG20_The_ROCA.pdf",
+                                            "id":  "5308214",
+                                            "number_of_pages":  4,
+                                            "title":  "Record of Case Activity (ROCA)",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b585b9b40f0b6338218d6f3/QRG20_The_ROCA.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  946039,
+                                            "filename":  "QRG25_Merging_Cases.pdf",
+                                            "id":  "5308215",
+                                            "number_of_pages":  5,
+                                            "title":  "Merging cases",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b585bb2ed915d0b8d1239d3/QRG25_Merging_Cases.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  776971,
+                                            "filename":  "QRG26_Notifications.pdf",
+                                            "id":  "5308216",
+                                            "number_of_pages":  1,
+                                            "title":  "Notifications",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b585bc4ed915d0b8d1239d4/QRG26_Notifications.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1073421,
+                                            "filename":  "QRG03_Create_a_Case.pdf",
+                                            "id":  "5308217",
+                                            "number_of_pages":  5,
+                                            "title":  "Create a case",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b585bd540f0b6339963e8f1/QRG03_Create_a_Case.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1029160,
+                                            "filename":  "QRG24_Splitting_a_Case.pdf",
+                                            "id":  "5308218",
+                                            "number_of_pages":  5,
+                                            "title":  "Splitting a case",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b585be640f0b633a906dd80/QRG24_Splitting_a_Case.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  729563,
+                                            "filename":  "QRG29_Changing_a_case_to_Multi-Handed.pdf",
+                                            "id":  "5308220",
+                                            "number_of_pages":  3,
+                                            "title":  "Changing a case to multi-handed ",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b585c0be5274a3ffb73d780/QRG29_Changing_a_case_to_Multi-Handed.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  4001648,
+                                            "filename":  "PTPH2_The_new_form_a_guide_for_Practitioners_July_2019.pdf",
+                                            "id":  "5308221",
+                                            "number_of_pages":  28,
+                                            "title":  "PTPH2 – The new form, a guide for practitioners July 2019",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5d35938f40f0b604d8e5fe31/PTPH2_The_new_form_a_guide_for_Practitioners_July_2019.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  113072,
+                                            "filename":  "HMCTS_Summary_of_changes_to_DCS_version_of_the_PTPH_form_July_2019.pdf",
+                                            "id":  "5308222",
+                                            "number_of_pages":  3,
+                                            "title":  "Summary of changes to the DCS version of the PTPH form July 2019",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5d2c6cc5e5274a14ee2184e3/HMCTS_Summary_of_changes_to_DCS_version_of_the_PTPH_form_July_2019.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  129391,
+                                            "filename":  "GLlTEM_-_Crynodeb_o_r_newidiadau_i_fersiwn_DCS_ffurflen_PTPH2.pdf",
+                                            "id":  "5308223",
+                                            "number_of_pages":  3,
+                                            "title":  "Crynodeb o\u0027r newidiadau i fersiwn DCS ffurflen PTPH2",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5d359456ed915d0d0f8d5562/GLlTEM_-_Crynodeb_o_r_newidiadau_i_fersiwn_DCS_ffurflen_PTPH2.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "hmctsforms@justice.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  692124,
+                                            "filename":  "QRG27_Working_with_Defence_Access_Restriction_June.pdf",
+                                            "id":  "5308228",
+                                            "number_of_pages":  10,
+                                            "title":  "Working with defence access restrictions",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60ca0e3b8fa8f57cef61fc6f/QRG27_Working_with_Defence_Access_Restriction_June.pdf"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003ch2 id=\"quick-reference-guides\"\u003eQuick reference guides:\u003c/h2\u003e\n\n\u003ch2 id=\"register-log-in-and-find-a-case\"\u003eRegister, log in and find a case\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b585a18e5274a3fe9e1bac8/QRG01_Register__Login_and_Find_a_Case.pdf\"\u003eRegister, log in and find a case\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e991 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e4 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"manage-account-details\"\u003eManage account details\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b585a2440f0b6338b116dc8/QRG02_Managing_Account_Details.pdf\"\u003eManage account details\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e706 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e3 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"create-a-case\"\u003eCreate a case\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b585bd540f0b6339963e8f1/QRG03_Create_a_Case.pdf\"\u003eCreate a case\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e1.02 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e5 pages\u003c/span\u003e)\u003c/span\u003e\n\u003ca rel=\"external\" href=\"https://www.youtube.com/watch?v=VY7V7-unqIc\" class=\"govuk-link\"\u003eCreate a case\u003c/a\u003e video\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"give-or-ask-for-access-to-a-case\"\u003eGive or ask for access to a case\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/6009b0c98fa8f529735144a7/QRG04_Case_Access.pdf\"\u003eGive or ask for access to a case\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e337 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e4 pages\u003c/span\u003e)\u003c/span\u003e\n\u003ca rel=\"external\" href=\"https://www.youtube.com/watch?v=Lr63SaWJHAI\" class=\"govuk-link\"\u003eAdding a defence domain\u003c/a\u003e video\u003cbr\u003e\n\u003ca rel=\"external\" href=\"https://www.youtube.com/watch?v=sV6YpGytHB4\" class=\"govuk-link\"\u003eInviting a defence advocate\u003c/a\u003e video\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"ingest-a-bundle-into-a-case\"\u003eIngest a bundle into a case\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5ddfa28b40f0b650da54c551/QRG05_Ingesting_a_Bundle_27.11.19.pdf\"\u003eIngest a bundle into a case\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e852 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e3 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"manage-the-digital-file-cover\"\u003eManage the digital file cover\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b585a4f40f0b6338e4178e5/QRG06_Managing_the_Digital_File_Cover.pdf\"\u003eManage the digital file cover\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e998 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e5 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"memoranda-leave-notes-and-messages\"\u003eMemoranda: leave notes and messages\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b585a5ce5274a3fd704ba8e/QRG07_Memoranda.pdf\"\u003eMemoranda: leave notes and messages\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e695 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e3 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"manage-the-index-and-upload-documents\"\u003eManage the index and upload documents\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5d8261bded915d52428dc113/QRG08_Managing_the_Index___uploading_documents.pdf\"\u003eManage the index and upload documents\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e504 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e10 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"manage-the-structure-of-a-case\"\u003eManage the structure of a case\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b585a88ed915d0b6985cc28/QRG09_Managing_the_Structure_of_a_Case.pdf\"\u003eManage the structure of a case\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e772 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e5 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"redact-and-add-hyperlinks-in-documents\"\u003eRedact and add hyperlinks in documents\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b585a99e5274a3fe21f8af5/QRG10_Redactions_and_Hyperlinks.pdf\"\u003eRedact and add hyperlinks in documents\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e923 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e5 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"link-cases\"\u003eLink cases\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b585aa7e5274a3fce48594f/QRG11_Linking_Cases.pdf\"\u003eLink cases\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e678 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e3 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"download-the-index-and-bundle\"\u003eDownload the index and bundle\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/60afb51bd3bf7f435a09eb1b/QRG12_Downloading_the_bundle_and_index.pdf\"\u003eDownload a copy of the index and bundle\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e496 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e6 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"search-within-a-case\"\u003eSearch within a case\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b585ac6e5274a3ffb73d77e/QRG13_Searching_within_a_Case.pdf\"\u003eSearch within a case\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e744 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e2 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"navigate-a-digital-case-file\"\u003eNavigate a digital case file\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b585adc40f0b6339bc65b9f/QRG14_Navigating_the_Digital_Case_File.pdf\"\u003eNavigate a digital case file\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e991 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e3 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"navigate-on-a-page\"\u003eNavigate on a page\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b585aee40f0b6338e4178e7/QRG15_Navigating_on_a_Page.pdf\"\u003eNavigate on a page\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e669 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e2 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"additional-review-tools\"\u003eAdditional review tools\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b585affed915d0b63dfd3ea/QRG16_Additional_review_tools.pdf\"\u003eAdditional review tools\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e1.09 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e3 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"direct-a-court-to-a-page\"\u003eDirect a court to a page\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b585b1240f0b63385e6a1a1/QRG17_Directing_the_Court_to_a_Page.pdf\"\u003eDirect the court to a page\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e678 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e2 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"download-and-upload-documents-in-the-review-pane\"\u003eDownload and upload documents in the review pane\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b585b22ed915d0b8b4006e0/QRG18_Downloading___Uploading_Documents.pdf\"\u003eDownload and upload documents in the review pane\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e766 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e2 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"working-with-notes-in-a-digital-case-file\"\u003eWorking with notes in a digital case file\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b585b39e5274a3fe21f8af7/QRG19_Working_with_Notes.pdf\"\u003eWorking with notes in a digital case file\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e1.06 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e7 pages\u003c/span\u003e)\u003c/span\u003e\u003cbr\u003e\n\u003ca rel=\"external\" href=\"https://www.youtube.com/watch?v=sda8DD0lVOo\" class=\"govuk-link\"\u003eAdding notes\u003c/a\u003e video\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"record-of-case-activity-roca\"\u003eRecord of Case Activity (ROCA)\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b585b9b40f0b6338218d6f3/QRG20_The_ROCA.pdf\"\u003eRecord of Case Activity (ROCA)\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e851 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e4 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"legal-aid-agency-reports\"\u003eLegal Aid Agency reports\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b585b4940f0b6338e4178e8/QRG21_The_LAA_Report.pdf\"\u003eLegal Aid Agency reports (simple reports showing non-private sections and documents)\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e575 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e2 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"manage-the-indictment\"\u003eManage the indictment\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b585b5ae5274a3ff594d126/QRG22_The_editable_Indictment.pdf\"\u003eManage the indictment\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e816 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e3 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"manage-the-plea-and-trial-preparation-hearing-ptph-form\"\u003eManage the plea and trial preparation hearing (PTPH) form\u003c/h2\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.youtube.com/watch?v=gX5-PgAiPBI\u0026amp;feature=youtu.be\" class=\"govuk-link\"\u003eManage the plea and trial preparation hearing (PTPH) form\u003c/a\u003e video\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5d2c6cc5e5274a14ee2184e3/HMCTS_Summary_of_changes_to_DCS_version_of_the_PTPH_form_July_2019.pdf\"\u003eSummary of changes to the DCS version of the PTPH form July 2019\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e110 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e3 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/60ca0e3b8fa8f57cef61fc6f/QRG27_Working_with_Defence_Access_Restriction_June.pdf\"\u003eWorking with defence access restrictions\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e676 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e10 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5d359456ed915d0d0f8d5562/GLlTEM_-_Crynodeb_o_r_newidiadau_i_fersiwn_DCS_ffurflen_PTPH2.pdf\"\u003eCrynodeb o\u0027r newidiadau i fersiwn DCS ffurflen PTPH2\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e126 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e3 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"splitting-a-case\"\u003eSplitting a case\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b585be640f0b633a906dd80/QRG24_Splitting_a_Case.pdf\"\u003eSplitting a case\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e1010 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e5 pages\u003c/span\u003e)\u003c/span\u003e\u003cbr\u003e\n\u003ca rel=\"external\" href=\"https://www.youtube.com/watch?v=8HdOk0H58vc\" class=\"govuk-link\"\u003eSplitting a case\u003c/a\u003e video\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"merging-cases\"\u003eMerging cases\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b585bb2ed915d0b8d1239d3/QRG25_Merging_Cases.pdf\"\u003eMerging cases\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e924 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e5 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"notifications\"\u003eNotifications\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b585bc4ed915d0b8d1239d4/QRG26_Notifications.pdf\"\u003eNotifications\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e759 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e1 page\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"working-with-defence-access-restrictions\"\u003eWorking with defence access restrictions\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/60ca0e3b8fa8f57cef61fc6f/QRG27_Working_with_Defence_Access_Restriction_June.pdf\"\u003eWorking with defence access restrictions\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e676 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e10 pages\u003c/span\u003e)\u003c/span\u003e\n\u003ca rel=\"external\" href=\"https://www.youtube.com/watch?v=-6R2vwL0OoM\" class=\"govuk-link\"\u003eUploading to restricted sections\u003c/a\u003e video\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"digital-case-system-to-crown-prosecution-service-two-way-interface\"\u003eDigital Case System to Crown Prosecution Service two-way interface\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5b585b8540f0b6338b116dc9/QRG28_The_DCS-CMS_Two_Way_Interface.pdf\"\u003eDigital Case System to CPS two-way interface\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e904 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e7 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"changing-a-case-to-multi-handed\"\u003eChanging a case to multi-handed\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5d35938f40f0b604d8e5fe31/PTPH2_The_new_form_a_guide_for_Practitioners_July_2019.pdf\"\u003ePTPH2 – The new form, a guide for practitioners July 2019\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e3.82 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e28 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Uploaded new version of the \"Working with defence access restrictions\" document.",
+                                               "public_timestamp":  "2021-06-16T15:47:40.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Uploaded new version of the Download the index and bundle guide",
+                                               "public_timestamp":  "2021-05-28T10:57:38.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated Give or ask for access to a case pdf",
+                                               "public_timestamp":  "2021-01-21T17:01:42.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Revised guide for ingesting a bundle into a case. Video guide removed.",
+                                               "public_timestamp":  "2019-11-28T10:35:34.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Guidance for ingesting a bunde into a case amended",
+                                               "public_timestamp":  "2019-11-21T13:02:06.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Guide for ingesting a bundle into a file updated.",
+                                               "public_timestamp":  "2019-11-20T09:48:19.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Download a copy of the index and bundle guide updated",
+                                               "public_timestamp":  "2019-09-25T18:00:06.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Manage the index and upload documents guide amended. ",
+                                               "public_timestamp":  "2019-09-18T17:59:31.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Manage the plea and trial preparation hearing (PTPH) form link changed to YouTube video",
+                                               "public_timestamp":  "2019-08-19T14:00:25.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated PTPH2 guide and Welsh summary uploaded.",
+                                               "public_timestamp":  "2019-07-22T12:17:02.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated attachments 15.7.19",
+                                               "public_timestamp":  "2019-07-15T13:35:17.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Multi-hander roll-out complete. Reference to roll-out removed.",
+                                               "public_timestamp":  "2018-09-07T16:19:28.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated videos added.",
+                                               "public_timestamp":  "2018-08-06T13:48:23.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Training guides updates and videos removed.",
+                                               "public_timestamp":  "2018-07-19T11:23:26.000+01:00"
+                                           },
+                                           {
+                                               "note":  "QRG notifications document published.",
+                                               "public_timestamp":  "2017-08-14T08:47:56.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Add body worn video footage information",
+                                               "public_timestamp":  "2017-08-04T15:44:21.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Digital Case System to CPS two-way interface guide updated.",
+                                               "public_timestamp":  "2017-04-27T14:43:23.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Additional training video added",
+                                               "public_timestamp":  "2017-01-20T09:11:24.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Update to Digital Case System to Crown Prosecution Service two-way interface guide",
+                                               "public_timestamp":  "2016-10-05T11:29:56.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updates to 14 of the user guides",
+                                               "public_timestamp":  "2016-05-05T11:50:55.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added DCS to CPS two-way interface and DCS standard file structure guidance documents",
+                                               "public_timestamp":  "2016-04-28T16:04:13.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2016-01-29T14:43:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "6f757605-ab8f-4b62-84e4-99f79cf085c2",
+                                                     "6c97de66-80ac-4eca-9a19-92d16442e72f"
+                                                 ],
+                    "first_public_at":  "2016-01-29T14:43:00.000+00:00",
+                    "national_applicability":  {
+                                                   "england":  {
+                                                                   "applicable":  true,
+                                                                   "label":  "England"
+                                                               },
+                                                   "northern_ireland":  {
+                                                                            "alternative_url":  "",
+                                                                            "applicable":  false,
+                                                                            "label":  "Northern Ireland"
+                                                                        },
+                                                   "scotland":  {
+                                                                    "alternative_url":  "",
+                                                                    "applicable":  false,
+                                                                    "label":  "Scotland"
+                                                                },
+                                                   "wales":  {
+                                                                 "applicable":  true,
+                                                                 "label":  "Wales"
+                                                             }
+                                               },
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2016-01-29T14:43:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/crown-court-digital-case-system-training-guides-and-videos",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/crown-court-digital-case-system-training-guides-and-videos",
+                                                     "base_path":  "/guidance/crown-court-digital-case-system-training-guides-and-videos",
+                                                     "content_id":  "ac2c27a5-48d2-4424-bd4f-e54b5c345a64",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2021-06-16T14:47:40Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Crown Court Digital Case System training guides and videos",
+                                                     "web_url":  "https://www.gov.uk/guidance/crown-court-digital-case-system-training-guides-and-videos",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "lead_organisations":  [
+                                             {
+                                                 "analytics_identifier":  "EA73",
+                                                 "api_path":  "/api/content/government/organisations/hm-courts-and-tribunals-service",
+                                                 "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-courts-and-tribunals-service",
+                                                 "base_path":  "/government/organisations/hm-courts-and-tribunals-service",
+                                                 "content_id":  "6f757605-ab8f-4b62-84e4-99f79cf085c2",
+                                                 "details":  {
+                                                                 "acronym":  "HMCTS",
+                                                                 "brand":  "ministry-of-justice",
+                                                                 "default_news_image":  null,
+                                                                 "logo":  {
+                                                                              "crest":  "single-identity",
+                                                                              "formatted_title":  "HM Courts \u0026amp; \u003cbr/\u003eTribunals Service"
+                                                                          },
+                                                                 "organisation_govuk_status":  {
+                                                                                                   "status":  "live",
+                                                                                                   "updated_at":  null,
+                                                                                                   "url":  null
+                                                                                               }
+                                                             },
+                                                 "document_type":  "organisation",
+                                                 "links":  {
+
+                                                           },
+                                                 "locale":  "en",
+                                                 "schema_name":  "organisation",
+                                                 "title":  "HM Courts \u0026 Tribunals Service",
+                                                 "web_url":  "https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service",
+                                                 "withdrawn":  false
+                                             },
+                                             {
+                                                 "analytics_identifier":  "D101",
+                                                 "api_path":  "/api/content/government/organisations/crown-prosecution-service",
+                                                 "api_url":  "https://www.gov.uk/api/content/government/organisations/crown-prosecution-service",
+                                                 "base_path":  "/government/organisations/crown-prosecution-service",
+                                                 "content_id":  "6c97de66-80ac-4eca-9a19-92d16442e72f",
+                                                 "details":  {
+                                                                 "acronym":  "CPS",
+                                                                 "brand":  "attorney-generals-office",
+                                                                 "default_news_image":  null,
+                                                                 "logo":  {
+                                                                              "formatted_title":  "Crown Prosecution Service"
+                                                                          },
+                                                                 "organisation_govuk_status":  {
+                                                                                                   "status":  "exempt",
+                                                                                                   "updated_at":  null,
+                                                                                                   "url":  "http://www.cps.gov.uk/"
+                                                                                               }
+                                                             },
+                                                 "document_type":  "organisation",
+                                                 "links":  {
+
+                                                           },
+                                                 "locale":  "en",
+                                                 "schema_name":  "organisation",
+                                                 "title":  "Crown Prosecution Service",
+                                                 "web_url":  "https://www.gov.uk/government/organisations/crown-prosecution-service",
+                                                 "withdrawn":  false
+                                             },
+                                             {
+                                                 "analytics_identifier":  "EA556",
+                                                 "api_path":  "/api/content/government/organisations/legal-aid-agency",
+                                                 "api_url":  "https://www.gov.uk/api/content/government/organisations/legal-aid-agency",
+                                                 "base_path":  "/government/organisations/legal-aid-agency",
+                                                 "content_id":  "6ba90ae6-972d-4d48-ad66-693bbb31496d",
+                                                 "details":  {
+                                                                 "acronym":  "LAA",
+                                                                 "brand":  null,
+                                                                 "default_news_image":  null,
+                                                                 "logo":  {
+                                                                              "crest":  "single-identity",
+                                                                              "formatted_title":  "Legal Aid \u003cbr/\u003eAgency"
+                                                                          },
+                                                                 "organisation_govuk_status":  {
+                                                                                                   "status":  "live",
+                                                                                                   "updated_at":  null,
+                                                                                                   "url":  null
+                                                                                               }
+                                                             },
+                                                 "document_type":  "organisation",
+                                                 "links":  {
+
+                                                           },
+                                                 "locale":  "en",
+                                                 "schema_name":  "organisation",
+                                                 "title":  "Legal Aid Agency",
+                                                 "web_url":  "https://www.gov.uk/government/organisations/legal-aid-agency",
+                                                 "withdrawn":  false
+                                             }
+                                         ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "EA73",
+                                            "api_path":  "/api/content/government/organisations/hm-courts-and-tribunals-service",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-courts-and-tribunals-service",
+                                            "base_path":  "/government/organisations/hm-courts-and-tribunals-service",
+                                            "content_id":  "6f757605-ab8f-4b62-84e4-99f79cf085c2",
+                                            "details":  {
+                                                            "acronym":  "HMCTS",
+                                                            "brand":  "ministry-of-justice",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "HM Courts \u0026amp; \u003cbr/\u003eTribunals Service"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "HM Courts \u0026 Tribunals Service",
+                                            "web_url":  "https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service",
+                                            "withdrawn":  false
+                                        },
+                                        {
+                                            "analytics_identifier":  "D101",
+                                            "api_path":  "/api/content/government/organisations/crown-prosecution-service",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/crown-prosecution-service",
+                                            "base_path":  "/government/organisations/crown-prosecution-service",
+                                            "content_id":  "6c97de66-80ac-4eca-9a19-92d16442e72f",
+                                            "details":  {
+                                                            "acronym":  "CPS",
+                                                            "brand":  "attorney-generals-office",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "formatted_title":  "Crown Prosecution Service"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "exempt",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  "http://www.cps.gov.uk/"
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Crown Prosecution Service",
+                                            "web_url":  "https://www.gov.uk/government/organisations/crown-prosecution-service",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA73",
+                                                                       "api_path":  "/api/content/government/organisations/hm-courts-and-tribunals-service",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-courts-and-tribunals-service",
+                                                                       "base_path":  "/government/organisations/hm-courts-and-tribunals-service",
+                                                                       "content_id":  "6f757605-ab8f-4b62-84e4-99f79cf085c2",
+                                                                       "details":  {
+                                                                                       "acronym":  "HMCTS",
+                                                                                       "brand":  "ministry-of-justice",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "HM Courts \u0026amp; \u003cbr/\u003eTribunals Service"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "HM Courts \u0026 Tribunals Service",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "EA73",
+                                                              "api_path":  "/api/content/government/organisations/hm-courts-and-tribunals-service",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-courts-and-tribunals-service",
+                                                              "base_path":  "/government/organisations/hm-courts-and-tribunals-service",
+                                                              "content_id":  "6f757605-ab8f-4b62-84e4-99f79cf085c2",
+                                                              "details":  {
+                                                                              "acronym":  "HMCTS",
+                                                                              "brand":  "ministry-of-justice",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "HM Courts \u0026amp; \u003cbr/\u003eTribunals Service"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "HM Courts \u0026 Tribunals Service",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/magistrates-courts-amendment-rules-2019-guide",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/magistrates-courts-amendment-rules-2019-guide",
+                                                              "base_path":  "/guidance/magistrates-courts-amendment-rules-2019-guide",
+                                                              "content_id":  "607bd929-fdc5-4830-bf32-34b5aeeabd7f",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2019-10-23T07:00:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Magistrates’ Courts (Amendment) Rules 2019 guide",
+                                                              "web_url":  "https://www.gov.uk/guidance/magistrates-courts-amendment-rules-2019-guide",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/case-sent-to-the-crown-court-for-trial",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/case-sent-to-the-crown-court-for-trial",
+                                                              "base_path":  "/government/publications/case-sent-to-the-crown-court-for-trial",
+                                                              "content_id":  "6d602d1d-72da-469c-adc5-de9938892095",
+                                                              "document_type":  "form",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-05-26T23:00:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Case sent to the Crown Court for trial",
+                                                              "web_url":  "https://www.gov.uk/government/publications/case-sent-to-the-crown-court-for-trial",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/other-procedure-rules-for-magistrates-courts-and-the-crown-court-with-statutory-instruments",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/other-procedure-rules-for-magistrates-courts-and-the-crown-court-with-statutory-instruments",
+                                                              "base_path":  "/guidance/other-procedure-rules-for-magistrates-courts-and-the-crown-court-with-statutory-instruments",
+                                                              "content_id":  "915af08c-8745-42de-a84b-6b44aaaafd4c",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-12-02T09:44:54Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Procedure rules and forms for civil proceedings in magistrates’ courts and the Crown Court",
+                                                              "web_url":  "https://www.gov.uk/guidance/other-procedure-rules-for-magistrates-courts-and-the-crown-court-with-statutory-instruments",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/criminal-appeal-office-form-ng-conviction",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/criminal-appeal-office-form-ng-conviction",
+                                                              "base_path":  "/government/publications/criminal-appeal-office-form-ng-conviction",
+                                                              "content_id":  "59de8b8a-614c-45b8-9f41-77439e36e819",
+                                                              "document_type":  "form",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2018-08-31T23:00:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Criminal Appeal Office Form NG Conviction",
+                                                              "web_url":  "https://www.gov.uk/government/publications/criminal-appeal-office-form-ng-conviction",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/criminal-appeal-office-form-ng-sentence",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/criminal-appeal-office-form-ng-sentence",
+                                                              "base_path":  "/government/publications/criminal-appeal-office-form-ng-sentence",
+                                                              "content_id":  "317e0f47-1bb8-4855-bd51-adf8bb35222e",
+                                                              "document_type":  "form",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2018-08-31T23:00:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Criminal Appeal Office Form NG Sentence",
+                                                              "web_url":  "https://www.gov.uk/government/publications/criminal-appeal-office-form-ng-sentence",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/crime-justice-and-law/courts-sentencing-tribunals",
+                                     "api_url":  "https://www.gov.uk/api/content/crime-justice-and-law/courts-sentencing-tribunals",
+                                     "base_path":  "/crime-justice-and-law/courts-sentencing-tribunals",
+                                     "content_id":  "357110bb-cbc5-4708-9711-1b26e6c63e86",
+                                     "details":  {
+                                                     "internal_name":  "Courts, sentencing and tribunals [M]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/crime-justice-and-law",
+                                                                             "api_url":  "https://www.gov.uk/api/content/crime-justice-and-law",
+                                                                             "base_path":  "/crime-justice-and-law",
+                                                                             "content_id":  "ba951b09-5146-43be-87af-44075eac3ae9",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Crime, justice and law",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:34:51Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Crime, justice and law",
+                                                                             "web_url":  "https://www.gov.uk/crime-justice-and-law",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-05T16:15:52Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Courts, sentencing and tribunals",
+                                     "web_url":  "https://www.gov.uk/crime-justice-and-law/courts-sentencing-tribunals",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2021-06-16T15:47:40+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1713894831.169-10.13.33.117-628",
+    "publishing_scheduled_at":  "2019-09-25T18:00:00+01:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  7,
+    "schema_name":  "detailed_guide",
+    "title":  "Crown Court Digital Case System training guides and videos",
+    "updated_at":  "2024-12-24T12:08:44+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

@@ -1,0 +1,369 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/archiving-completed-vacancies-vx",
+    "content_id":  "11476415-0ed6-4a0d-9a9a-7fd8716880c3",
+    "description":  "Guidance for recruiters on how to move vacancies to the archive.\r\n",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eOnce you have finished all onboarding actions, reserve lists are complete, and all applications are at a terminal status, the vacancy can be archived.\u003c/p\u003e\n\n\u003cp\u003eThis will remove the vacancy from view but all application data will be retained.\u003c/p\u003e\n\n\u003ch2 id=\"checking-all-vacancy-actions-are-completed\"\u003eChecking all vacancy actions are completed\u003c/h2\u003e\n\n\u003cp\u003eA vacancy must not be archived until:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe vacancy closing date is in the past - to ensure that candidates can no longer apply\u003c/li\u003e\n  \u003cli\u003eand any reserve lists have expired\u003c/li\u003e\n  \u003cli\u003eand all the applications are at a terminal status\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"archiving-the-vacancy\"\u003eArchiving the vacancy\u003c/h2\u003e\n\n\u003cp\u003eEnsure all outstanding actions are completed on the vacancy.\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003eGo to the vacancy\u003c/li\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003eSummary\u003c/strong\u003e tab.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eEdit\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003eIs Archived\u003c/strong\u003e box, then \u003cstrong\u003eSave\u003c/strong\u003e. \u003c/li\u003e\n  \u003cli\u003eThe vacancy will now be archived.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eOnce archived, vacancies will not appear in search results, however applications and scores will be kept until their deletion date.\u003c/p\u003e\n\n\u003ch2 id=\"including-archived-vacancies-in-a-search\"\u003eIncluding archived vacancies in a search\u003c/h2\u003e\n\n\u003cp\u003eSearching for vacancies or applications while including archived data may be slower, so you can hide archived data for standard searches. You can toggle between including or excluding archived data:\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003eSelect your username.\u003c/li\u003e\n  \u003cli\u003eIn the \u003cstrong\u003eMy Profile\u003c/strong\u003e section, under \u003cstrong\u003eArchived Data\u003c/strong\u003e select \u003cstrong\u003eArchived data is currently shown\u003c/strong\u003e or \u003cstrong\u003eArchived data is currently hidden\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eSave\u003c/strong\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003ch2 id=\"help-and-support\"\u003eHelp and support\u003c/h2\u003e\n\n\u003cp\u003eContact the Product and Support Team if you have a technical problem: \u003ca href=\"mailto:support.csjobs@cabinetoffice.gov.uk\" class=\"govuk-link\"\u003esupport.csjobs@cabinetoffice.gov.uk\u003c/a\u003e.\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Removed section on deleting interview schedules because it was misleading. ",
+                                               "public_timestamp":  "2024-03-14T14:44:04.000+00:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2024-02-28T00:00:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "2c9232a2-04c0-4694-95e5-73004da6dc51"
+                                                 ],
+                    "first_public_at":  "2024-02-28T00:00:00.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2024-02-28T00:00:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/archiving-completed-vacancies-vx",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/archiving-completed-vacancies-vx",
+                                                     "base_path":  "/guidance/archiving-completed-vacancies-vx",
+                                                     "content_id":  "11476415-0ed6-4a0d-9a9a-7fd8716880c3",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2024-03-14T14:44:04Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Archiving completed vacancies (vX)",
+                                                     "web_url":  "https://www.gov.uk/guidance/archiving-completed-vacancies-vx",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/guidance-for-recruiters-using-civil-service-jobs-vx",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/guidance-for-recruiters-using-civil-service-jobs-vx",
+                                                   "base_path":  "/government/collections/guidance-for-recruiters-using-civil-service-jobs-vx",
+                                                   "content_id":  "80c87be4-74ef-4fd6-946a-0aa6962e629f",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/archiving-completed-vacancies-vx",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/archiving-completed-vacancies-vx",
+                                                                                       "base_path":  "/guidance/archiving-completed-vacancies-vx",
+                                                                                       "content_id":  "11476415-0ed6-4a0d-9a9a-7fd8716880c3",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2024-03-14T14:44:04Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Archiving completed vacancies (vX)",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/archiving-completed-vacancies-vx",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2024-03-01T11:37:05Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Guidance for recruiters using Civil Service Jobs vX",
+                                                   "web_url":  "https://www.gov.uk/government/collections/guidance-for-recruiters-using-civil-service-jobs-vx",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2022-to-2024-sunak-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2022-to-2024-sunak-conservative-government",
+                                         "base_path":  "/government/2022-to-2024-sunak-conservative-government",
+                                         "content_id":  "acbd9825-4303-45cf-85bc-20f200c146ff",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2024-07-05T00:00:00+00:00",
+                                                         "started_on":  "2022-10-25T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2022 to 2024 Sunak Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "OT1076",
+                                            "api_path":  "/api/content/government/organisations/civil-service-resourcing",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/civil-service-resourcing",
+                                            "base_path":  "/government/organisations/civil-service-resourcing",
+                                            "content_id":  "2c9232a2-04c0-4694-95e5-73004da6dc51",
+                                            "details":  {
+                                                            "acronym":  "",
+                                                            "brand":  "cabinet-office",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Civil Service Resourcing"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "replaced",
+                                                                                              "updated_at":  "2017-09-01T00:00:00.000+01:00",
+                                                                                              "url":  ""
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Civil Service Resourcing",
+                                            "web_url":  "https://www.gov.uk/government/organisations/civil-service-resourcing",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "OT1076",
+                                                                       "api_path":  "/api/content/government/organisations/civil-service-resourcing",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/civil-service-resourcing",
+                                                                       "base_path":  "/government/organisations/civil-service-resourcing",
+                                                                       "content_id":  "2c9232a2-04c0-4694-95e5-73004da6dc51",
+                                                                       "details":  {
+                                                                                       "acronym":  "",
+                                                                                       "brand":  "cabinet-office",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Civil Service Resourcing"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "replaced",
+                                                                                                                         "updated_at":  "2017-09-01T00:00:00.000+01:00",
+                                                                                                                         "url":  ""
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Civil Service Resourcing",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/civil-service-resourcing",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "OT1076",
+                                                              "api_path":  "/api/content/government/organisations/civil-service-resourcing",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/civil-service-resourcing",
+                                                              "base_path":  "/government/organisations/civil-service-resourcing",
+                                                              "content_id":  "2c9232a2-04c0-4694-95e5-73004da6dc51",
+                                                              "details":  {
+                                                                              "acronym":  "",
+                                                                              "brand":  "cabinet-office",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Civil Service Resourcing"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "replaced",
+                                                                                                                "updated_at":  "2017-09-01T00:00:00.000+01:00",
+                                                                                                                "url":  ""
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Civil Service Resourcing",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/civil-service-resourcing",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related_guides":  [
+                                         {
+                                             "api_path":  "/api/content/guidance/basic-navigation-and-search-for-recruiters-vx",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/basic-navigation-and-search-for-recruiters-vx",
+                                             "base_path":  "/guidance/basic-navigation-and-search-for-recruiters-vx",
+                                             "content_id":  "85b249e1-0a4a-4383-9b51-3d0a14f686de",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2022-10-10T07:58:08Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Basic navigation and search for recruiters (vX)",
+                                             "web_url":  "https://www.gov.uk/guidance/basic-navigation-and-search-for-recruiters-vx",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/accessing-the-civil-service-jobs-vx-system",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/accessing-the-civil-service-jobs-vx-system",
+                                             "base_path":  "/guidance/accessing-the-civil-service-jobs-vx-system",
+                                             "content_id":  "b7b63928-7af1-421b-83a0-83c1195325bb",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2024-01-11T11:47:58Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Accessing the Civil Service Jobs vX system",
+                                             "web_url":  "https://www.gov.uk/guidance/accessing-the-civil-service-jobs-vx-system",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/collecting-pre-employment-information-from-candidates-vx",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/collecting-pre-employment-information-from-candidates-vx",
+                                             "base_path":  "/guidance/collecting-pre-employment-information-from-candidates-vx",
+                                             "content_id":  "1bff26cf-4316-4d10-bf3f-f9158d93b192",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2020-02-21T16:15:00Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Collecting pre-employment information from candidates (vX)",
+                                             "web_url":  "https://www.gov.uk/guidance/collecting-pre-employment-information-from-candidates-vx",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/managing-candidates-through-pre-employment-checks-vx",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/managing-candidates-through-pre-employment-checks-vx",
+                                             "base_path":  "/guidance/managing-candidates-through-pre-employment-checks-vx",
+                                             "content_id":  "54097588-a656-44ae-8678-44b04f93d992",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2023-12-15T13:11:46Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Managing candidates through pre-employment checks (vX)",
+                                             "web_url":  "https://www.gov.uk/guidance/managing-candidates-through-pre-employment-checks-vx",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/supporting-candidates-who-need-help-during-the-recruitment-process-vx",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/supporting-candidates-who-need-help-during-the-recruitment-process-vx",
+                                             "base_path":  "/guidance/supporting-candidates-who-need-help-during-the-recruitment-process-vx",
+                                             "content_id":  "7b343302-6366-4dbf-9345-e03099895fa3",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2019-10-08T14:49:49Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Supporting candidates who need help during the recruitment process (vX)",
+                                             "web_url":  "https://www.gov.uk/guidance/supporting-candidates-who-need-help-during-the-recruitment-process-vx",
+                                             "withdrawn":  false
+                                         }
+                                     ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/government/government-efficiency-transparency-and-accountability",
+                                     "api_url":  "https://www.gov.uk/api/content/government/government-efficiency-transparency-and-accountability",
+                                     "base_path":  "/government/government-efficiency-transparency-and-accountability",
+                                     "content_id":  "f3f4b5d3-49c4-487b-bd5b-be75f11ec8c5",
+                                     "details":  {
+                                                     "internal_name":  "Government efficiency, transparency and accountability [PA] (level 2)",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/all",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/all",
+                                                                             "base_path":  "/government/all",
+                                                                             "content_id":  "e48ab80a-de80-4e83-bf59-26316856a5f9",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Government",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:29:39Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Government",
+                                                                             "web_url":  "https://www.gov.uk/government/all",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-08-17T15:32:41Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Government efficiency, transparency and accountability",
+                                     "web_url":  "https://www.gov.uk/government/government-efficiency-transparency-and-accountability",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2024-03-14T14:44:04+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1736524637.688-10.13.20.208-2479",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Archiving completed vacancies (vX)",
+    "updated_at":  "2025-01-10T15:57:18+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

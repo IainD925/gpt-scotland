@@ -1,0 +1,580 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/condition-data-collection-2-cdc2-programme",
+    "content_id":  "afb3d21c-8fe9-411c-8e41-4dbf2d4773d0",
+    "description":  "Find out about the CDC2 programme and when preliminary meetings and school site visits will take place.",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alternative.formats@education.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  205268,
+                                            "filename":  "CDC2_programme_tranche_list_pilot_1_2_schools_.xlsx",
+                                            "id":  "7733133",
+                                            "title":  "Confirmed pilot, tranche 1 and tranche 2 list: CDC2 programme",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5fc9ffca8fa8f5474be3111a/CDC2_programme_tranche_list_pilot_1_2_schools_.xlsx"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alternative.formats@education.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  1192726,
+                                            "filename":  "Tranches_1_to_9_provisional_list.xlsx",
+                                            "id":  "7733134",
+                                            "title":  "Full provisional tranche list: CDC2 programme",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6169688ee90e0719771829be/Tranches_1_to_9_provisional_list.xlsx"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alternative.formats@education.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  316891,
+                                            "filename":  "CDC2_Programme_Guide.pdf",
+                                            "id":  "7733135",
+                                            "number_of_pages":  35,
+                                            "title":  "CDC2 programme guide",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/605e10f0e90e0774fd658185/CDC2_Programme_Guide.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alternative.formats@education.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  689247,
+                                            "filename":  "Condition_of_School_Buildings_Survey_CDC1_-_key_findings_report.pdf",
+                                            "id":  "7733136",
+                                            "number_of_pages":  28,
+                                            "title":  "Condition Data Collection 1 (CDC1): key findings report",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60af7cbbe90e071b54214c82/Condition_of_School_Buildings_Survey_CDC1_-_key_findings_report.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alternative.formats@education.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  104687,
+                                            "filename":  "How_to_access_Condition_Data_Collection__CDC2__reports_on_the_CDC2_portal_Guidance_for_schools.pdf",
+                                            "id":  "7733137",
+                                            "number_of_pages":  2,
+                                            "title":  "Schools: guidance on accessing CDC2 reports",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60f7ddbce90e0764cb10be2a/How_to_access_Condition_Data_Collection__CDC2__reports_on_the_CDC2_portal_Guidance_for_schools.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alternative.formats@education.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  110560,
+                                            "filename":  "How_to_access_Condition_Data_Collection__CDC2__reports_on_the_CDC2_portal_Guidance_for_responsible_bodies.pdf",
+                                            "id":  "7733138",
+                                            "number_of_pages":  2,
+                                            "title":  "Responsible bodies: guidance on accessing CDC2 reports",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/60f7ddced3bf7f568be1e167/How_to_access_Condition_Data_Collection__CDC2__reports_on_the_CDC2_portal_Guidance_for_responsible_bodies.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alternative.formats@education.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  282003,
+                                            "filename":  "Confirmed_tranche_3_and_tranche_4_list_CDC2_programme.xlsx",
+                                            "id":  "7733139",
+                                            "title":  "Confirmed tranche 3 and tranche 4 list: CDC2 programme",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/615f1d338fa8f52986e61c2b/Confirmed_tranche_3_and_tranche_4_list_CDC2_programme.xlsx"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alternative.formats@education.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  242178,
+                                            "filename":  "Confirmed_tranche_5_and_tranche_6_list_CDC2_programme.xlsx",
+                                            "id":  "7733140",
+                                            "title":  "Confirmed tranche 5 and tranche 6 list: CDC2 programme",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/63f6308cd3bf7f62f1a4fe82/Confirmed_tranche_5_and_tranche_6_list_CDC2_programme.xlsx"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alternative.formats@education.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  250976,
+                                            "filename":  "Confirmed_tranche_7_and_tranche_8_list_CDC2_programme.xlsx",
+                                            "id":  "7733141",
+                                            "title":  "Confirmed tranche 7 and tranche 8 list: CDC2 programme",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6525614d244f8e000d8e734b/Confirmed_tranche_7_and_tranche_8_list_CDC2_programme.xlsx"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alternative.formats@education.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  129093,
+                                            "filename":  "Tranche_9_list_-_Read_only.xlsx",
+                                            "id":  "8240423",
+                                            "title":  "Confirmed tranche 9 list: CDC2 programme",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/67066e06e84ae1fd8592f068/Tranche_9_list_-_Read_only.xlsx"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003ch2 id=\"overview\"\u003eOverview\u003c/h2\u003e\n\n\u003cp\u003eFrom 2021 to 2026, the Department for Education (\u003cabbr title=\"Department for Education\"\u003eDfE\u003c/abbr\u003e) Condition Data Collection 2 (CDC2) programme will visit every government-funded school in England to collect data about the condition of their buildings.\u003c/p\u003e\n\n\u003cp\u003eThis data will provide a comprehensive picture of the condition of the school estate in England.\u003c/p\u003e\n\n\u003ch2 id=\"cdc2-programme-guide\"\u003eCDC2 programme guide\u003c/h2\u003e\n\n\u003cp\u003eGuidance for schools and responsible bodies about the CDC2 programme. It explains how CDC2 will be delivered between 2021 and 2026.\u003c/p\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail govuk-!-display-none-print\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/605e10f0e90e0774fd658185/CDC2_Programme_Guide.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/605e10f0d3bf7f71825e815b/thumbnail_CDC2_Programme_Guide.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/605e10f0e90e0774fd658185/CDC2_Programme_Guide.pdf\"\u003eCDC2 programme guide\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e309 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e35 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n\u003c/div\u003e\u003c/section\u003e\n\n\u003cp\u003eSeparate guidance about the \u003ca href=\"https://www.gov.uk/guidance/further-education-condition-data-collection-2-cdc2-programme\" class=\"govuk-link\"\u003eFurther Education Condition Data Collection 2 (\u003cabbr title=\"further education\"\u003eFE\u003c/abbr\u003e CDC2) programme\u003c/a\u003e is available.\u003c/p\u003e\n\n\u003ch2 id=\"access-cdc2-reports\"\u003eAccess CDC2 reports\u003c/h2\u003e\n\n\u003cp\u003eThese documents explain how schools and responsible bodies can access their CDC2 school condition reports.\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/60f7ddbce90e0764cb10be2a/How_to_access_Condition_Data_Collection__CDC2__reports_on_the_CDC2_portal_Guidance_for_schools.pdf\"\u003eSchools: guidance on accessing CDC2 reports\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e102 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e2 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/60f7ddced3bf7f568be1e167/How_to_access_Condition_Data_Collection__CDC2__reports_on_the_CDC2_portal_Guidance_for_responsible_bodies.pdf\"\u003eResponsible bodies: guidance on accessing CDC2 reports\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e108 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e2 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"purpose\"\u003ePurpose\u003c/h2\u003e\n\n\u003cp\u003eCDC2 will help:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eprovide \u003cabbr title=\"Department for Education\"\u003eDfE\u003c/abbr\u003e with an up-to-date evidence base which will:\n    \u003cul\u003e\n      \u003cli\u003einform future condition funding allocations\u003c/li\u003e\n      \u003cli\u003ehelp prioritise investment in the school estate to where it is most needed\u003c/li\u003e\n    \u003c/ul\u003e\n  \u003c/li\u003e\n  \u003cli\u003eidentify school buildings for inclusion in rebuilding programmes\u003c/li\u003e\n  \u003cli\u003eresponsible bodies (and their schools) benefit from capital allocations based on a consistent assessment across key elements of condition need\u003c/li\u003e\n  \u003cli\u003e\n\u003cabbr title=\"Department for Education\"\u003eDfE\u003c/abbr\u003e target aggregated funding allocation at responsible body level\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"benefits\"\u003eBenefits\u003c/h2\u003e\n\n\u003cp\u003eCDC2 will help schools and responsible bodies:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003econtribute to a broader view of condition need at a school\u003c/li\u003e\n  \u003cli\u003ehighlight condition issues which need attention or further investigation\u003c/li\u003e\n  \u003cli\u003eprovide a view of roof condition which is not normally seen\u003c/li\u003e\n  \u003cli\u003eprovide good photographic evidence of condition issues\u003c/li\u003e\n  \u003cli\u003esupport bids for condition funding – for example, \u003ca href=\"https://www.gov.uk/guidance/condition-improvement-fund\" class=\"govuk-link\"\u003eCondition Improvement Fund\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003ehighlight levels of building compliance and estate management at a school\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"limitations\"\u003eLimitations\u003c/h2\u003e\n\n\u003cp\u003eOn its own, CDC2 data is not suitable for local asset management purposes. This is because it:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eis not invasive (only visible condition is inspected)\u003c/li\u003e\n  \u003cli\u003eis not structural (critical structural repairs may not be identified)\u003c/li\u003e\n  \u003cli\u003edoes not report on hazardous materials (principally asbestos)\u003c/li\u003e\n  \u003cli\u003edoes not address critical health and safety requirements such as fire and intruder alarm functionality (although major health and safety issues observed by surveyors will be reported directly to the school)\u003c/li\u003e\n  \u003cli\u003edoes not take into account building use or capacity\u003c/li\u003e\n  \u003cli\u003edoes not provide descriptions of defects and remedies or cost information for schools or responsible bodies\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"list-of-confirmed-and-scheduled-school-site-visits\"\u003eList of confirmed and scheduled school site visits\u003c/h2\u003e\n\n\u003cdiv class=\"call-to-action\"\u003e\n  \u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5fc9ffca8fa8f5474be3111a/CDC2_programme_tranche_list_pilot_1_2_schools_.xlsx\"\u003eConfirmed pilot, tranche 1 and tranche 2 list: CDC2 programme\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003eMS Excel Spreadsheet\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e200 KB\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n  \u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/615f1d338fa8f52986e61c2b/Confirmed_tranche_3_and_tranche_4_list_CDC2_programme.xlsx\"\u003eConfirmed tranche 3 and tranche 4 list: CDC2 programme\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003eMS Excel Spreadsheet\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e275 KB\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n  \u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/63f6308cd3bf7f62f1a4fe82/Confirmed_tranche_5_and_tranche_6_list_CDC2_programme.xlsx\"\u003eConfirmed tranche 5 and tranche 6 list: CDC2 programme\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003eMS Excel Spreadsheet\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e237 KB\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n  \u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/6525614d244f8e000d8e734b/Confirmed_tranche_7_and_tranche_8_list_CDC2_programme.xlsx\"\u003eConfirmed tranche 7 and tranche 8 list: CDC2 programme\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003eMS Excel Spreadsheet\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e245 KB\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n  \u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/67066e06e84ae1fd8592f068/Tranche_9_list_-_Read_only.xlsx\"\u003eConfirmed tranche 9 list: CDC2 programme\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003eMS Excel Spreadsheet\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e126 KB\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n  \u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/6169688ee90e0719771829be/Tranches_1_to_9_provisional_list.xlsx\"\u003eFull provisional tranche list: CDC2 programme\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003eMS Excel Spreadsheet\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e1.14 MB\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cp\u003eThese documents have been provided for schools, local authorities, academy trusts and dioceses, and include the school name, unique reference number (URN) and the tranche to which a school has been allocated.\u003c/p\u003e\n\n\u003cp\u003eThe confirmed tranche lists contain details of confirmed school site visits. They will be updated as more provisional tranche dates are confirmed.\u003c/p\u003e\n\n\u003cp\u003eThe ‘Full provisional tranche list’ was correct at the time of publication and will not be updated. It has been provided to allow stakeholders to plan for their school visits throughout the programme.\u003c/p\u003e\n\n\u003ctable\u003e\n  \u003cthead\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"col\"\u003eTranche\u003c/th\u003e\n      \u003cth scope=\"col\"\u003eDate\u003c/th\u003e\n      \u003cth scope=\"col\"\u003eStatus of list\u003c/th\u003e\n    \u003c/tr\u003e\n  \u003c/thead\u003e\n  \u003ctbody\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003ePilot\u003c/th\u003e\n      \u003ctd\u003eDecember 2020 to January 2021\u003c/td\u003e\n      \u003ctd\u003eConfirmed, 7 December 2020\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003e1\u003c/th\u003e\n      \u003ctd\u003eFebruary 2021 to July 2021\u003c/td\u003e\n      \u003ctd\u003eConfirmed, 7 December 2020\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003e2\u003c/th\u003e\n      \u003ctd\u003eAugust 2021 to January 2022\u003c/td\u003e\n      \u003ctd\u003eConfirmed, 7 December 2020\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003e3\u003c/th\u003e\n      \u003ctd\u003eFebruary 2022 to July 2022\u003c/td\u003e\n      \u003ctd\u003eConfirmed, 8 October 2021\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003e4\u003c/th\u003e\n      \u003ctd\u003eAugust 2022 to January 2023\u003c/td\u003e\n      \u003ctd\u003eConfirmed, 8 October 2021\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003e5\u003c/th\u003e\n      \u003ctd\u003eFebruary 2023 to July 2023\u003c/td\u003e\n      \u003ctd\u003eConfirmed, 22 February 2023\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003e6\u003c/th\u003e\n      \u003ctd\u003eAugust 2023 to January 2024\u003c/td\u003e\n      \u003ctd\u003eConfirmed, 22 February 2023\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003e7\u003c/th\u003e\n      \u003ctd\u003eFebruary 2024 to July 2024\u003c/td\u003e\n      \u003ctd\u003eConfirmed, 12 October 2023\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003e8\u003c/th\u003e\n      \u003ctd\u003eAugust 2024 to January 2025\u003c/td\u003e\n      \u003ctd\u003eConfirmed, 12 October 2023\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003e9\u003c/th\u003e\n      \u003ctd\u003eFebruary 2025 to July 2025\u003c/td\u003e\n      \u003ctd\u003eConfirmed, 10 October 2024\u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e\n\n\u003ch2 id=\"organisations-involved-in-cdc2\"\u003eOrganisations involved in CDC2\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003eArcadis – technical quality manager\u003c/li\u003e\n  \u003cli\u003eAecom – surveying organisation\u003c/li\u003e\n  \u003cli\u003eAtkins Realis – surveying organisation\u003c/li\u003e\n  \u003cli\u003eRider Levett Bucknall – surveying organisation\u003c/li\u003e\n  \u003cli\u003eGordian – IT supplier\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"condition-data-collection-1-cdc1-key-findings-report\"\u003eCondition Data Collection 1 (CDC1): key findings report\u003c/h2\u003e\n\n\u003cp\u003eThis document is for anyone interested in the findings of the \u003ca href=\"https://www.gov.uk/guidance/condition-data-collection-programme-information-and-guidance\" class=\"govuk-link\"\u003eCDC1 programme\u003c/a\u003e.\u003c/p\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail govuk-!-display-none-print\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/60af7cbbe90e071b54214c82/Condition_of_School_Buildings_Survey_CDC1_-_key_findings_report.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/60af7cbbd3bf7f738a50fa02/thumbnail_Condition_of_School_Buildings_Survey_CDC1_-_key_findings_report.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/60af7cbbe90e071b54214c82/Condition_of_School_Buildings_Survey_CDC1_-_key_findings_report.pdf\"\u003eCondition Data Collection 1 (CDC1): key findings report\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e673 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e28 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n\u003c/div\u003e\u003c/section\u003e\n\n\u003cp\u003eThe report sets out:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ehow the data was collected\u003c/li\u003e\n  \u003cli\u003ethe key findings of the programme\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Added confirmed list of schools in tranche 9 of the Condition Data Collection 2 (CDC2) and link to guidance on the Further Education Condition Data Collection 2 (FE CDC2).",
+                                               "public_timestamp":  "2024-10-10T10:00:02.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated the name of the IT supplier under \u0027Organisations involved in CDC2\u0027 from Accruent to Gordian.",
+                                               "public_timestamp":  "2023-10-17T08:14:59.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added \u0027Confirmed tranche 7 and tranche 8 list: CDC2 programme\u0027.",
+                                               "public_timestamp":  "2023-10-12T09:30:08.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added \u0027Confirmed tranche 5 and tranche 6 list: CDC2 programme\u0027. Updated table to reflect this.",
+                                               "public_timestamp":  "2023-02-22T16:46:40.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Table updated to reflect tranches 3 and 4 confirmed on 8 October 2021.",
+                                               "public_timestamp":  "2021-10-11T15:01:35.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added \u0027Confirmed tranche 3 and tranche 4 list: CDC2 programme\u0027.",
+                                               "public_timestamp":  "2021-10-08T11:08:17.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated the \u0027Full provisional tranche list: CDC2 programme\u0027 spreadsheet. ",
+                                               "public_timestamp":  "2021-09-29T14:41:57.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added guidance documents for schools and responsible bodies which explain how to access a CDC2 report on the CDC2 portal.",
+                                               "public_timestamp":  "2021-07-21T10:58:49.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added \u0027Condition Data Collection 1: key findings report\u0027.\r\n",
+                                               "public_timestamp":  "2021-05-27T12:35:51.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added \u0027CDC2 full programme guide\u0027 document. Added information about the purpose, benefits and limitations of the programme.",
+                                               "public_timestamp":  "2021-03-26T16:52:58.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Added \u0027List of provisional school site visits\u0027.",
+                                               "public_timestamp":  "2021-03-19T16:21:34.000+00:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2020-12-07T00:00:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "ebd15ade-73b2-4eaf-b1c3-43034a42eb37"
+                                                 ],
+                    "first_public_at":  "2020-12-07T00:00:00.000+00:00",
+                    "national_applicability":  {
+                                                   "england":  {
+                                                                   "applicable":  true,
+                                                                   "label":  "England"
+                                                               },
+                                                   "northern_ireland":  {
+                                                                            "alternative_url":  "",
+                                                                            "applicable":  false,
+                                                                            "label":  "Northern Ireland"
+                                                                        },
+                                                   "scotland":  {
+                                                                    "alternative_url":  "",
+                                                                    "applicable":  false,
+                                                                    "label":  "Scotland"
+                                                                },
+                                                   "wales":  {
+                                                                 "alternative_url":  "",
+                                                                 "applicable":  false,
+                                                                 "label":  "Wales"
+                                                             }
+                                               },
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2020-12-07T00:00:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/condition-data-collection-2-cdc2-programme",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/condition-data-collection-2-cdc2-programme",
+                                                     "base_path":  "/guidance/condition-data-collection-2-cdc2-programme",
+                                                     "content_id":  "afb3d21c-8fe9-411c-8e41-4dbf2d4773d0",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2024-10-10T09:00:02Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Condition Data Collection 2 (CDC2) programme",
+                                                     "web_url":  "https://www.gov.uk/guidance/condition-data-collection-2-cdc2-programme",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2019-to-2022-johnson-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2019-to-2022-johnson-conservative-government",
+                                         "base_path":  "/government/2019-to-2022-johnson-conservative-government",
+                                         "content_id":  "4ed901ec-c8ce-42d5-a2aa-6d7f462480df",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2022-09-06T00:00:00+00:00",
+                                                         "started_on":  "2019-07-24T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2019 to 2022 Johnson Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2019-to-2022-johnson-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D6",
+                                            "api_path":  "/api/content/government/organisations/department-for-education",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-education",
+                                            "base_path":  "/government/organisations/department-for-education",
+                                            "content_id":  "ebd15ade-73b2-4eaf-b1c3-43034a42eb37",
+                                            "details":  {
+                                                            "acronym":  "DfE",
+                                                            "brand":  "department-for-education",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db2e40f0b649cceb18c3/s960__K1E8325edit.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5a37db2ee5274a7908e352f2/s300__K1E8325edit.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Department \u003cbr/\u003efor Education"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Department for Education",
+                                            "web_url":  "https://www.gov.uk/government/organisations/department-for-education",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "D6",
+                                                                       "api_path":  "/api/content/government/organisations/department-for-education",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-education",
+                                                                       "base_path":  "/government/organisations/department-for-education",
+                                                                       "content_id":  "ebd15ade-73b2-4eaf-b1c3-43034a42eb37",
+                                                                       "details":  {
+                                                                                       "acronym":  "DfE",
+                                                                                       "brand":  "department-for-education",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db2e40f0b649cceb18c3/s960__K1E8325edit.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5a37db2ee5274a7908e352f2/s300__K1E8325edit.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Department \u003cbr/\u003efor Education"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Department for Education",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/department-for-education",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D6",
+                                                              "api_path":  "/api/content/government/organisations/department-for-education",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-education",
+                                                              "base_path":  "/government/organisations/department-for-education",
+                                                              "content_id":  "ebd15ade-73b2-4eaf-b1c3-43034a42eb37",
+                                                              "details":  {
+                                                                              "acronym":  "DfE",
+                                                                              "brand":  "department-for-education",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db2e40f0b649cceb18c3/s960__K1E8325edit.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/5a37db2ee5274a7908e352f2/s300__K1E8325edit.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Department \u003cbr/\u003efor Education"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Department for Education",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/department-for-education",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/school-rebuilding-programme",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/school-rebuilding-programme",
+                                                              "base_path":  "/government/publications/school-rebuilding-programme",
+                                                              "content_id":  "50f3aa3a-875f-45d5-b91b-af2f9dba28fb",
+                                                              "document_type":  "policy_paper",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-10-22T09:30:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "School rebuilding programme",
+                                                              "web_url":  "https://www.gov.uk/government/publications/school-rebuilding-programme",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/school-rebuilding-programme-nomination",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/school-rebuilding-programme-nomination",
+                                                              "base_path":  "/government/publications/school-rebuilding-programme-nomination",
+                                                              "content_id":  "228cb171-e321-4660-8503-9eb011de40ae",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-12-16T09:30:02Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "School rebuilding programme: nomination",
+                                                              "web_url":  "https://www.gov.uk/government/publications/school-rebuilding-programme-nomination",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/school-rebuilding-programme-equalities-impact-assessment",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/school-rebuilding-programme-equalities-impact-assessment",
+                                                              "base_path":  "/government/publications/school-rebuilding-programme-equalities-impact-assessment",
+                                                              "content_id":  "997a57f1-d64a-48e0-ba23-8377bf067628",
+                                                              "document_type":  "impact_assessment",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-12-16T09:30:02Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "School rebuilding programme: equalities impact assessments",
+                                                              "web_url":  "https://www.gov.uk/government/publications/school-rebuilding-programme-equalities-impact-assessment",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/good-estate-management-for-schools",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/good-estate-management-for-schools",
+                                                              "base_path":  "/guidance/good-estate-management-for-schools",
+                                                              "content_id":  "dcd02b57-eb4a-4432-9ec5-9e8dd817d490",
+                                                              "document_type":  "manual",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-10-31T16:13:01Z",
+                                                              "schema_name":  "manual",
+                                                              "title":  "Good estate management for schools",
+                                                              "web_url":  "https://www.gov.uk/guidance/good-estate-management-for-schools",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/education/data-collection-and-censuses-for-schools",
+                                     "api_url":  "https://www.gov.uk/api/content/education/data-collection-and-censuses-for-schools",
+                                     "base_path":  "/education/data-collection-and-censuses-for-schools",
+                                     "content_id":  "c2f971d6-e0b4-4b00-87a4-074d6c96b2c9",
+                                     "description":  "School censuses and school-level annual school censuses (SLASC), school capacity surveys, phonics screening checks, key stage 1 and 2 assessments data.",
+                                     "details":  {
+                                                     "internal_name":  "Data collection and censuses for schools",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/education/running-and-managing-a-school",
+                                                                             "api_url":  "https://www.gov.uk/api/content/education/running-and-managing-a-school",
+                                                                             "base_path":  "/education/running-and-managing-a-school",
+                                                                             "content_id":  "42e6e5c3-3a06-4a6f-abd4-a4b85d9c6b16",
+                                                                             "description":  "Governance, school admissions, premises, data collection and censuses, complaints, uniforms, setting up or changing a school\u0027s status.",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Running and managing a school",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/education",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/education",
+                                                                                                                     "base_path":  "/education",
+                                                                                                                     "content_id":  "c58fdadd-7743-46d6-9629-90bb3ccc4ef0",
+                                                                                                                     "description":  "Schools and academies, further and higher education, apprenticeships and other skills training, student funding, early years.",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Education, training and skills",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-06-07T15:19:07Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Education, training and skills",
+                                                                                                                     "web_url":  "https://www.gov.uk/education",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2017-06-29T12:59:03Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Running and managing a school",
+                                                                             "web_url":  "https://www.gov.uk/education/running-and-managing-a-school",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2017-08-02T11:27:14Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Data collection and censuses for schools",
+                                     "web_url":  "https://www.gov.uk/education/data-collection-and-censuses-for-schools",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/education/school-buildings-and-land",
+                                     "api_url":  "https://www.gov.uk/api/content/education/school-buildings-and-land",
+                                     "base_path":  "/education/school-buildings-and-land",
+                                     "content_id":  "059e1b97-c18b-4043-94a5-59004df8282d",
+                                     "description":  "How to develop school land sustainably. Design and maintenance, transactions and guidelines, standards for school premises.",
+                                     "details":  {
+                                                     "internal_name":  "School buildings and land",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/education/running-and-managing-a-school",
+                                                                             "api_url":  "https://www.gov.uk/api/content/education/running-and-managing-a-school",
+                                                                             "base_path":  "/education/running-and-managing-a-school",
+                                                                             "content_id":  "42e6e5c3-3a06-4a6f-abd4-a4b85d9c6b16",
+                                                                             "description":  "Governance, school admissions, premises, data collection and censuses, complaints, uniforms, setting up or changing a school\u0027s status.",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Running and managing a school",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/education",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/education",
+                                                                                                                     "base_path":  "/education",
+                                                                                                                     "content_id":  "c58fdadd-7743-46d6-9629-90bb3ccc4ef0",
+                                                                                                                     "description":  "Schools and academies, further and higher education, apprenticeships and other skills training, student funding, early years.",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Education, training and skills",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-06-07T15:19:07Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Education, training and skills",
+                                                                                                                     "web_url":  "https://www.gov.uk/education",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2017-06-29T12:59:03Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Running and managing a school",
+                                                                             "web_url":  "https://www.gov.uk/education/running-and-managing-a-school",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2017-06-29T13:02:47Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "School buildings and land",
+                                     "web_url":  "https://www.gov.uk/education/school-buildings-and-land",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2024-10-10T10:00:02+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1728489842.645-10.13.20.74-2369",
+    "publishing_scheduled_at":  "2024-10-10T10:00:00+01:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  2,
+    "schema_name":  "detailed_guide",
+    "title":  "Condition Data Collection 2 (CDC2) programme",
+    "updated_at":  "2024-10-31T16:13:01+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

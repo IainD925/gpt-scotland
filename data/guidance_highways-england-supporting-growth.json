@@ -1,0 +1,497 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/highways-england-supporting-growth",
+    "content_id":  "631dda97-2cf5-465c-adca-8294cf5691ff",
+    "description":  "Find out how Highways England plans for, and supports, economic growth.",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "info@highwaysengland.co.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  77678,
+                                            "filename":  "S160066_A5_Strategic_Economic_Growth_handout.pdf",
+                                            "id":  "2209274",
+                                            "number_of_pages":  2,
+                                            "title":  "Supporting Economic Growth leaflet",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a80b922e5274a2e8ab51cb5/S160066_A5_Strategic_Economic_Growth_handout.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "info@highwaysengland.co.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  950958,
+                                            "filename":  "S160065_SEGP_Handout_Flyer_6pp_v2.pdf",
+                                            "id":  "2209275",
+                                            "number_of_pages":  6,
+                                            "title":  "Strategic Economic Growth Plan leaflet",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a819ac8e5274a2e87dbe85f/S160065_SEGP_Handout_Flyer_6pp_v2.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "info@highwaysengland.co.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1114926,
+                                            "filename":  "GHF_INFORMATION_LEAFLET.pdf",
+                                            "id":  "2209276",
+                                            "number_of_pages":  5,
+                                            "title":  "Growth and Housing Fund leaflet",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a81b625e5274a2e87dbf1a7/GHF_INFORMATION_LEAFLET.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "info@highwaysengland.co.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  10283008,
+                                            "filename":  "SEGP_-_Underpinning_Report_-_Assessment_of_Growth_Impacts.pdf",
+                                            "id":  "2209277",
+                                            "number_of_pages":  96,
+                                            "title":  "Assessment of Growth Impacts",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a81eeb3ed915d74e6234e38/SEGP_-_Underpinning_Report_-_Assessment_of_Growth_Impacts.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "info@highwaysengland.co.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  445492,
+                                            "filename":  "SEGP_-_Underpinning_Report_-_Considering_the_economic_significance_of_the_SRN.pdf",
+                                            "id":  "2209278",
+                                            "number_of_pages":  8,
+                                            "title":  "Considering the Economic Significance of the SRN",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a75a1beed915d506ee804e4/SEGP_-_Underpinning_Report_-_Considering_the_economic_significance_of_the_SRN.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "info@highwaysengland.co.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1196475,
+                                            "filename":  "SEGP_-_Underpinning_report_-_Analysis_of_stakeholder_discussion.pdf",
+                                            "id":  "2209279",
+                                            "number_of_pages":  16,
+                                            "title":  "Analysis of stakeholder discussion",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a81cde0e5274a2e87dbf907/SEGP_-_Underpinning_report_-_Analysis_of_stakeholder_discussion.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "info@highwaysengland.co.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  3071933,
+                                            "filename":  "SEGP_-_Underpinning_Report_-_Commercial_Development_and_the_SRN.pdf",
+                                            "id":  "2209280",
+                                            "number_of_pages":  52,
+                                            "title":  "Commercial Development and the SRN",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a748fb3e5274a410efd094a/SEGP_-_Underpinning_Report_-_Commercial_Development_and_the_SRN.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "info@highwaysengland.co.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  618739,
+                                            "filename":  "SEGP_-_Underpinning_Report_-_Economic_Growth_and_the_SRN.pdf",
+                                            "id":  "2209281",
+                                            "number_of_pages":  22,
+                                            "title":  "Economic Growth and the SRN",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a820fe6ed915d74e6235947/SEGP_-_Underpinning_Report_-_Economic_Growth_and_the_SRN.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "info@highwaysengland.co.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  9021530,
+                                            "filename":  "SEGP_-_Underpinning_Report_-_International_gateways_and_the_SRN.pdf",
+                                            "id":  "2209282",
+                                            "number_of_pages":  92,
+                                            "title":  "International Gateways and the SRN",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a758df4ed915d6faf2b3e49/SEGP_-_Underpinning_Report_-_International_gateways_and_the_SRN.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "info@highwaysengland.co.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  7890723,
+                                            "filename":  "SEGP_-_Underpinning_report_-_Socio-economic_analysis_future_forecasts_and_the_SRN.pdf",
+                                            "id":  "2209283",
+                                            "number_of_pages":  74,
+                                            "title":  "Socio-economic analysis, future forecasts and the strategic road network",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a82db6340f0b62305b94b63/SEGP_-_Underpinning_report_-_Socio-economic_analysis_future_forecasts_and_the_SRN.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "info@highwaysengland.co.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  4533729,
+                                            "filename":  "m160503_the_road_to_growth_Our_strategic_economic_growth_plan.pdf",
+                                            "id":  "2209284",
+                                            "number_of_pages":  41,
+                                            "title":  "The Road to Growth: Our Strategic Economic Growth Plan",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a823f7c40f0b62305b93463/m160503_the_road_to_growth_Our_strategic_economic_growth_plan.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "info@highwaysengland.co.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  101055,
+                                            "filename":  "Confirmed_GHF_Projects_-_for_webpage.pdf",
+                                            "id":  "2209285",
+                                            "number_of_pages":  2,
+                                            "title":  "List of confirmed Growth and Housing Fund investments",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a8241e3ed915d74e62369f7/Confirmed_GHF_Projects_-_for_webpage.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "info@highwaysengland.co.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  105945,
+                                            "filename":  "Region_and_local_authority_planning_contact_email_addresses_-_July_2017.pdf",
+                                            "id":  "2209286",
+                                            "number_of_pages":  12,
+                                            "title":  "Region and local authority planning contact email addresses ",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7566abe5274a467f7e43d3/Region_and_local_authority_planning_contact_email_addresses_-_July_2017.pdf"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eThe strategic road network (SRN) is vital to the success of the UK economy.  Highways England supports the economy by ensuring safe, efficient, reliable journeys on our network of major roads. This allows goods to move through England and beyond.\u003c/p\u003e\n\n\u003cp\u003eSupporting economic growth is one of the five strategic objectives set out in our \u003ca href=\"https://www.gov.uk/government/publications/highways-england-strategic-business-plan-2015-to-2020\" class=\"govuk-link\"\u003eStrategic Business Plan\u003c/a\u003e. It influences everything that we do – both with our current work and our future investment planning.\u003c/p\u003e\n\n\u003cp\u003eWe are delivering £15 billion of investment in England’s motorways and major A roads as described by the government’s Road Investment Strategy. This will deliver more than 100 schemes to increase capacity, transform connectivity, and improve the condition of the network.\u003c/p\u003e\n\n\u003cp\u003eWe also make a significant contribution to the UK’s economy through our Growth and Housing Fund, our operation of the network, and through our role as statutory consultee in the planning system.  We have published a strategic economic plan describing how we will work to increase our economic impact.\u003c/p\u003e\n\n\u003ch2 id=\"the-road-to-growth-our-strategic-economic-growth-plan\"\u003eThe Road to Growth: our Strategic Economic Growth Plan\u003c/h2\u003e\n\n\u003cp\u003eThe Road to Growth is our first strategic economic growth plan – a plan for maximising the economic impact of the SRN. It sets out new evidence about the SRN’s relationship with the economy, and explains how we will further increase our economic impact.\u003c/p\u003e\n\n\u003cp\u003eOur strategic plan is already influencing our activity, and will inform the next Road Investment Strategy. It will continue to influence our business and our investment decisions for many years ahead.\u003c/p\u003e\n\n\u003cp\u003eThe Road to Growth sets out the practical steps we are taking to increase our economic contribution in 4 areas:\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003eSupporting business productivity and competitiveness, and enabling the performance of SRN–reliant sectors\u003c/li\u003e\n  \u003cli\u003eProviding efficient routes to global markets through international gateways\u003c/li\u003e\n  \u003cli\u003eStimulating and supporting the sustainable development of homes and employment spaces\u003c/li\u003e\n  \u003cli\u003eProviding employment, skills and business opportunities within our sector\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eMost of the steps we have identified will be delivered in partnership with others, including national and sub-national transport bodies, local authorities, local enterprise partnerships, business sector organisations, and government agencies.\u003c/p\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a823f7c40f0b62305b93463/m160503_the_road_to_growth_Our_strategic_economic_growth_plan.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5a823f7ced915d74e623692d/thumbnail_m160503_the_road_to_growth_Our_strategic_economic_growth_plan.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a823f7c40f0b62305b93463/m160503_the_road_to_growth_Our_strategic_economic_growth_plan.pdf\"\u003eThe Road to Growth: Our Strategic Economic Growth Plan\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e4.32 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e41 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:info@highwaysengland.co.uk\" target=\"_blank\" class=\"govuk-link\"\u003einfo@highwaysengland.co.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a82db6340f0b62305b94b63/SEGP_-_Underpinning_report_-_Socio-economic_analysis_future_forecasts_and_the_SRN.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5a82db5ced915d74e3403ea8/thumbnail_SEGP_-_Underpinning_report_-_Socio-economic_analysis_future_forecasts_and_the_SRN.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a82db6340f0b62305b94b63/SEGP_-_Underpinning_report_-_Socio-economic_analysis_future_forecasts_and_the_SRN.pdf\"\u003eSocio-economic analysis, future forecasts and the strategic road network\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e7.53 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e74 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:info@highwaysengland.co.uk\" target=\"_blank\" class=\"govuk-link\"\u003einfo@highwaysengland.co.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a758df4ed915d6faf2b3e49/SEGP_-_Underpinning_Report_-_International_gateways_and_the_SRN.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5a758df3ed915d506ee7fba0/thumbnail_SEGP_-_Underpinning_Report_-_International_gateways_and_the_SRN.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a758df4ed915d6faf2b3e49/SEGP_-_Underpinning_Report_-_International_gateways_and_the_SRN.pdf\"\u003eInternational Gateways and the SRN\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e8.6 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e92 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:info@highwaysengland.co.uk\" target=\"_blank\" class=\"govuk-link\"\u003einfo@highwaysengland.co.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a820fe6ed915d74e6235947/SEGP_-_Underpinning_Report_-_Economic_Growth_and_the_SRN.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5a820fe7ed915d74e3401851/thumbnail_SEGP_-_Underpinning_Report_-_Economic_Growth_and_the_SRN.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a820fe6ed915d74e6235947/SEGP_-_Underpinning_Report_-_Economic_Growth_and_the_SRN.pdf\"\u003eEconomic Growth and the SRN\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e604 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e22 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:info@highwaysengland.co.uk\" target=\"_blank\" class=\"govuk-link\"\u003einfo@highwaysengland.co.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a748fb3e5274a410efd094a/SEGP_-_Underpinning_Report_-_Commercial_Development_and_the_SRN.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5a748fb2ed915d0e8e3992e2/thumbnail_SEGP_-_Underpinning_Report_-_Commercial_Development_and_the_SRN.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a748fb3e5274a410efd094a/SEGP_-_Underpinning_Report_-_Commercial_Development_and_the_SRN.pdf\"\u003eCommercial Development and the SRN\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e2.93 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e52 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:info@highwaysengland.co.uk\" target=\"_blank\" class=\"govuk-link\"\u003einfo@highwaysengland.co.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a81cde0e5274a2e87dbf907/SEGP_-_Underpinning_report_-_Analysis_of_stakeholder_discussion.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5a81cde2ed915d74e623433e/thumbnail_SEGP_-_Underpinning_report_-_Analysis_of_stakeholder_discussion.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a81cde0e5274a2e87dbf907/SEGP_-_Underpinning_report_-_Analysis_of_stakeholder_discussion.pdf\"\u003eAnalysis of stakeholder discussion\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e1.14 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e16 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:info@highwaysengland.co.uk\" target=\"_blank\" class=\"govuk-link\"\u003einfo@highwaysengland.co.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a75a1beed915d506ee804e4/SEGP_-_Underpinning_Report_-_Considering_the_economic_significance_of_the_SRN.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5a75a1bced915d506ee804e3/thumbnail_SEGP_-_Underpinning_Report_-_Considering_the_economic_significance_of_the_SRN.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a75a1beed915d506ee804e4/SEGP_-_Underpinning_Report_-_Considering_the_economic_significance_of_the_SRN.pdf\"\u003eConsidering the Economic Significance of the SRN\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e435 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e8 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:info@highwaysengland.co.uk\" target=\"_blank\" class=\"govuk-link\"\u003einfo@highwaysengland.co.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a81eeb3ed915d74e6234e38/SEGP_-_Underpinning_Report_-_Assessment_of_Growth_Impacts.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5a81eeb240f0b62302699f11/thumbnail_SEGP_-_Underpinning_Report_-_Assessment_of_Growth_Impacts.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a81eeb3ed915d74e6234e38/SEGP_-_Underpinning_Report_-_Assessment_of_Growth_Impacts.pdf\"\u003eAssessment of Growth Impacts\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e9.81 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e96 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:info@highwaysengland.co.uk\" target=\"_blank\" class=\"govuk-link\"\u003einfo@highwaysengland.co.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003ch2 id=\"strategic-planning\"\u003eStrategic planning\u003c/h2\u003e\n\n\u003cp\u003eIn September 2015 we launched our new planning guide – \u003ca href=\"https://www.gov.uk/guidance/planning-and-the-major-road-network-in-england\" class=\"govuk-link\"\u003ePlanning for the Future: a guide to working with Highways England on planning matters\u003c/a\u003e which sets out our commitment to being a positive, proactive strategic planning partner. It describes what we look for in emerging local plans and development proposals.\u003c/p\u003e\n\n\u003ch2 id=\"growth-and-housing-fund\"\u003eGrowth and Housing Fund\u003c/h2\u003e\n\n\u003cp\u003eThe Road Investment Strategy committed £100 million for a Growth and Housing Fund, to be developed and run by Highways England. This fund can provide an element of match funding for highways schemes that are needed to unlock stalled development sites.\u003c/p\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a81b625e5274a2e87dbf1a7/GHF_INFORMATION_LEAFLET.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5a81b627ed915d74e6233bc7/thumbnail_GHF_INFORMATION_LEAFLET.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a81b625e5274a2e87dbf1a7/GHF_INFORMATION_LEAFLET.pdf\"\u003eGrowth and Housing Fund leaflet\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e1.06 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e5 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:info@highwaysengland.co.uk\" target=\"_blank\" class=\"govuk-link\"\u003einfo@highwaysengland.co.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a8241e3ed915d74e62369f7/Confirmed_GHF_Projects_-_for_webpage.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5a8241e5e5274a2e8ab58542/thumbnail_Confirmed_GHF_Projects_-_for_webpage.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a8241e3ed915d74e62369f7/Confirmed_GHF_Projects_-_for_webpage.pdf\"\u003eList of confirmed Growth and Housing Fund investments\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e98.7 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e2 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:info@highwaysengland.co.uk\" target=\"_blank\" class=\"govuk-link\"\u003einfo@highwaysengland.co.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a7566abe5274a467f7e43d3/Region_and_local_authority_planning_contact_email_addresses_-_July_2017.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5a7566abe5274a1baf95e47f/thumbnail_Region_and_local_authority_planning_contact_email_addresses_-_July_2017.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a7566abe5274a467f7e43d3/Region_and_local_authority_planning_contact_email_addresses_-_July_2017.pdf\"\u003eRegion and local authority planning contact email addresses \u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e103 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e12 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:info@highwaysengland.co.uk\" target=\"_blank\" class=\"govuk-link\"\u003einfo@highwaysengland.co.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003cp\u003eIf you want to know more or have ideas or views to share, email: \u003ca href=\"mailto:growthandplanning@highwaysengland.co.uk\" class=\"govuk-link\"\u003egrowthandplanning@highwaysengland.co.uk\u003c/a\u003e\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Region and local authority planning contact email addresses document added",
+                                               "public_timestamp":  "2017-07-27T15:34:33.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Road to Growth document added",
+                                               "public_timestamp":  "2017-03-16T11:23:37.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Strategic Economic Growth Plan updated",
+                                               "public_timestamp":  "2016-11-29T13:55:56.000+00:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2016-07-29T16:54:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "ddad017a-eb20-41d9-8386-56293be68aab"
+                                                 ],
+                    "first_public_at":  "2016-07-29T16:54:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2016-07-29T16:54:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/highways-england-supporting-growth",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/highways-england-supporting-growth",
+                                                     "base_path":  "/guidance/highways-england-supporting-growth",
+                                                     "content_id":  "631dda97-2cf5-465c-adca-8294cf5691ff",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2017-07-27T14:34:33Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "How Highways England supports economic growth",
+                                                     "web_url":  "https://www.gov.uk/guidance/highways-england-supporting-growth",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "EA1114",
+                                            "api_path":  "/api/content/government/organisations/highways-england",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/highways-england",
+                                            "base_path":  "/government/organisations/highways-england",
+                                            "content_id":  "ddad017a-eb20-41d9-8386-56293be68aab",
+                                            "details":  {
+                                                            "acronym":  "Highways England",
+                                                            "brand":  null,
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db33e5274a7908e352fb/s960_Generic_works_photo.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5a37db3340f0b649cceb18cb/s300_Generic_works_photo.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "formatted_title":  "Highways England",
+                                                                         "image":  {
+                                                                                       "alt_text":  "Highways England",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/59fa00e6e5274a5654e4e399/Highways_England_Logo_240x100px.jpg"
+                                                                                   }
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "replaced",
+                                                                                              "updated_at":  "2021-08-01T00:00:00.000+01:00",
+                                                                                              "url":  ""
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Highways England",
+                                            "web_url":  "https://www.gov.uk/government/organisations/highways-england",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA1114",
+                                                                       "api_path":  "/api/content/government/organisations/highways-england",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/highways-england",
+                                                                       "base_path":  "/government/organisations/highways-england",
+                                                                       "content_id":  "ddad017a-eb20-41d9-8386-56293be68aab",
+                                                                       "details":  {
+                                                                                       "acronym":  "Highways England",
+                                                                                       "brand":  null,
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db33e5274a7908e352fb/s960_Generic_works_photo.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5a37db3340f0b649cceb18cb/s300_Generic_works_photo.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "formatted_title":  "Highways England",
+                                                                                                    "image":  {
+                                                                                                                  "alt_text":  "Highways England",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/59fa00e6e5274a5654e4e399/Highways_England_Logo_240x100px.jpg"
+                                                                                                              }
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "replaced",
+                                                                                                                         "updated_at":  "2021-08-01T00:00:00.000+01:00",
+                                                                                                                         "url":  ""
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Highways England",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/highways-england",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "EA1114",
+                                                              "api_path":  "/api/content/government/organisations/highways-england",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/highways-england",
+                                                              "base_path":  "/government/organisations/highways-england",
+                                                              "content_id":  "ddad017a-eb20-41d9-8386-56293be68aab",
+                                                              "details":  {
+                                                                              "acronym":  "Highways England",
+                                                                              "brand":  null,
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db33e5274a7908e352fb/s960_Generic_works_photo.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/5a37db3340f0b649cceb18cb/s300_Generic_works_photo.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "formatted_title":  "Highways England",
+                                                                                           "image":  {
+                                                                                                         "alt_text":  "Highways England",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/59fa00e6e5274a5654e4e399/Highways_England_Logo_240x100px.jpg"
+                                                                                                     }
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "replaced",
+                                                                                                                "updated_at":  "2021-08-01T00:00:00.000+01:00",
+                                                                                                                "url":  ""
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Highways England",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/highways-england",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/transport/corporate-and-operational-information-transport",
+                                     "api_url":  "https://www.gov.uk/api/content/transport/corporate-and-operational-information-transport",
+                                     "base_path":  "/transport/corporate-and-operational-information-transport",
+                                     "content_id":  "d39a3eae-b358-4472-83e2-2e17a86e2ad8",
+                                     "description":  "About the operation of DfT and its agencies, strategic and business plans, annual reports and accounts, office opening hours, expenditure and staffing.",
+                                     "details":  {
+                                                     "internal_name":  "Corporate and operational information (transport)",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/transport",
+                                                                             "api_url":  "https://www.gov.uk/api/content/transport",
+                                                                             "base_path":  "/transport",
+                                                                             "content_id":  "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                                                                             "description":  "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Transport",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-06-15T14:31:46Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Transport",
+                                                                             "web_url":  "https://www.gov.uk/transport",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-06-14T09:27:13Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Corporate and operational information (transport)",
+                                     "web_url":  "https://www.gov.uk/transport/corporate-and-operational-information-transport",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/business-and-industry/uk-economy",
+                                     "api_url":  "https://www.gov.uk/api/content/business-and-industry/uk-economy",
+                                     "base_path":  "/business-and-industry/uk-economy",
+                                     "content_id":  "a1e4659c-dc15-48be-bc4f-6c609ae061dc",
+                                     "details":  {
+                                                     "internal_name":  "UK economy",
+                                                     "notes_for_editors":  "...",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/business-and-industry",
+                                                                             "api_url":  "https://www.gov.uk/api/content/business-and-industry",
+                                                                             "base_path":  "/business-and-industry",
+                                                                             "content_id":  "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Business and industry",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-03T15:41:02Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Business and industry",
+                                                                             "web_url":  "https://www.gov.uk/business-and-industry",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-03T15:41:06Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "UK economy",
+                                     "web_url":  "https://www.gov.uk/business-and-industry/uk-economy",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2017-07-27T15:34:33+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1713904994.574-10.13.33.117-628",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "How Highways England supports economic growth",
+    "updated_at":  "2024-12-31T08:42:50+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

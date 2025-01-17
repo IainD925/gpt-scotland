@@ -1,0 +1,621 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/hm-land-registry-training-hub",
+    "content_id":  "2582723e-8885-4772-8c12-0aab1c1eed2c",
+    "description":  "Quick and easy access to guidance and training materials  to help you prepare and submit high-quality applications and use HM Land Registry services.",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.text",
+                                            "file_size":  17520,
+                                            "filename":  "Variations_in_Names_podcast__1_.odt",
+                                            "id":  "8378003",
+                                            "title":  "Avoiding Variations in Names podcast",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6405cb478fa8f527f6680294/Variations_in_Names_podcast__1_.odt"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.text",
+                                            "file_size":  14445,
+                                            "filename":  "Feedback_and_the_form_RXC__1_.odt",
+                                            "id":  "8378004",
+                                            "title":  "Feedback and the form RXC podcast",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6405cd488fa8f527f4f54b6d/Feedback_and_the_form_RXC__1_.odt"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.text",
+                                            "file_size":  12031,
+                                            "filename":  "Transcript_Digital_by_Default_.odt",
+                                            "id":  "8378005",
+                                            "title":  "Digital by default podcast",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6405cd74d3bf7f25f3391164/Transcript_Digital_by_Default_.odt"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1507113,
+                                            "filename":  "Variation_in_names_flow_chart_HM_Land_Registry.pdf",
+                                            "id":  "8378006",
+                                            "number_of_pages":  1,
+                                            "title":  "Variations in names flowchart",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6405d17ae90e0740d874e8cf/Variation_in_names_flow_chart_HM_Land_Registry.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  108242,
+                                            "filename":  "Fees_flowchart.pdf",
+                                            "id":  "8378007",
+                                            "number_of_pages":  1,
+                                            "title":  "Fees flowchart",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6405d1a7d3bf7f25f813fc56/Fees_flowchart.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.text",
+                                            "file_size":  41615,
+                                            "filename":  "Quick_wins.odt",
+                                            "id":  "8378008",
+                                            "title":  "Quick wins for fewer requisitions",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/64086563d3bf7f25fcdb84fa/Quick_wins.odt"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1478975,
+                                            "filename":  "GUIDE_FOR_APPLICATION_WELSH_2022.pdf",
+                                            "id":  "8378009",
+                                            "number_of_pages":  1,
+                                            "title":  "Variation in names flowchart (Welsh)",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/64ca1fbc5c2e6f0013e8d96b/GUIDE_FOR_APPLICATION_WELSH_2022.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.text",
+                                            "file_size":  20890,
+                                            "filename":  "Practice_guides__part_1_.odt",
+                                            "id":  "8378010",
+                                            "title":  "Practice guides (part 1)",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/64cce2cdef14e60014178992/Practice_guides__part_1_.odt"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.text",
+                                            "file_size":  19679,
+                                            "filename":  "Practice_guides__part_2_.odt",
+                                            "id":  "8378011",
+                                            "title":  "Practice guides (part 2)",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/64cce2da995827000dc1e911/Practice_guides__part_2_.odt"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  576291,
+                                            "filename":  "How_to_avoid_requests_for_information_handout__1_.pdf",
+                                            "id":  "8378012",
+                                            "number_of_pages":  8,
+                                            "title":  "How to avoid requests for information handout",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/650aae7c52e73c000d54dbd8/How_to_avoid_requests_for_information_handout__1_.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  822222,
+                                            "filename":  "Caseworker_activity_handout__2_.pdf",
+                                            "id":  "8378013",
+                                            "number_of_pages":  17,
+                                            "title":  "Caseworker activity handout",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/650aaea752e73c000d54dbd9/Caseworker_activity_handout__2_.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  955980,
+                                            "filename":  "Forms_and_Deeds_workshop_handout__1_.pdf",
+                                            "id":  "8378014",
+                                            "number_of_pages":  14,
+                                            "title":  "Forms and Deeds workshop handout",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/650aaebbfbd7bc0013cb51b1/Forms_and_Deeds_workshop_handout__1_.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  878025,
+                                            "filename":  "Variations_in_names_workshop_handout.pdf",
+                                            "id":  "8378015",
+                                            "number_of_pages":  19,
+                                            "title":  "Variations in names workshop handout",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/650aaecefbd7bc000dcb51b0/Variations_in_names_workshop_handout.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  997910,
+                                            "filename":  "Restrictions_workshop_handout.pdf",
+                                            "id":  "8378016",
+                                            "number_of_pages":  29,
+                                            "title":  "Restrictions workshop handout",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/650aaee552e73c000d54dbdb/Restrictions_workshop_handout.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  868665,
+                                            "filename":  "Execution_of_Deeds_workshop_handout__1_.pdf",
+                                            "id":  "8378017",
+                                            "number_of_pages":  15,
+                                            "title":  "Execution of Deeds workshop handout",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/650aaef652e73c001254dbd7/Execution_of_Deeds_workshop_handout__1_.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  117919,
+                                            "filename":  "Example_E-AP1_.pdf",
+                                            "id":  "8378018",
+                                            "number_of_pages":  4,
+                                            "title":  "AP1 example",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/663a1c8d74933dccbbb6c30d/Example_E-AP1_.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  287645,
+                                            "filename":  "Title_register_example.pdf",
+                                            "id":  "8378019",
+                                            "number_of_pages":  2,
+                                            "title":  "Title register example",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/659d2c4caa18b10013a199aa/Title_register_example.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  102751,
+                                            "filename":  "Compliance_certificate_example.pdf",
+                                            "id":  "8378020",
+                                            "number_of_pages":  2,
+                                            "title":  "Compliance certificate example",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/654caf17e2e16a001242ac04/Compliance_certificate_example.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  152893,
+                                            "filename":  "Charge_example.pdf",
+                                            "id":  "8378021",
+                                            "number_of_pages":  2,
+                                            "title":  "Charge example",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/654caf2be2e16a001242ac05/Charge_example.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  251857,
+                                            "filename":  "TR1_example.pdf",
+                                            "id":  "8378022",
+                                            "number_of_pages":  4,
+                                            "title":  "TR1 example",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/654caf3cb9068c000d0e75ee/TR1_example.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  153384,
+                                            "filename":  "Probate_example.pdf",
+                                            "id":  "8378023",
+                                            "number_of_pages":  1,
+                                            "title":  "Probate example",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/654caf91b9068c000d0e75fa/Probate_example.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  423660,
+                                            "filename":  "Workshop_activity_instructions.pdf",
+                                            "id":  "8378024",
+                                            "number_of_pages":  3,
+                                            "title":  "Caseworker workshop activity instructions",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/659d3667aa18b10013a199b9/Workshop_activity_instructions.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  390159,
+                                            "filename":  "updated_workshop_activity_instructions.pdf",
+                                            "id":  "8378025",
+                                            "number_of_pages":  5,
+                                            "title":  "Workshop activity instructions",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/663a1cae8603389a07a6d1a1/updated_workshop_activity_instructions.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.text",
+                                            "file_size":  39673,
+                                            "filename":  "Camau_cyflym_ymlaen.odt",
+                                            "id":  "8378026",
+                                            "title":  "Camau cyflym ymlaen",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/66d9bd0b608fb761b6811148/Camau_cyflym_ymlaen.odt"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003ch2 id=\"public-guidance\"\u003ePublic guidance\u003c/h2\u003e\n\n\u003cp\u003eVisit our \u003ca href=\"http://www.gov.uk/guidance/hm-land-registry-public-guidance\" class=\"govuk-link\"\u003epublic guidance page\u003c/a\u003e for a range of property matters including property ownership, registering property and property boundaries. This guidance is aimed primarily at members of the public and professionals who are not conveyancers.\u003c/p\u003e\n\n\u003ch2 id=\"essentials\"\u003eEssentials\u003c/h2\u003e\n\n\u003cp\u003eOur \u003ca href=\"https://www.gov.uk/guidance/hm-land-registry-essentials\" class=\"govuk-link\"\u003eself-service training package\u003c/a\u003e will help you with the basics – whether you’re new to conveyancing or just need a refresher. This includes working with HM Land Registry, and preparing and submitting high-quality applications.\u003c/p\u003e\n\n\u003ch2 id=\"top-10-tips-for-tip-top-applications\"\u003eTop 10 Tips for tip-top applications\u003c/h2\u003e\n\n\u003cp\u003eRead our \u003ca href=\"https://www.gov.uk/guidance/top-10-tips-for-tip-top-applications\" class=\"govuk-link\"\u003etips for improving the quality of applications sent to HM Land Registry\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"guidance-pages\"\u003eGuidance pages\u003c/h2\u003e\n\n\u003cp\u003eVisit our individual guidance pages to access training materials and information on the following topics:\u003c/p\u003e\n\n\u003ctable\u003e\n  \u003ctbody\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e\u003ca href=\"https://www.gov.uk/guidance/hm-land-registry-business-gateway\" class=\"govuk-link\"\u003eBusiness Gateway\u003c/a\u003e\u003c/td\u003e\n      \u003ctd\u003eHelp for business customers who use a case management system to access conveyancing services through Business Gateway.\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e\u003ca href=\"https://www.gov.uk/guidance/hm-land-registry-digital-applications\" class=\"govuk-link\"\u003eDigital applications\u003c/a\u003e\u003c/td\u003e\n      \u003ctd\u003eHelp for business customers to submit applications digitally.\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e\u003ca href=\"https://www.gov.uk/guidance/digital-registration-service\" class=\"govuk-link\"\u003eDigital Registration Service\u003c/a\u003e\u003c/td\u003e\n      \u003ctd\u003eHelp for business customers to submit applications digitally using the HM Land Registry portal.\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e\u003ca href=\"http://www.gov.uk/guidance/hm-land-registry-execution-of-deeds\" class=\"govuk-link\"\u003eExecution of deeds\u003c/a\u003e\u003c/td\u003e\n      \u003ctd\u003eHow to ensure deeds are validly executed before they are submitted with applications for registration.\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e\u003ca href=\"http://www.gov.uk/guidance/hm-land-registry-fees\" class=\"govuk-link\"\u003eFees\u003c/a\u003e\u003c/td\u003e\n      \u003ctd\u003eHelp with calculating the correct fee for HM Land Registry applications and services.\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e\u003ca href=\"http://www.gov.uk/guidance/hm-land-registry-first-registrations\" class=\"govuk-link\"\u003eFirst registrations\u003c/a\u003e\u003c/td\u003e\n      \u003ctd\u003eHelp with registering unregistered land for the first time, including registering land when deeds are lost or destroyed.\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e\u003ca href=\"http://www.gov.uk/guidance/hm-land-registry-forms\" class=\"govuk-link\"\u003eForms\u003c/a\u003e\u003c/td\u003e\n      \u003ctd\u003eHelp with downloading and using the correct forms for your application.\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e\u003ca href=\"http://www.gov.uk/guidance/hm-land-registry-identity\" class=\"govuk-link\"\u003eIdentity\u003c/a\u003e\u003c/td\u003e\n      \u003ctd\u003eHelp with the identity requirements for applications.\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e\u003ca href=\"http://www.gov.uk/guidance/hm-land-registry-information-services-guidance\" class=\"govuk-link\"\u003eInformation Services\u003c/a\u003e\u003c/td\u003e\n      \u003ctd\u003eHow to access information from the Land Register and apply for searches.\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e\u003ca href=\"http://www.gov.uk/guidance/hm-land-registry-leases\" class=\"govuk-link\"\u003eLeases\u003c/a\u003e\u003c/td\u003e\n      \u003ctd\u003eHelp with registering and noting leases.\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e\u003ca href=\"http://www.gov.uk/guidance/hm-land-registry-plans\" class=\"govuk-link\"\u003ePlans\u003c/a\u003e\u003c/td\u003e\n      \u003ctd\u003eHow to lodge quality plans with your application.\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e\u003ca href=\"https://www.gov.uk/government/collections/how-to-use-the-land-registry-portal\" class=\"govuk-link\"\u003ePortal\u003c/a\u003e\u003c/td\u003e\n      \u003ctd\u003eHelp for business customers to access the HM Land Registry portal.\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e\u003ca href=\"https://www.gov.uk/guidance/about-the-price-paid-data\" class=\"govuk-link\"\u003ePrice Paid Data – how to access\u003c/a\u003e\u003c/td\u003e\n      \u003ctd\u003eHow to get information about Price Paid Data.\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e\u003ca href=\"https://www.gov.uk/government/publications/register-of-overseas-entities-guidance-on-registration-and-verification\" class=\"govuk-link\"\u003eRegister of Overseas Entities – registration and verification\u003c/a\u003e\u003c/td\u003e\n      \u003ctd\u003eTechnical guidance for understanding the Register of Overseas Entities and the requirements it places on overseas entities that own land within the UK.\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e\u003ca href=\"http://www.gov.uk/guidance/hm-land-registry-avoiding-requisitions\" class=\"govuk-link\"\u003eRequisitions\u003c/a\u003e\u003c/td\u003e\n      \u003ctd\u003eHow to avoid requisitions on applications and what happens when they need to be raised.\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e\u003ca href=\"http://www.gov.uk/guidance/hm-land-registry-restrictions\" class=\"govuk-link\"\u003eRestrictions\u003c/a\u003e\u003c/td\u003e\n      \u003ctd\u003eHow to register new restrictions and deal with existing restrictions in the register.\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e\u003ca href=\"https://www.gov.uk/guidance/hm-land-registry-specialist-support-services-hub\" class=\"govuk-link\"\u003eSpecialist support services\u003c/a\u003e\u003c/td\u003e\n      \u003ctd\u003eHow to access guidance on HM Land Registry’s specialist support services.\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e\u003ca href=\"https://www.gov.uk/guidance/hm-land-registry-transaction-data\" class=\"govuk-link\"\u003eTransaction Data\u003c/a\u003e\u003c/td\u003e\n      \u003ctd\u003eHow to access information about the volume and type of applications completed by HM Land Registry each month.\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003e\u003ca href=\"http://www.gov.uk/guidance/hm-land-registry-variations-in-names\" class=\"govuk-link\"\u003eVariations in names\u003c/a\u003e\u003c/td\u003e\n      \u003ctd\u003eHow to avoid requisitions about variations between names in the register, application forms and deeds submitted for registration.\u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e\n\n\u003ch2 id=\"practice-guides\"\u003ePractice guides\u003c/h2\u003e\n\n\u003cp\u003eSee our \u003ca href=\"https://www.gov.uk/topic/land-registration/practice-guides\" class=\"govuk-link\"\u003epractice guides\u003c/a\u003e for detailed information on land registration. These guides are aimed primarily at conveyancers and often deal with complex matters and use legal terms.\u003c/p\u003e\n\n\u003cp\u003eCommonly viewed practice guides include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/notices-restrictions-and-the-protection-of-third-party-interests-in-the-register\" class=\"govuk-link\"\u003eNotices, restrictions and protection of third-party interests (PG19)\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/execution-of-deeds\" class=\"govuk-link\"\u003eExecution of deeds (PG8)\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/first-registrations\" class=\"govuk-link\"\u003eFirst registrations (PG1)\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"webinars\"\u003eWebinars\u003c/h2\u003e\n\n\u003cp\u003eVisit our \u003ca rel=\"external\" href=\"https://www.gotostage.com/channel/2c2b67c56c2b4603acac3b460bd42695\" class=\"govuk-link\"\u003eGoToWebinar stage\u003c/a\u003e to watch live, recorded and short bite-sized webinars covering submitting digital applications, avoiding requisitions, products and services, plans, leases and first registrations.  You can also watch recordings of our webinars with captions on our \u003ca rel=\"external\" href=\"https://www.gotostage.com/channel/5ba23cbe80bd4fb9bf9094950ac37f30\" class=\"govuk-link\"\u003ecaptioned webinar channel\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003ePopular webinars include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://www.gotostage.com/channel/2c2b67c56c2b4603acac3b460bd42695/recording/4838b251bbd647c390813a50036ceba2/watch?source=CHANNEL\" class=\"govuk-link\"\u003eSearch of the Index Map (SIM)\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://register.gotowebinar.com/register/576427108581865052\" class=\"govuk-link\"\u003eRestrictions – entry, removal and compliance\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://www.gotostage.com/channel/2c2b67c56c2b4603acac3b460bd42695/recording/e723927580444b498f1d23fd4cc6ec8a/watch\" class=\"govuk-link\"\u003eIntroducing form RXC\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://www.gotostage.com/channel/2c2b67c56c2b4603acac3b460bd42695/recording/afd1ea333b58470e971f1a183056390a/watch?source=CHANNEL\" class=\"govuk-link\"\u003eElectronic signatures\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://customerhelp.landregistry.gov.uk/subscriptionrequest/\" class=\"govuk-link\"\u003eSign up to receive email alerts\u003c/a\u003e to make sure you hear about new training materials.\u003c/p\u003e\n\n\u003ch2 id=\"podcasts\"\u003ePodcasts\u003c/h2\u003e\n\n\u003cp\u003eVisit our \u003ca rel=\"external\" href=\"https://soundcloud.com/hmlr\" class=\"govuk-link\"\u003eSoundcloud channel\u003c/a\u003e to hear HM Land Registry experts talk about our land-registration practices, products and services.\u003c/p\u003e\n\n\u003cp\u003eDownload the transcripts:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/6405cb478fa8f527f6680294/Variations_in_Names_podcast__1_.odt\"\u003eAvoiding Variations in Names podcast\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"OpenDocument Text document\" class=\"gem-c-attachment-link__abbr\"\u003eODT\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e17.1 KB\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/6405cd488fa8f527f4f54b6d/Feedback_and_the_form_RXC__1_.odt\"\u003eFeedback and the form RXC podcast\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"OpenDocument Text document\" class=\"gem-c-attachment-link__abbr\"\u003eODT\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e14.1 KB\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/6405cd74d3bf7f25f3391164/Transcript_Digital_by_Default_.odt\"\u003eDigital by default podcast\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"OpenDocument Text document\" class=\"gem-c-attachment-link__abbr\"\u003eODT\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e11.7 KB\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/64cce2cdef14e60014178992/Practice_guides__part_1_.odt\"\u003ePractice guides (part 1)\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"OpenDocument Text document\" class=\"gem-c-attachment-link__abbr\"\u003eODT\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e20.4 KB\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/64cce2da995827000dc1e911/Practice_guides__part_2_.odt\"\u003ePractice guides (part 2)\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"OpenDocument Text document\" class=\"gem-c-attachment-link__abbr\"\u003eODT\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e19.2 KB\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"videos\"\u003eVideos\u003c/h2\u003e\n\n\u003cp\u003eVisit our \u003ca rel=\"external\" href=\"https://www.youtube.com/hmlandregistry\" class=\"govuk-link\"\u003eYouTube channel\u003c/a\u003e for a variety of helpful videos on land registration topics  .\u003c/p\u003e\n\n\u003cp\u003eCommonly viewed videos include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca rel=\"external\" href=\"https://youtu.be/YRiIDIcq50Q?si=55N0wiY3StCw91GU\" class=\"govuk-link\"\u003eHow to complete form AP1\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca rel=\"external\" href=\"https://youtu.be/N_jyik_uQQY?si=B1HzcmzVNoE2mvof\" class=\"govuk-link\"\u003eHow to complete form AS1\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca rel=\"external\" href=\"https://youtu.be/xQ5T5RqfIMg?si=1lrFWk3TujXpGIRf\" class=\"govuk-link\"\u003eHow to complete form TR1\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca rel=\"external\" href=\"https://youtu.be/Bx5Zcr9txO8?si=9Xp59cY2fYIl0AKl\" class=\"govuk-link\"\u003eHow to complete form ID1 \u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"checklists\"\u003eChecklists\u003c/h2\u003e\n\n\u003cp\u003eUse our checklists to help you avoid requisitions.\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/605125/Registered-land-checklist-HM-Land-Regisrty.31.03.17.pdf\" class=\"govuk-link\"\u003eApplication for registered land\u003c/a\u003e (PDF, 44.8 KB, 1 page)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca href=\"https://www.gov.uk/government/publications/change-the-register-ap1/checklist-applications-for-registered-land\" class=\"govuk-link\"\u003eApplication for registered land\u003c/a\u003e (HTML)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/743079/Checklist-FR1_HMLR_09_18.docx\" class=\"govuk-link\"\u003eApplication for first registration\u003c/a\u003e (MS Word Document, 26.3 KB)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca href=\"https://www.gov.uk/government/publications/first-application-registration-fr1/checklist-application-for-first-registration\" class=\"govuk-link\"\u003eApplication for first registration\u003c/a\u003e (HTML)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca href=\"https://www.gov.uk/government/publications/extension-of-leases-checklist-for-submitting-an-application-to-register-the-surrender-and-regrant-of-a-leasehold-estate-pg28s1/practice-guide-28-supplement-1-extension-of-leases-checklist-for-submitting-an-application-to-register-the-surrender-and-regrant-of-a-leasehold-est\" class=\"govuk-link\"\u003eExtension of leases: submitting an application to register the surrender and regrant of a leasehold estate\u003c/a\u003e (HTML)\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/64086563d3bf7f25fcdb84fa/Quick_wins.odt\"\u003eQuick wins for fewer requisitions\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"OpenDocument Text document\" class=\"gem-c-attachment-link__abbr\"\u003eODT\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e40.6 KB\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"flowcharts\"\u003eFlowcharts\u003c/h2\u003e\n\n\u003cp\u003eUse our flowcharts to help you avoid requisitions.\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/6405d17ae90e0740d874e8cf/Variation_in_names_flow_chart_HM_Land_Registry.pdf\"\u003eVariations in names flowchart\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e1.44 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e1 page\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/6405d1a7d3bf7f25f813fc56/Fees_flowchart.pdf\"\u003eFees flowchart\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e106 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e1 page\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"feedback\"\u003eFeedback\u003c/h2\u003e\n\n\u003cp\u003eWe really appreciate your comments, ideas and suggestions. So, if you have any feedback for us about this page or any suggestions for training topics and materials you’d like us to provide, please send an email to the team at \u003ca href=\"mailto:training@landregistry.gov.uk\" class=\"govuk-link\"\u003etraining@landregistry.gov.uk\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eWherever possible, your comments will be used to improve our guidance.\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Added the transcripts for the practice guides podcast (parts 1 and 2).",
+                                               "public_timestamp":  "2023-08-07T10:04:51.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2023-03-09T00:00:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "5c54ae52-341b-499e-a6dd-67f04633b8cf"
+                                                 ],
+                    "first_public_at":  "2023-03-09T00:00:00.000+00:00",
+                    "national_applicability":  {
+                                                   "england":  {
+                                                                   "applicable":  true,
+                                                                   "label":  "England"
+                                                               },
+                                                   "northern_ireland":  {
+                                                                            "alternative_url":  "",
+                                                                            "applicable":  false,
+                                                                            "label":  "Northern Ireland"
+                                                                        },
+                                                   "scotland":  {
+                                                                    "alternative_url":  "",
+                                                                    "applicable":  false,
+                                                                    "label":  "Scotland"
+                                                                },
+                                                   "wales":  {
+                                                                 "applicable":  true,
+                                                                 "label":  "Wales"
+                                                             }
+                                               },
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2023-03-09T00:00:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/hm-land-registry-training-hub.cy",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/hm-land-registry-training-hub.cy",
+                                                     "base_path":  "/guidance/hm-land-registry-training-hub.cy",
+                                                     "content_id":  "2582723e-8885-4772-8c12-0aab1c1eed2c",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "cy",
+                                                     "public_updated_at":  "2023-08-07T09:04:51Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Hyb hyfforddi Cofrestrfa Tir EF",
+                                                     "web_url":  "https://www.gov.uk/guidance/hm-land-registry-training-hub.cy",
+                                                     "withdrawn":  false
+                                                 },
+                                                 {
+                                                     "api_path":  "/api/content/guidance/hm-land-registry-training-hub",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/hm-land-registry-training-hub",
+                                                     "base_path":  "/guidance/hm-land-registry-training-hub",
+                                                     "content_id":  "2582723e-8885-4772-8c12-0aab1c1eed2c",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2023-08-07T09:04:51Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "HM Land Registry training hub",
+                                                     "web_url":  "https://www.gov.uk/guidance/hm-land-registry-training-hub",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/using-land-for-homebuilding-and-regeneration",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/using-land-for-homebuilding-and-regeneration",
+                                                   "base_path":  "/government/collections/using-land-for-homebuilding-and-regeneration",
+                                                   "content_id":  "34c497a4-ba4e-4418-86d2-12ffcd6f93ab",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/hm-land-registry-training-hub",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/hm-land-registry-training-hub",
+                                                                                       "base_path":  "/guidance/hm-land-registry-training-hub",
+                                                                                       "content_id":  "2582723e-8885-4772-8c12-0aab1c1eed2c",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2023-08-07T09:04:51Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "HM Land Registry training hub",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/hm-land-registry-training-hub",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2024-12-10T15:44:46Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Using land for homebuilding and regeneration",
+                                                   "web_url":  "https://www.gov.uk/government/collections/using-land-for-homebuilding-and-regeneration",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2022-to-2024-sunak-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2022-to-2024-sunak-conservative-government",
+                                         "base_path":  "/government/2022-to-2024-sunak-conservative-government",
+                                         "content_id":  "acbd9825-4303-45cf-85bc-20f200c146ff",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2024-07-05T00:00:00+00:00",
+                                                         "started_on":  "2022-10-25T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2022 to 2024 Sunak Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D69",
+                                            "api_path":  "/api/content/government/organisations/land-registry",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/land-registry",
+                                            "base_path":  "/government/organisations/land-registry",
+                                            "content_id":  "5c54ae52-341b-499e-a6dd-67f04633b8cf",
+                                            "details":  {
+                                                            "acronym":  "HM Land Registry",
+                                                            "brand":  "ministry-of-housing-communities-local-government",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37dad8ed915d5a5f96600a/s960_HMLR960640.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5a37dad7ed915d5a5f966009/s300_HMLR960640.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "formatted_title":  "HM Land Registry",
+                                                                         "image":  {
+                                                                                       "alt_text":  "HM Land Registry",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/59fa00e440f0b62eeb2ec8df/HMLR_logo.png"
+                                                                                   }
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "HM Land Registry",
+                                            "web_url":  "https://www.gov.uk/government/organisations/land-registry",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "D69",
+                                                                       "api_path":  "/api/content/government/organisations/land-registry",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/land-registry",
+                                                                       "base_path":  "/government/organisations/land-registry",
+                                                                       "content_id":  "5c54ae52-341b-499e-a6dd-67f04633b8cf",
+                                                                       "details":  {
+                                                                                       "acronym":  "HM Land Registry",
+                                                                                       "brand":  "ministry-of-housing-communities-local-government",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37dad8ed915d5a5f96600a/s960_HMLR960640.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5a37dad7ed915d5a5f966009/s300_HMLR960640.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "formatted_title":  "HM Land Registry",
+                                                                                                    "image":  {
+                                                                                                                  "alt_text":  "HM Land Registry",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/59fa00e440f0b62eeb2ec8df/HMLR_logo.png"
+                                                                                                              }
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "HM Land Registry",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/land-registry",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D69",
+                                                              "api_path":  "/api/content/government/organisations/land-registry",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/land-registry",
+                                                              "base_path":  "/government/organisations/land-registry",
+                                                              "content_id":  "5c54ae52-341b-499e-a6dd-67f04633b8cf",
+                                                              "details":  {
+                                                                              "acronym":  "HM Land Registry",
+                                                                              "brand":  "ministry-of-housing-communities-local-government",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37dad8ed915d5a5f96600a/s960_HMLR960640.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/5a37dad7ed915d5a5f966009/s300_HMLR960640.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "formatted_title":  "HM Land Registry",
+                                                                                           "image":  {
+                                                                                                         "alt_text":  "HM Land Registry",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/59fa00e440f0b62eeb2ec8df/HMLR_logo.png"
+                                                                                                     }
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "HM Land Registry",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/land-registry",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/housing-local-and-community/land-registration",
+                                     "api_url":  "https://www.gov.uk/api/content/housing-local-and-community/land-registration",
+                                     "base_path":  "/housing-local-and-community/land-registration",
+                                     "content_id":  "82730dd2-4ead-4ae6-943b-2c910e758279",
+                                     "details":  {
+                                                     "internal_name":  "Land registration [T] (level 2, housing theme)",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/housing-local-and-community",
+                                                                             "api_url":  "https://www.gov.uk/api/content/housing-local-and-community",
+                                                                             "base_path":  "/housing-local-and-community",
+                                                                             "content_id":  "4794066e-e3cc-425e-8cc4-e7ff3edb4c39",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Housing, local and community",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:32:02Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Housing, local and community",
+                                                                             "web_url":  "https://www.gov.uk/housing-local-and-community",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-08-22T12:54:41Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Land registration",
+                                     "web_url":  "https://www.gov.uk/housing-local-and-community/land-registration",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2023-08-07T10:04:51+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1734606075.617-10.13.22.162-2417",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "HM Land Registry training hub",
+    "updated_at":  "2025-01-06T11:09:12+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

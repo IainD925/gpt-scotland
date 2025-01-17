@@ -1,0 +1,52 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/connect-to-govwifi-using-a-chromebook",
+    "content_id":  "b6b7ff60-dc03-4981-879e-e11293917c8d",
+    "description":  null,
+    "details":  {
+
+                },
+    "document_type":  "redirect",
+    "first_published_at":  "2019-05-24T10:40:50+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/connect-to-govwifi-using-a-chromebook",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/connect-to-govwifi-using-a-chromebook",
+                                                     "base_path":  "/guidance/connect-to-govwifi-using-a-chromebook",
+                                                     "content_id":  "b6b7ff60-dc03-4981-879e-e11293917c8d",
+                                                     "document_type":  "redirect",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2019-05-24T09:40:50Z",
+                                                     "schema_name":  "redirect",
+                                                     "web_url":  "https://www.gov.uk/guidance/connect-to-govwifi-using-a-chromebook",
+                                                     "withdrawn":  false
+                                                 }
+                                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2019-05-24T10:40:50+01:00",
+    "publishing_app":  "short-url-manager",
+    "publishing_request_id":  "18424-1558690849.911-10.3.3.1-1546",
+    "publishing_scheduled_at":  null,
+    "redirects":  [
+                      {
+                          "destination":  "https://www.wifi.service.gov.uk/support/connect-to-govwifi-using-a-chromebook",
+                          "path":  "/guidance/connect-to-govwifi-using-a-chromebook",
+                          "segments_mode":  "ignore",
+                          "type":  "exact"
+                      }
+                  ],
+    "rendering_app":  null,
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "redirect",
+    "title":  null,
+    "updated_at":  "2019-05-24T10:40:50+01:00",
+    "withdrawn_notice":  {
+
+                         }
+}

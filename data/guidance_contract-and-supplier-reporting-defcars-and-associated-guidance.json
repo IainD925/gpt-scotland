@@ -1,0 +1,566 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/contract-and-supplier-reporting-defcars-and-associated-guidance",
+    "content_id":  "f4b510e1-7103-45b7-8fcf-1a96db72c007",
+    "description":  "The Defence Contract Analysis and Reporting System (DefCARS) allows contractors to meet the reporting requirements for contract and supplier reports.",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "enquiries@ssro.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.ms-excel.sheet.macroEnabled.12",
+                                            "file_size":  78331,
+                                            "filename":  "Qualifying_business_unit_actual_and_estimatedDC2.xlsm",
+                                            "id":  "8237765",
+                                            "title":  "QBUCAR template",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7f67ffed915d74e33f63b5/Qualifying_business_unit_actual_and_estimatedDC2.xlsm"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "enquiries@ssro.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  410579,
+                                            "filename":  "DefCARS_validation_checks_v13___published_October_2024.pdf",
+                                            "id":  "8237766",
+                                            "number_of_pages":  9,
+                                            "title":  "DefCARS validation checks – published October 2024",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6703f29830536cb927482d51/DefCARS_validation_checks_v13___published_October_2024.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "enquiries@ssro.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1006575,
+                                            "filename":  "DefCARS_supplier_reports_guidance_Version_11_October_2024.pdf",
+                                            "id":  "8237767",
+                                            "number_of_pages":  49,
+                                            "title":  "DefCARS - supplier report guidance - Version 11 published October 2024",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6703f2b4a31f45a9c765f22f/DefCARS_supplier_reports_guidance_Version_11_October_2024.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "enquiries@ssro.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  3190339,
+                                            "filename":  "DefCARS_contract_guidance_Version_13_October_2024.pdf",
+                                            "id":  "8237768",
+                                            "number_of_pages":  162,
+                                            "title":  "DefCARS - contract report guidance - Version 13 published October 2024",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6703f2d0a31f45a9c765f230/DefCARS_contract_guidance_Version_13_October_2024.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "enquiries@ssro.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1661523,
+                                            "filename":  "Guidance_on_DefCARS_functionality_Version_13_October_2024.pdf",
+                                            "id":  "8237769",
+                                            "number_of_pages":  24,
+                                            "title":  "Guidance on DefCARS functionality - Version 13 published October 2024",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6703f2e9e84ae1fd8592ef4b/Guidance_on_DefCARS_functionality_Version_13_October_2024.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "enquiries@ssro.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  84857,
+                                            "filename":  "SSRO_On_Demand_CPS_Amendment_Spreadsheet_-_Copy.xlsx",
+                                            "id":  "8237770",
+                                            "title":  "SSRO on-demand CPS amendment spreadsheet",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/61f29063d3bf7f78e5409d26/SSRO_On_Demand_CPS_Amendment_Spreadsheet_-_Copy.xlsx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "enquiries@ssro.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  592257,
+                                            "filename":  "Example_1_Regulation_14__paragraph_4.pdf",
+                                            "id":  "8237771",
+                                            "number_of_pages":  12,
+                                            "title":  "Example 1: Regulation 14, paragraph 4",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/632b0f10d3bf7f75cb0f30ae/Example_1_Regulation_14__paragraph_4.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "enquiries@ssro.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  448020,
+                                            "filename":  "Example_2_Regulation_14__paragraph_6.pdf",
+                                            "id":  "8237772",
+                                            "number_of_pages":  12,
+                                            "title":  "Example 2: Regulation 14, paragraph 6",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/632b0f2dd3bf7f75c989d91e/Example_2_Regulation_14__paragraph_6.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "enquiries@ssro.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  604160,
+                                            "filename":  "Example_3_Regulation_14__paragraph_7.pdf",
+                                            "id":  "8237773",
+                                            "number_of_pages":  12,
+                                            "title":  "Example 3: Regulation 14, paragraph 7",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/632b0f43e90e07371c198a6f/Example_3_Regulation_14__paragraph_7.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "enquiries@ssro.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  592623,
+                                            "filename":  "Example_4_Regulation_14__paragraph_7__bundle_of_tasks_.pdf",
+                                            "id":  "8237774",
+                                            "number_of_pages":  14,
+                                            "title":  "Example 4 Regulation 14, paragraph 7 (bundle of tasks) - reporting of multiple tasking agreements onto a framework contract",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/632b0f658fa8f53cae854373/Example_4_Regulation_14__paragraph_7__bundle_of_tasks_.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "enquiries@ssro.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1592559,
+                                            "filename":  "Example_MI_requested_by_MOD_and_Produced_by_SSRO_Oct_2024.pdf",
+                                            "id":  "8237775",
+                                            "number_of_pages":  13,
+                                            "title":  "Example DefCARS MI products published on 10 October 2024",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6703f329e84ae1fd8592ef4c/Example_MI_requested_by_MOD_and_Produced_by_SSRO_Oct_2024.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "enquiries@ssro.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1784238,
+                                            "filename":  "Contract_reporting_guidance_version_12_-_TRACKED_FROM_11.2.pdf",
+                                            "id":  "8237776",
+                                            "number_of_pages":  191,
+                                            "title":  "Contract reporting guidance v12 - tracked changes",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/65fad5309316f5001164c3c9/Contract_reporting_guidance_version_12_-_TRACKED_FROM_11.2.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "enquiries@ssro.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  687036,
+                                            "filename":  "Supplier_reporting_guidance_version_10_-_TRACKED_FROM_9.1.pdf",
+                                            "id":  "8237777",
+                                            "number_of_pages":  56,
+                                            "title":  "Supplier reporting guidance v10 - tracked changes",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/65fad422aa9b760011fbdb95/Supplier_reporting_guidance_version_10_-_TRACKED_FROM_9.1.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "enquiries@ssro.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  742551,
+                                            "filename":  "DefCARS_functionality_guidance_version_12_-_TRACKED_FROM_11.2.pdf",
+                                            "id":  "8237778",
+                                            "number_of_pages":  28,
+                                            "title":  "DefCARS functionality guidance v12 - tracked changes",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/65fad435aa9b760011fbdb96/DefCARS_functionality_guidance_version_12_-_TRACKED_FROM_11.2.pdf"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cdiv class=\"call-to-action\"\u003e\n  \u003cp\u003eSee \u003ca href=\"https://www.gov.uk/government/publications/guidance-provided-by-the-ssro\" class=\"govuk-link\"\u003eguidance provided by the SSRO\u003c/a\u003e.\nSee our \u003ca href=\"https://www.gov.uk/government/publications/guidance-on-inflation\" class=\"govuk-link\"\u003eguidance on inflation\u003c/a\u003e and our note on \u003ca href=\"https://www.gov.uk/government/news/applying-ssro-guidance-to-costs-affected-by-covid-19\" class=\"govuk-link\"\u003eapplying SSRO guidance to costs affected by COVID-19\u003c/a\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003ch2 id=\"current-system-status-live\"\u003eCurrent system status: Live\u003c/h2\u003e\n\n\u003cp\u003eThe statutory requirements for contract and supplier reporting was introduced by the Defence Reform Act 2014 (the Act) and defined in the Single Source Contract Regulations 2014 (the Regulations). The Defence Contract Analysis and Reporting System (DefCARS, the system) is an online, web-enabled system which facilitates submission of statutory reports to the SSRO and MOD. When preparing reports, contractors must have regard to guidance issued by the SSRO.\u003c/p\u003e\n\n\u003ch3 id=\"updates-to-the-guidance-applicable-from-10-october-2024\"\u003eUpdates to the guidance applicable from 10 October 2024\u003c/h3\u003e\n\n\u003cp\u003eThe SSRO has updated its three guidance documents in support of the amendments made on 1 April 2024 to reporting requirements set out in the Single Source Contract Regulations and following consultation with stakeholders. The guidance documents can be accessed at the links below:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ereporting guidance on contract reports: \u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/6703f2d0a31f45a9c765f230/DefCARS_contract_guidance_Version_13_October_2024.pdf\"\u003eDefCARS - contract report guidance - Version 13 published October 2024\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e3.04 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e162 pages\u003c/span\u003e)\u003c/span\u003e\n\u003c/li\u003e\n  \u003cli\u003ereporting guidance on supplier reports: \u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/6703f2b4a31f45a9c765f22f/DefCARS_supplier_reports_guidance_Version_11_October_2024.pdf\"\u003eDefCARS - supplier report guidance - Version 11 published October 2024\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e983 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e49 pages\u003c/span\u003e)\u003c/span\u003e\n\u003c/li\u003e\n  \u003cli\u003ereporting guidance on DefCARS functionality: \u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/6703f2e9e84ae1fd8592ef4b/Guidance_on_DefCARS_functionality_Version_13_October_2024.pdf\"\u003eGuidance on DefCARS functionality - Version 13 published October 2024\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e1.58 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e24 pages\u003c/span\u003e)\u003c/span\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe changes made to the three documents are explained in Appendix 1 of our \u003ca href=\"https://www.gov.uk/government/consultations/new-and-updated-reporting-guidance-to-help-contractors-submit-statutory-reports\" class=\"govuk-link\"\u003econsultation response document\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"notification-templates-for-qualifying-sub-contract-qsc-assessments\"\u003eNotification templates for Qualifying Sub Contract (QSC) assessments\u003c/h3\u003e\n\n\u003cp\u003eThe guidance on aggregation principles included in the contract report guidance references notification templates which contractors can use once a QSC assessment has been undertaken. These templates are available on the \u003ca href=\"https://www.gov.uk/guidance/ssro-support\" class=\"govuk-link\"\u003eSSRO Support page\u003c/a\u003e of the SSRO website.\u003c/p\u003e\n\n\u003ch3 id=\"guidance-on-validation-warnings-in-the-system\"\u003eGuidance on validation warnings in the system\u003c/h3\u003e\n\n\u003cp\u003eDefCARS includes validation checks to help contractors comply with the reporting requirements and reduce the amount of data entry required by eliminating duplication. The SSRO has published a list of all the validation checks which are currently applied within the system and these were last updated on 10 October 2024 \u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/6703f29830536cb927482d51/DefCARS_validation_checks_v13___published_October_2024.pdf\"\u003eDefCARS validation checks – published October 2024\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e401 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e9 pages\u003c/span\u003e)\u003c/span\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"qualifying-business-unit-qbu-templates\"\u003eQualifying Business Unit (QBU) templates\u003c/h3\u003e\n\n\u003cp\u003eCopy and paste functionality is currently available in many parts of DefCARS. To allow contractors with QBUs to understand their reporting requirements and prepare their QBU Cost Analysis Reports (QBUCAR), a copy and paste template is provided:  \u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7f67ffed915d74e33f63b5/Qualifying_business_unit_actual_and_estimatedDC2.xlsm\"\u003eQBUCAR template\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e76.5 KB\u003c/span\u003e)\u003c/span\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"the-defined-pricing-structure-dps\"\u003eThe Defined Pricing Structure (DPS)\u003c/h3\u003e\n\n\u003cp\u003eContractors or MOD staff who do not currently have access to DefCARS but wish to understand the DPS cost breakdowns, may access the \u003ca href=\"https://www.gov.uk/government/publications/defined-pricing-structure-guidance\" class=\"govuk-link\"\u003eDPS templates that preceded DefCARS\u003c/a\u003e. These previous templates are substantially the same as the current versions within DefCARS.\u003c/p\u003e\n\n\u003ch3 id=\"analysis-of-defcars-information\"\u003eAnalysis of DefCARS information\u003c/h3\u003e\n\n\u003cp\u003eUnder Section 36(3) of the Defence Reform Act, the SSRO must when requested to do so by the Secretary of State for Defence analyse reports provided to it under Section 24 or 25 and provide the results of the analysis to the Secretary of State or an authorised person. The SSRO has published details of example management information products which it supplies to the MOD: \u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/6703f329e84ae1fd8592ef4c/Example_MI_requested_by_MOD_and_Produced_by_SSRO_Oct_2024.pdf\"\u003eExample DefCARS MI products published on 10 October 2024\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e1.52 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e13 pages\u003c/span\u003e)\u003c/span\u003e.\u003c/p\u003e\n\n\u003cp\u003eContractors may also require access to \u003ca href=\"https://www.gov.uk/guidance/defcars-user-guidance-for-defence-contractors-version-1-published-on-15-march-2017\" class=\"govuk-link\"\u003eprevious reporting templates and user guides\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eIf you have any questions about how to access DefCARS or the guidance please contact the SSRO at \u003ca href=\"mailto:helpdesk@ssro.gov.uk\" class=\"govuk-link\"\u003ehelpdesk@ssro.gov.uk\u003c/a\u003e.\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Version 13 of contractor and functionality and Version 11 of supplier guidance published.",
+                                               "public_timestamp":  "2024-10-10T16:57:08.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated reporting guidance following the MOD’s changes to the legislation",
+                                               "public_timestamp":  "2024-03-20T13:06:33.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Example MI products supplied to the MOD document updated",
+                                               "public_timestamp":  "2024-01-24T11:26:50.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Version 11.2 of contract and DefCARS functionality and version 9.1 supplier reporting guidance published",
+                                               "public_timestamp":  "2023-10-19T09:00:01.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Para 2.31 of functionality guidance updated",
+                                               "public_timestamp":  "2023-02-15T10:02:28.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Version 11.1 of the contract guidance published along with examples of how the amendments spreadsheet can be completed",
+                                               "public_timestamp":  "2022-09-28T09:04:22.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Version 11 of contract and DefCARS functionality and version 9 of supplier guidance published",
+                                               "public_timestamp":  "2022-07-28T09:30:08.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Version 10.1 contract and functionality guidance docs published",
+                                               "public_timestamp":  "2022-01-26T11:20:00.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Version 10 of DefCARS functionality guidance published",
+                                               "public_timestamp":  "2021-10-20T09:00:03.000+01:00"
+                                           },
+                                           {
+                                               "note":  "V10 of contract reporting guidance published",
+                                               "public_timestamp":  "2021-09-29T17:00:04.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Published version 9.1 of contract reports and DefCARS functionality guidance and version 8.1 of supplier reports guidance",
+                                               "public_timestamp":  "2021-05-26T09:00:01.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Version 9 of reporting guidance published",
+                                               "public_timestamp":  "2020-11-11T08:35:13.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Added link to COVID-19 note",
+                                               "public_timestamp":  "2020-07-20T14:14:00.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Version 8 of reporting guidance published",
+                                               "public_timestamp":  "2020-06-24T09:00:03.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Version 7 of reporting guidance published",
+                                               "public_timestamp":  "2019-12-13T09:00:00.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Version 6 of reporting guidance published",
+                                               "public_timestamp":  "2019-05-15T13:53:30.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Version 5 of reporting guidance published",
+                                               "public_timestamp":  "2018-12-12T09:00:56.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Version 4 of reporting guidance published",
+                                               "public_timestamp":  "2018-07-25T09:30:05.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Version 3 of the guidance published",
+                                               "public_timestamp":  "2017-11-22T09:11:18.000+00:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2017-03-15T00:00:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "29fe29c8-e6d3-4c61-abb1-bdd13e23b48d"
+                                                 ],
+                    "first_public_at":  "2017-03-15T00:00:00.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2017-03-15T00:00:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/contract-and-supplier-reporting-defcars-and-associated-guidance",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/contract-and-supplier-reporting-defcars-and-associated-guidance",
+                                                     "base_path":  "/guidance/contract-and-supplier-reporting-defcars-and-associated-guidance",
+                                                     "content_id":  "f4b510e1-7103-45b7-8fcf-1a96db72c007",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2024-10-10T15:57:08Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Reporting guidance and DefCARS",
+                                                     "web_url":  "https://www.gov.uk/guidance/contract-and-supplier-reporting-defcars-and-associated-guidance",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2016-to-2019-may-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2016-to-2019-may-conservative-government",
+                                         "base_path":  "/government/2016-to-2019-may-conservative-government",
+                                         "content_id":  "2255f51d-aff3-4854-8f66-8e4021d29f08",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-24T00:00:00+00:00",
+                                                         "started_on":  "2016-07-13T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2016 to 2019 May Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2016-to-2019-may-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "PB1093",
+                                            "api_path":  "/api/content/government/organisations/single-source-regulations-office",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/single-source-regulations-office",
+                                            "base_path":  "/government/organisations/single-source-regulations-office",
+                                            "content_id":  "29fe29c8-e6d3-4c61-abb1-bdd13e23b48d",
+                                            "details":  {
+                                                            "acronym":  "SSRO",
+                                                            "brand":  "ministry-of-defence",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5b0e887e40f0b6613187e64d/s960_SSRO_Logo_2018_web.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5b0e887ee5274a1332180cb0/s300_SSRO_Logo_2018_web.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "formatted_title":  "Single Source Regulations Office",
+                                                                         "image":  {
+                                                                                       "alt_text":  "Single Source Regulations Office",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5f1709c3e90e07456aa7f3fb/Logo_web_small.png"
+                                                                                   }
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Single Source Regulations Office",
+                                            "web_url":  "https://www.gov.uk/government/organisations/single-source-regulations-office",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "PB1093",
+                                                                       "api_path":  "/api/content/government/organisations/single-source-regulations-office",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/single-source-regulations-office",
+                                                                       "base_path":  "/government/organisations/single-source-regulations-office",
+                                                                       "content_id":  "29fe29c8-e6d3-4c61-abb1-bdd13e23b48d",
+                                                                       "details":  {
+                                                                                       "acronym":  "SSRO",
+                                                                                       "brand":  "ministry-of-defence",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5b0e887e40f0b6613187e64d/s960_SSRO_Logo_2018_web.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5b0e887ee5274a1332180cb0/s300_SSRO_Logo_2018_web.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "formatted_title":  "Single Source Regulations Office",
+                                                                                                    "image":  {
+                                                                                                                  "alt_text":  "Single Source Regulations Office",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5f1709c3e90e07456aa7f3fb/Logo_web_small.png"
+                                                                                                              }
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Single Source Regulations Office",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/single-source-regulations-office",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "PB1093",
+                                                              "api_path":  "/api/content/government/organisations/single-source-regulations-office",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/single-source-regulations-office",
+                                                              "base_path":  "/government/organisations/single-source-regulations-office",
+                                                              "content_id":  "29fe29c8-e6d3-4c61-abb1-bdd13e23b48d",
+                                                              "details":  {
+                                                                              "acronym":  "SSRO",
+                                                                              "brand":  "ministry-of-defence",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5b0e887e40f0b6613187e64d/s960_SSRO_Logo_2018_web.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/5b0e887ee5274a1332180cb0/s300_SSRO_Logo_2018_web.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "formatted_title":  "Single Source Regulations Office",
+                                                                                           "image":  {
+                                                                                                         "alt_text":  "Single Source Regulations Office",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/5f1709c3e90e07456aa7f3fb/Logo_web_small.png"
+                                                                                                     }
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Single Source Regulations Office",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/single-source-regulations-office",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/defined-pricing-structure-guidance",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/defined-pricing-structure-guidance",
+                                                              "base_path":  "/government/publications/defined-pricing-structure-guidance",
+                                                              "content_id":  "ab1c34d5-d869-4a00-8af7-c88fc2375fe2",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2016-09-23T08:28:51Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Defined pricing structure (DPS)",
+                                                              "web_url":  "https://www.gov.uk/government/publications/defined-pricing-structure-guidance",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/ssro-support",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/ssro-support",
+                                                              "base_path":  "/guidance/ssro-support",
+                                                              "content_id":  "b2054884-6b4f-4c59-abb4-18f2cc887c09",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-09-12T12:56:02Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "SSRO Support",
+                                                              "web_url":  "https://www.gov.uk/guidance/ssro-support",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/allowable-costs-guidance-version-51",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/allowable-costs-guidance-version-51",
+                                                              "base_path":  "/government/publications/allowable-costs-guidance-version-51",
+                                                              "content_id":  "55995447-c9cd-4001-8899-72cdb2e73a5c",
+                                                              "document_type":  "statutory_guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-09-29T16:00:04Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Allowable Costs guidance (version 5.1)",
+                                                              "web_url":  "https://www.gov.uk/government/publications/allowable-costs-guidance-version-51",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/defcars-user-guidance-for-defence-contractors-version-1-published-on-15-march-2017",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/defcars-user-guidance-for-defence-contractors-version-1-published-on-15-march-2017",
+                                                              "base_path":  "/guidance/defcars-user-guidance-for-defence-contractors-version-1-published-on-15-march-2017",
+                                                              "content_id":  "d10097f8-446d-49df-a9a3-c266008f457a",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-10-10T15:57:25Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Previous DefCARS user guidance for defence contractors",
+                                                              "web_url":  "https://www.gov.uk/guidance/defcars-user-guidance-for-defence-contractors-version-1-published-on-15-march-2017",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/collections/qualifying-defence-contracts-reporting-templates-and-user-guides",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/collections/qualifying-defence-contracts-reporting-templates-and-user-guides",
+                                                              "base_path":  "/government/collections/qualifying-defence-contracts-reporting-templates-and-user-guides",
+                                                              "content_id":  "9ae432da-4cb4-4fbc-a31b-1f17acada8e7",
+                                                              "document_type":  "document_collection",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2016-04-01T17:02:00Z",
+                                                              "schema_name":  "document_collection",
+                                                              "title":  "SSRO previous reporting templates and user guides",
+                                                              "web_url":  "https://www.gov.uk/government/collections/qualifying-defence-contracts-reporting-templates-and-user-guides",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/defence-and-armed-forces",
+                                     "api_url":  "https://www.gov.uk/api/content/defence-and-armed-forces",
+                                     "base_path":  "/defence-and-armed-forces",
+                                     "content_id":  "e491505c-77ae-45b2-84be-8c94b94f6a2b",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Defence and armed forces",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  true
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "root_taxon":  [
+                                                                      {
+                                                                          "api_path":  "/api/content/",
+                                                                          "api_url":  "https://www.gov.uk/api/content/",
+                                                                          "base_path":  "/",
+                                                                          "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                          "document_type":  "homepage",
+                                                                          "links":  {
+
+                                                                                    },
+                                                                          "locale":  "en",
+                                                                          "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                          "schema_name":  "homepage",
+                                                                          "title":  "GOV.UK homepage",
+                                                                          "web_url":  "https://www.gov.uk/",
+                                                                          "withdrawn":  false
+                                                                      }
+                                                                  ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-16T20:34:16Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Defence and armed forces",
+                                     "web_url":  "https://www.gov.uk/defence-and-armed-forces",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2024-10-10T16:57:08+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1728575828.123-10.13.20.74-3187",
+    "publishing_scheduled_at":  "2023-10-19T09:00:00+01:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  1,
+    "schema_name":  "detailed_guide",
+    "title":  "Reporting guidance and DefCARS",
+    "updated_at":  "2024-10-10T16:57:26+01:00",
+    "withdrawn_notice":  {
+
+                         }
+}

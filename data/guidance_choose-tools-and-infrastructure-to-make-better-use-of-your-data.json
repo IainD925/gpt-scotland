@@ -1,0 +1,370 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/choose-tools-and-infrastructure-to-make-better-use-of-your-data",
+    "content_id":  "bc9b2c46-8ff3-4595-9165-9becd50e361d",
+    "description":  "How to choose data tools and infrastructure that are flexible, scalable, sustainable and secure. ",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eThis guidance will help you choose the software and standards for working with data. Read this together with the \u003ca href=\"https://www.gov.uk/government/publications/data-ethics-framework\" class=\"govuk-link\"\u003eData Ethics Framework\u003c/a\u003e and the \u003ca href=\"https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice\" class=\"govuk-link\"\u003eTechnology Code of Practice\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eThere are 4 main areas to consider:\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003eChoose analytical tools that keep pace with user needs.\u003c/li\u003e\n  \u003cli\u003eUse the cloud for the whole development cycle.\u003c/li\u003e\n  \u003cli\u003eUse appropriate security when using data in the cloud.\u003c/li\u003e\n  \u003cli\u003eChoose open data standards for better interoperability.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003ch2 id=\"choose-analytical-tools-that-keep-pace-with-user-needs\"\u003e1. Choose analytical tools that keep pace with user needs\u003c/h2\u003e\n\n\u003cp\u003eAs data analysis and data science evolves, you should choose tools and techniques that can adapt and support best practices. The \u003ca rel=\"external\" href=\"https://www.statisticsauthority.gov.uk/code-of-practice/the-code/value/v4-innovation-and-improvement/\" class=\"govuk-link\"\u003eUK Statistics Authority’s Code of Practice for Statistics\u003c/a\u003e provides information on best practices including:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ekeeping up to date with innovations that can improve statistics and data\u003c/li\u003e\n  \u003cli\u003eimproving data presentation for their users\u003c/li\u003e\n  \u003cli\u003etesting and releasing new official statistics\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eGovernment workers responsible for providing or procuring software for data analysis should choose a \u003ca rel=\"external\" href=\"https://en.wikipedia.org/wiki/Loose_coupling\" class=\"govuk-link\"\u003eloosely coupled modular system\u003c/a\u003e. These systems are flexible enough to use with a variety of tools and connect to a range of data sources and architecture.\u003c/p\u003e\n\n\u003cp\u003eYou should \u003ca rel=\"external\" href=\"https://medium.com/@robin.linacre/questions-senior-leaders-should-ask-their-data-delivery-teams-98ca8bc7b6d4\" class=\"govuk-link\"\u003ebuild data architecture in an agile way\u003c/a\u003e, to iterate and add value with each change. If you make up-front long-term decisions on one type of software you risk being unable to meet evolving user needs.\u003c/p\u003e\n\n\u003ch3 id=\"choosing-open-source-languages\"\u003eChoosing open source languages\u003c/h3\u003e\n\n\u003cp\u003eData scientists and analysts often use common open source languages such as Python and R. The benefits of using these languages include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003egood support and open training - which means reduced training costs\u003c/li\u003e\n  \u003cli\u003enew data analytics methods\u003c/li\u003e\n  \u003cli\u003ethe ability to create your own methods using open source languages\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe R and Python communities develop large collections of packages for data analysis. The \u003ca rel=\"external\" href=\"https://cran.r-project.org/web/packages/\" class=\"govuk-link\"\u003epackages for R\u003c/a\u003e and the \u003ca rel=\"external\" href=\"https://pypi.org/\" class=\"govuk-link\"\u003epackages for Python\u003c/a\u003e, including many \u003ca rel=\"external\" href=\"https://www.anaconda.com/distribution/\" class=\"govuk-link\"\u003edata science packages\u003c/a\u003e, provide extensive analytical functionality benefits.\u003c/p\u003e\n\n\u003ch3 id=\"choosing-tools-that-work-with-open-technology\"\u003eChoosing tools that work with open technology\u003c/h3\u003e\n\n\u003cp\u003eChoosing tools which work with open technology supports robust and appropriate data analysis, as set out in \u003ca href=\"https://www.gov.uk/guidance/5-use-robust-practices-and-work-within-your-skillset\" class=\"govuk-link\"\u003ePrinciple 5 of the Data Ethics Framework\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eTools which work with open technology, such as Docker or Apache Spark, give your team the flexibility to meet your users’ needs. Open tools are usually designed to work together and across vendors. Benefits include the ability to:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003escript a data pipeline using the best software for each task\u003c/li\u003e\n  \u003cli\u003erun your code anywhere - using commodity container platforms, platform as a service or a Hadoop cluster\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eOther benefits include better:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ecollaboration\u003c/li\u003e\n  \u003cli\u003esupport software for engineering practices\u003c/li\u003e\n  \u003cli\u003ecapabilities in big data and \u003ca href=\"https://www.gov.uk/government/collections/a-guide-to-using-artificial-intelligence-in-the-public-sector\" class=\"govuk-link\"\u003emachine learning\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou can achieve better quality assurance in your software development with continuous integration and unit tests. The \u003ca rel=\"external\" href=\"https://gss.civilservice.gov.uk/about-us/champion-networks/reproducible-analytical-pipeline-rap-champions/\" class=\"govuk-link\"\u003eReproducible Analytical Pipeline community\u003c/a\u003e has \u003ca rel=\"external\" href=\"https://ukgovdatascience.github.io/rap_companion/\" class=\"govuk-link\"\u003eguidance about doing quality assurance in analytical pipelines\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eIf you use spreadsheets and business intelligence software you should be aware they:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003edo not often scale well to large datasets or intensive computation\u003c/li\u003e\n  \u003cli\u003edo not often integrate well into automated pipelines, or support best practices in quality assurance\u003c/li\u003e\n  \u003cli\u003eoften need paid-for licences, making them expensive to deploy in the cloud\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"case-study---using-data-science-with-the-ministry-of-justice-analytical-platform\"\u003eCase study - using data science with the Ministry of Justice analytical platform\u003c/h3\u003e\n\n\u003cp\u003eThe \u003ca rel=\"external\" href=\"https://mojdigital.blog.gov.uk/2018/04/05/pushing-the-boundaries-of-data-science-with-the-moj-analytical-platform/\" class=\"govuk-link\"\u003eMinistry of Justice Analytical Platform\u003c/a\u003e supports the latest data analysis tools. This platform allows easy integration of new open source software and leading cloud services into a platform for 300 staff in the data analysis professions.\u003c/p\u003e\n\n\u003cp\u003eThe platform is a flexible and secure environment, where:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eanalysts use a web browser to sign-in once and then develop code in tools such as R and Python\u003c/li\u003e\n  \u003cli\u003eyou can access data and create live charts and dashboards that are accessible to end users in a web browser with no special software or licences\u003c/li\u003e\n  \u003cli\u003eit runs software using standardised containers on an \u003ca rel=\"external\" href=\"https://kubernetes.io/\" class=\"govuk-link\"\u003eauto-scaled Kubernetes cluster\u003c/a\u003e which allows the platform to run any of the latest open source tools, data stores and custom-built data analysis components\u003c/li\u003e\n  \u003cli\u003eyou can add innovative services such as a new graph database or machine learning framework\u003c/li\u003e\n  \u003cli\u003eyou can process datasets of almost unlimited size at low cost\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe platform has helped the Ministry of Justice produce several national statistics more reliably and efficiently by using \u003ca rel=\"external\" href=\"https://www.statisticsauthority.gov.uk/a-robot-by-any-name/\" class=\"govuk-link\"\u003ereproducible automated pipelines\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"use-the-cloud-for-the-whole-development-cycle\"\u003e2. Use the cloud for the whole development cycle\u003c/h2\u003e\n\n\u003cp\u003eIn most circumstances, you should store data in the cloud and code in cloud-based version control repositories. You should run live data products in the cloud, as set out in the government’s \u003ca href=\"https://www.gov.uk/guidance/government-cloud-first-policy\" class=\"govuk-link\"\u003eCloud First policy\u003c/a\u003e, and you should use the cloud throughout the whole development cycle.\u003c/p\u003e\n\n\u003ch3 id=\"keeping-your-data-in-the-cloud\"\u003eKeeping your data in the cloud\u003c/h3\u003e\n\n\u003cp\u003eYou can \u003ca href=\"https://www.gov.uk/guidance/use-cloud-first\" class=\"govuk-link\"\u003euse cloud services\u003c/a\u003e for data analysis work. It’s usually more efficient to use \u003ca href=\"https://www.gov.uk/service-manual/technology/deciding-how-to-host-your-service\" class=\"govuk-link\"\u003esoftware-as-a-service\u003c/a\u003e and only pay for what you use, rather than setting up and running your own cluster for data. With cloud services it’s important to be alert to supplier ‘lock-in’ and always consider the cost of switching to another supplier.\u003c/p\u003e\n\n\u003cp\u003eThe benefits of storing your data in the cloud are that:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eit scales well to large quantities of data that would not comfortably fit on a user’s machine\u003c/li\u003e\n  \u003cli\u003eyou can take advantage of cloud-scale databases to process complicated queries in a reasonable time-frame\u003c/li\u003e\n  \u003cli\u003eyou can use it for all stages from exploration through to production systems\u003c/li\u003e\n  \u003cli\u003eit’s simpler to combine different datasets from your organisation\u003c/li\u003e\n  \u003cli\u003eit’s usually the cheapest option, due to commoditisation and pay-as-you-go pricing, but evaluate this against your own needs\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eRather than sharing data files by email, the cloud enables data sharing by sending a link. This is a better practice because it helps you:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003econtrol and monitor access to the data\u003c/li\u003e\n  \u003cli\u003emaintain connection to the original source data so you can avoid duplication and poor version control\u003c/li\u003e\n  \u003cli\u003eget reports with live updates\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eWhen using data in the cloud make sure that your data is accessible through a stable URL or other endpoint, as this will help you to make reproducible analysis code.\u003c/p\u003e\n\n\u003ch3 id=\"maintaining-cloud-based-version-control\"\u003eMaintaining cloud-based version control\u003c/h3\u003e\n\n\u003cp\u003eTo maintain \u003ca href=\"https://www.gov.uk/service-manual/technology/maintaining-version-control-in-coding\" class=\"govuk-link\"\u003ecloud-based version control\u003c/a\u003e and support collaboration, you should:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003euse a cloud-hosted repository, such as GitHub, to create pull requests\u003c/li\u003e\n  \u003cli\u003epeer review code on a regular basis, to make sure you maintain the appropriate quality and keep all stakeholders up to date with any changes\u003c/li\u003e\n  \u003cli\u003eshare code outside your team and organisation\u003c/li\u003e\n  \u003cli\u003emanage a list of issues\u003c/li\u003e\n  \u003cli\u003eencourage reviews and invite comment\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"reproducibility-with-the-cloud\"\u003eReproducibility with the cloud\u003c/h3\u003e\n\n\u003cp\u003eCloud-based version control allows you to run automatic tests, which help you to make data analysis ‘reproducible’.\u003c/p\u003e\n\n\u003cp\u003eYou should aim to make your data analysis reproducible so it’s easy for someone else to work with it. For example, sharing your code and data so that someone else can run your data model on another computer at a different time with the same results. This is important because someone can:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003echeck how your data analysis works\u003c/li\u003e\n  \u003cli\u003etest your data analysis with different queries\u003c/li\u003e\n  \u003cli\u003erun the analysis on a different dataset, or build on the analysis\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eData analysts can make their data analysis reproducible by:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ewriting code that runs their analysis, rather than doing analysis through a series of manual steps, such as manual clicks in a graphical user interface\u003c/li\u003e\n  \u003cli\u003eusing the cloud for storing their data\u003c/li\u003e\n  \u003cli\u003esetting up continuous integration and automated testing on all users’ platforms\u003c/li\u003e\n  \u003cli\u003especifying the library dependencies as well as their version numbers\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIt’s standard practice to specify dependencies and automate testing throughout software development. Unless you’re doing quick, throw-away experiments you should aim to make all your code reproducible.\u003c/p\u003e\n\n\u003ch3 id=\"using-a-cloud-development-environment\"\u003eUsing a cloud development environment\u003c/h3\u003e\n\n\u003cp\u003eTeams using a data development environment running on a shared cloud platform (such as \u003ca rel=\"external\" href=\"https://www.rstudio.com/\" class=\"govuk-link\"\u003eRStudio\u003c/a\u003e and \u003ca rel=\"external\" href=\"http://jupyter.org/\" class=\"govuk-link\"\u003eJupyter\u003c/a\u003e) benefit from a more streamlined process to onboard new users. This is because the team:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003edoes not need to install something on their machine that would demand maintenance and updates (a benefit of software as a service)\u003c/li\u003e\n  \u003cli\u003ecan install code libraries across all users’ environments, which makes the code easier to share and reproduce\u003c/li\u003e\n  \u003cli\u003eis not tied to a particular corporate network, enabling users and collaboration from outside the organisation\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eUsing a cloud environment for data development also means that you:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eoften have easy access to other cloud data services and cloud-hosted data due to the platform’s built-in credentials\u003c/li\u003e\n  \u003cli\u003ecan decide which software to install\u003c/li\u003e\n  \u003cli\u003ecan decide who is best placed to install software, such as using a platform team who understand analysts’ needs\u003c/li\u003e\n  \u003cli\u003eare less likely to see users keeping local copies of the data on their laptop for development, especially if the data is also in the cloud\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eTeams using a development environment on local machines might risk:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003enot having administrator access for security reasons, which will prevent installation of development software\u003c/li\u003e\n  \u003cli\u003ehaving longer installation times in Python or R installations and libraries\u003c/li\u003e\n  \u003cli\u003ehaving less access to cloud-hosted data which might cause users to create workarounds, such as using email to circulate data\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eSometimes, your data analyst may prefer to use their own custom environment. Where practical, you should aim to be flexible and try to replicate the essential elements of the cloud environment on their local machine.\u003c/p\u003e\n\n\u003cp\u003eThe cloud environment offers a baseline of libraries, but as soon as you need more libraries you should specify all the dependencies and their version numbers, to make sure work is still reproducible.\u003c/p\u003e\n\n\u003ch2 id=\"use-appropriate-security-when-using-data-in-the-cloud\"\u003e3. Use appropriate security when using data in the cloud\u003c/h2\u003e\n\n\u003cp\u003eThe government’s approach to security in the cloud is set out in the \u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/guidance/implementing-cloud-security-principles\" class=\"govuk-link\"\u003eCloud Security Principles\u003c/a\u003e from the National Cyber Security Centre (NCSC). Also, in the \u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/guidance/get-basics-right-risk-management-principles-cyber-security\" class=\"govuk-link\"\u003eRisk Management Principles\u003c/a\u003e, NCSC states that the commercial public cloud is an acceptable place to put OFFICIAL data.\u003c/p\u003e\n\n\u003cp\u003eNCSC considers the cloud to have acceptable security because:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethere is less information on end user devices\u003c/li\u003e\n  \u003cli\u003ethe supplier applies regular upgrades and security patches\u003c/li\u003e\n  \u003cli\u003ethe supplier often has rigorous methods to audit data, and control access and monitoring\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eWhether you’re procuring SaaS or developing your own solution for a platform of tools and services, you should put in place mitigations such as:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003edata encryption\u003c/li\u003e\n  \u003cli\u003esingle sign-on\u003c/li\u003e\n  \u003cli\u003etwo-factor authentication (2FA)\u003c/li\u003e\n  \u003cli\u003efine-grained access control\u003c/li\u003e\n  \u003cli\u003eusage monitoring and alerts\u003c/li\u003e\n  \u003cli\u003etimely patching\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eOther security challenges for data analysts include developing code on a platform with:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ereal data\u003c/li\u003e\n  \u003cli\u003einternet access\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eWhen platforms have internet access and hold real data, threat actors or attackers may try to steal or alter the data. Also, there is a greater risk of an accidental real data leak.\u003c/p\u003e\n\n\u003cp\u003eYou should integrate security controls and monitoring with the data and network flows. This should be proportionate to the risks faced in experimental, collaborative and production environments.\u003c/p\u003e\n\n\u003ch3 id=\"balance-security-choices-with-user-needs\"\u003eBalance security choices with user needs\u003c/h3\u003e\n\n\u003cp\u003eSecurity should protect data, but not stop users from accessing the data they need for their work. The \u003ca href=\"https://www.gov.uk/service-manual/technology/securing-your-information\" class=\"govuk-link\"\u003eService Manual has guidance on securing information\u003c/a\u003e for government services.\u003c/p\u003e\n\n\u003cp\u003eYou should build security into a system so it’s as invisible to the user as possible. Adding complicated login procedures, and restricting access to the tools users need, does not make your security better. Restrictive security makes \u003ca rel=\"external\" href=\"https://en.wikipedia.org/wiki/Shadow_IT\" class=\"govuk-link\"\u003eshadow IT\u003c/a\u003e more likely, with users avoiding security measures and finding workarounds.\u003c/p\u003e\n\n\u003ch3 id=\"case-study---using-ministry-of-justice-data-in-the-public-cloud\"\u003eCase study - using Ministry of Justice data in the public cloud\u003c/h3\u003e\n\n\u003cp\u003eThere is a \u003ca href=\"https://www.gov.uk/guidance/public-sector-use-of-the-public-cloud\" class=\"govuk-link\"\u003egovernment policy supporting the use of the cloud\u003c/a\u003e for personal and sensitive data. Most UK departments have assessed the risks, put in appropriate safeguards and moved sensitive data into the public cloud.\u003c/p\u003e\n\n\u003cp\u003eAn example of this is from the Ministry of Justice who moved their prisoner data into the public cloud. This data has an OFFICIAL classification and often the ‘SENSITIVE’ handling caveat. It includes information such as health records and the security arrangements for prisoners.\u003c/p\u003e\n\n\u003cp\u003eThe project team makes sure the appropriate security is used, such as:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ecareful isolation between elements using cloud sub-accounts, Virtual Private Clouds (VPCs) and firewall rules\u003c/li\u003e\n  \u003cli\u003efinely grained user and role permissions\u003c/li\u003e\n  \u003cli\u003eusers logging in with two-factor authentication (2FA)\u003c/li\u003e\n  \u003cli\u003ebeing able to quickly revoke or rotate secrets, encryption keys and certificates\u003c/li\u003e\n  \u003cli\u003efrequent and reliable updates using peer-review and continuous deployment\u003c/li\u003e\n  \u003cli\u003eextensive audit trails\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eHosting the data in the cloud has enabled the Ministry of Justice to perform additional analysis using modern open source tools and scalable computing resources through its \u003ca rel=\"external\" href=\"https://mojdigital.blog.gov.uk/2018/04/05/pushing-the-boundaries-of-data-science-with-the-moj-analytical-platform/\" class=\"govuk-link\"\u003eAnalytical Platform\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eIt’s possible to achieve this level of security and functionality with a private data centre, but it would be a huge investment in hardware, software and expert staff to design and maintain it. You can reduce these issues by using the public cloud and taking advantage of the continuous investment and developments made by the suppliers.\u003c/p\u003e\n\n\u003ch2 id=\"choose-open-data-standards-for-better-interoperability\"\u003e4. Choose open data standards for better interoperability\u003c/h2\u003e\n\n\u003cp\u003eAn open data standard specifies a way of formatting and storing data. This can make data compatible with a wide range of tools in a predictable fashion, and prevents lock-in to proprietary tools. Open standards allow organisations to:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eshare information even when they do not have access to the same tools\u003c/li\u003e\n  \u003cli\u003ereplace their tools and still have access to their data\u003c/li\u003e\n  \u003cli\u003emake a strategic decision to provide an agile environment that changes with the needs and capabilities of the users\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe Open Standards Board \u003ca href=\"https://www.gov.uk/government/publications/open-standards-for-government\" class=\"govuk-link\"\u003eselects open standards for use by government\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eExamples of open standards include the:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca href=\"https://www.gov.uk/government/publications/open-standards-for-government/publishing-vacancies-online-standards-profile--2\" class=\"govuk-link\"\u003epublishing job vacancies\u003c/a\u003e, which helps job seekers by aggregating jobs from third-party job search sites\u003c/li\u003e\n  \u003cli\u003e\n\u003ca href=\"https://www.gov.uk/government/publications/open-standards-for-government/open-contracting-data-standard-profile\" class=\"govuk-link\"\u003eOpen Contracting Data Standard (OCDS), which\u003c/a\u003e allows you to compare the procurement practices of different organisations\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2019-07-01T10:58:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "2fb482e7-3c4d-496f-887d-f8a55a15e89a"
+                                                 ],
+                    "first_public_at":  "2019-07-01T10:58:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2019-07-01T10:58:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/choose-tools-and-infrastructure-to-make-better-use-of-your-data",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/choose-tools-and-infrastructure-to-make-better-use-of-your-data",
+                                                     "base_path":  "/guidance/choose-tools-and-infrastructure-to-make-better-use-of-your-data",
+                                                     "content_id":  "bc9b2c46-8ff3-4595-9165-9becd50e361d",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2019-07-01T09:58:00Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Choose tools and infrastructure to make better use of your data",
+                                                     "web_url":  "https://www.gov.uk/guidance/choose-tools-and-infrastructure-to-make-better-use-of-your-data",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/cloud-technology-and-the-public-sector",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/cloud-technology-and-the-public-sector",
+                                                   "base_path":  "/government/collections/cloud-technology-and-the-public-sector",
+                                                   "content_id":  "28acc608-9cff-4334-ab02-13b08f26d59d",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/choose-tools-and-infrastructure-to-make-better-use-of-your-data",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/choose-tools-and-infrastructure-to-make-better-use-of-your-data",
+                                                                                       "base_path":  "/guidance/choose-tools-and-infrastructure-to-make-better-use-of-your-data",
+                                                                                       "content_id":  "bc9b2c46-8ff3-4595-9165-9becd50e361d",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2019-07-01T09:58:00Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Choose tools and infrastructure to make better use of your data",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/choose-tools-and-infrastructure-to-make-better-use-of-your-data",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2024-10-24T23:00:00Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Cloud technology and the public sector",
+                                                   "web_url":  "https://www.gov.uk/government/collections/cloud-technology-and-the-public-sector",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "OT1329",
+                                            "api_path":  "/api/content/government/organisations/central-digital-and-data-office",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/central-digital-and-data-office",
+                                            "base_path":  "/government/organisations/central-digital-and-data-office",
+                                            "content_id":  "2fb482e7-3c4d-496f-887d-f8a55a15e89a",
+                                            "details":  {
+                                                            "acronym":  "CDDO",
+                                                            "brand":  "department-for-science-innovation-and-technology",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Central Digital \u003cbr/\u003e\u0026amp; Data Office"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Central Digital and Data Office",
+                                            "web_url":  "https://www.gov.uk/government/organisations/central-digital-and-data-office",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "OT1056",
+                                                                       "api_path":  "/api/content/government/organisations/government-digital-service",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+                                                                       "base_path":  "/government/organisations/government-digital-service",
+                                                                       "content_id":  "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+                                                                       "details":  {
+                                                                                       "acronym":  "GDS",
+                                                                                       "brand":  "department-for-science-innovation-and-technology",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Government Digital Service"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Government Digital Service",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/government-digital-service",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "OT1329",
+                                                              "api_path":  "/api/content/government/organisations/central-digital-and-data-office",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/central-digital-and-data-office",
+                                                              "base_path":  "/government/organisations/central-digital-and-data-office",
+                                                              "content_id":  "2fb482e7-3c4d-496f-887d-f8a55a15e89a",
+                                                              "details":  {
+                                                                              "acronym":  "CDDO",
+                                                                              "brand":  "department-for-science-innovation-and-technology",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Central Digital \u003cbr/\u003e\u0026amp; Data Office"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Central Digital and Data Office",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/central-digital-and-data-office",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/manage-your-data-for-access-and-reuse",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/manage-your-data-for-access-and-reuse",
+                                                              "base_path":  "/guidance/manage-your-data-for-access-and-reuse",
+                                                              "content_id":  "e9ac91a3-78e3-41d6-8287-76a4022166cf",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-11-27T11:08:06Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Manage your data for access and reuse",
+                                                              "web_url":  "https://www.gov.uk/guidance/manage-your-data-for-access-and-reuse",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/develop-your-data-and-apis-using-a-reference-architecture",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/develop-your-data-and-apis-using-a-reference-architecture",
+                                                              "base_path":  "/guidance/develop-your-data-and-apis-using-a-reference-architecture",
+                                                              "content_id":  "cfb9146b-5d65-4769-885e-0d4cef8223f1",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-03-22T17:22:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Develop your data and APIs using a reference architecture",
+                                                              "web_url":  "https://www.gov.uk/guidance/develop-your-data-and-apis-using-a-reference-architecture",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/recommended-open-standards-for-government",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/recommended-open-standards-for-government",
+                                                              "base_path":  "/government/publications/recommended-open-standards-for-government",
+                                                              "content_id":  "91555ca5-a0cc-444a-a0d2-5ad5130d4559",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2023-09-28T09:39:49Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Recommended open standards for government",
+                                                              "web_url":  "https://www.gov.uk/government/publications/recommended-open-standards-for-government",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/collections/metadata-standards-for-sharing-and-publishing-data",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/collections/metadata-standards-for-sharing-and-publishing-data",
+                                                              "base_path":  "/government/collections/metadata-standards-for-sharing-and-publishing-data",
+                                                              "content_id":  "78e754cd-22ee-40bd-8005-2e7e4ba11f78",
+                                                              "document_type":  "document_collection",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2023-11-28T11:31:36Z",
+                                                              "schema_name":  "document_collection",
+                                                              "title":  "Metadata standards for sharing and publishing data",
+                                                              "web_url":  "https://www.gov.uk/government/collections/metadata-standards-for-sharing-and-publishing-data",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/creating-and-implementing-a-cloud-hosting-strategy",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/creating-and-implementing-a-cloud-hosting-strategy",
+                                                              "base_path":  "/guidance/creating-and-implementing-a-cloud-hosting-strategy",
+                                                              "content_id":  "25ad48b6-ab4e-46ac-8a7f-aeeac67ea4ee",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-03-31T10:20:40Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Creating and implementing a cloud hosting strategy",
+                                                              "web_url":  "https://www.gov.uk/guidance/creating-and-implementing-a-cloud-hosting-strategy",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/government/data",
+                                     "api_url":  "https://www.gov.uk/api/content/government/data",
+                                     "base_path":  "/government/data",
+                                     "content_id":  "b7374969-dfdf-46eb-97f3-7772c011c10d",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Data",
+                                                     "notes_for_editors":  "",
+                                                     "url_override":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/all",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/all",
+                                                                             "base_path":  "/government/all",
+                                                                             "content_id":  "e48ab80a-de80-4e83-bf59-26316856a5f9",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Government",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:29:39Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Government",
+                                                                             "web_url":  "https://www.gov.uk/government/all",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "beta",
+                                     "public_updated_at":  "2022-03-08T08:06:55Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Data",
+                                     "web_url":  "https://www.gov.uk/government/data",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2019-07-01T10:58:00+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "24294-1631014223.622-10.13.6.33-539",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Choose tools and infrastructure to make better use of your data",
+    "updated_at":  "2024-12-12T10:27:37+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

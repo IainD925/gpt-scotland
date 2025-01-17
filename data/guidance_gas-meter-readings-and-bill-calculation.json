@@ -1,0 +1,693 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/gas-meter-readings-and-bill-calculation",
+    "content_id":  "5f61eb61-7631-11e4-a3cb-005056011aef",
+    "description":  "How to read your gas meter and convert this reading to kilowatt hours.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003ch2 id=\"gas-bill-calculations\"\u003eGas bill calculations\u003c/h2\u003e\n\n\u003cp\u003eGas meters generally record the volume of gas consumed in cubic feet (\u003cabbr title=\"Cubic Feet\"\u003eft³\u003c/abbr\u003e) or cubic metres (\u003cabbr title=\"Cubic Metre\"\u003em³\u003c/abbr\u003e) although consumers are billed in kilowatt hours (\u003cabbr title=\"Kilowatt Hours\"\u003ekWh\u003c/abbr\u003e). The calculations used to generate gas bills are prescribed in:\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.legislation.gov.uk/uksi/1996/439/contents/made\" class=\"govuk-link\"\u003eThe Gas (Calculation of Thermal Energy) Regulations 1996\u003c/a\u003e (\u003cabbr title=\"Statutory Instruments\"\u003eSI\u003c/abbr\u003e 1996/439)\u003c/p\u003e\n\n\u003cp\u003eThe Office of Gas and Electricity Markets (\u003cabbr title=\"Office of Gas and Electricity Markets\"\u003eOfgem\u003c/abbr\u003e) is the energy regulator and has responsibility for these regulations.\u003c/p\u003e\n\n\u003cdiv class=\"call-to-action\"\u003e\n\u003cp\u003eThe following steps explain how to read your gas meter (imperial or metric) and convert this reading to kilowatt hours. However, the Office for Product Safety and Standards is only responsible for gas meter accuracy and complaints about billing should firstly be directed to the supplier concerned. The \u003ca rel=\"external\" href=\"https://www.citizensadvice.org.uk/consumer/energy/energy-supply\" class=\"govuk-link\"\u003eCitizens Advice\u003c/a\u003e consumer service can assist you with this and provide independent advice on energy supply. If your supplier is unable to resolve your dispute then the \u003ca rel=\"external\" href=\"https://www.ombudsman-services.org/sectors/energy\" class=\"govuk-link\"\u003eEnergy Ombudsman\u003c/a\u003e can investigate.\u003c/p\u003e\n\u003c/div\u003e\n\n\u003ch2 id=\"metric-or-imperial\"\u003eMetric or imperial\u003c/h2\u003e\n\n\u003cp\u003eAlthough all new gas meters register in cubic metres, a significant number of imperial gas meters (registering in cubic feet) are still used for billing consumers. The approval process for gas meters requires the unit of measurement to be clearly marked on the register of the meter; for example:\u003c/p\u003e\n\n\u003cfigure class=\"image embedded\"\u003e\u003cdiv class=\"img\"\u003e\u003cimg src=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/35036/metric_and_imperial_gas_meters.jpg\" alt=\"A metric gas meter registers in cubic meters while an imperial gas meter registers in cubic feet.\"\u003e\u003c/div\u003e\u003c/figure\u003e\n\n\u003cp\u003eWith a metric meter the part units of gas are highlighted in red and those digits are often separated by (i.e. to the right hand side of) a decimal point. With an imperial meter the part units are often displayed in the form of a dial as illustrated above. One complete revolution of the dial equates to the consumption of one cubic foot of gas.\u003c/p\u003e\n\n\u003ch2 id=\"providing-meter-readings\"\u003eProviding meter readings\u003c/h2\u003e\n\n\u003cp\u003eYour gas supplier should take regular readings of your meter. If your supplier is unable to do this for any reason then you may want to take the reading yourself and provide this to the supplier. Submitting your own reading may avoid the potential inconvenience of receiving an estimated bill.\u003c/p\u003e\n\n\u003cp\u003eThe digits on a gas meter are read from left to right and any digit shown in red is ignored. It is important however that any ‘zero’s’ are included in the reading provided to the supplier thus in the following examples:\u003c/p\u003e\n\n\u003cfigure class=\"image embedded\"\u003e\u003cdiv class=\"img\"\u003e\u003cimg src=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/35035/Metric-and-imperial-gas-meter-dial.jpg\" alt=\"The reading on the metric meter has eight digits, the first five of which are in black. The reading on the imperial meter has six digits, the first four of which are in black. Only the black numbers are used for a reading to the supplier.\"\u003e\u003c/div\u003e\u003c/figure\u003e\n\n\u003ch2 id=\"calculation-of-gas-bill\"\u003eCalculation of gas bill\u003c/h2\u003e\n\n\u003cp\u003eInformation found on the gas bill itself will generally explain how the bill has been calculated. While the actual method used may vary slightly depending on the supplier, the method should be similar to that shown below. All conversion factors are prescribed in \u003ca rel=\"external\" href=\"https://www.legislation.gov.uk/uksi/1996/439/contents/made\" class=\"govuk-link\"\u003ethe Gas (Calculation of Thermal Energy) Regulations 1996\u003c/a\u003e (\u003cabbr title=\"Statutory Instruments\"\u003eSI\u003c/abbr\u003e 1996/439).\u003c/p\u003e\n\n\u003ch3 id=\"step-1\"\u003eStep 1\u003c/h3\u003e\n\u003cp\u003eSubtract your previous reading from your current reading to give the number of units used over the billing period.\u003c/p\u003e\n\n\u003ch3 id=\"step-2\"\u003eStep 2\u003c/h3\u003e\n\u003cp\u003eThe conversion factor from cubic feet to cubic metres is 0.0283 therefore:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e1 cubic foot  = 0.0283 cubic metres\u003c/li\u003e\n  \u003cli\u003e100 cubic feet  = 2.83 cubic metres\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFor imperial meters the reading (in hundreds of cubic feet) is therefore multiplied by 2.83 to convert to cubic metres (if the reading to the supplier was provided in cubic feet then this should be multiplied by 0.0283). This step is not required for metric meters as they are read directly in cubic metres.\u003c/p\u003e\n\n\u003ch3 id=\"step-3\"\u003eStep 3\u003c/h3\u003e\n\u003cp\u003eThis figure is then multiplied by the calorific value of the gas which is a measure of the available heat energy. Calorific values vary and the figure quoted on your bill (eg 39.5 megajoules per cubic metre (\u003cabbr title=\"Megajoule per Cubic Metre\"\u003eMJ/m³\u003c/abbr\u003e)) will be an average of the gas supplied to your property (the regulations explain how this is calculated). Gas transporters are required to maintain this figure within 38 \u003cabbr title=\"Megajoule per Cubic Metre\"\u003eMJ/m³\u003c/abbr\u003e to 41 \u003cabbr title=\"Megajoule per Cubic Metre\"\u003eMJ/m³\u003c/abbr\u003e as figures outside of this range will cause problems with gas burning appliances.\u003c/p\u003e\n\n\u003ch3 id=\"step-4\"\u003eStep 4\u003c/h3\u003e\n\u003cp\u003eThe figure is then multiplied by 1.02264 as prescribed in the above regulations. This corrects the volume of gas to account for temperature and pressure (as gas expands and contracts).\u003c/p\u003e\n\n\u003ch3 id=\"step-5\"\u003eStep 5\u003c/h3\u003e\n\u003cp\u003eFinally the figure is converted to \u003cabbr title=\"Kilowatt Hours\"\u003ekWh\u003c/abbr\u003e by dividing by 3.6. Again, this factor is prescribed in the above regulations.\u003c/p\u003e\n\n\u003ch3 id=\"step-6\"\u003eStep 6\u003c/h3\u003e\n\u003cp\u003eThe number of \u003cabbr title=\"Kilowatt Hours\"\u003ekWh\u003c/abbr\u003e is then be multiplied by the price per kilowatt hour as detailed on your gas bill. You may also have a standing charge or one price for the first ‘X’ number of units and a lower price for the remaining units.\u003c/p\u003e\n\n\u003ch2 id=\"further-information\"\u003eFurther Information\u003c/h2\u003e\n\n\u003cp\u003eQuestions about reading your gas meter or complaints about billing should firstly be directed to the supplier concerned. The \u003ca rel=\"external\" href=\"https://www.citizensadvice.org.uk/consumer/energy/energy-supply\" class=\"govuk-link\"\u003eCitizens Advice\u003c/a\u003e consumer service can assist you with this and provide independent advice on energy supply. If your supplier is unable to resolve your dispute then the \u003ca rel=\"external\" href=\"http://www.ombudsman-services.org/sectors/energy\" class=\"govuk-link\"\u003eEnergy Ombudsman\u003c/a\u003e can investigate.\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2014-06-10T09:31:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "a0ee18e7-9e1e-4ba1-aed5-f3f287dce752"
+                                                 ],
+                    "first_public_at":  "2014-06-10T09:31:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+                                                "dcc1e6d4-86d7-4ee7-8c88-d340322619fd"
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2014-06-10T09:31:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/gas-meter-readings-and-bill-calculation",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/gas-meter-readings-and-bill-calculation",
+                                                     "base_path":  "/guidance/gas-meter-readings-and-bill-calculation",
+                                                     "content_id":  "5f61eb61-7631-11e4-a3cb-005056011aef",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2014-06-10T08:31:00Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Gas meter readings and bill calculation",
+                                                     "web_url":  "https://www.gov.uk/guidance/gas-meter-readings-and-bill-calculation",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "base_path":  "/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "content_id":  "591c83aa-3b74-437d-a342-612bddd97572",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2015-05-08T00:00:00+00:00",
+                                                         "started_on":  "2010-05-12T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2010 to 2015 Conservative and Liberal Democrat coalition government",
+                                         "web_url":  "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government"
+                                     }
+                                 ],
+                  "lead_organisations":  [
+                                             {
+                                                 "analytics_identifier":  "EA1109",
+                                                 "api_path":  "/api/content/government/organisations/national-measurement-and-regulation-office",
+                                                 "api_url":  "https://www.gov.uk/api/content/government/organisations/national-measurement-and-regulation-office",
+                                                 "base_path":  "/government/organisations/national-measurement-and-regulation-office",
+                                                 "content_id":  "9c0cb3f3-8cea-4597-b719-ec168c36063f",
+                                                 "details":  {
+                                                                 "acronym":  "NMRO",
+                                                                 "brand":  "department-for-business-innovation-skills",
+                                                                 "default_news_image":  null,
+                                                                 "logo":  {
+                                                                              "formatted_title":  "National Measurement and Regulation Office",
+                                                                              "image":  {
+                                                                                            "alt_text":  "National Measurement and Regulation Office",
+                                                                                            "url":  "https://assets.publishing.service.gov.uk/media/59fa00e640f0b62ee8ef89c5/National_Measurement___Regulation_Office_294.png"
+                                                                                        }
+                                                                          },
+                                                                 "organisation_govuk_status":  {
+                                                                                                   "status":  "merged",
+                                                                                                   "updated_at":  "2016-03-31T00:00:00.000+01:00",
+                                                                                                   "url":  ""
+                                                                                               }
+                                                             },
+                                                 "document_type":  "organisation",
+                                                 "links":  {
+
+                                                           },
+                                                 "locale":  "en",
+                                                 "schema_name":  "organisation",
+                                                 "title":  "National Measurement and Regulation Office",
+                                                 "web_url":  "https://www.gov.uk/government/organisations/national-measurement-and-regulation-office",
+                                                 "withdrawn":  false
+                                             },
+                                             {
+                                                 "analytics_identifier":  "EA33",
+                                                 "api_path":  "/api/content/government/organisations/national-measurement-office",
+                                                 "api_url":  "https://www.gov.uk/api/content/government/organisations/national-measurement-office",
+                                                 "base_path":  "/government/organisations/national-measurement-office",
+                                                 "content_id":  "bf70fb51-06d0-4625-85bb-410bdf42cddc",
+                                                 "details":  {
+                                                                 "acronym":  "NMO",
+                                                                 "brand":  "department-for-business-innovation-skills",
+                                                                 "default_news_image":  null,
+                                                                 "logo":  {
+                                                                              "crest":  "bis",
+                                                                              "formatted_title":  "National \u003cbr/\u003eMeasurement \u003cbr/\u003eOffice"
+                                                                          },
+                                                                 "organisation_govuk_status":  {
+                                                                                                   "status":  "changed_name",
+                                                                                                   "updated_at":  "2015-03-31T00:00:00.000+01:00",
+                                                                                                   "url":  "http://www.bis.gov.uk/nmo"
+                                                                                               }
+                                                             },
+                                                 "document_type":  "organisation",
+                                                 "links":  {
+
+                                                           },
+                                                 "locale":  "en",
+                                                 "schema_name":  "organisation",
+                                                 "title":  "National Measurement Office",
+                                                 "web_url":  "https://www.gov.uk/government/organisations/national-measurement-office",
+                                                 "withdrawn":  false
+                                             }
+                                         ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "OT1246",
+                                            "api_path":  "/api/content/government/organisations/office-for-product-safety-and-standards",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/office-for-product-safety-and-standards",
+                                            "base_path":  "/government/organisations/office-for-product-safety-and-standards",
+                                            "content_id":  "a0ee18e7-9e1e-4ba1-aed5-f3f287dce752",
+                                            "details":  {
+                                                            "acronym":  "",
+                                                            "brand":  "uk-trade-investment",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "dbt",
+                                                                         "formatted_title":  "Office for Product \u003cbr/\u003eSafety \u0026amp; Standards"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Office for Product Safety and Standards",
+                                            "web_url":  "https://www.gov.uk/government/organisations/office-for-product-safety-and-standards",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA33",
+                                                                       "api_path":  "/api/content/government/organisations/national-measurement-office",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/national-measurement-office",
+                                                                       "base_path":  "/government/organisations/national-measurement-office",
+                                                                       "content_id":  "bf70fb51-06d0-4625-85bb-410bdf42cddc",
+                                                                       "details":  {
+                                                                                       "acronym":  "NMO",
+                                                                                       "brand":  "department-for-business-innovation-skills",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "bis",
+                                                                                                    "formatted_title":  "National \u003cbr/\u003eMeasurement \u003cbr/\u003eOffice"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "changed_name",
+                                                                                                                         "updated_at":  "2015-03-31T00:00:00.000+01:00",
+                                                                                                                         "url":  "http://www.bis.gov.uk/nmo"
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "National Measurement Office",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/national-measurement-office",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "OT1246",
+                                                              "api_path":  "/api/content/government/organisations/office-for-product-safety-and-standards",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/office-for-product-safety-and-standards",
+                                                              "base_path":  "/government/organisations/office-for-product-safety-and-standards",
+                                                              "content_id":  "a0ee18e7-9e1e-4ba1-aed5-f3f287dce752",
+                                                              "details":  {
+                                                                              "acronym":  "",
+                                                                              "brand":  "uk-trade-investment",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "dbt",
+                                                                                           "formatted_title":  "Office for Product \u003cbr/\u003eSafety \u0026amp; Standards"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Office for Product Safety and Standards",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/office-for-product-safety-and-standards",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related_guides":  [
+                                         {
+                                             "api_path":  "/api/content/guidance/gas-meter-stamping",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/gas-meter-stamping",
+                                             "base_path":  "/guidance/gas-meter-stamping",
+                                             "content_id":  "5f185432-7631-11e4-a3cb-005056011aef",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2014-03-13T00:00:00Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Gas meter stamping",
+                                             "web_url":  "https://www.gov.uk/guidance/gas-meter-stamping",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/uk-nationally-approved-gas-and-electricity-meters",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/uk-nationally-approved-gas-and-electricity-meters",
+                                             "base_path":  "/guidance/uk-nationally-approved-gas-and-electricity-meters",
+                                             "content_id":  "5f184e6c-7631-11e4-a3cb-005056011aef",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2014-03-13T00:00:00Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Nationally approved gas and electricity meters",
+                                             "web_url":  "https://www.gov.uk/guidance/uk-nationally-approved-gas-and-electricity-meters",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/national-sample-survey-for-electricity-meters",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/national-sample-survey-for-electricity-meters",
+                                             "base_path":  "/guidance/national-sample-survey-for-electricity-meters",
+                                             "content_id":  "5f1816e5-7631-11e4-a3cb-005056011aef",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2014-03-13T00:00:00Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "National sample survey for electricity meters",
+                                             "web_url":  "https://www.gov.uk/guidance/national-sample-survey-for-electricity-meters",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/market-surveillance-projects-for-gas-and-electricity-meters",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/market-surveillance-projects-for-gas-and-electricity-meters",
+                                             "base_path":  "/guidance/market-surveillance-projects-for-gas-and-electricity-meters",
+                                             "content_id":  "5f191415-7631-11e4-a3cb-005056011aef",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2014-03-13T00:00:00Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Market surveillance projects for gas and electricity meters",
+                                             "web_url":  "https://www.gov.uk/guidance/market-surveillance-projects-for-gas-and-electricity-meters",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/gas-meter-accuracy-and-disputes",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/gas-meter-accuracy-and-disputes",
+                                             "base_path":  "/guidance/gas-meter-accuracy-and-disputes",
+                                             "content_id":  "5f1932e0-7631-11e4-a3cb-005056011aef",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2018-07-02T10:34:20Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Gas meters: independent testing of accuracy",
+                                             "web_url":  "https://www.gov.uk/guidance/gas-meter-accuracy-and-disputes",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/in-service-testing-for-gas-and-electricity-meters",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/in-service-testing-for-gas-and-electricity-meters",
+                                             "base_path":  "/guidance/in-service-testing-for-gas-and-electricity-meters",
+                                             "content_id":  "5f163f0b-7631-11e4-a3cb-005056011aef",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2016-05-24T08:56:59Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "In-service testing for gas and electricity meters",
+                                             "web_url":  "https://www.gov.uk/guidance/in-service-testing-for-gas-and-electricity-meters",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/gas-and-electricity-meter-regulations",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/gas-and-electricity-meter-regulations",
+                                             "base_path":  "/guidance/gas-and-electricity-meter-regulations",
+                                             "content_id":  "5f1819e0-7631-11e4-a3cb-005056011aef",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2014-07-22T16:05:40Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "National regulation: gas and electricity meters",
+                                             "web_url":  "https://www.gov.uk/guidance/gas-and-electricity-meter-regulations",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/gas-meters-high-bills-or-meter-readings",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/gas-meters-high-bills-or-meter-readings",
+                                             "base_path":  "/guidance/gas-meters-high-bills-or-meter-readings",
+                                             "content_id":  "dc118a01-9e0b-4e85-ba19-26018171688a",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2018-07-02T10:37:00Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Gas meters: high bills or meter readings",
+                                             "web_url":  "https://www.gov.uk/guidance/gas-meters-high-bills-or-meter-readings",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/mid-approved-gas-and-electricity-meters",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/mid-approved-gas-and-electricity-meters",
+                                             "base_path":  "/guidance/mid-approved-gas-and-electricity-meters",
+                                             "content_id":  "5f18b681-7631-11e4-a3cb-005056011aef",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2014-03-13T00:00:00Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "MID approved gas and electricity meters",
+                                             "web_url":  "https://www.gov.uk/guidance/mid-approved-gas-and-electricity-meters",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/electricity-meter-certification",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/electricity-meter-certification",
+                                             "base_path":  "/guidance/electricity-meter-certification",
+                                             "content_id":  "5f1854cb-7631-11e4-a3cb-005056011aef",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2014-03-13T00:00:00Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Electricity meter certification",
+                                             "web_url":  "https://www.gov.uk/guidance/electricity-meter-certification",
+                                             "withdrawn":  false
+                                         }
+                                     ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/smart-meters-how-they-work",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/smart-meters-how-they-work",
+                                                              "base_path":  "/guidance/smart-meters-how-they-work",
+                                                              "content_id":  "5d2789f7-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-10-13T23:15:04Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Smart meters: a guide for households",
+                                                              "web_url":  "https://www.gov.uk/guidance/smart-meters-how-they-work",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/electricity-meters-high-bills-or-meter-readings",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/electricity-meters-high-bills-or-meter-readings",
+                                                              "base_path":  "/guidance/electricity-meters-high-bills-or-meter-readings",
+                                                              "content_id":  "a43d4d38-1471-4272-a0cf-ed6c3c7b10f0",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2018-07-02T10:35:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Electricity meters: high bills or meter readings",
+                                                              "web_url":  "https://www.gov.uk/guidance/electricity-meters-high-bills-or-meter-readings",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/collections/smart-meters-statistics",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/collections/smart-meters-statistics",
+                                                              "base_path":  "/government/collections/smart-meters-statistics",
+                                                              "content_id":  "5eb8f5f2-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "document_collection",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-11-28T09:30:09Z",
+                                                              "schema_name":  "document_collection",
+                                                              "title":  "Smart meter statistics",
+                                                              "web_url":  "https://www.gov.uk/government/collections/smart-meters-statistics",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/statistics/smart-meters-in-great-britain-quarterly-update-june-2021",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/statistics/smart-meters-in-great-britain-quarterly-update-june-2021",
+                                                              "base_path":  "/government/statistics/smart-meters-in-great-britain-quarterly-update-june-2021",
+                                                              "content_id":  "47955e4f-a4a5-4c40-858a-274c3d5e7837",
+                                                              "document_type":  "official_statistics",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-08-26T08:30:06Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Smart meters in Great Britain, quarterly update June 2021",
+                                                              "web_url":  "https://www.gov.uk/government/statistics/smart-meters-in-great-britain-quarterly-update-june-2021",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/statistics/smart-meters-in-great-britain-quarterly-update-june-2022",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/statistics/smart-meters-in-great-britain-quarterly-update-june-2022",
+                                                              "base_path":  "/government/statistics/smart-meters-in-great-britain-quarterly-update-june-2022",
+                                                              "content_id":  "4b26516b-c7e8-4430-bc01-5b47e8c769bf",
+                                                              "document_type":  "official_statistics",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-08-25T08:30:07Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Smart meters in Great Britain, quarterly update June 2022",
+                                                              "web_url":  "https://www.gov.uk/government/statistics/smart-meters-in-great-britain-quarterly-update-june-2022",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/environment/climate-change-energy",
+                                     "api_url":  "https://www.gov.uk/api/content/environment/climate-change-energy",
+                                     "base_path":  "/environment/climate-change-energy",
+                                     "content_id":  "62e08e6f-9161-42c6-b9dd-0cf8fcab2c69",
+                                     "details":  {
+                                                     "internal_name":  "Climate change and energy (level 2, content from policy areas)",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/environment",
+                                                                             "api_url":  "https://www.gov.uk/api/content/environment",
+                                                                             "base_path":  "/environment",
+                                                                             "content_id":  "3cf97f69-84de-41ae-bc7b-7e2cc238fa58",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Environment",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T13:39:00Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Environment",
+                                                                             "web_url":  "https://www.gov.uk/environment",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-05T16:13:08Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Climate change and energy",
+                                     "web_url":  "https://www.gov.uk/environment/climate-change-energy",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/housing-local-and-community/household-energy",
+                                     "api_url":  "https://www.gov.uk/api/content/housing-local-and-community/household-energy",
+                                     "base_path":  "/housing-local-and-community/household-energy",
+                                     "content_id":  "6bb7a2d2-1693-4682-a52c-a17d7fca9c3e",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Household energy",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/housing-local-and-community",
+                                                                             "api_url":  "https://www.gov.uk/api/content/housing-local-and-community",
+                                                                             "base_path":  "/housing-local-and-community",
+                                                                             "content_id":  "4794066e-e3cc-425e-8cc4-e7ff3edb4c39",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Housing, local and community",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:32:02Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Housing, local and community",
+                                                                             "web_url":  "https://www.gov.uk/housing-local-and-community",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-16T12:08:15Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Household energy",
+                                     "web_url":  "https://www.gov.uk/housing-local-and-community/household-energy",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/business-and-industry/consumer-rights-and-issues",
+                                     "api_url":  "https://www.gov.uk/api/content/business-and-industry/consumer-rights-and-issues",
+                                     "base_path":  "/business-and-industry/consumer-rights-and-issues",
+                                     "content_id":  "da0bc015-f8e5-492c-8d81-6fbf9b18947c",
+                                     "details":  {
+                                                     "internal_name":  "Consumer rights and issues",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/business-and-industry/business-regulation",
+                                                                             "api_url":  "https://www.gov.uk/api/content/business-and-industry/business-regulation",
+                                                                             "base_path":  "/business-and-industry/business-regulation",
+                                                                             "content_id":  "33bc0eed-62c7-4b0b-9a93-626c9e10c025",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Business regulation [P]",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/business-and-industry",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/business-and-industry",
+                                                                                                                     "base_path":  "/business-and-industry",
+                                                                                                                     "content_id":  "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Business and industry",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-03T15:41:02Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Business and industry",
+                                                                                                                     "web_url":  "https://www.gov.uk/business-and-industry",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-03T15:41:03Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Business regulation",
+                                                                             "web_url":  "https://www.gov.uk/business-and-industry/business-regulation",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-03T20:12:08Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Consumer rights and issues",
+                                     "web_url":  "https://www.gov.uk/business-and-industry/consumer-rights-and-issues",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2014-06-10T09:31:00+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "10551-1665653493.228-10.13.2.247-2086",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Gas meter readings and bill calculation",
+    "updated_at":  "2024-11-28T09:30:16+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

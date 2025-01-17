@@ -1,0 +1,317 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/importing-sps-controlled-goods-that-interact-with-alvs",
+    "content_id":  "40a4a2f8-f416-4211-9074-42a822b56bba",
+    "description":  "Find out how to make sure that data entered into the Customs Declaration Service (CDS) is matched correctly with the Automatic Licence Verification System (ALVS).",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eThis guide tells you how to format the document identifier entered in data element (\u003cabbr title=\"Data Element\"\u003eDE\u003c/abbr\u003e) 2/3 if you are declaring sanitary and phytosanitary (\u003cabbr title=\"sanitary and phytosanitary\"\u003eSPS\u003c/abbr\u003e) controlled goods.\u003c/p\u003e\n\n\u003cp\u003eWhen you submit your declaration, the Automatic Licence Verification System (\u003cabbr title=\"Automatic Licence Verification System\"\u003eALVS\u003c/abbr\u003e) will:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003efind the Defra pre-notification submitted on the Import of products, animals, food and feed system (\u003cabbr title=\"Import of products, animals, food and feed system\"\u003eIPAFFs\u003c/abbr\u003e)\u003c/li\u003e\n  \u003cli\u003eattempt to get a successful match on the:\n    \u003cul\u003e\n      \u003cli\u003eCommon Health Entry Document (\u003cabbr title=\"Common Health Entry Document\"\u003eCHED\u003c/abbr\u003e) identifier (\u003cabbr title=\"Data Element\"\u003eDE\u003c/abbr\u003e 2/3)\u003c/li\u003e\n      \u003cli\u003enet weight (\u003cabbr title=\"Data Element\"\u003eDE\u003c/abbr\u003e 6/1) or number of live animals (\u003cabbr title=\"Data Element\"\u003eDE\u003c/abbr\u003e 6/2)\u003c/li\u003e\n      \u003cli\u003ecommodity code (\u003cabbr title=\"Data Element\"\u003eDE\u003c/abbr\u003e 6/14 and \u003cabbr title=\"Data Element\"\u003eDE\u003c/abbr\u003e 6/15)\u003c/li\u003e\n    \u003c/ul\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"defra-pre-notifications-submitted-on-ipaffs\"\u003eDefra pre-notifications submitted on IPAFFS\u003c/h2\u003e\n\n\u003cp\u003eWhen submitting your pre-notification on \u003cabbr title=\"Import of products, animals, food and feed system\"\u003eIPAFFs\u003c/abbr\u003e, select the Common Health Entry Document (\u003cabbr title=\"Common Health Entry Document\"\u003eCHED\u003c/abbr\u003e) that represents the product type you are importing.\u003c/p\u003e\n\n\u003cp\u003eFor example, use the Common Health Entry Document for horticultural and plant related products (\u003cabbr title=\"Common Health Entry Document for horticultural and plant related products\"\u003eCHED-PP\u003c/abbr\u003e) if you are importing:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ehorticultural products\u003c/li\u003e\n  \u003cli\u003eplants\u003c/li\u003e\n  \u003cli\u003eplant-related products\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe document code C085 (\u003cabbr title=\"Common Health Entry Document for horticultural and plant related products\"\u003eCHED-PP\u003c/abbr\u003e) is not recognised in the Customs Declaration Service Tariff. On your customs declaration, you should use the document codes:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eN002 (conformity certificate)\u003c/li\u003e\n  \u003cli\u003eN851 (phytosanitary certificate)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFor all types of Common Health Entry Document (\u003cabbr title=\"Common Health Entry Document\"\u003eCHED\u003c/abbr\u003e), the document identifier in \u003cabbr title=\"Data Element\"\u003eDE\u003c/abbr\u003e 2/3 should be in the format GBCHDyyyy.nnnnnnn if you’re declaring: \u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003efruit and vegetables, using document code N002 (\u003cabbr title=\"Common Health Entry Document for horticultural and plant related products\"\u003eCHED-PP\u003c/abbr\u003e)\u003c/li\u003e\n  \u003cli\u003eplants or plant-related products, using document code N851 (\u003cabbr title=\"Common Health Entry Document for horticultural and plant related products\"\u003eCHED-PP\u003c/abbr\u003e)\u003c/li\u003e\n  \u003cli\u003elive animals, using document code C640 (\u003cabbr title=\"Common Health Entry Document\"\u003eCHED\u003c/abbr\u003e-A)\u003c/li\u003e\n  \u003cli\u003eproducts of animal origin, using document code N853 (\u003cabbr title=\"Common Health Entry Document\"\u003eCHED\u003c/abbr\u003e-P)\u003c/li\u003e\n  \u003cli\u003ehigh-risk food not of animal origin, using document code C678 (\u003cabbr title=\"Common Health Entry Document\"\u003eCHED\u003c/abbr\u003e-D)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIn this format:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eyyyy is the year the pre-notification was made, followed by a dot\u003c/li\u003e\n  \u003cli\u003ennnnnnn is the 7-digit \u003cabbr title=\"Common Health Entry Document\"\u003eCHED\u003c/abbr\u003e number generated by \u003cabbr title=\"Import of products, animals, food and feed system\"\u003eIPAFFs\u003c/abbr\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"illegal-unreported-and-unregulated-iuu-document-code\"\u003eIllegal, unreported and unregulated (\u003cabbr title=\"illegal, unreported and unregulated\"\u003eIUU\u003c/abbr\u003e) document code\u003c/h3\u003e\n\n\u003cp\u003eIf you’re using document code C673 (\u003cabbr title=\"illegal, unreported and unregulated\"\u003eIUU\u003c/abbr\u003e Catch certificate), use the document identifier GBIUU.\u003c/p\u003e\n\n\u003cp\u003e\u003cabbr title=\"Automatic Licence Verification System\"\u003eALVS\u003c/abbr\u003e will inform the \u003cabbr title=\"illegal, unreported and unregulated\"\u003eIUU\u003c/abbr\u003e decision (\u003cabbr title=\"illegal, unreported and unregulated\"\u003eIUU\u003c/abbr\u003e OK, \u003cabbr title=\"illegal, unreported and unregulated\"\u003eIUU\u003c/abbr\u003e N/A or \u003cabbr title=\"illegal, unreported and unregulated\"\u003eIUU\u003c/abbr\u003e HOLD) recorded by Port Health inspectors in Box 42 of the \u003cabbr title=\"Common Health Entry Document\"\u003eCHED\u003c/abbr\u003e-P Part II.\u003c/p\u003e\n\n\u003ch2 id=\"document-codes-in-de-23-that-are-not-required-by-the-customs-declaration-service-tariff-system\"\u003eDocument codes in \u003cabbr title=\"Data Element\"\u003eDE\u003c/abbr\u003e 2/3 that are not required by the Customs Declaration Service Tariff system\u003c/h2\u003e\n\n\u003cp\u003eCustoms Declaration Service Tariff validation will only accept additional document codes if you have included all the relevant documentary requirements for any ‘all countries’ prohibition and restriction measures which apply to your goods.\u003c/p\u003e\n\n\u003cdiv class=\"example\"\u003e\n  \u003cp\u003e\u003cstrong\u003eExample\u003c/strong\u003e\u003c/p\u003e\n\n  \u003cp\u003eYou do not need to declare document code N851 (Phytosanitary Control) in the Customs declaration if you’re importing:\u003c/p\u003e\n\n  \u003cul\u003e\n    \u003cli\u003egreen bananas (\u003ca rel=\"external\" href=\"https://www.trade-tariff.service.gov.uk/commodities/0803901900\" class=\"govuk-link\"\u003eCommodity Code 08039019 00\u003c/a\u003e)\u003c/li\u003e\n    \u003cli\u003efresh lemons (\u003ca rel=\"external\" href=\"https://www.trade-tariff.service.gov.uk/commodities/0805501010\" class=\"govuk-link\"\u003eCommodity code 08055010 10\u003c/a\u003e)\u003c/li\u003e\n  \u003c/ul\u003e\n\n  \u003cp\u003eYou will need an N002 (Certificate of Conformity).\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cp\u003eYou will receive an X00 ‘no match’ message if you:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003edeclare additional \u003cabbr title=\"Automatic Licence Verification System\"\u003eALVS\u003c/abbr\u003e document codes in \u003cabbr title=\"Data Element\"\u003eDE\u003c/abbr\u003e 2/3 which are not required by Tariff\u003c/li\u003e\n  \u003cli\u003ehave not made a supporting Defra pre-notification\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"receipt-of-x00-no-match-messages\"\u003eReceipt of X00 ‘no match’ messages\u003c/h2\u003e\n\n\u003cp\u003eIf \u003cabbr title=\"Automatic Licence Verification System\"\u003eALVS\u003c/abbr\u003e generates an X00 ‘no match’ message, you should correct the data element shown in the message as soon as possible. If you made the error on the Import of products, animals, food and feed system pre-notification, you can either:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eamend your existing pre-notification\u003c/li\u003e\n  \u003cli\u003edelete your pre-notification and submit a new one\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIf you have made the error on the Customs Declaration Service, you can amend your declaration. If your software does not allow you to amend your declaration, you need to cancel your declaration before submitting a new one.\u003c/p\u003e\n\n\u003cp\u003eThe Automatic Licence Verification System (\u003cabbr title=\"Automatic Licence Verification System\"\u003eALVS\u003c/abbr\u003e) will re-run its data-matching process. If the mismatch has been corrected, it will provide a decision notification to the Customs Declaration Service.\u003c/p\u003e\n\n\u003cp\u003eIf the mismatch has not been corrected:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003cabbr title=\"Automatic Licence Verification System\"\u003eALVS\u003c/abbr\u003e cannot provide a decision notification to the Customs Declaration Service\u003c/li\u003e\n  \u003cli\u003eyour customs declaration will not be cleared\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe Automatic Licence Verification System can successfully apply data matching on:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n    \u003cp\u003emultiple \u003cabbr title=\"Common Health Entry Documents\"\u003eCHEDs\u003c/abbr\u003e declared on a single customs declaration — for example, where racehorses need a separate \u003cabbr title=\"Common Health Entry Document\"\u003eCHED\u003c/abbr\u003e-A for each animal\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003ea single \u003cabbr title=\"Common Health Entry Document\"\u003eCHED\u003c/abbr\u003e applied across several customs declarations — for example where:\u003c/p\u003e\n\n    \u003cul\u003e\n      \u003cli\u003e\n        \u003cp\u003ethe \u003cabbr title=\"Common Health Entry Document\"\u003eCHED\u003c/abbr\u003e covers more than a single exporter or importer\u003c/p\u003e\n      \u003c/li\u003e\n      \u003cli\u003e\n        \u003cp\u003ethe consignment is split between free circulation and a special procedure, such as customs warehousing\u003c/p\u003e\n      \u003c/li\u003e\n    \u003c/ul\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"net-weight\"\u003eNet weight\u003c/h3\u003e\n\n\u003cp\u003e\u003cabbr title=\"Automatic Licence Verification System\"\u003eALVS\u003c/abbr\u003e will generate an X00 ‘no match’ on net weight when it receives your first customs declaration if your \u003cabbr title=\"Import of products, animals, food and feed system\"\u003eIPAFFs\u003c/abbr\u003e pre-notification covers:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ea single \u003cabbr title=\"Common Health Entry Document\"\u003eCHED\u003c/abbr\u003e\n\u003c/li\u003e\n  \u003cli\u003emore than one associated customs declaration\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003e\u003cabbr title=\"Automatic Licence Verification System\"\u003eALVS\u003c/abbr\u003e will generate a successful match of the net weight when it receives your final declaration for the \u003cabbr title=\"Common Health Entry Document\"\u003eCHED\u003c/abbr\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"if-you-have-multiple-declarations-associated-to-multiple-cheds\"\u003eIf you have multiple declarations associated to multiple \u003cabbr title=\"Common Health Entry Documents\"\u003eCHEDs\u003c/abbr\u003e\n\u003c/h3\u003e\n\n\u003cp\u003e\u003cabbr title=\"Automatic Licence Verification System\"\u003eALVS\u003c/abbr\u003e cannot match data if there are multiple customs declarations associated to multiple \u003cabbr title=\"Common Health Entry Documents\"\u003eCHEDs\u003c/abbr\u003e. To avoid this matching restriction, you can use multiple line items to put all pre-notifications covering the same exporter and importer on the same declaration.\u003c/p\u003e\n\n\u003cp\u003eIf you cannot avoid this matching restriction, you will need to \u003ca href=\"https://www.gov.uk/guidance/apply-for-a-manual-release-of-certain-plant-animal-and-food-products\" class=\"govuk-link\"\u003eapply for a manual release\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"importing-caught-fish\"\u003eImporting caught fish \u003c/h3\u003e\n\n\u003cp\u003eIf you import caught fish, you should pre-notify on \u003cabbr title=\"Import of products, animals, food and feed system\"\u003eIPAFFs\u003c/abbr\u003e the:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eproducts of animal origin (\u003cabbr title=\"products of animal origin\"\u003ePOAO\u003c/abbr\u003e) \u003cabbr title=\"Common Health Entry Document\"\u003eCHED\u003c/abbr\u003e-P\u003c/li\u003e\n  \u003cli\u003e\n\u003cabbr title=\"illegal, unreported and unregulated\"\u003eIUU\u003c/abbr\u003e Catch certificate\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIf you fail to do this, \u003cabbr title=\"Automatic Licence Verification System\"\u003eALVS\u003c/abbr\u003e will generate a ‘no match’.\u003c/p\u003e\n\n\u003cp\u003eFor more information on importing caught fish, read \u003ca href=\"https://www.gov.uk/trade-tariff\" class=\"govuk-link\"\u003echapters 3 and 16 of the Tariff\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"importing-horticultural-products\"\u003eImporting horticultural products\u003c/h3\u003e\n\n\u003cp\u003eHorticultural products that fall under General Marketing Standards (\u003cabbr title=\"General Marketing Standards\"\u003eGMS\u003c/abbr\u003e) are randomly selected for inspection.\u003c/p\u003e\n\n\u003cp\u003eIf your products are selected for inspection, you will receive a \u003cabbr title=\"General Marketing Standards\"\u003eGMS\u003c/abbr\u003e ‘no match’ message. You must then:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003emake a General Marketing Standards pre-notification on \u003cabbr title=\"Import of products, animals, food and feed system\"\u003eIPAFFs\u003c/abbr\u003e\n\u003c/li\u003e\n  \u003cli\u003eamend your customs declaration to include the \u003cabbr title=\"Common Health Entry Document for horticultural and plant related products\"\u003eCHED-PP\u003c/abbr\u003e details in \u003cabbr title=\"Data Element\"\u003eDE\u003c/abbr\u003e 2/3\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"use-of-national-and-eu-waiver-document-codes\"\u003eUse of National and EU waiver document codes\u003c/h2\u003e\n\n\u003cp\u003eSpecific National waiver document codes have been assigned to a number of prohibition and restriction measures. This is to give more clarity about the documentary requirements of the UK Trade Tariff.\u003c/p\u003e\n\n\u003cp\u003eFor example:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eNational waiver 920Y can be used on several commodity codes to satisfy the ‘\u003cabbr title=\"Horticultural Marketing Inspectorate\"\u003eHMI\u003c/abbr\u003e Conformity Certificate (fruit and veg) issued in UK’ measure\u003c/li\u003e\n  \u003cli\u003eEU waivers already in existence, such as document code Y930 or C084, can be used on several commodity codes to satisfy the ‘Veterinary control’ measure\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou should only use a waiver document code when a:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ewaiver is appropriate for your sanitary and phytosanitary (\u003cabbr title=\"sanitary and phytosanitary\"\u003eSPS\u003c/abbr\u003e) consignment\u003c/li\u003e\n  \u003cli\u003ewaiver document code is available to use for your chosen commodity code\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eUsing the waiver document code, instead of a Common Health Entry Document (\u003cabbr title=\"Common Health Entry Document\"\u003eCHED\u003c/abbr\u003e) document code, will help minimise delays in customs clearance.\u003c/p\u003e\n\n\u003ch2 id=\"further-checks\"\u003eFurther checks\u003c/h2\u003e\n\n\u003cp\u003eCarriers may need to take their \u003cabbr title=\"sanitary and phytosanitary\"\u003eSPS\u003c/abbr\u003e consignments to a Border Control Post (\u003cabbr title=\"Border Control Post\"\u003eBCP\u003c/abbr\u003e) when they arrive in the UK. Customs Declaration Service messaging services will tell the carrier which \u003cabbr title=\"Border Control Post\"\u003eBCP\u003c/abbr\u003e to take their consignments to.\u003c/p\u003e\n\n\u003cp\u003eWhen \u003cabbr title=\"Automatic Licence Verification System\"\u003eALVS\u003c/abbr\u003e returns a release decision, Customs and Border Force may carry out additional checks, such as:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eConvention on International Trade in Endangered Species of Wild Fauna and Flora (\u003cabbr title=\"Convention on International Trade in Endangered Species of Wild Fauna and Flora\"\u003eCITES\u003c/abbr\u003e) checks\u003c/li\u003e\n  \u003cli\u003echecks to resolve any outstanding accounting queries\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe customs declaration will only be cleared after any additional checks are completed.\u003c/p\u003e\n\n\u003cp\u003eCustoms Declaration Service messaging services will tell you if:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eadditional checks are needed\u003c/li\u003e\n  \u003cli\u003eother queries have been raised\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Information about the use of National and EU waiver document codes and when you can use them has been added. ",
+                                               "public_timestamp":  "2024-10-23T09:19:04.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Information on data matching in the ALVS system has been added to the \u0027Receipt of X00 ‘no match’ messages\u0027 section.\r\n",
+                                               "public_timestamp":  "2024-06-18T15:32:08.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Information for fish related imports has been updated to say that submitters of Defra pre-notifications should pre-notify the products of animal origin (POAO) CHED-P and the illegal, unreported and unregulated (IUU) Catch certificate on the Import of products, animals, food and feed system (IPAFFs).",
+                                               "public_timestamp":  "2024-04-09T11:57:01.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Guidance has been removed on Procedure for Electronic Application for Certificates from the Horticultural Marketing Inspectorate (PEACH) pre-notification. Further Information has been added on the data matching process and General Marketing Standards (GMS).",
+                                               "public_timestamp":  "2024-04-08T00:15:03.000+01:00"
+                                           },
+                                           {
+                                               "note":  "The commodity code for green bananas is now 0803901900.",
+                                               "public_timestamp":  "2024-01-16T11:48:43.000+00:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2023-12-01T00:00:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "6667cce2-e809-4e21-ae09-cb0bdc1ddda3"
+                                                 ],
+                    "first_public_at":  "2023-12-01T00:00:00.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2023-12-01T00:00:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/importing-sps-controlled-goods-that-interact-with-alvs",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/importing-sps-controlled-goods-that-interact-with-alvs",
+                                                     "base_path":  "/guidance/importing-sps-controlled-goods-that-interact-with-alvs",
+                                                     "content_id":  "40a4a2f8-f416-4211-9074-42a822b56bba",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2024-10-23T08:19:04Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Importing SPS controlled goods that interact with ALVS",
+                                                     "web_url":  "https://www.gov.uk/guidance/importing-sps-controlled-goods-that-interact-with-alvs",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/customs-declaration-service",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/customs-declaration-service",
+                                                   "base_path":  "/government/collections/customs-declaration-service",
+                                                   "content_id":  "3f869fbd-b202-4f8a-bcfd-9fa3204598b7",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/importing-sps-controlled-goods-that-interact-with-alvs",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/importing-sps-controlled-goods-that-interact-with-alvs",
+                                                                                       "base_path":  "/guidance/importing-sps-controlled-goods-that-interact-with-alvs",
+                                                                                       "content_id":  "40a4a2f8-f416-4211-9074-42a822b56bba",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2024-10-23T08:19:04Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Importing SPS controlled goods that interact with ALVS",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/importing-sps-controlled-goods-that-interact-with-alvs",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2024-03-04T14:31:25Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Customs Declaration Service",
+                                                   "web_url":  "https://www.gov.uk/government/collections/customs-declaration-service",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2022-to-2024-sunak-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2022-to-2024-sunak-conservative-government",
+                                         "base_path":  "/government/2022-to-2024-sunak-conservative-government",
+                                         "content_id":  "acbd9825-4303-45cf-85bc-20f200c146ff",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2024-07-05T00:00:00+00:00",
+                                                         "started_on":  "2022-10-25T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2022 to 2024 Sunak Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D25",
+                                            "api_path":  "/api/content/government/organisations/hm-revenue-customs",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+                                            "base_path":  "/government/organisations/hm-revenue-customs",
+                                            "content_id":  "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+                                            "details":  {
+                                                            "acronym":  "HMRC",
+                                                            "brand":  "hm-revenue-customs",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "hmrc",
+                                                                         "formatted_title":  "HM Revenue\u003cbr/\u003e\u0026amp; Customs"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "HM Revenue \u0026 Customs",
+                                            "web_url":  "https://www.gov.uk/government/organisations/hm-revenue-customs",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "D25",
+                                                                       "api_path":  "/api/content/government/organisations/hm-revenue-customs",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+                                                                       "base_path":  "/government/organisations/hm-revenue-customs",
+                                                                       "content_id":  "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+                                                                       "details":  {
+                                                                                       "acronym":  "HMRC",
+                                                                                       "brand":  "hm-revenue-customs",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "hmrc",
+                                                                                                    "formatted_title":  "HM Revenue\u003cbr/\u003e\u0026amp; Customs"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "HM Revenue \u0026 Customs",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/hm-revenue-customs",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D25",
+                                                              "api_path":  "/api/content/government/organisations/hm-revenue-customs",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/hm-revenue-customs",
+                                                              "base_path":  "/government/organisations/hm-revenue-customs",
+                                                              "content_id":  "6667cce2-e809-4e21-ae09-cb0bdc1ddda3",
+                                                              "details":  {
+                                                                              "acronym":  "HMRC",
+                                                                              "brand":  "hm-revenue-customs",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5efdb7ace90e075c58556288/s960_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/5efdb7ac3a6f4023cb365a65/s300_HMRC_sign__media_library_-_alternative__GOVUK_960.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "hmrc",
+                                                                                           "formatted_title":  "HM Revenue\u003cbr/\u003e\u0026amp; Customs"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "HM Revenue \u0026 Customs",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/hm-revenue-customs",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/business/business-imports-commodity-codes-and-reporting",
+                                     "api_url":  "https://www.gov.uk/api/content/business/business-imports-commodity-codes-and-reporting",
+                                     "base_path":  "/business/business-imports-commodity-codes-and-reporting",
+                                     "content_id":  "9bedcc51-0f02-4310-ad19-fa54338912e1",
+                                     "details":  {
+                                                     "internal_name":  "Commodity codes and reporting [M]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/business-and-industry/importing",
+                                                                             "api_url":  "https://www.gov.uk/api/content/business-and-industry/importing",
+                                                                             "base_path":  "/business-and-industry/importing",
+                                                                             "content_id":  "d74faafc-781d-4087-8e0c-be4216180059",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Importing [M]",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/business-and-industry/trade-and-investment",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/business-and-industry/trade-and-investment",
+                                                                                                                     "base_path":  "/business-and-industry/trade-and-investment",
+                                                                                                                     "content_id":  "ed2ca1f7-5463-4eda-9324-b597e269e242",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Trade and investment",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  false
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "parent_taxons":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-03T15:41:05Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Trade and investment",
+                                                                                                                     "web_url":  "https://www.gov.uk/business-and-industry/trade-and-investment",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-03T15:41:06Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Importing",
+                                                                             "web_url":  "https://www.gov.uk/business-and-industry/importing",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-03T15:41:06Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Commodity codes and reporting",
+                                     "web_url":  "https://www.gov.uk/business/business-imports-commodity-codes-and-reporting",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2024-10-23T09:19:04+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1729671544.539-10.13.22.110-2486",
+    "publishing_scheduled_at":  "2024-04-08T00:15:00+01:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  4,
+    "schema_name":  "detailed_guide",
+    "title":  "Importing SPS controlled goods that interact with ALVS",
+    "updated_at":  "2025-01-14T11:16:00+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

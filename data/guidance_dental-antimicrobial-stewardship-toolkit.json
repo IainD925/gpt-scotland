@@ -1,0 +1,632 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/dental-antimicrobial-stewardship-toolkit",
+    "content_id":  "ebb089db-4254-4570-8744-79a97c6043ee",
+    "description":  "Resources to help primary care practitioners promote the appropriate use of antibiotics in dental care.",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "publications@ukhsa.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  961151,
+                                            "filename":  "national_dental_leaflet.pdf",
+                                            "id":  "7696916",
+                                            "number_of_pages":  2,
+                                            "title":  "patient information leaflet",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a74a4bded915d0e8e399da9/national_dental_leaflet.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "publications@ukhsa.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  990375,
+                                            "filename":  "national_dental_poster.pdf",
+                                            "id":  "7696917",
+                                            "number_of_pages":  1,
+                                            "title":  "antibiotic guardian poster",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7f39b6e5274a2e87db48ff/national_dental_poster.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "publications@ukhsa.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  128791,
+                                            "filename":  "national_pain_relief_poster_including_child_doses_v29.pdf",
+                                            "id":  "7696918",
+                                            "number_of_pages":  2,
+                                            "title":  "National analgesic advice sheet for dentists",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5d15e1d8ed915d318c4ae665/national_pain_relief_poster_including_child_doses_v29.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "publications@ukhsa.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                            "file_size":  30975,
+                                            "filename":  "Dental_Hospitals_National_Audit.docx",
+                                            "id":  "7697770",
+                                            "title":  "Outpatient prophylactic (prevent infection) antibacterial prescribing audit tool",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/657045fc1104cf000dfa75ba/Dental_Hospitals_National_Audit.docx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "publications@ukhsa.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                            "file_size":  38534,
+                                            "filename":  "Dental_Hospitals_National_Audi1.docx",
+                                            "id":  "7697771",
+                                            "title":  "Outpatient therapeutic (treat infection) antibacterial prescribing audit tool",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/657046149462260705c569d6/Dental_Hospitals_National_Audi1.docx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "publications@ukhsa.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  340637,
+                                            "filename":  "Prescribers_PDP_for_Antimicrobial_Stewardship_and_CPD_activity_log.pdf",
+                                            "id":  "7698466",
+                                            "number_of_pages":  6,
+                                            "title":  "PDP for prescribers",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/65705e95809bc3000d308145/Prescribers_PDP_for_Antimicrobial_Stewardship_and_CPD_activity_log.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "publications@ukhsa.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  261848,
+                                            "filename":  "Non-prescribers_PDP_for_Antimicrobial_Stewardship_and_CPD_activity_log.pdf",
+                                            "id":  "7698469",
+                                            "number_of_pages":  3,
+                                            "title":  "PDP for non-prescribers",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/65705ee2809bc3000d308147/Non-prescribers_PDP_for_Antimicrobial_Stewardship_and_CPD_activity_log.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "publications@ukhsa.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  587947,
+                                            "filename":  "National_dental_poster_2023_download__1_.pdf",
+                                            "id":  "7698591",
+                                            "number_of_pages":  3,
+                                            "title":  "Antibiotic guardian poster – full colour, colour, and black and white",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/65705fe774693000124888de/National_dental_poster_2023_download__1_.pdf"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eThe dental antimicrobial stewardship (\u003cabbr title=\"antimicrobial stewardship\"\u003eAMS\u003c/abbr\u003e) toolkit for primary care was developed by the Dental Subgroup of the UK Health Security Agency’s (\u003cabbr title=\"UK Health Security Agency\"\u003eUKHSA\u003c/abbr\u003e’s) English Surveillance Programme for Antimicrobial Utilisation and Resistance (\u003cabbr title=\"English Surveillance Programme for Antimicrobial Utilisation and Resistance\"\u003eESPAUR\u003c/abbr\u003e).\u003c/p\u003e\n\n\u003cp\u003eThe toolkit provides educational resources, support and guidance to dental teams and commissioners to reduce unnecessary and inappropriate antimicrobial prescribing. The toolkit contributes to international efforts to tackle antimicrobial resistance through increased awareness and improved antibiotic stewardship.\u003c/p\u003e\n\n\u003cp\u003eThe dental \u003cabbr title=\"antimicrobial stewardship\"\u003eAMS\u003c/abbr\u003e toolkit is updated to include the latest antimicrobial prescribing guidance and additional resources.\u003c/p\u003e\n\n\u003ch2 id=\"the-toolkit\"\u003eThe toolkit\u003c/h2\u003e\n\n\u003cp\u003eGuidance has been published by a range of organisations and professional bodies both within dentistry and wider healthcare professionals. These include:\u003c/p\u003e\n\n\u003ch3 id=\"general-dental-council-guidance\"\u003eGeneral Dental Council guidance\u003c/h3\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.gdc-uk.org/standards-guidance/standards-and-guidance/gdc-guidance-for-dental-professionals\" class=\"govuk-link\"\u003eGuidance on Prescribing Medicines\u003c/a\u003e – General Dental Council (\u003cabbr title=\"General Dental Council\"\u003eGDC\u003c/abbr\u003e)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"detailed-prescribing-guidance\"\u003eDetailed prescribing guidance\u003c/h3\u003e\n\n\u003cul\u003e\n  \u003cli\u003eRecommended \u003ca rel=\"external\" href=\"https://cgdent.uk/antimicrobial-prescribing-in-dentistry/\" class=\"govuk-link\"\u003eAntimicrobial Prescribing in Dentistry\u003c/a\u003e – Faculty of General Dental Practitioners (\u003cabbr title=\"Faculty of General Dental Practice\"\u003eFGDP\u003c/abbr\u003e) and Faculty of Dental Surgery (\u003cabbr title=\"Faculty of Dental Surgery\"\u003eFDS\u003c/abbr\u003e) of the Royal College of Surgeons of England\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://bnf.nice.org.uk/medicines-guidance/prescribing-in-dental-practice/\" class=\"govuk-link\"\u003ePrescribing in Dental Practice\u003c/a\u003e – British National Formulary (\u003cabbr title=\"British National Formulary\"\u003eBNF\u003c/abbr\u003e)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.sdcep.org.uk/published-guidance/drug-prescribing/\" class=\"govuk-link\"\u003eDrug Prescribing for Dentistry\u003c/a\u003e – Scottish Dental Clinical Effectiveness Programme\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.nice.org.uk/Guidance/cg64\" class=\"govuk-link\"\u003eProphylaxis against infective endocarditis – National Institute for Health and Care Excellence (\u003cabbr title=\"National Institute for Health and Care Excellence\"\u003eNICE\u003c/abbr\u003e) Clinical Guideline 64\u003c/a\u003e – this is supported by the \u003ca rel=\"external\" href=\"https://www.sdcep.org.uk/published-guidance/antibiotic-prophylaxis/\" class=\"govuk-link\"\u003eImplementation advice for \u003cabbr title=\"National Institute for Health and Care Excellence\"\u003eNICE\u003c/abbr\u003e Clinical Guideline 64 Prophylaxis against infective endocarditis – Scottish Dental Clinical Effectiveness Programme\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"prescribing-guidance-summaries\"\u003ePrescribing guidance summaries\u003c/h3\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://cgdent.uk/antimicrobial-prescribing-in-dentistry/\" class=\"govuk-link\"\u003eChairside synopsis for common conditions – Antimicrobial Prescribing in Dentistry: Good Practice Guidelines\u003c/a\u003e – \u003cabbr title=\"Faculty of Dental Surgery\"\u003eFDS\u003c/abbr\u003e and College of General Dentistry\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/813026/national_pain_relief_poster_including_child_doses_v29.pdf\" class=\"govuk-link\"\u003eNational analgesic advice sheet for dentists\u003c/a\u003e – NHS\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"other-guidance-and-information\"\u003eOther guidance and information\u003c/h3\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.sps.nhs.uk/home/about-sps/get-in-touch/medicines-information-services-contact-details/dental-medicines-advice-service/\" class=\"govuk-link\"\u003eDentists Medicine Advice Service\u003c/a\u003e – NHS Specialist Pharmacy Service\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.lasepharmacy.hee.nhs.uk/pharmacists/dental-factsheets-for-healthcare-practitioners/\" class=\"govuk-link\"\u003eDental factsheets for community pharmacy\u003c/a\u003e – Health Education England\u003c/li\u003e\n  \u003cli\u003e\n\u003ca href=\"https://www.gov.uk/government/publications/the-health-and-social-care-act-2008-code-of-practice-on-the-prevention-and-control-of-infections-and-related-guidance/health-and-social-care-act-2008-code-of-practice-on-the-prevention-and-control-of-infections-and-related-guidance\" class=\"govuk-link\"\u003eHealth and Social Care Act 2008: code of practice on the prevention and control of infections and related guidance\u003c/a\u003e – Department of Health and Social Care\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"education-and-training-tools\"\u003eEducation and training tools\u003c/h3\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.safeprescriber.org/dentistry/\" class=\"govuk-link\"\u003eDental SCRIPT, e-learning for dentists\u003c/a\u003e – Health Education England\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.e-lfh.org.uk/programmes/dentistry/\" class=\"govuk-link\"\u003ee-Den: Dentistry programme e-learning modules\u003c/a\u003e – e-learning for healthcare\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.e-lfh.org.uk/programmes/antimicrobial-resistance-and-infections/\" class=\"govuk-link\"\u003eAntimicrobial resistance: e-learning introductory module\u003c/a\u003e – e-learning for healthcare\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.baos.org.uk/elearning/\" class=\"govuk-link\"\u003eAntimicrobial stewardship: e-learning modules\u003c/a\u003e – British Association of Oral Surgeons\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.futurelearn.com/courses/tackling-antibiotic-resistance-dentists\" class=\"govuk-link\"\u003eTackling Antibiotic Resistance: What Should Dental Teams Do?\u003c/a\u003e – Fédération Dentaire Internationale (\u003cabbr title=\"Fédération Dentaire Internationale\"\u003eFDI\u003c/abbr\u003e) World Dental Federation and British Society for Antimicrobial Chemotherapy\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://bsac-kaw.co.uk/\" class=\"govuk-link\"\u003eKeep Antimicrobials Working: Resources for students and junior practitioners\u003c/a\u003e – British Society for Antimicrobial Chemotherapy, in collaboration with UK Medical Schools\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://theatreofdebate.co.uk/project/from-the-dentists-chair-preview/\" class=\"govuk-link\"\u003eFrom the Dentist’s Chair – a drama about antibiotics\u003c/a\u003e – Theatre of Debate\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"personal-development-plans\"\u003ePersonal development plans\u003c/h3\u003e\n\n\u003ch4 id=\"personal-development-plan-pdp-templates-for-prescribers-and-non-prescribers\"\u003ePersonal development plan (PDP) templates for prescribers and non-prescribers\u003c/h4\u003e\n\n\u003cp\u003eThe personal development plan templates were developed to support \u003cabbr title=\"General Dental Council\"\u003eGDC\u003c/abbr\u003e registrants to include antimicrobial stewardship in their continuing professional development (CDP) plans.\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/65705e95809bc3000d308145/Prescribers_PDP_for_Antimicrobial_Stewardship_and_CPD_activity_log.pdf\"\u003ePDP for prescribers\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e333 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e6 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/65705ee2809bc3000d308147/Non-prescribers_PDP_for_Antimicrobial_Stewardship_and_CPD_activity_log.pdf\"\u003ePDP for non-prescribers\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e256 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e3 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"audit-tool-and-action-planning\"\u003eAudit tool and action planning\u003c/h3\u003e\n\n\u003ch4 id=\"self-audit-tool-for-dental-prescribers\"\u003eSelf-audit tool for dental prescribers\u003c/h4\u003e\n\n\u003cp\u003eThis tool was developed to help dental prescribers complete a clinical audit of their antimicrobial prescribing and management of dental infections. It is available from:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://cgdent.uk/standards-guidance/\" class=\"govuk-link\"\u003eCollege of General Dentistry\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://www.bda.org/what-we-do/campaigns-and-advocacy/priorities/improving-oral-health/antimicrobial-resistance/\" class=\"govuk-link\"\u003eBritish Dental Association\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch4 id=\"dental-hospitals-national-audit-tools\"\u003eDental hospitals national audit tools\u003c/h4\u003e\n\n\u003cp\u003eThese tools were developed to help dental prescribers working in a secondary healthcare setting to complete clinical audit of antibacterial prescribing for outpatient prophylactic prescribing and outpatient therapeutic prescribing.\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/657045fc1104cf000dfa75ba/Dental_Hospitals_National_Audit.docx\"\u003eOutpatient prophylactic (prevent infection) antibacterial prescribing audit tool\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003eMS Word Document\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e30.2 KB\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/657046149462260705c569d6/Dental_Hospitals_National_Audi1.docx\"\u003eOutpatient therapeutic (treat infection) antibacterial prescribing audit tool\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003eMS Word Document\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e37.6 KB\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"antibiotic-guardian-resources\"\u003eAntibiotic guardian resources\u003c/h3\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/65705fe774693000124888de/National_dental_poster_2023_download__1_.pdf\"\u003eAntibiotic guardian poster – full colour, colour, and black and white\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e574 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e3 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.antibioticguardian.com/\" class=\"govuk-link\"\u003eAntibiotic guardian website\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"why-the-toolkit-was-developed\"\u003eWhy the toolkit was developed\u003c/h2\u003e\n\n\u003cp\u003eThe inappropriate use of antibiotics can lead to the development of drug-resistant bacteria. The toolkit aims to help prescribers adopt best practice and promote the responsible use of antibiotics in dental care.\u003c/p\u003e\n\n\u003cp\u003eAn independent review of antimicrobial resistance, the \u003ca rel=\"external\" href=\"https://amr-review.org/Publications.html\" class=\"govuk-link\"\u003eAntimicrobial Resistance (\u003cabbr title=\"Antimicrobial resistance\"\u003eAMR\u003c/abbr\u003e) Review\u003c/a\u003e commissioned by the UK government in 2014 and chaired by Lord Jim O’Neill, analysed the global impact and estimates that a failure to address the problem of antibiotic resistance could result in:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e10 million deaths every year globally by 2050\u003c/li\u003e\n  \u003cli\u003ea cost of £66 trillion ($100 trillion) to the global economy\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eUsing the resources in the dental \u003cabbr title=\"antimicrobial stewardship\"\u003eAMS\u003c/abbr\u003e toolkit can contribute to dental surgeries and practitioners demonstrating compliance with the \u003ca href=\"https://www.gov.uk/government/publications/the-health-and-social-care-act-2008-code-of-practice-on-the-prevention-and-control-of-infections-and-related-guidance\" class=\"govuk-link\"\u003eHealth and Social Care Act 2008: Code of Practice on the prevention and control of infections\u003c/a\u003e and related guidance.\u003c/p\u003e\n\n\u003cp\u003eThe toolkit also supports recommendations made in the \u003cabbr title=\"National Institute for Health and Care Excellence\"\u003eNICE\u003c/abbr\u003e guideline NG15 \u003ca rel=\"external\" href=\"http://www.nice.org.uk/guidance/ng15\" class=\"govuk-link\"\u003eAntimicrobial stewardship: systems and processes for effective antimicrobial medicine use\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eThe latest data on antimicrobial prescribing is published in the \u003ca href=\"https://www.gov.uk/government/publications/english-surveillance-programme-antimicrobial-utilisation-and-resistance-espaur-report\" class=\"govuk-link\"\u003e\u003cabbr title=\"English Surveillance Programme for Antimicrobial Utilisation and Resistance\"\u003eESPAUR\u003c/abbr\u003e report\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"the-espaur-dental-subgroup\"\u003eThe \u003cabbr title=\"English Surveillance Programme for Antimicrobial Utilisation and Resistance\"\u003eESPAUR\u003c/abbr\u003e Dental Subgroup\u003c/h2\u003e\n\n\u003cp\u003eThe Dental Subgroup of \u003cabbr title=\"English Surveillance Programme for Antimicrobial Utilisation and Resistance\"\u003eESPAUR\u003c/abbr\u003e was established in 2015, with the aim of exploring surveillance and improving antimicrobial stewardship through prevention, development of resources, audit and education in the dental sector. The toolkit is based on work originally developed by NHS England Cheshire and Merseyside Local Dental Network.\u003c/p\u003e\n\n\u003cp\u003eIn 2020 there was an increase in prescribing of antibiotics by dental prescribers. This was associated with the restricted access to face-to-face dental services during the COVID-19 pandemic. Although services have been resumed, prescribing has remained higher than pre-pandemic levels.\u003c/p\u003e\n\n\u003cp\u003eThe Dental Subgroup reconvened in 2021 after a break due to the COVID-19 pandemic. The subgroup agreed that the toolkit should be reviewed to ensure it reflects current guidance and that dental teams had access to the most up-to-date resources.\u003c/p\u003e\n\n\u003cp\u003eA multi-organisational task group was set up to update the dental \u003cabbr title=\"antimicrobial stewardship\"\u003eAMS\u003c/abbr\u003e toolkit, with representatives from: \u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eOffice for Health Improvement and Disparities\u003c/li\u003e\n  \u003cli\u003e\u003cabbr title=\"UK Health Security Agency\"\u003eUKHSA\u003c/abbr\u003e\u003c/li\u003e\n  \u003cli\u003eNHS England Workforce Training and Education Directorate (formerly Health Education England)\u003c/li\u003e\n  \u003cli\u003eNHS England\u003c/li\u003e\n  \u003cli\u003eAssociation of Dental Groups\u003c/li\u003e\n  \u003cli\u003eCollege of General Dentistry\u003c/li\u003e\n  \u003cli\u003eBritish Dental Association\u003c/li\u003e\n  \u003cli\u003eAssociation of Clinical Oral Microbiologists\u003c/li\u003e\n  \u003cli\u003eOffice of the Chief Dental Officer\u003c/li\u003e\n  \u003cli\u003eNHS Local Dental Network Chairs\u003c/li\u003e\n  \u003cli\u003eBritish Association for the Study of Community Dentistry\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIn addition to those in the task group, the \u003cabbr title=\"English Surveillance Programme for Antimicrobial Utilisation and Resistance\"\u003eESPAUR\u003c/abbr\u003e Dental Subgroup also includes:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eBritish Association of Dental Nurses\u003c/li\u003e\n  \u003cli\u003eCare Quality Commission\u003c/li\u003e\n  \u003cli\u003e\n\u003cabbr title=\"Faculty of Dental Surgery\"\u003eFDS\u003c/abbr\u003e, Royal College of Surgeons of England\u003c/li\u003e\n  \u003cli\u003eNHS Business Services Authority\u003c/li\u003e\n  \u003cli\u003eAssociation of Dental Hospitals\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Updated toolkit with latest antimicrobial prescribing guidance and resources.",
+                                               "public_timestamp":  "2023-12-19T15:08:29.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Added link to drama video about antibiotic prescribing.",
+                                               "public_timestamp":  "2020-06-03T15:31:18.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added links to antimicrobial stewardship e-modules and guidance on antibiotic prophylaxis against infective endocarditis and drug prescribing for dentistry.",
+                                               "public_timestamp":  "2019-07-16T11:26:30.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added adult and child pain relief poster.",
+                                               "public_timestamp":  "2019-06-28T12:55:05.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added \u0027Delivering better oral health: an evidence based toolkit for prevention\u0027 under guidance.",
+                                               "public_timestamp":  "2016-11-15T16:36:05.000+00:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2016-11-09T00:00:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "80091cd8-7a8f-41ef-8faf-8af91fce4fdb"
+                                                 ],
+                    "first_public_at":  "2016-11-09T00:00:00.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2016-11-09T00:00:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/dental-antimicrobial-stewardship-toolkit",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/dental-antimicrobial-stewardship-toolkit",
+                                                     "base_path":  "/guidance/dental-antimicrobial-stewardship-toolkit",
+                                                     "content_id":  "ebb089db-4254-4570-8744-79a97c6043ee",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2023-12-19T15:08:29Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Dental antimicrobial stewardship: toolkit",
+                                                     "web_url":  "https://www.gov.uk/guidance/dental-antimicrobial-stewardship-toolkit",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/antimicrobial-resistance-amr-information-and-resources",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/antimicrobial-resistance-amr-information-and-resources",
+                                                   "base_path":  "/government/collections/antimicrobial-resistance-amr-information-and-resources",
+                                                   "content_id":  "5f60dbc9-7631-11e4-a3cb-005056011aef",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/dental-antimicrobial-stewardship-toolkit",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/dental-antimicrobial-stewardship-toolkit",
+                                                                                       "base_path":  "/guidance/dental-antimicrobial-stewardship-toolkit",
+                                                                                       "content_id":  "ebb089db-4254-4570-8744-79a97c6043ee",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2023-12-19T15:08:29Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Dental antimicrobial stewardship: toolkit",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/dental-antimicrobial-stewardship-toolkit",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2024-10-15T10:55:58Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Antimicrobial resistance (AMR)",
+                                                   "web_url":  "https://www.gov.uk/government/collections/antimicrobial-resistance-amr-information-and-resources",
+                                                   "withdrawn":  false
+                                               },
+                                               {
+                                                   "api_path":  "/api/content/government/collections/european-antibiotic-awareness-day-resources",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/european-antibiotic-awareness-day-resources",
+                                                   "base_path":  "/government/collections/european-antibiotic-awareness-day-resources",
+                                                   "content_id":  "5eb8fef2-7631-11e4-a3cb-005056011aef",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/dental-antimicrobial-stewardship-toolkit",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/dental-antimicrobial-stewardship-toolkit",
+                                                                                       "base_path":  "/guidance/dental-antimicrobial-stewardship-toolkit",
+                                                                                       "content_id":  "ebb089db-4254-4570-8744-79a97c6043ee",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2023-12-19T15:08:29Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Dental antimicrobial stewardship: toolkit",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/dental-antimicrobial-stewardship-toolkit",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2019-11-19T14:54:27Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Antibiotic awareness resources",
+                                                   "web_url":  "https://www.gov.uk/government/collections/european-antibiotic-awareness-day-resources",
+                                                   "withdrawn":  false
+                                               },
+                                               {
+                                                   "api_path":  "/api/content/government/collections/oral-health",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/oral-health",
+                                                   "base_path":  "/government/collections/oral-health",
+                                                   "content_id":  "3caf72b4-a8b3-42a8-89d2-480acbcca392",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/dental-antimicrobial-stewardship-toolkit",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/dental-antimicrobial-stewardship-toolkit",
+                                                                                       "base_path":  "/guidance/dental-antimicrobial-stewardship-toolkit",
+                                                                                       "content_id":  "ebb089db-4254-4570-8744-79a97c6043ee",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2023-12-19T15:08:29Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Dental antimicrobial stewardship: toolkit",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/dental-antimicrobial-stewardship-toolkit",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2024-11-06T09:30:03Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Oral health",
+                                                   "web_url":  "https://www.gov.uk/government/collections/oral-health",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "EA1328",
+                                            "api_path":  "/api/content/government/organisations/uk-health-security-agency",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/uk-health-security-agency",
+                                            "base_path":  "/government/organisations/uk-health-security-agency",
+                                            "content_id":  "80091cd8-7a8f-41ef-8faf-8af91fce4fdb",
+                                            "details":  {
+                                                            "acronym":  "UKHSA",
+                                                            "brand":  "department-of-health",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/674de56feb52380f5456af9f/s960_News_logo.png",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/674de56f20e5fc28f0a59fbb/s300_News_logo.png"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "UK Health\u003cbr/\u003eSecurity\u003cbr/\u003eAgency"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "UK Health Security Agency",
+                                            "web_url":  "https://www.gov.uk/government/organisations/uk-health-security-agency",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA480",
+                                                                       "api_path":  "/api/content/government/organisations/public-health-england",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/public-health-england",
+                                                                       "base_path":  "/government/organisations/public-health-england",
+                                                                       "content_id":  "1343f283-19e9-4fbb-86b1-58c7549d874b",
+                                                                       "details":  {
+                                                                                       "acronym":  "PHE",
+                                                                                       "brand":  "department-of-health",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db2de5274a7908e352ef/s960_sign5.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5a37db2d40f0b649cceb18bf/s300_sign5.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Public Health \u003cbr/\u003eEngland"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "split",
+                                                                                                                         "updated_at":  "2021-10-01T00:00:00.000+01:00",
+                                                                                                                         "url":  "https://www.gov.uk/phe"
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Public Health England",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/public-health-england",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "EA1328",
+                                                              "api_path":  "/api/content/government/organisations/uk-health-security-agency",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/uk-health-security-agency",
+                                                              "base_path":  "/government/organisations/uk-health-security-agency",
+                                                              "content_id":  "80091cd8-7a8f-41ef-8faf-8af91fce4fdb",
+                                                              "details":  {
+                                                                              "acronym":  "UKHSA",
+                                                                              "brand":  "department-of-health",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/674de56feb52380f5456af9f/s960_News_logo.png",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/674de56f20e5fc28f0a59fbb/s300_News_logo.png"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "UK Health\u003cbr/\u003eSecurity\u003cbr/\u003eAgency"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "UK Health Security Agency",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/uk-health-security-agency",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/delivering-better-oral-health-an-evidence-based-toolkit-for-prevention",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/delivering-better-oral-health-an-evidence-based-toolkit-for-prevention",
+                                                              "base_path":  "/government/publications/delivering-better-oral-health-an-evidence-based-toolkit-for-prevention",
+                                                              "content_id":  "5f631cad-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-11-09T09:27:56Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Delivering better oral health: an evidence-based toolkit for prevention",
+                                                              "web_url":  "https://www.gov.uk/government/publications/delivering-better-oral-health-an-evidence-based-toolkit-for-prevention",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/improving-oral-health-an-evidence-informed-toolkit-for-local-authorities",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/improving-oral-health-an-evidence-informed-toolkit-for-local-authorities",
+                                                              "base_path":  "/government/publications/improving-oral-health-an-evidence-informed-toolkit-for-local-authorities",
+                                                              "content_id":  "5f657e90-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2014-06-19T10:41:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Improving oral health: an evidence-informed toolkit for local authorities",
+                                                              "web_url":  "https://www.gov.uk/government/publications/improving-oral-health-an-evidence-informed-toolkit-for-local-authorities",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/improving-oral-health-guideline-development-manual",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/improving-oral-health-guideline-development-manual",
+                                                              "base_path":  "/government/publications/improving-oral-health-guideline-development-manual",
+                                                              "content_id":  "46d46d9e-2bf6-4e53-984e-16f4f6df313b",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-01-08T09:30:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Improving oral health: guideline development manual",
+                                                              "web_url":  "https://www.gov.uk/government/publications/improving-oral-health-guideline-development-manual",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/case-studies/smile4life-in-north-west-england",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/case-studies/smile4life-in-north-west-england",
+                                                              "base_path":  "/government/case-studies/smile4life-in-north-west-england",
+                                                              "content_id":  "052179e4-4a96-4602-a8e8-ba22ce14d7aa",
+                                                              "document_type":  "case_study",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2017-06-13T23:15:09Z",
+                                                              "schema_name":  "case_study",
+                                                              "title":  "Smile4Life in north west England",
+                                                              "web_url":  "https://www.gov.uk/government/case-studies/smile4life-in-north-west-england",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/improving-oral-health-supervised-tooth-brushing-programme-toolkit",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/improving-oral-health-supervised-tooth-brushing-programme-toolkit",
+                                                              "base_path":  "/government/publications/improving-oral-health-supervised-tooth-brushing-programme-toolkit",
+                                                              "content_id":  "0a7bfaad-eb0a-4e41-8f5b-f2825a463054",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2016-12-06T09:30:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Improving oral health: supervised tooth brushing programme toolkit",
+                                                              "web_url":  "https://www.gov.uk/government/publications/improving-oral-health-supervised-tooth-brushing-programme-toolkit",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/health-and-social-care/dentistry",
+                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care/dentistry",
+                                     "base_path":  "/health-and-social-care/dentistry",
+                                     "content_id":  "be716909-efa9-4c86-a084-6461595aea68",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Dentistry",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/health-and-social-care/public-health",
+                                                                             "api_url":  "https://www.gov.uk/api/content/health-and-social-care/public-health",
+                                                                             "base_path":  "/health-and-social-care/public-health",
+                                                                             "content_id":  "d6a4884e-769d-4b81-8ba5-b64394362d92",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Public health",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/health-and-social-care",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care",
+                                                                                                                     "base_path":  "/health-and-social-care",
+                                                                                                                     "content_id":  "8124ead8-8ebc-4faf-88ad-dd5cbcc92ba8",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Health and social care",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:30:51Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Health and social care",
+                                                                                                                     "web_url":  "https://www.gov.uk/health-and-social-care",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-17T15:15:14Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Public health",
+                                                                             "web_url":  "https://www.gov.uk/health-and-social-care/public-health",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-10-05T10:36:48Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Dentistry ",
+                                     "web_url":  "https://www.gov.uk/health-and-social-care/dentistry",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/health-and-social-care/oral-health",
+                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care/oral-health",
+                                     "base_path":  "/health-and-social-care/oral-health",
+                                     "content_id":  "1fb9f6f4-973c-4279-8310-2655fe339e1f",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Oral health",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/health-and-social-care/health-improvement",
+                                                                             "api_url":  "https://www.gov.uk/api/content/health-and-social-care/health-improvement",
+                                                                             "base_path":  "/health-and-social-care/health-improvement",
+                                                                             "content_id":  "42350cb9-f4ab-4e4c-abfb-b5662f3d14f4",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Health improvement",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/health-and-social-care/public-health",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care/public-health",
+                                                                                                                     "base_path":  "/health-and-social-care/public-health",
+                                                                                                                     "content_id":  "d6a4884e-769d-4b81-8ba5-b64394362d92",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Public health",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  false
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "parent_taxons":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-17T15:15:14Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Public health",
+                                                                                                                     "web_url":  "https://www.gov.uk/health-and-social-care/public-health",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-17T15:16:49Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Health improvement",
+                                                                             "web_url":  "https://www.gov.uk/health-and-social-care/health-improvement",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2019-01-02T13:16:48Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Oral health",
+                                     "web_url":  "https://www.gov.uk/health-and-social-care/oral-health",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2023-12-19T15:08:29+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1713907452.240-10.13.33.117-628",
+    "publishing_scheduled_at":  "2019-07-12T09:30:00+01:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  1,
+    "schema_name":  "detailed_guide",
+    "title":  "Dental antimicrobial stewardship: toolkit",
+    "updated_at":  "2024-12-18T09:41:47+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

@@ -1,0 +1,122 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/government/people/baroness-anderson-of-stoke-on-trent",
+    "content_id":  "96774ebc-23e6-4432-952f-7c7532557f73",
+    "description":  "Baroness Anderson of Stoke-on-Trent was appointed Baroness in Waiting (Government Whip) on 11 July 2024.",
+    "details":  {
+                    "body":  "\u003cp\u003eBaroness Anderson of Stoke-on-Trent was appointed Baroness in Waiting (Government Whip) on 11 July 2024.\u003c/p\u003e\n",
+                    "full_name":  "Baroness Anderson of Stoke-on-Trent",
+                    "image":  {
+                                  "alt_text":  "Baroness Anderson of Stoke-on-Trent",
+                                  "url":  "https://assets.publishing.service.gov.uk/media/668fa8aece1fd0da7b59237e/s465_Baroness_Anderson_of_Stoke-on-Trent.jpeg"
+                              },
+                    "privy_counsellor":  false
+                },
+    "document_type":  "person",
+    "first_published_at":  "2024-07-11T10:41:02+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/government/people/baroness-anderson-of-stoke-on-trent",
+                                                     "api_url":  "https://www.gov.uk/api/content/government/people/baroness-anderson-of-stoke-on-trent",
+                                                     "base_path":  "/government/people/baroness-anderson-of-stoke-on-trent",
+                                                     "content_id":  "96774ebc-23e6-4432-952f-7c7532557f73",
+                                                     "document_type":  "person",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2024-07-11T09:41:01Z",
+                                                     "schema_name":  "person",
+                                                     "title":  "Baroness Anderson of Stoke-on-Trent",
+                                                     "web_url":  "https://www.gov.uk/government/people/baroness-anderson-of-stoke-on-trent",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "role_appointments":  [
+                                            {
+                                                "content_id":  "2ee432af-3c8e-4e4b-b8b7-12fd40941cdb",
+                                                "details":  {
+                                                                "current":  true,
+                                                                "ended_on":  null,
+                                                                "person_appointment_order":  1,
+                                                                "started_on":  "2024-07-11T00:00:00+01:00"
+                                                            },
+                                                "document_type":  "role_appointment",
+                                                "links":  {
+                                                              "person":  [
+                                                                             {
+                                                                                 "api_path":  "/api/content/government/people/baroness-anderson-of-stoke-on-trent",
+                                                                                 "api_url":  "https://www.gov.uk/api/content/government/people/baroness-anderson-of-stoke-on-trent",
+                                                                                 "base_path":  "/government/people/baroness-anderson-of-stoke-on-trent",
+                                                                                 "content_id":  "96774ebc-23e6-4432-952f-7c7532557f73",
+                                                                                 "details":  {
+                                                                                                 "body":  "\u003cp\u003eBaroness Anderson of Stoke-on-Trent was appointed Baroness in Waiting (Government Whip) on 11 July 2024.\u003c/p\u003e\n",
+                                                                                                 "image":  {
+                                                                                                               "alt_text":  "Baroness Anderson of Stoke-on-Trent",
+                                                                                                               "url":  "https://assets.publishing.service.gov.uk/media/668fa8aece1fd0da7b59237e/s465_Baroness_Anderson_of_Stoke-on-Trent.jpeg"
+                                                                                                           }
+                                                                                             },
+                                                                                 "document_type":  "person",
+                                                                                 "links":  {
+
+                                                                                           },
+                                                                                 "locale":  "en",
+                                                                                 "public_updated_at":  "2024-07-11T09:41:01Z",
+                                                                                 "schema_name":  "person",
+                                                                                 "title":  "Baroness Anderson of Stoke-on-Trent",
+                                                                                 "web_url":  "https://www.gov.uk/government/people/baroness-anderson-of-stoke-on-trent",
+                                                                                 "withdrawn":  false
+                                                                             }
+                                                                         ],
+                                                              "role":  [
+                                                                           {
+                                                                               "api_path":  "/api/content/government/ministers/baroness-in-waiting-government-whip--12",
+                                                                               "api_url":  "https://www.gov.uk/api/content/government/ministers/baroness-in-waiting-government-whip--12",
+                                                                               "base_path":  "/government/ministers/baroness-in-waiting-government-whip--12",
+                                                                               "content_id":  "c46d0854-3ad1-4f7a-aef8-019e0c2234e1",
+                                                                               "details":  {
+                                                                                               "body":  "\n",
+                                                                                               "role_payment_type":  null,
+                                                                                               "seniority":  100,
+                                                                                               "whip_organisation":  {
+                                                                                                                         "label":  "Baronesses and Lords in Waiting",
+                                                                                                                         "sort_order":  5
+                                                                                                                     }
+                                                                                           },
+                                                                               "document_type":  "ministerial_role",
+                                                                               "links":  {
+
+                                                                                         },
+                                                                               "locale":  "en",
+                                                                               "public_updated_at":  "2024-07-11T09:42:03Z",
+                                                                               "schema_name":  "role",
+                                                                               "title":  "Baroness in Waiting (Government Whip) ",
+                                                                               "web_url":  "https://www.gov.uk/government/ministers/baroness-in-waiting-government-whip--12",
+                                                                               "withdrawn":  false
+                                                                           }
+                                                                       ]
+                                                          },
+                                                "locale":  "en",
+                                                "public_updated_at":  "2024-07-11T09:42:25Z",
+                                                "schema_name":  "role_appointment",
+                                                "title":  "Baroness Anderson of Stoke-on-Trent - Baroness in Waiting (Government Whip) ",
+                                                "withdrawn":  false
+                                            }
+                                        ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2024-07-11T10:41:01+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1720690354.619-10.13.20.209-15696",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "collections",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "person",
+    "title":  "Baroness Anderson of Stoke-on-Trent",
+    "updated_at":  "2024-07-11T10:42:26+01:00",
+    "withdrawn_notice":  {
+
+                         }
+}

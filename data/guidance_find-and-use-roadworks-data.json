@@ -1,0 +1,343 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/find-and-use-roadworks-data",
+    "content_id":  "ab1fa43d-c298-43f0-b3d6-640a2b7aab02",
+    "description":  "Find and use roadworks data for England.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eThe roadworks service (as know as ‘Street Manager’) provides data for England on every:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eutility street work\u003c/li\u003e\n  \u003cli\u003elocal highway authority road work\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThis \u003ca href=\"https://www.gov.uk/guidance/plan-and-manage-roadworks\" class=\"govuk-link\"\u003edata is added by utility companies and highway authorities, which requires separate registration\u003c/a\u003e, and is available via an \u003cabbr title=\"Application Programming Interface\"\u003eAPI\u003c/abbr\u003e (Application Programming Interface).\u003c/p\u003e\n\n\u003ch2 id=\"roadworks-service-api\"\u003eRoadworks service \u003cabbr title=\"Application Programming Interface\"\u003eAPI\u003c/abbr\u003e\n\u003c/h2\u003e\n\n\u003ch3 id=\"create-an-api-account\"\u003eCreate an \u003cabbr title=\"Application Programming Interface\"\u003eAPI\u003c/abbr\u003e account\u003c/h3\u003e\n\n\u003cp\u003eYou need to create an account to access the roadworks \u003cabbr title=\"Application Programming Interface\"\u003eAPI\u003c/abbr\u003e service. To do this you must register for the service supplying your:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003efirst and last name\u003c/li\u003e\n  \u003cli\u003eorganisation name\u003c/li\u003e\n  \u003cli\u003econtact email\u003c/li\u003e\n  \u003cli\u003econtact telephone number\u003c/li\u003e\n  \u003cli\u003e\n\u003cabbr title=\"Application Programming Interface\"\u003eAPI\u003c/abbr\u003e end point that you wish to receive data on\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003e\u003ca class=\"gem-c-button govuk-button\" role=\"button\" draggable=\"false\" href=\"https://www.manage-roadworks.service.gov.uk/open-data-onboarding\"\u003eCreate an API account \u0026gt;\u003c/a\u003e\u003c/p\u003e\n\n\u003ch3 id=\"accessing-data-via-the-api\"\u003eAccessing data via the \u003cabbr title=\"Application Programming Interface\"\u003eAPI\u003c/abbr\u003e\n\u003c/h3\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://department-for-transport-streetmanager.github.io/street-manager-docs/\" class=\"govuk-link\"\u003eGreater information on design and abilities of the \u003cabbr title=\"Application Programming Interface\"\u003eAPI\u003c/abbr\u003e\u003c/a\u003e is available.\u003c/p\u003e\n\n\u003cp\u003eThe \u003cabbr title=\"Application Programming Interface\"\u003eAPI\u003c/abbr\u003e supplies data on:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003epermits via:\n    \u003cul\u003e\n      \u003cli\u003eevent_reference\u003c/li\u003e\n      \u003cli\u003eevent_type\u003c/li\u003e\n      \u003cli\u003ework_reference_number\u003c/li\u003e\n      \u003cli\u003epermit_reference_number\u003c/li\u003e\n      \u003cli\u003epromoter_swa_code\u003c/li\u003e\n      \u003cli\u003epromoter_organisation\u003c/li\u003e\n      \u003cli\u003ehighway_authority\u003c/li\u003e\n      \u003cli\u003eworks_location_coordinates\u003c/li\u003e\n      \u003cli\u003estreet_name\u003c/li\u003e\n      \u003cli\u003earea_name\u003c/li\u003e\n      \u003cli\u003ework_category\u003c/li\u003e\n      \u003cli\u003etraffic_management_type\u003c/li\u003e\n      \u003cli\u003eproposed_start_date\u003c/li\u003e\n      \u003cli\u003eproposed_start_time\u003c/li\u003e\n      \u003cli\u003eproposed_end_date\u003c/li\u003e\n      \u003cli\u003eproposed_end_time\u003c/li\u003e\n      \u003cli\u003eactual_start_date_time\u003c/li\u003e\n      \u003cli\u003eactual_end_date_time\u003c/li\u003e\n      \u003cli\u003ework_status\u003c/li\u003e\n      \u003cli\u003eusrn\u003c/li\u003e\n      \u003cli\u003ehighway_authority_swa_code\u003c/li\u003e\n      \u003cli\u003ework_category_ref\u003c/li\u003e\n      \u003cli\u003etraffic_management_type_ref\u003c/li\u003e\n      \u003cli\u003ework_status_ref\u003c/li\u003e\n      \u003cli\u003eactivity_type\u003c/li\u003e\n      \u003cli\u003eis_ttro_required\u003c/li\u003e\n      \u003cli\u003eis_covid_19_response\u003c/li\u003e\n      \u003cli\u003eworks_location_type\u003c/li\u003e\n      \u003cli\u003eevent_time\u003c/li\u003e\n      \u003cli\u003eobject_type\u003c/li\u003e\n      \u003cli\u003eobject_reference\u003c/li\u003e\n      \u003cli\u003eversion\u003c/li\u003e\n    \u003c/ul\u003e\n  \u003c/li\u003e\n  \u003cli\u003eactivities via:\n    \u003cul\u003e\n      \u003cli\u003eevent_reference\u003c/li\u003e\n      \u003cli\u003eevent_type\u003c/li\u003e\n      \u003cli\u003eactivity_reference_number\u003c/li\u003e\n      \u003cli\u003eusrn\u003c/li\u003e\n      \u003cli\u003estreet_name\u003c/li\u003e\n      \u003cli\u003earea_name\u003c/li\u003e\n      \u003cli\u003etown\u003c/li\u003e\n      \u003cli\u003eroad_category\u003c/li\u003e\n      \u003cli\u003eactivity_coordinates\u003c/li\u003e\n      \u003cli\u003eactivity_name\u003c/li\u003e\n      \u003cli\u003eactivity_type\u003c/li\u003e\n      \u003cli\u003estart_date\u003c/li\u003e\n      \u003cli\u003estart_time\u003c/li\u003e\n      \u003cli\u003eend_date\u003c/li\u003e\n      \u003cli\u003eend_time\u003c/li\u003e\n      \u003cli\u003eactivity_location_type\u003c/li\u003e\n      \u003cli\u003etraffic_management_required\u003c/li\u003e\n      \u003cli\u003etraffic_management_type\u003c/li\u003e\n      \u003cli\u003ecollaborative_working\u003c/li\u003e\n      \u003cli\u003ecancelled\u003c/li\u003e\n      \u003cli\u003ehighway_authority_swa_code\u003c/li\u003e\n      \u003cli\u003ehighway_authority\u003c/li\u003e\n      \u003cli\u003eevent_time\u003c/li\u003e\n      \u003cli\u003eobject_type\u003c/li\u003e\n      \u003cli\u003eobject_reference\u003c/li\u003e\n      \u003cli\u003eversion\u003c/li\u003e\n    \u003c/ul\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Information on accessing permits and activities data added.",
+                                               "public_timestamp":  "2020-09-25T09:00:07.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2020-07-01T10:05:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "4c717efc-f47b-478e-a76d-ce1ae0af1946"
+                                                 ],
+                    "first_public_at":  "2020-07-01T10:05:00.000+01:00",
+                    "national_applicability":  {
+                                                   "england":  {
+                                                                   "applicable":  true,
+                                                                   "label":  "England"
+                                                               },
+                                                   "northern_ireland":  {
+                                                                            "alternative_url":  "",
+                                                                            "applicable":  false,
+                                                                            "label":  "Northern Ireland"
+                                                                        },
+                                                   "scotland":  {
+                                                                    "alternative_url":  "",
+                                                                    "applicable":  false,
+                                                                    "label":  "Scotland"
+                                                                },
+                                                   "wales":  {
+                                                                 "alternative_url":  "",
+                                                                 "applicable":  false,
+                                                                 "label":  "Wales"
+                                                             }
+                                               },
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2020-07-01T10:05:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/find-and-use-roadworks-data",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/find-and-use-roadworks-data",
+                                                     "base_path":  "/guidance/find-and-use-roadworks-data",
+                                                     "content_id":  "ab1fa43d-c298-43f0-b3d6-640a2b7aab02",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2020-09-25T08:00:07Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Find and use roadworks data",
+                                                     "web_url":  "https://www.gov.uk/guidance/find-and-use-roadworks-data",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D9",
+                                            "api_path":  "/api/content/government/organisations/department-for-transport",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-transport",
+                                            "base_path":  "/government/organisations/department-for-transport",
+                                            "content_id":  "4c717efc-f47b-478e-a76d-ce1ae0af1946",
+                                            "details":  {
+                                                            "acronym":  "DfT",
+                                                            "brand":  "department-for-transport",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/654bbccfe2e16a000d42abe1/s960_dft-gmh-960.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/654bbccfe70413000dfc4a51/s300_dft-gmh-960.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Department\u003cbr/\u003efor Transport"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Department for Transport",
+                                            "web_url":  "https://www.gov.uk/government/organisations/department-for-transport",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "D9",
+                                                                       "api_path":  "/api/content/government/organisations/department-for-transport",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-transport",
+                                                                       "base_path":  "/government/organisations/department-for-transport",
+                                                                       "content_id":  "4c717efc-f47b-478e-a76d-ce1ae0af1946",
+                                                                       "details":  {
+                                                                                       "acronym":  "DfT",
+                                                                                       "brand":  "department-for-transport",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/654bbccfe2e16a000d42abe1/s960_dft-gmh-960.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/654bbccfe70413000dfc4a51/s300_dft-gmh-960.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Department\u003cbr/\u003efor Transport"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Department for Transport",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/department-for-transport",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D9",
+                                                              "api_path":  "/api/content/government/organisations/department-for-transport",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-transport",
+                                                              "base_path":  "/government/organisations/department-for-transport",
+                                                              "content_id":  "4c717efc-f47b-478e-a76d-ce1ae0af1946",
+                                                              "details":  {
+                                                                              "acronym":  "DfT",
+                                                                              "brand":  "department-for-transport",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/654bbccfe2e16a000d42abe1/s960_dft-gmh-960.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/654bbccfe70413000dfc4a51/s300_dft-gmh-960.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Department\u003cbr/\u003efor Transport"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Department for Transport",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/department-for-transport",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/plan-and-manage-roadworks",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/plan-and-manage-roadworks",
+                                                              "base_path":  "/guidance/plan-and-manage-roadworks",
+                                                              "content_id":  "bbcf6ba0-02b8-4407-a176-5c5c8b07126e",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2019-11-01T08:00:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Plan and manage roadworks",
+                                                              "web_url":  "https://www.gov.uk/guidance/plan-and-manage-roadworks",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/street-works-permit-schemes-conditions",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/street-works-permit-schemes-conditions",
+                                                              "base_path":  "/government/publications/street-works-permit-schemes-conditions",
+                                                              "content_id":  "a9292f3a-56e0-4712-adf5-83c920d0bf63",
+                                                              "document_type":  "statutory_guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2023-03-30T23:15:02Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Street works permit schemes conditions",
+                                                              "web_url":  "https://www.gov.uk/government/publications/street-works-permit-schemes-conditions",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/street-works-register",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/street-works-register",
+                                                              "base_path":  "/government/publications/street-works-register",
+                                                              "content_id":  "5c7b319e-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2018-02-16T00:15:29Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Street Works Act codes",
+                                                              "web_url":  "https://www.gov.uk/government/publications/street-works-register",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/transport/road-works-and-streetworks",
+                                     "api_url":  "https://www.gov.uk/api/content/transport/road-works-and-streetworks",
+                                     "base_path":  "/transport/road-works-and-streetworks",
+                                     "content_id":  "f37542ca-a728-42dc-aaa2-801b03daba33",
+                                     "description":  "Advice and regulations for undertaking road works, street works and road closures.",
+                                     "details":  {
+                                                     "internal_name":  "Road works and street works",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/transport/road-infrastructure",
+                                                                             "api_url":  "https://www.gov.uk/api/content/transport/road-infrastructure",
+                                                                             "base_path":  "/transport/road-infrastructure",
+                                                                             "content_id":  "95202728-fb55-4aac-a53e-6a8f1553348a",
+                                                                             "description":  "Operation of the road network including speed limits, signage and road signs.",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Road infrastructure",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/transport",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/transport",
+                                                                                                                     "base_path":  "/transport",
+                                                                                                                     "content_id":  "a4038b29-b332-4f13-98b1-1c9709e216bc",
+                                                                                                                     "description":  "Aviation, roads, rail, maritime, driving, freight, public transport, safety, environment and transport accessibility.",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Transport",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-06-15T14:31:46Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Transport",
+                                                                                                                     "web_url":  "https://www.gov.uk/transport",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-06-14T09:27:16Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Road infrastructure",
+                                                                             "web_url":  "https://www.gov.uk/transport/road-infrastructure",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-06-14T09:27:17Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Road works and street works",
+                                     "web_url":  "https://www.gov.uk/transport/road-works-and-streetworks",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2020-09-25T09:00:07+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "1036-1641308384.364-10.13.1.114-2156",
+    "publishing_scheduled_at":  "2020-09-25T09:00:00+01:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  7,
+    "schema_name":  "detailed_guide",
+    "title":  "Find and use roadworks data",
+    "updated_at":  "2024-12-04T09:57:59+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

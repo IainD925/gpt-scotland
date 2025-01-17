@@ -1,0 +1,463 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/find-a-registered-building-control-approver-in-england",
+    "content_id":  "9c36bc90-5688-4d97-82ff-39b6f047080e",
+    "description":  "Find details of a building control approver listed on the register of building control approvers (RBCAs) for England.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eAll private sector businesses that want to do building control work in England and Wales under the Building Act 1984 (as amended) must be registered with the Building Safety Regulator (\u003cabbr title=\"Building Safety Regulator\"\u003eBSR\u003c/abbr\u003e).\u003c/p\u003e\n\n\u003cp\u003eThe register shows:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ename and address of the \u003cabbr title=\"Registered building control approver\"\u003eRBCA\u003c/abbr\u003e\n\u003c/li\u003e\n  \u003cli\u003eregistration number\u003c/li\u003e\n  \u003cli\u003etype of building control work the \u003cabbr title=\"Registered building control approver\"\u003eRBCA\u003c/abbr\u003e is registered to do\u003c/li\u003e\n  \u003cli\u003estart and end date of registration\u003c/li\u003e\n  \u003cli\u003edetails of any conditions of registration\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cdiv role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\"\u003e\n\u003cp\u003eThere is a different \u003ca rel=\"external\" href=\"https://www.find-a-building-control-approver.service.gov.uk/public-register-wales\" class=\"govuk-link\"\u003eregister of building control approvers for Wales\u003c/a\u003e.\u003c/p\u003e\n\u003c/div\u003e\n\n\u003ch2 id=\"search-the-register\"\u003eSearch the register\u003c/h2\u003e\n\n\u003cp\u003eYou can search by name or browse all registered building control approvers.\u003c/p\u003e\n\n\u003cp\u003e\u003ca class=\"gem-c-button govuk-button govuk-button--start\" role=\"button\" data-module=\"govuk-button\" data-ga4-attributes=\u0027{\"type\":\"start button\"}\u0027 draggable=\"false\" href=\"https://www.find-a-building-control-approver.service.gov.uk/public-register-england\"\u003e\u003cspan\u003e Search \u003c/span\u003e\u003csvg class=\"govuk-button__start-icon govuk-!-display-none-print\" xmlns=\"http://www.w3.org/2000/svg\" width=\"17.5\" height=\"19\" viewbox=\"0 0 33 40\" focusable=\"false\" aria-hidden=\"true\"\u003e\u003cpath fill=\"currentColor\" d=\"M0 0h13l20 20-20 20H0l20-20z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/p\u003e\n\n\u003ch2 id=\"how-to-register-as-a-building-control-approver\"\u003eHow to register as a building control approver\u003c/h2\u003e\n\n\u003cp\u003eTo \u003ca href=\"https://www.gov.uk/guidance/register-your-business-as-a-building-control-approver\" class=\"govuk-link\"\u003eregister as a building control approver\u003c/a\u003e call \u003cabbr title=\"Building Safety Regulator\"\u003eBSR\u003c/abbr\u003e on 0300 790 6787. Standard \u003ca href=\"https://www.gov.uk/call-charges\" class=\"govuk-link\"\u003ecall rates\u003c/a\u003e will apply.\u003c/p\u003e\n\n\u003ch2 id=\"get-help-using-the-register\"\u003eGet help using the register\u003c/h2\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/contact-the-building-safety-regulator\" class=\"govuk-link\"\u003eContact \u003cabbr title=\"Building Safety Regulator\"\u003eBSR\u003c/abbr\u003e\u003c/a\u003e if you need help with the building control approver register.\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2024-05-09T09:17:10.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "5416838d-cdd3-4172-94db-caafd966fdf3"
+                                                 ],
+                    "first_public_at":  "2024-05-09T09:17:10.000+01:00",
+                    "national_applicability":  {
+                                                   "england":  {
+                                                                   "applicable":  true,
+                                                                   "label":  "England"
+                                                               },
+                                                   "northern_ireland":  {
+                                                                            "alternative_url":  "",
+                                                                            "applicable":  false,
+                                                                            "label":  "Northern Ireland"
+                                                                        },
+                                                   "scotland":  {
+                                                                    "alternative_url":  "",
+                                                                    "applicable":  false,
+                                                                    "label":  "Scotland"
+                                                                },
+                                                   "wales":  {
+                                                                 "alternative_url":  "https://www.find-a-building-control-approver.service.gov.uk/public-register-wales",
+                                                                 "applicable":  false,
+                                                                 "label":  "Wales"
+                                                             }
+                                               },
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2024-05-09T09:17:10+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/find-a-registered-building-control-approver-in-england",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/find-a-registered-building-control-approver-in-england",
+                                                     "base_path":  "/guidance/find-a-registered-building-control-approver-in-england",
+                                                     "content_id":  "9c36bc90-5688-4d97-82ff-39b6f047080e",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2024-05-09T08:17:10Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Find a registered building control approver in England",
+                                                     "web_url":  "https://www.gov.uk/guidance/find-a-registered-building-control-approver-in-england",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/building-control-bodies-and-registered-building-inspectors",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/building-control-bodies-and-registered-building-inspectors",
+                                                   "base_path":  "/government/collections/building-control-bodies-and-registered-building-inspectors",
+                                                   "content_id":  "7b4e4c00-c495-4651-863c-7d2a03ed5bf2",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/find-a-registered-building-control-approver-in-england",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/find-a-registered-building-control-approver-in-england",
+                                                                                       "base_path":  "/guidance/find-a-registered-building-control-approver-in-england",
+                                                                                       "content_id":  "9c36bc90-5688-4d97-82ff-39b6f047080e",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2024-05-09T08:17:10Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Find a registered building control approver in England",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/find-a-registered-building-control-approver-in-england",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2024-10-21T07:36:49Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Building control bodies and registered building inspectors",
+                                                   "web_url":  "https://www.gov.uk/government/collections/building-control-bodies-and-registered-building-inspectors",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "PB207",
+                                            "api_path":  "/api/content/government/organisations/health-and-safety-executive",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/health-and-safety-executive",
+                                            "base_path":  "/government/organisations/health-and-safety-executive",
+                                            "content_id":  "5416838d-cdd3-4172-94db-caafd966fdf3",
+                                            "details":  {
+                                                            "acronym":  "HSE",
+                                                            "brand":  "department-for-work-pensions",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "formatted_title":  "Health and Safety\u003cbr/\u003eExecutive"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "exempt",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  "http://www.hse.gov.uk/"
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Health and Safety Executive",
+                                            "web_url":  "https://www.gov.uk/government/organisations/health-and-safety-executive",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "PB207",
+                                                                       "api_path":  "/api/content/government/organisations/health-and-safety-executive",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/health-and-safety-executive",
+                                                                       "base_path":  "/government/organisations/health-and-safety-executive",
+                                                                       "content_id":  "5416838d-cdd3-4172-94db-caafd966fdf3",
+                                                                       "details":  {
+                                                                                       "acronym":  "HSE",
+                                                                                       "brand":  "department-for-work-pensions",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "formatted_title":  "Health and Safety\u003cbr/\u003eExecutive"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "exempt",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  "http://www.hse.gov.uk/"
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Health and Safety Executive",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/health-and-safety-executive",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "PB207",
+                                                              "api_path":  "/api/content/government/organisations/health-and-safety-executive",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/health-and-safety-executive",
+                                                              "base_path":  "/government/organisations/health-and-safety-executive",
+                                                              "content_id":  "5416838d-cdd3-4172-94db-caafd966fdf3",
+                                                              "details":  {
+                                                                              "acronym":  "HSE",
+                                                                              "brand":  "department-for-work-pensions",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "formatted_title":  "Health and Safety\u003cbr/\u003eExecutive"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "exempt",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  "http://www.hse.gov.uk/"
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Health and Safety Executive",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/health-and-safety-executive",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related_guides":  [
+                                         {
+                                             "api_path":  "/api/content/guidance/register-your-business-as-a-building-control-approver",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/register-your-business-as-a-building-control-approver",
+                                             "base_path":  "/guidance/register-your-business-as-a-building-control-approver",
+                                             "content_id":  "f45de9c2-ddb2-4f71-9dd8-e26770257e17",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2024-09-20T09:46:18Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Register your business as a building control approver",
+                                             "web_url":  "https://www.gov.uk/guidance/register-your-business-as-a-building-control-approver",
+                                             "withdrawn":  false
+                                         }
+                                     ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/housing-local-and-community/building-regulation",
+                                     "api_url":  "https://www.gov.uk/api/content/housing-local-and-community/building-regulation",
+                                     "base_path":  "/housing-local-and-community/building-regulation",
+                                     "content_id":  "91486f5f-37b0-401a-8e16-22be5dd1a6e9",
+                                     "details":  {
+                                                     "internal_name":  "Building regulation [P] (level 3, housing theme)",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/housing-local-and-community/planning-and-building",
+                                                                             "api_url":  "https://www.gov.uk/api/content/housing-local-and-community/planning-and-building",
+                                                                             "base_path":  "/housing-local-and-community/planning-and-building",
+                                                                             "content_id":  "e3147d4f-4bd5-4a14-a386-4ba7ccb058b4",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Planning and building (merged, level 2)",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/housing-local-and-community",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/housing-local-and-community",
+                                                                                                                     "base_path":  "/housing-local-and-community",
+                                                                                                                     "content_id":  "4794066e-e3cc-425e-8cc4-e7ff3edb4c39",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Housing, local and community",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:32:02Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Housing, local and community",
+                                                                                                                     "web_url":  "https://www.gov.uk/housing-local-and-community",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-08-24T11:05:58Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Planning and building",
+                                                                             "web_url":  "https://www.gov.uk/housing-local-and-community/planning-and-building",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-08-22T12:54:44Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Building regulation",
+                                     "web_url":  "https://www.gov.uk/housing-local-and-community/building-regulation",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/housing-local-and-community/housing-design-and-sustainability",
+                                     "api_url":  "https://www.gov.uk/api/content/housing-local-and-community/housing-design-and-sustainability",
+                                     "base_path":  "/housing-local-and-community/housing-design-and-sustainability",
+                                     "content_id":  "d5c58fc7-dc3f-4142-a337-039d244b6105",
+                                     "details":  {
+                                                     "internal_name":  "Housing design and sustainability [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/housing-local-and-community/planning-and-building",
+                                                                             "api_url":  "https://www.gov.uk/api/content/housing-local-and-community/planning-and-building",
+                                                                             "base_path":  "/housing-local-and-community/planning-and-building",
+                                                                             "content_id":  "e3147d4f-4bd5-4a14-a386-4ba7ccb058b4",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Planning and building (merged, level 2)",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/housing-local-and-community",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/housing-local-and-community",
+                                                                                                                     "base_path":  "/housing-local-and-community",
+                                                                                                                     "content_id":  "4794066e-e3cc-425e-8cc4-e7ff3edb4c39",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Housing, local and community",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:32:02Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Housing, local and community",
+                                                                                                                     "web_url":  "https://www.gov.uk/housing-local-and-community",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-08-24T11:05:58Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Planning and building",
+                                                                             "web_url":  "https://www.gov.uk/housing-local-and-community/planning-and-building",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-08-22T12:54:43Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Housing design and sustainability",
+                                     "web_url":  "https://www.gov.uk/housing-local-and-community/housing-design-and-sustainability",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/housing-local-and-community/planning-reform",
+                                     "api_url":  "https://www.gov.uk/api/content/housing-local-and-community/planning-reform",
+                                     "base_path":  "/housing-local-and-community/planning-reform",
+                                     "content_id":  "09e13bfe-83ee-4e89-acb8-a9f1971cdb04",
+                                     "details":  {
+                                                     "internal_name":  "Planning reform [P] (level 3, housing theme)",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/housing-local-and-community/planning-and-building",
+                                                                             "api_url":  "https://www.gov.uk/api/content/housing-local-and-community/planning-and-building",
+                                                                             "base_path":  "/housing-local-and-community/planning-and-building",
+                                                                             "content_id":  "e3147d4f-4bd5-4a14-a386-4ba7ccb058b4",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Planning and building (merged, level 2)",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/housing-local-and-community",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/housing-local-and-community",
+                                                                                                                     "base_path":  "/housing-local-and-community",
+                                                                                                                     "content_id":  "4794066e-e3cc-425e-8cc4-e7ff3edb4c39",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Housing, local and community",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:32:02Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Housing, local and community",
+                                                                                                                     "web_url":  "https://www.gov.uk/housing-local-and-community",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-08-24T11:05:58Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Planning and building",
+                                                                             "web_url":  "https://www.gov.uk/housing-local-and-community/planning-and-building",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-08-22T12:54:44Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Planning reform",
+                                     "web_url":  "https://www.gov.uk/housing-local-and-community/planning-reform",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2024-05-09T09:17:10+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1715242630.209-10.13.22.196-2547",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Find a registered building control approver in England",
+    "updated_at":  "2024-10-25T14:07:00+01:00",
+    "withdrawn_notice":  {
+
+                         }
+}

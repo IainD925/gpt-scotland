@@ -1,0 +1,898 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/funding-for-innovative-smart-energy-systems",
+    "content_id":  "cc860c68-6997-40fb-84c9-d82df289f70b",
+    "description":  "Government funding for innovation in smart energy systems and technologies",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  493371,
+                                            "filename":  "Energy_Storage_FOAK_Feasibility_Study_Competition_Guidance_-_Final.pdf",
+                                            "id":  "5185511",
+                                            "number_of_pages":  31,
+                                            "title":  "Energy storage feasibility study competition: guidance notes",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7f4f6d40f0b62305b865df/Energy_Storage_FOAK_Feasibility_Study_Competition_Guidance_-_Final.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  533345,
+                                            "filename":  "Energy_Storage_Cost_Reduction_Competition_-_Guidance_Notes_-_Final.pdf",
+                                            "id":  "5185512",
+                                            "number_of_pages":  35,
+                                            "title":  "Energy storage cost reduction competition: guidance notes",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7f3dce40f0b62305b85f1d/Energy_Storage_Cost_Reduction_Competition_-_Guidance_Notes_-_Final.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                            "file_size":  164594,
+                                            "filename":  "Energy_Storage_Cost_Reduction_Competition_-_Application_Form.docx",
+                                            "id":  "5185513",
+                                            "title":  "Energy storage cost reduction competition: application form",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7f79ca40f0b62305b87601/Energy_Storage_Cost_Reduction_Competition_-_Application_Form.docx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  90157,
+                                            "filename":  "Energy_Storage_Cost_Reduction_finance_form_-_final.xlsx",
+                                            "id":  "5185514",
+                                            "title":  "Energy storage cost reduction competition: finance form",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a8049ec40f0b62305b8a477/Energy_Storage_Cost_Reduction_finance_form_-_final.xlsx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                            "file_size":  168557,
+                                            "filename":  "Energy_Storage_Feasibility_Study_Competition_-_Application_Form.docx",
+                                            "id":  "5185515",
+                                            "title":  "Energy storage feasibility study competition: application form",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a814df340f0b62305b8e39a/Energy_Storage_Feasibility_Study_Competition_-_Application_Form.docx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  61978,
+                                            "filename":  "Energy_Storage_Feasibility_Study_finance_form_-_final.xlsx",
+                                            "id":  "5185516",
+                                            "title":  "Energy storage feasibility study competition: finance form",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a805bb1e5274a2e87db95ba/Energy_Storage_Feasibility_Study_finance_form_-_final.xlsx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                            "file_size":  193419,
+                                            "filename":  "Non-Domestic_DSR_Competition_-_Application_Form.docx",
+                                            "id":  "5185517",
+                                            "title":  "Non-domestic demand side response demonstrations: application form",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7f56bced915d74e33f5d23/Non-Domestic_DSR_Competition_-_Application_Form.docx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  96685,
+                                            "filename":  "Non-Domestic_DSR_finance_form_-_final.xlsx",
+                                            "id":  "5185518",
+                                            "title":  "Non-domestic demand side response demonstrations: finance form",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a80019ced915d74e622beba/Non-Domestic_DSR_finance_form_-_final.xlsx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  467967,
+                                            "filename":  "Flexibility_Markets_Feasibility_Study_Competition_Guidance_-_final_draft.pdf",
+                                            "id":  "5185519",
+                                            "number_of_pages":  34,
+                                            "title":  "Flexibility markets feasibility study competition: competition guidance notes",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a74c7c8e5274a3f93b48c09/Flexibility_Markets_Feasibility_Study_Competition_Guidance_-_final_draft.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  493927,
+                                            "filename":  "Energy_Storage_Cost_Reduction_Competition_-_Guidance_Notes.pdf",
+                                            "id":  "5185520",
+                                            "number_of_pages":  35,
+                                            "title":  "Energy storage cost reduction competition guidance notes",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a82082840f0b62305b921c0/Energy_Storage_Cost_Reduction_Competition_-_Guidance_Notes.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  493640,
+                                            "filename":  "Energy_Storage_FOAK_Feasibility_Study_Competition_Guidance.pdf",
+                                            "id":  "5185521",
+                                            "number_of_pages":  31,
+                                            "title":  "Energy storage cost reduction competition feasibility study",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a759c9ded915d6faf2b454a/Energy_Storage_FOAK_Feasibility_Study_Competition_Guidance.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  645524,
+                                            "filename":  "Non-Domestic_DSR_Competition_Guidance_Notes.pdf",
+                                            "id":  "5185522",
+                                            "number_of_pages":  80,
+                                            "title":  "Innovative non domestic demand side response competition guidance notes",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a822e49ed915d74e34022a3/Non-Domestic_DSR_Competition_Guidance_Notes.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  504103,
+                                            "filename":  "Domestic_DSR_Competition_-_Guidance_Notes.pdf",
+                                            "id":  "5185523",
+                                            "number_of_pages":  35,
+                                            "title":  "Domestic DSR competition guidance notes",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a824276ed915d74e6236a2d/Domestic_DSR_Competition_-_Guidance_Notes.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                            "file_size":  164443,
+                                            "filename":  "Domestic_DSR_Competition_-_Application_Form.docx",
+                                            "id":  "5185524",
+                                            "title":  "Domestic DSR competition application form",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a82cd6d40f0b6230269cc7b/Domestic_DSR_Competition_-_Application_Form.docx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  90125,
+                                            "filename":  "Copy_of_Domestic_DSR_finance_form.xlsx",
+                                            "id":  "5185525",
+                                            "title":  "Domestic DSR competition finance form",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a82cd2340f0b6230269cc5f/Copy_of_Domestic_DSR_finance_form.xlsx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  151236,
+                                            "filename":  "DSR_ressearch_Executive_Summary.pdf",
+                                            "id":  "5185526",
+                                            "number_of_pages":  7,
+                                            "title":  "Research on realising potential of Demand Side Response: executive summary",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a82b8c440f0b6230269c5a4/DSR_ressearch_Executive_Summary.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1204463,
+                                            "filename":  "DSR_research_report.pdf",
+                                            "id":  "5185527",
+                                            "number_of_pages":  66,
+                                            "title":  "Research on realising potential of Demand Side Response: research report",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a81c840e5274a2e8ab55cc1/DSR_research_report.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  833439,
+                                            "filename":  "DSR_research_Country_case_studies_report.pdf",
+                                            "id":  "5185528",
+                                            "number_of_pages":  77,
+                                            "title":  "Research on reslising potential of Demand Side Response: case study",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a82b54ee5274a2e87dc2946/DSR_research_Country_case_studies_report.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  231296,
+                                            "filename":  "DSR_References_document.pdf",
+                                            "id":  "5185529",
+                                            "number_of_pages":  13,
+                                            "title":  "Research on realising potential of Demand Side Response: reference document",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a823899ed915d74e62366fe/DSR_References_document.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  742682,
+                                            "filename":  "DSR_Summary_Report.pdf",
+                                            "id":  "5185530",
+                                            "number_of_pages":  57,
+                                            "title":  "Research on realising potential of Demand Side Response: summary report",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a82cd73e5274a2e87dc30e2/DSR_Summary_Report.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  240463,
+                                            "filename":  "UK-RoK_-_Smart_Energy_Innovation_Collaboration_Competition_-_Guidance.pdf",
+                                            "id":  "5185531",
+                                            "number_of_pages":  34,
+                                            "title":  "UK-South Korea Smart Energy Innovation Collaboration: competition guidance notes ",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5aa6b1ebed915d4f595c54d1/UK-RoK_-_Smart_Energy_Innovation_Collaboration_Competition_-_Guidance.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  90586,
+                                            "filename":  "UK-ROK_Collaboration_Competition_finance_form_-_final.xlsx",
+                                            "id":  "5185532",
+                                            "title":  "UK-South Korea Smart Energy Innovation Collaboration competition: finance form ",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a9fffeeed915d07a3b5dd66/UK-ROK_Collaboration_Competition_finance_form_-_final.xlsx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                            "file_size":  162251,
+                                            "filename":  "UK-RoK_-_Smart_Energy_Innovation_Collaboration_Competition_-_Application....docx",
+                                            "id":  "5185533",
+                                            "title":  "UK-South Korea Smart Energy Innovation Collaboration: competition application form ",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5aa000bf40f0b64d7d48f39e/UK-RoK_-_Smart_Energy_Innovation_Collaboration_Competition_-_Application....docx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  197086,
+                                            "filename":  "BEIS_Innovative_Domestic_DSR_Competition_-_summary_project_details__1_.pdf",
+                                            "id":  "5185534",
+                                            "number_of_pages":  5,
+                                            "title":  "BEIS Innovative Domestic DSR Competition – Phase 1 summary project details",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b221abeed915d2cbdcf7c1b/BEIS_Innovative_Domestic_DSR_Competition_-_summary_project_details__1_.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  169988,
+                                            "filename":  "BEIS_Flexibility_Markets_Competition-summary_project_details__1_.pdf",
+                                            "id":  "5185535",
+                                            "number_of_pages":  2,
+                                            "title":  "BEIS Flexibility Markets Feasibility Study Competition – summary project details",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b221aa740f0b634c0c59143/BEIS_Flexibility_Markets_Competition-summary_project_details__1_.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  174889,
+                                            "filename":  "BEIS_Energy_Storage_Cost_Reduction_Competition-summary_project_details__1_.pdf",
+                                            "id":  "5185536",
+                                            "number_of_pages":  4,
+                                            "title":  "BEIS Energy Storage Cost Reduction Competition – summary project details",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b221a9240f0b634b469facc/BEIS_Energy_Storage_Cost_Reduction_Competition-summary_project_details__1_.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  154308,
+                                            "filename":  "BEIS_Innovative_Non_Domestic_DSR_Competition_-_summary_project_details__1_.pdf",
+                                            "id":  "5185537",
+                                            "number_of_pages":  1,
+                                            "title":  "BEIS Innovative Non Domestic DSR Competition – summary project details",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b221a7a40f0b634b469facb/BEIS_Innovative_Non_Domestic_DSR_Competition_-_summary_project_details__1_.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                            "file_size":  120858,
+                                            "filename":  "Power_Forward_Challenge-UK_Feasibility_Study_Annex.docx",
+                                            "id":  "5185538",
+                                            "title":  "SME Participation Support Proposals: UK Feasibility annex",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5bc5c9cfe5274a362782f041/Power_Forward_Challenge-UK_Feasibility_Study_Annex.docx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                            "file_size":  129767,
+                                            "filename":  "Power_Forward_Challenge-UK_Demonstration_Project_Annex.docx",
+                                            "id":  "5185539",
+                                            "title":  "Pilot Scale Demonstration Proposals: UK Demonstration Project annex ",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5bc5cc28ed915d0af231e546/Power_Forward_Challenge-UK_Demonstration_Project_Annex.docx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  148714,
+                                            "filename":  "BEIS_UK-RoK_Competition_-_summary_project_details.pdf",
+                                            "id":  "5185540",
+                                            "number_of_pages":  1,
+                                            "title":  "Selected projects - summary information",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5bc5d7f140f0b6386a796bb2/BEIS_UK-RoK_Competition_-_summary_project_details.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  3678823,
+                                            "filename":  "Canada_Report_v3.pdf",
+                                            "id":  "5185541",
+                                            "number_of_pages":  27,
+                                            "title":  "Market information report: Canada",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5c05353e40f0b670907c1d3c/Canada_Report_v3.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  684876,
+                                            "filename":  "UK_Report_v3.pdf",
+                                            "id":  "5185542",
+                                            "number_of_pages":  27,
+                                            "title":  "Market information report: UK",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5c053549e5274a6a61e38afa/UK_Report_v3.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  273291,
+                                            "filename":  "BEIS_innovative_domestic_demand-side_response-competition_phase_2.pdf",
+                                            "id":  "5185543",
+                                            "number_of_pages":  6,
+                                            "title":  "BEIS Innovative Domestic DSR Competition – Phase 2 summary project details",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5c7d35dc40f0b603ddcf0b1a/BEIS_innovative_domestic_demand-side_response-competition_phase_2.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  180327,
+                                            "filename":  "power_forward_challenge_SME_support.pdf",
+                                            "id":  "5185544",
+                                            "number_of_pages":  3,
+                                            "title":  "Power Forward Challenge – SME Support details",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5c7d3996e5274a3b89a4ddb0/power_forward_challenge_SME_support.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@beis.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  150856,
+                                            "filename":  "PFC_-_Pilot_Scale_Demonstration.pdf",
+                                            "id":  "5185545",
+                                            "number_of_pages":  1,
+                                            "title":  "Power Forward Challenge: summary pilot scale demonstration projects",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5d09e0b8e5274a0661cafce1/PFC_-_Pilot_Scale_Demonstration.pdf"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eEnabling a smarter, more efficient energy system is a priority for government and in the \u003ca href=\"https://www.gov.uk/government/publications/upgrading-our-energy-system-smart-systems-and-flexibility-plan\" class=\"govuk-link\"\u003eUpgrading our energy system: smart systems and flexibility plan\u003c/a\u003e published in July 2017, the government committed up to £70 million to smart energy system innovation.\u003c/p\u003e\n\n\u003cp\u003eAcross government, Innovate UK, Research Councils, and \u003cabbr title=\"Department for Business, Energy and Industrial Strategy\"\u003eBEIS\u003c/abbr\u003e expect to invest around £265 million in smart systems research, development, and demonstration.\u003c/p\u003e\n\n\u003cp\u003eAs part of this commitment, within the \u003cabbr title=\"Department for Business, Energy and Industrial Strategy\"\u003eBEIS\u003c/abbr\u003e Energy Innovation Programme, \u003cabbr title=\"Department for Business, Energy and Industrial Strategy\"\u003eBEIS\u003c/abbr\u003e expects to invest up to £70 million in the smart energy systems innovation theme.\u003c/p\u003e\n\n\u003ch2 id=\"energy-data-visibility-project-edvp---closed\"\u003eEnergy Data Visibility Project (EDVP) - closed\u003c/h2\u003e\n\n\u003cp\u003eThis project is designed to develop and test an alpha-stage energy metadata catalogue.\u003c/p\u003e\n\n\u003cdiv class=\"call-to-action\"\u003e\n  \u003cp\u003e\u003ca href=\"https://www.gov.uk/government/publications/energy-data-visibility-project-edvp-winning-consortium\" class=\"govuk-link\"\u003eEnergy Data Visibility Project (EDVP): winning consortium\u003c/a\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003ch2 id=\"smart-meter-enabled-tariffs-comparison-project-smarter-tariffs--smarter-comparisons---closed\"\u003eSmart meter-enabled tariffs comparison project: Smarter Tariffs – Smarter Comparisons - closed\u003c/h2\u003e\n\n\u003cp\u003eThis project is to develop tools to demonstrate how smart tariffs, including export, electric vehicle and time of use tariffs, can be compared by consumers.\u003c/p\u003e\n\n\u003cdiv class=\"call-to-action\"\u003e\n  \u003cp\u003e\u003ca href=\"https://www.gov.uk/government/publications/smart-meter-enabled-tariffs-comparison-project-smarter-tariffs-smarter-comparisons\" class=\"govuk-link\"\u003eSmarter Tariffs - Smarter Comparisons\u003c/a\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003ch2 id=\"smart-meter-enabled-electric-vehicle-ev-charging-trial-beyond-off-street---closed\"\u003eSmart meter-enabled electric vehicle (EV) charging trial: Beyond Off Street - closed\u003c/h2\u003e\n\n\u003cp\u003eBeyond Off Street is a government initiative to promote innovation and demonstrate how smart meters can offer a long-term solution for smart EV charging.\u003c/p\u003e\n\n\u003cdiv class=\"call-to-action\"\u003e\n  \u003cp\u003e\u003ca href=\"https://www.gov.uk/government/publications/smart-meter-enabled-electric-vehicle-ev-charging-trial-beyond-off-street\" class=\"govuk-link\"\u003eBeyond off street\u003c/a\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003ch2 id=\"smart-energy-savings-sens-competition---closed\"\u003eSmart Energy Savings (\u003cabbr title=\"Smart Energy Savings\"\u003eSENS\u003c/abbr\u003e) competition - closed\u003c/h2\u003e\n\n\u003cp\u003eThe \u003cabbr title=\"Smart Energy Savings\"\u003eSENS\u003c/abbr\u003e competition aims to develop and trial innovative feedback products and services that use smart meter data, to help domestic customers reduce their energy consumption.\u003cbr\u003e\nCompetition now closed.\u003c/p\u003e\n\n\u003cdiv class=\"call-to-action\"\u003e\n  \u003cp\u003e\u003ca href=\"https://www.gov.uk/government/publications/smart-energy-savings-sens-competition\" class=\"govuk-link\"\u003eSmart Energy Savings (\u003cabbr title=\"Smart Energy Savings\"\u003eSENS\u003c/abbr\u003e) competition\u003c/a\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003ch2 id=\"flex-competition---closed\"\u003eFleX competition - closed\u003c/h2\u003e\n\n\u003cp\u003eThe FleX competition will support the development and demonstration of innovative solutions to value and trade flexibility. \u003cbr\u003eCompetition now closed\u003c/p\u003e\n\n\u003cdiv class=\"call-to-action\"\u003e\n  \u003cp\u003e\u003ca href=\"https://www.gov.uk/government/publications/flexibility-exchange-demonstration-projects-flex-competition\" class=\"govuk-link\"\u003eFlexibility exchange demonstration projects: FleX competition\u003c/a\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003ch2 id=\"storage-at-scale-competition---closed\"\u003eStorage at Scale competition - closed\u003c/h2\u003e\n\n\u003cp\u003eFunding for demonstrating innovative large scale energy storage. \u003cbr\u003eCompetition now closed\u003c/p\u003e\n\n\u003cdiv class=\"call-to-action\"\u003e\n  \u003cp\u003e\u003ca href=\"https://www.gov.uk/government/publications/storage-at-scale-competition\" class=\"govuk-link\"\u003eStorage at scale competition\u003c/a\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003ch2 id=\"electricity-storage-health-and-safety-standards-gap-analysis---closed\"\u003eElectricity storage health and safety standards gap analysis - closed\u003c/h2\u003e\n\n\u003cp\u003eFunding for a gap analysis of the health and safety standards for electricity storage technologies that are at or near deployment (not including pumped hydro). \u003cbr\u003eCompetition now closed\u003c/p\u003e\n\n\u003cdiv class=\"call-to-action\"\u003e\n  \u003cp\u003e\u003ca rel=\"external\" href=\"https://gov.uk/government/publications/electricity-storage-health-and-safety-standards-gap-analysis\" class=\"govuk-link\"\u003eElectricity storage health and safety standards gap analysis funding\u003c/a\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003ch2 id=\"participation-of-low-income-and-vulnerable-consumers-in-a-smart-energy-system-project-involve---closed\"\u003eParticipation of low income and vulnerable consumers in a smart energy system: Project InvoLVe - closed\u003c/h2\u003e\n\n\u003cp\u003eThis project will identify how future innovation can enable low income and vulnerable consumers to increasingly benefit from a smart energy system.\u003c/p\u003e\n\n\u003cdiv class=\"call-to-action\"\u003e\n  \u003cp\u003e\u003ca rel=\"external\" href=\"https://gov.uk/government/publications/participation-of-low-income-and-vulnerable-consumers-project-involve\" class=\"govuk-link\"\u003eProject InvoLVe\u003c/a\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003ch2 id=\"power-forward-challenge-funding-for-uk--canada-joint-challenge-on-smart-energy-systems-innovation\"\u003ePower Forward Challenge: funding for UK / Canada joint challenge on smart energy systems innovation\u003c/h2\u003e\n\n\u003cp\u003eAs electric vehicles, smart devices, storage systems, remote connectivity and the like become more commonplace, the demands placed on our electricity grids are highly complex and very different from when they were built.\u003c/p\u003e\n\n\u003cp\u003eThrough the Power Forward Challenge, the UK and Canada are jointly offering over £11 million to develop the best smart energy systems, including grids and storage, for the needs of the 21st Century, supporting the UK Industrial Strategy \u003ca href=\"https://www.gov.uk/government/publications/industrial-strategy-the-grand-challenges/industrial-strategy-the-grand-challenges#clean-growth\" class=\"govuk-link\"\u003eClean Growth Grand Challenge\u003c/a\u003e around smart systems for the future.\u003c/p\u003e\n\n\u003cp\u003eThe Challenge is looking for innovators from any sector who can bring disruptive technologies or new thinking to develop clean, robust and flexible power grids and energy systems that anticipate and meet the needs of networks around the world, looking ahead to 2030 and beyond.\u003c/p\u003e\n\n\u003ch3 id=\"funding-opportunity-1-feasibility-study-development---open-to-smes\"\u003eFunding opportunity 1: Feasibility study development - open to \u003cabbr title=\"small and medium sized businesses\"\u003eSMEs\u003c/abbr\u003e\n\u003c/h3\u003e\n\n\u003cp\u003e\u003cabbr title=\"Department for Business, Energy and Industrial Strategy\"\u003eBEIS\u003c/abbr\u003e will fund selected UK \u003cabbr title=\"small and medium sized businesses\"\u003eSMEs\u003c/abbr\u003e for participation support, and the Canadian government will fund the selected Canadian enterprises. UK \u003cabbr title=\"small and medium sized businesses\"\u003eSMEs\u003c/abbr\u003e can apply for up to £60,000 \u003cabbr title=\"small and medium sized business\"\u003eSME\u003c/abbr\u003e participation support for feasibility study development.\u003c/p\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5c7d3996e5274a3b89a4ddb0/power_forward_challenge_SME_support.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5c7d3996ed915d40642f5e49/thumbnail_power_forward_challenge_SME_support.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5c7d3996e5274a3b89a4ddb0/power_forward_challenge_SME_support.pdf\"\u003ePower Forward Challenge – SME Support details\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e176 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e3 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n\u003c/div\u003e\u003c/section\u003e\n\n\u003ch3 id=\"power-forward\"\u003eFunding opportunity 2: Pilot-scale demonstration proposals - open to companies and other organisations\u003c/h3\u003e\n\n\u003cp\u003e\u003cabbr title=\"Department for Business, Energy and Industrial Strategy\"\u003eBEIS\u003c/abbr\u003e will fund the selected UK-based demonstration projects and the Canadian government will fund the demonstration projects located in Canada. Project teams applying for support for demonstration projects must involve organisations from both the UK and Canada. The project teams can apply for funding contribution of up to £1.8 million per project for demonstration projects located in the UK.\u003c/p\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5d09e0b8e5274a0661cafce1/PFC_-_Pilot_Scale_Demonstration.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5d09e0b8ed915d0953e27f8a/thumbnail_PFC_-_Pilot_Scale_Demonstration.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5d09e0b8e5274a0661cafce1/PFC_-_Pilot_Scale_Demonstration.pdf\"\u003ePower Forward Challenge: summary pilot scale demonstration projects\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e147 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e1 page\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n\u003c/div\u003e\u003c/section\u003e\n\n\u003ch3 id=\"reports\"\u003eReports\u003c/h3\u003e\n\n\u003cp\u003eThe Market Information Reports below provide a high-level overview of the UK/Canada energy systems for any UK/Canada organisation looking to participate in the challenge. The objective of these reports is to provide a 360-degree view of the UK and Canadian electricity market for UK and Canadian energy companies in support of the Power Forward Challenge.\u003c/p\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5c053549e5274a6a61e38afa/UK_Report_v3.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5c05354940f0b67055d9e389/thumbnail_UK_Report_v3.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5c053549e5274a6a61e38afa/UK_Report_v3.pdf\"\u003eMarket information report: UK\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e669 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e27 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:alt.formats@beis.gov.uk\" target=\"_blank\" class=\"govuk-link\"\u003ealt.formats@beis.gov.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5c05353e40f0b670907c1d3c/Canada_Report_v3.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5c05353eed915d7466eee430/thumbnail_Canada_Report_v3.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5c05353e40f0b670907c1d3c/Canada_Report_v3.pdf\"\u003eMarket information report: Canada\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e3.51 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e27 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:alt.formats@beis.gov.uk\" target=\"_blank\" class=\"govuk-link\"\u003ealt.formats@beis.gov.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003ch3 id=\"event\"\u003eEvent\u003c/h3\u003e\n\n\u003cp\u003eWe held an information event on 17 October 2018 at Telford in the UK. View the presentation:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://vimeo.com/295771044\" class=\"govuk-link\"\u003eInnovative Smart Energy Systems UK:Canada Briefing\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"funding-for-uksouth-korea-bilateral-collaboration-on-smart-energy-innovation---closed\"\u003eFunding for UK/South Korea bilateral collaboration on smart energy innovation - closed\u003c/h2\u003e\n\n\u003cp\u003eReflecting a shared interest in innovation to help to secure a smarter, efficient energy system, the UK and South Korean governments committed up to about £6 million in total, from 2018 to 2021, to deliver a bilateral competition on smart energy innovation. This innovation collaboration, announced by the Energy and Clean Growth Minister Claire Perry on 25 January 2018, is expected to help secure cost savings in the energy system by accelerating the speed and extent of deployment of smart, flexible energy system solutions as well as securing increased market knowledge and access in South Korea for UK companies.\u003c/p\u003e\n\n\u003cp\u003eThis competition is now closed to applications. The 3 projects which have secured funding in the competition are:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eDROPLET (Demand Response using Off-peak Power for Liquefied air Energy storage Technologies) – led in the UK by Doosan Babcock Ltd\u003c/li\u003e\n  \u003cli\u003eEnergy Flexibility via V2G Gamification – led in the UK by Grid Duck\u003c/li\u003e\n  \u003cli\u003eProject Artemis (flexibility trading platform) – led in the UK by Electron\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eAll projects are expected to be completed and to disseminate learning by March 2021.\u003c/p\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5bc5d7f140f0b6386a796bb2/BEIS_UK-RoK_Competition_-_summary_project_details.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5bc5d7f1ed915d0ada79f40d/thumbnail_BEIS_UK-RoK_Competition_-_summary_project_details.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5bc5d7f140f0b6386a796bb2/BEIS_UK-RoK_Competition_-_summary_project_details.pdf\"\u003eSelected projects - summary information\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e145 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e1 page\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:alt.formats@beis.gov.uk\" target=\"_blank\" class=\"govuk-link\"\u003ealt.formats@beis.gov.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003cp\u003eFull details of the competition:\u003c/p\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5aa6b1ebed915d4f595c54d1/UK-RoK_-_Smart_Energy_Innovation_Collaboration_Competition_-_Guidance.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5aa6b1ebe5274a3e391e3a9a/thumbnail_UK-RoK_-_Smart_Energy_Innovation_Collaboration_Competition_-_Guidance.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5aa6b1ebed915d4f595c54d1/UK-RoK_-_Smart_Energy_Innovation_Collaboration_Competition_-_Guidance.pdf\"\u003eUK-South Korea Smart Energy Innovation Collaboration: competition guidance notes \u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e235 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e34 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:alt.formats@beis.gov.uk\" target=\"_blank\" class=\"govuk-link\"\u003ealt.formats@beis.gov.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003ch2 id=\"funding-for-non-domestic-smart-energy-management\"\u003eFunding for non-domestic smart energy management\u003c/h2\u003e\n\n\u003cp\u003eThe government has committed up to £8.8 million to develop innovative approaches to energy management using smart meter data, tailored to the needs of smaller non-domestic sites.\u003c/p\u003e\n\n\u003cp\u003eThe Non-Domestic Smart Energy Management Innovation Competition (\u003cabbr title=\"Non-Domestic Smart Energy Management Innovation Competition\"\u003eNDSEMIC\u003c/abbr\u003e) aims to drive innovation in the energy services market in 3 priority non-domestic sectors (hospitality, retail, schools). It will help such non-domestic organisations cut their energy costs and be more energy efficient, enabling them to boost productivity and contribute to UK emissions reduction targets. It will also develop and strengthen the market for energy management products and services for smaller non-domestic sites, including both independent businesses and chains.\u003c/p\u003e\n\n\u003cp\u003eAll the details of this competition are available on the \u003ca href=\"https://www.gov.uk/government/publications/non-domestic-smart-energy-management-innovation-competition\" class=\"govuk-link\"\u003eNon-Domestic Smart Energy Management Innovation Competition\u003c/a\u003e page.\u003c/p\u003e\n\n\u003ch2 id=\"funding-for-innovative-domestic-demand-side-response-demonstrations\"\u003eFunding for innovative domestic Demand Side Response demonstrations\u003c/h2\u003e\n\n\u003cp\u003eThe government has committed up to £9.78 million from 2018 to 2021 to support innovative domestic applications of Demand Side Response (DSR) technologies and business models. This grant competition has supported 20 feasibility studies (Phase 1) and up to 14 demonstration projects (Phase 2) in domestic settings. These projects are looking for innovative, scalable and replicable solutions which could provide reliable domestic demand side response using a range of approaches, which involve storage heaters, decarbonisation of heat and business models with novel usage of flexible demand.\u003c/p\u003e\n\n\u003cp\u003eThis competition is delivered in two phases. In Phase 1, grants of up to £30,000 were awarded for 10 week feasibility studies. In Phase 2 grants of up to £1 million have been awarded for demonstration projects, to be completed by 31 December 2020.\u003c/p\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5b221abeed915d2cbdcf7c1b/BEIS_Innovative_Domestic_DSR_Competition_-_summary_project_details__1_.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5b221abeed915d2cddac836b/thumbnail_BEIS_Innovative_Domestic_DSR_Competition_-_summary_project_details__1_.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5b221abeed915d2cbdcf7c1b/BEIS_Innovative_Domestic_DSR_Competition_-_summary_project_details__1_.pdf\"\u003eBEIS Innovative Domestic DSR Competition – Phase 1 summary project details\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e192 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e5 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:alt.formats@beis.gov.uk\" target=\"_blank\" class=\"govuk-link\"\u003ealt.formats@beis.gov.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003cp\u003eDetails of the projects supported in Phase 1 of this Competition are set out in the following document:\u003c/p\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5c7d35dc40f0b603ddcf0b1a/BEIS_innovative_domestic_demand-side_response-competition_phase_2.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5c7d35dce5274a3b828abab6/thumbnail_BEIS_innovative_domestic_demand-side_response-competition_phase_2.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5c7d35dc40f0b603ddcf0b1a/BEIS_innovative_domestic_demand-side_response-competition_phase_2.pdf\"\u003eBEIS Innovative Domestic DSR Competition – Phase 2 summary project details\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e267 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e6 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n\u003c/div\u003e\u003c/section\u003e\n\n\u003cp\u003eFull details about the competition are set out in the Competition Guidance Notes.\u003c/p\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a824276ed915d74e6236a2d/Domestic_DSR_Competition_-_Guidance_Notes.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5a824277ed915d74e340293e/thumbnail_Domestic_DSR_Competition_-_Guidance_Notes.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a824276ed915d74e6236a2d/Domestic_DSR_Competition_-_Guidance_Notes.pdf\"\u003eDomestic DSR competition guidance notes\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e492 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e35 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:alt.formats@beis.gov.uk\" target=\"_blank\" class=\"govuk-link\"\u003ealt.formats@beis.gov.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003cp\u003eFor more information, please email \u003ca href=\"mailto:smart.innovation@beis.gov.uk\" class=\"govuk-link\"\u003esmart.innovation@beis.gov.uk\u003c/a\u003e\u003c/p\u003e\n\n\u003ch2 id=\"research-on-realising-the-potential-of-demand-side-response\"\u003eResearch on Realising the Potential of Demand Side Response\u003c/h2\u003e\n\n\u003cp\u003eResearch was commissioned by \u003cabbr title=\"Department for Business, Energy and Industrial Strategy\"\u003eBEIS\u003c/abbr\u003e into realising the potential of DSR to 2025 to improve the evidence base on the potential of small-scale DSR and inform policy development targeted at a smarter energy system. The research uses an evidence review (a Rapid Evidence Assessment) and country case studies, both covering four research areas: policy interventions, business strategies, DSR products and services, and consumer engagement and participation.\u003c/p\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a82b8c440f0b6230269c5a4/DSR_ressearch_Executive_Summary.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5a82b8c6e5274a2e87dc2a6b/thumbnail_DSR_ressearch_Executive_Summary.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a82b8c440f0b6230269c5a4/DSR_ressearch_Executive_Summary.pdf\"\u003eResearch on realising potential of Demand Side Response: executive summary\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e148 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e7 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:alt.formats@beis.gov.uk\" target=\"_blank\" class=\"govuk-link\"\u003ealt.formats@beis.gov.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a81c840e5274a2e8ab55cc1/DSR_research_report.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5a81c83e40f0b62302699210/thumbnail_DSR_research_report.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a81c840e5274a2e8ab55cc1/DSR_research_report.pdf\"\u003eResearch on realising potential of Demand Side Response: research report\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e1.15 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e66 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:alt.formats@beis.gov.uk\" target=\"_blank\" class=\"govuk-link\"\u003ealt.formats@beis.gov.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a82b54ee5274a2e87dc2946/DSR_research_Country_case_studies_report.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5a82b54ced915d74e3403293/thumbnail_DSR_research_Country_case_studies_report.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a82b54ee5274a2e87dc2946/DSR_research_Country_case_studies_report.pdf\"\u003eResearch on reslising potential of Demand Side Response: case study\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e814 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e77 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:alt.formats@beis.gov.uk\" target=\"_blank\" class=\"govuk-link\"\u003ealt.formats@beis.gov.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a823899ed915d74e62366fe/DSR_References_document.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5a82389940f0b6230269b7c0/thumbnail_DSR_References_document.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a823899ed915d74e62366fe/DSR_References_document.pdf\"\u003eResearch on realising potential of Demand Side Response: reference document\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e226 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e13 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:alt.formats@beis.gov.uk\" target=\"_blank\" class=\"govuk-link\"\u003ealt.formats@beis.gov.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a82cd73e5274a2e87dc30e2/DSR_Summary_Report.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5a82cd7440f0b6230269cc7d/thumbnail_DSR_Summary_Report.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a82cd73e5274a2e87dc30e2/DSR_Summary_Report.pdf\"\u003eResearch on realising potential of Demand Side Response: summary report\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e725 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e57 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:alt.formats@beis.gov.uk\" target=\"_blank\" class=\"govuk-link\"\u003ealt.formats@beis.gov.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003ch2 id=\"funding-for-flexibility-markets-feasibility-studies\"\u003eFunding for flexibility markets feasibility studies\u003c/h2\u003e\n\n\u003cp\u003eAs part of the \u003ca href=\"https://www.gov.uk/government/publications/upgrading-our-energy-system-smart-systems-and-flexibility-plan\" class=\"govuk-link\"\u003eUpgrading our energy system: smart systems and flexibility plan\u003c/a\u003e, in July 2017, government launched a competition on local flexibility markets, committing up to £600,000 for feasibility studies about innovative approaches that can be used to value and trade flexibility in the UK electricity system. This competition is now closed for entrants. Details of the projects supported by this competition:\u003c/p\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5b221aa740f0b634c0c59143/BEIS_Flexibility_Markets_Competition-summary_project_details__1_.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5b221aa7e5274a1912717911/thumbnail_BEIS_Flexibility_Markets_Competition-summary_project_details__1_.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5b221aa740f0b634c0c59143/BEIS_Flexibility_Markets_Competition-summary_project_details__1_.pdf\"\u003eBEIS Flexibility Markets Feasibility Study Competition – summary project details\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e166 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e2 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:alt.formats@beis.gov.uk\" target=\"_blank\" class=\"govuk-link\"\u003ealt.formats@beis.gov.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003cp\u003eDetails about the competition are set out in the guidance notes:\u003c/p\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a74c7c8e5274a3f93b48c09/Flexibility_Markets_Feasibility_Study_Competition_Guidance_-_final_draft.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5a74c7c6e5274a3cb2867205/thumbnail_Flexibility_Markets_Feasibility_Study_Competition_Guidance_-_final_draft.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a74c7c8e5274a3f93b48c09/Flexibility_Markets_Feasibility_Study_Competition_Guidance_-_final_draft.pdf\"\u003eFlexibility markets feasibility study competition: competition guidance notes\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e457 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e34 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:alt.formats@beis.gov.uk\" target=\"_blank\" class=\"govuk-link\"\u003ealt.formats@beis.gov.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003cp\u003eFor more information, please email \u003ca href=\"mailto:smart.innovation@beis.gov.uk\" class=\"govuk-link\"\u003esmart.innovation@beis.gov.uk\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"funding-for-innovative-electric-vehicle-to-grid-projects\"\u003eFunding for innovative electric vehicle-to-grid projects\u003c/h2\u003e\n\n\u003cp\u003eIn July 2017, government committed up to £20 million for innovative projects that develop future electric vehicle-to-grid products, services and knowledge. Details about competition winners:\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/680166/Innovation_in_Vehicle-to-Grid__V2G__Systems_-_Feasibility_Studies_-_Competition_Results.pdf\" class=\"govuk-link\"\u003eInnovation in Vehicle-to-Grid V2G Systems - Feasibility Studies - Competition Results\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/680165/Innovation_in_Vehicle-to-Grid__V2G__Systems_-_CR_D_-_Competition_Results.pdf\" class=\"govuk-link\"\u003eInnovation in Vehicle-to-Grid V2G Systems - CR D - Competition Results\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/681321/Innovation_in_Vehicle-To-Grid__V2G__Systems_-_Real-World_Demonstrators_-_Competition_Results.pdf\" class=\"govuk-link\"\u003eInnovation in Vehicle-To-Grid V2G Systems - Real-World Demonstrators -Competition Results\u003c/a\u003e\u003c/p\u003e\n\n\u003ch2 id=\"funding-for-energy-storage-cost-reduction-and-feasibility-studies\"\u003eFunding for energy storage cost reduction and feasibility studies\u003c/h2\u003e\n\n\u003cp\u003eGovernment launched a competition with up to £9 million available to reduce the cost of energy storage technologies (including electricity storage, thermal storage, and power-to-gas technologies). This includes a further £600,000 to support feasibility studies for a potential first-of-a-kind, large-scale future storage demonstrator. This competition is now closed for entrants. Details of the projects supported by this competition:\u003c/p\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5b221a9240f0b634b469facc/BEIS_Energy_Storage_Cost_Reduction_Competition-summary_project_details__1_.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5b221a92e5274a190383bcb1/thumbnail_BEIS_Energy_Storage_Cost_Reduction_Competition-summary_project_details__1_.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5b221a9240f0b634b469facc/BEIS_Energy_Storage_Cost_Reduction_Competition-summary_project_details__1_.pdf\"\u003eBEIS Energy Storage Cost Reduction Competition – summary project details\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e171 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e4 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:alt.formats@beis.gov.uk\" target=\"_blank\" class=\"govuk-link\"\u003ealt.formats@beis.gov.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003cp\u003eGrants have now been awarded for delivery of energy storage feasibility studies for large-scale future storage demonstrators. These initial feasibility studies are being led by the following organisations:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eCumulus Energy Storage Ltd;\u003c/li\u003e\n  \u003cli\u003eHighview Enterprises Ltd;\u003c/li\u003e\n  \u003cli\u003eITM Power Trading Ltd;\u003c/li\u003e\n  \u003cli\u003eSSE Renewables Developments UK Ltd\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFor more information, please email \u003ca href=\"mailto:smart.innovation@beis.gov.uk\" class=\"govuk-link\"\u003esmart.innovation@beis.gov.uk\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eFull details about the cost reduction competition, and the feasibility study are set out in the guidance notes here:\u003c/p\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a82082840f0b62305b921c0/Energy_Storage_Cost_Reduction_Competition_-_Guidance_Notes.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5a820827ed915d74e34015c6/thumbnail_Energy_Storage_Cost_Reduction_Competition_-_Guidance_Notes.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a82082840f0b62305b921c0/Energy_Storage_Cost_Reduction_Competition_-_Guidance_Notes.pdf\"\u003eEnergy storage cost reduction competition guidance notes\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e482 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e35 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:alt.formats@beis.gov.uk\" target=\"_blank\" class=\"govuk-link\"\u003ealt.formats@beis.gov.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a759c9ded915d6faf2b454a/Energy_Storage_FOAK_Feasibility_Study_Competition_Guidance.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5a759c9ce5274a545822cdc2/thumbnail_Energy_Storage_FOAK_Feasibility_Study_Competition_Guidance.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a759c9ded915d6faf2b454a/Energy_Storage_FOAK_Feasibility_Study_Competition_Guidance.pdf\"\u003eEnergy storage cost reduction competition feasibility study\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e482 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e31 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:alt.formats@beis.gov.uk\" target=\"_blank\" class=\"govuk-link\"\u003ealt.formats@beis.gov.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003ch2 id=\"funding-for-innovative-non-domestic-demand-side-response-demonstrations\"\u003eFunding for innovative non-domestic Demand Side Response demonstrations\u003c/h2\u003e\n\n\u003cp\u003eGovernment committed up to £7.6 million for innovative demonstrations of energy demand side response technologies in UK businesses or public sector organisations to reduce their energy use in peak times and provide flexibility to the energy system. This competition is now closed for entrants.\u003c/p\u003e\n\n\u003cp\u003ePhase 1 contracts have now been awarded for delivery of feasibility studies for the innovative non-domestic demand side response demonstrators. These initial feasibility studies are being led by the following organisations:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eDuckDuck Ltd;\u003c/li\u003e\n  \u003cli\u003eFlexitricity Ltd;\u003c/li\u003e\n  \u003cli\u003eInnovatium LLP;\u003c/li\u003e\n  \u003cli\u003eKiwi Power Ltd, and\u003c/li\u003e\n  \u003cli\u003eTotem Sustainable Solutions Ltd\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eDetails of the Phase 2 projects supported by this competition:\u003c/p\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5b221a7a40f0b634b469facb/BEIS_Innovative_Non_Domestic_DSR_Competition_-_summary_project_details__1_.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5b221a7aed915d2cc0270d21/thumbnail_BEIS_Innovative_Non_Domestic_DSR_Competition_-_summary_project_details__1_.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5b221a7a40f0b634b469facb/BEIS_Innovative_Non_Domestic_DSR_Competition_-_summary_project_details__1_.pdf\"\u003eBEIS Innovative Non Domestic DSR Competition – summary project details\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e151 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e1 page\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:alt.formats@beis.gov.uk\" target=\"_blank\" class=\"govuk-link\"\u003ealt.formats@beis.gov.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003cp\u003eDetails about the competition are set out in these guidance notes:\u003c/p\u003e\n\n\u003csection class=\"gem-c-attachment govuk-!-display-none-print govuk-!-margin-bottom-6\" data-module=\"ga4-link-tracker\"\u003e\n  \u003cdiv class=\"gem-c-attachment__thumbnail\"\u003e\n    \u003ca class=\"govuk-link\" target=\"_self\" tabindex=\"-1\" aria-hidden=\"true\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a822e49ed915d74e34022a3/Non-Domestic_DSR_Competition_Guidance_Notes.pdf\"\u003e\u003cimg alt=\"\" class=\"gem-c-attachment__thumbnail-image gem-c-attachment__thumbnail-image--custom\" src=\"https://assets.publishing.service.gov.uk/media/5a822e49ed915d74e6236385/thumbnail_Non-Domestic_DSR_Competition_Guidance_Notes.pdf.png\"\u003e\u003c/a\u003e\n\u003c/div\u003e\n  \u003cdiv class=\"gem-c-attachment__details\"\u003e\n    \u003ch2 class=\"gem-c-attachment__title\"\u003e\n      \u003ca class=\"govuk-link\" target=\"_self\" data-ga4-link=\u0027{\"event_name\":\"file_download\",\"type\":\"attachment\"}\u0027 href=\"https://assets.publishing.service.gov.uk/media/5a822e49ed915d74e34022a3/Non-Domestic_DSR_Competition_Guidance_Notes.pdf\"\u003eInnovative non domestic demand side response competition guidance notes\u003c/a\u003e\n\u003c/h2\u003e\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003e\u003cspan class=\"gem-c-attachment__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e630 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment__attribute\"\u003e80 pages\u003c/span\u003e\u003c/p\u003e\n\n\n\n\n      \u003cp class=\"gem-c-attachment__metadata\"\u003eThis file may not be suitable for users of assistive technology.\u003c/p\u003e\n      \u003cdetails class=\"gem-c-details govuk-details govuk-!-margin-bottom-3\" data-module=\"govuk-details gem-details ga4-event-tracker\"\u003e\n  \u003csummary class=\"govuk-details__summary\" data-details-track-click=\"\" data-ga4-event=\u0027{\"event_name\":\"select_content\",\"type\":\"detail\",\"text\":\"Request an accessible format.\",\"section\":\"Request an accessible format.\",\"index_section\":1}\u0027\u003e\n    \u003cspan class=\"govuk-details__summary-text\" data-ga4-expandable\u003e\n      Request an accessible format.\n    \u003c/span\u003e\n\u003c/summary\u003e  \u003cdiv class=\"govuk-details__text\"\u003e\n    \n        If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email \u003ca href=\"mailto:alt.formats@beis.gov.uk\" target=\"_blank\" class=\"govuk-link\"\u003ealt.formats@beis.gov.uk\u003c/a\u003e. Please tell us what format you need. It will help us if you say what assistive technology you use.\n\n  \u003c/div\u003e\n\u003c/details\u003e\n\u003c/div\u003e\u003c/section\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Added link to Energy Data Visibility Project (EDVP): winning consortium.",
+                                               "public_timestamp":  "2021-05-07T14:03:47.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added details and winning bid for Project InvoLVe.",
+                                               "public_timestamp":  "2020-10-28T13:58:57.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Added electricity storage health and safety standards gap analysis funding (now closed).",
+                                               "public_timestamp":  "2020-06-18T10:57:33.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added Smarter tariffs - smarter comparisons project (now closed).",
+                                               "public_timestamp":  "2020-06-08T12:59:52.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added link to new initiative: Smart meter-enabled electric vehicle (EV) charging trial - Beyond Off Street",
+                                               "public_timestamp":  "2020-03-31T15:35:58.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Power Forward Challenge - summary of pilot scale demonstration projects added.",
+                                               "public_timestamp":  "2019-06-20T11:58:49.000+01:00"
+                                           },
+                                           {
+                                               "note":  "In section: Funding for innovative domestic Demand Side Response demonstrations, we\u0027ve updated funding information and competition details, as well as added Phase 2 summary project details. In section: Power Forward Challenge, we\u0027ve updated details of the SMEs supported as part of this Challenge.",
+                                               "public_timestamp":  "2019-03-05T12:00:06.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Link to Smart Energy Savings (SENS) competition added.",
+                                               "public_timestamp":  "2019-02-18T12:44:34.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Latest FleX and Storage at Scale competitions added",
+                                               "public_timestamp":  "2019-01-30T13:13:40.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Power forward: UK / Canada Market Reports added ",
+                                               "public_timestamp":  "2018-11-29T15:21:53.000+00:00"
+                                           },
+                                           {
+                                               "note":  "UK / Canada Smart Energy Systems Challenge now open to applications / South Korea Collaboration Competition winners announced",
+                                               "public_timestamp":  "2018-10-16T14:03:39.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updates to competitions",
+                                               "public_timestamp":  "2018-06-14T08:45:29.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Information added about UK/Canada opportunity for a joint challenge on smart grids and energy storage.",
+                                               "public_timestamp":  "2018-05-23T11:45:08.000+01:00"
+                                           },
+                                           {
+                                               "note":  "UK/South Korea bilateral collaboration competition deadlines extended.",
+                                               "public_timestamp":  "2018-04-30T17:36:06.000+01:00"
+                                           },
+                                           {
+                                               "note":  "UK / South Korea bilateral collaboration on smart energy innovation: competition guidance notes and application form published",
+                                               "public_timestamp":  "2018-03-08T15:43:08.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Added information on funding for UK/South Korea bilateral collaboration on smart energy innovation.",
+                                               "public_timestamp":  "2018-02-09T13:53:31.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Link to new Non-domestic Smart Energy Management Innovation Competition added",
+                                               "public_timestamp":  "2017-11-27T12:13:59.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Funding for innovative domestic demand side response demonstrations. ",
+                                               "public_timestamp":  "2017-11-08T10:02:15.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updates from Clean Growth Strategy. ",
+                                               "public_timestamp":  "2017-10-13T15:33:20.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Published details of a new competition; Funding for flexibility markets feasibility studies.",
+                                               "public_timestamp":  "2017-07-24T12:19:08.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Details of latest competition announced 10 July 2017",
+                                               "public_timestamp":  "2017-07-13T15:17:43.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Forms added for the feasibility study and cost reduction competitions. New documents added on non-domestic demand side response demonstrations.",
+                                               "public_timestamp":  "2017-02-17T14:10:55.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Change of dates for application",
+                                               "public_timestamp":  "2017-01-25T13:26:05.000+00:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2017-01-25T10:17:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "6315817c-ef11-4905-bb4d-b6dca8e9052c"
+                                                 ],
+                    "first_public_at":  "2017-01-25T10:17:00.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2017-01-25T10:17:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/funding-for-innovative-smart-energy-systems",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/funding-for-innovative-smart-energy-systems",
+                                                     "base_path":  "/guidance/funding-for-innovative-smart-energy-systems",
+                                                     "content_id":  "cc860c68-6997-40fb-84c9-d82df289f70b",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2021-05-07T13:03:47Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Funding for innovative smart energy systems",
+                                                     "web_url":  "https://www.gov.uk/guidance/funding-for-innovative-smart-energy-systems",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D1380",
+                                            "api_path":  "/api/content/government/organisations/department-for-energy-security-and-net-zero",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-energy-security-and-net-zero",
+                                            "base_path":  "/government/organisations/department-for-energy-security-and-net-zero",
+                                            "content_id":  "6315817c-ef11-4905-bb4d-b6dca8e9052c",
+                                            "details":  {
+                                                            "acronym":  "DESNZ",
+                                                            "brand":  "department-for-business-innovation-skills",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/656df1fd1104cf000dfa74a1/s960_whitehall-place-exterior-960x640.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/656df1fd0f12ef07a53e01be/s300_whitehall-place-exterior-960x640.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Department for\u003cbr/\u003eEnergy Security\u003cbr/\u003e\u0026amp; Net Zero"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Department for Energy Security and Net Zero",
+                                            "web_url":  "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+                                            "withdrawn":  false
+                                        },
+                                        {
+                                            "analytics_identifier":  "D1198",
+                                            "api_path":  "/api/content/government/organisations/department-for-business-energy-and-industrial-strategy",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-business-energy-and-industrial-strategy",
+                                            "base_path":  "/government/organisations/department-for-business-energy-and-industrial-strategy",
+                                            "content_id":  "2bde479a-97f2-42b5-986a-287a623c2a1c",
+                                            "details":  {
+                                                            "acronym":  "BEIS",
+                                                            "brand":  "department-for-business-innovation-skills",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37dab9ed915d5a62fdc6b1/s960_beis-sign-1vs.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5a37dab9ed915d5a5f965fd5/s300_beis-sign-1vs.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Department for\u003cbr/\u003eBusiness, Energy\u003cbr/\u003e\u0026amp; Industrial Strategy"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "split",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  ""
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Department for Business, Energy \u0026 Industrial Strategy",
+                                            "web_url":  "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "D1198",
+                                                                       "api_path":  "/api/content/government/organisations/department-for-business-energy-and-industrial-strategy",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-business-energy-and-industrial-strategy",
+                                                                       "base_path":  "/government/organisations/department-for-business-energy-and-industrial-strategy",
+                                                                       "content_id":  "2bde479a-97f2-42b5-986a-287a623c2a1c",
+                                                                       "details":  {
+                                                                                       "acronym":  "BEIS",
+                                                                                       "brand":  "department-for-business-innovation-skills",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37dab9ed915d5a62fdc6b1/s960_beis-sign-1vs.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5a37dab9ed915d5a5f965fd5/s300_beis-sign-1vs.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Department for\u003cbr/\u003eBusiness, Energy\u003cbr/\u003e\u0026amp; Industrial Strategy"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "split",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  ""
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Department for Business, Energy \u0026 Industrial Strategy",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D1380",
+                                                              "api_path":  "/api/content/government/organisations/department-for-energy-security-and-net-zero",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-energy-security-and-net-zero",
+                                                              "base_path":  "/government/organisations/department-for-energy-security-and-net-zero",
+                                                              "content_id":  "6315817c-ef11-4905-bb4d-b6dca8e9052c",
+                                                              "details":  {
+                                                                              "acronym":  "DESNZ",
+                                                                              "brand":  "department-for-business-innovation-skills",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/656df1fd1104cf000dfa74a1/s960_whitehall-place-exterior-960x640.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/656df1fd0f12ef07a53e01be/s300_whitehall-place-exterior-960x640.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Department for\u003cbr/\u003eEnergy Security\u003cbr/\u003e\u0026amp; Net Zero"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Department for Energy Security and Net Zero",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/domestic-battery-energy-storage-systems",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/domestic-battery-energy-storage-systems",
+                                                              "base_path":  "/government/publications/domestic-battery-energy-storage-systems",
+                                                              "content_id":  "21dec3cf-2b12-4121-a10c-d62aa0f4212e",
+                                                              "document_type":  "research",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-10-02T08:34:11Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Domestic battery energy storage systems",
+                                                              "web_url":  "https://www.gov.uk/government/publications/domestic-battery-energy-storage-systems",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/smart-energy-savings-sens-competition",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/smart-energy-savings-sens-competition",
+                                                              "base_path":  "/government/publications/smart-energy-savings-sens-competition",
+                                                              "content_id":  "19af5a22-6345-4769-bb2a-ebb53b034699",
+                                                              "document_type":  "form",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-01-08T13:31:55Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Smart Energy Savings (SENS) competition",
+                                                              "web_url":  "https://www.gov.uk/government/publications/smart-energy-savings-sens-competition",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/environment/low-carbon-technologies",
+                                     "api_url":  "https://www.gov.uk/api/content/environment/low-carbon-technologies",
+                                     "base_path":  "/environment/low-carbon-technologies",
+                                     "content_id":  "5812ef82-6a5c-43b8-9d76-b3f7d8019945",
+                                     "details":  {
+                                                     "internal_name":  "Low carbon technologies [P]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/environment/climate-change-energy-energy-infrastructure",
+                                                                             "api_url":  "https://www.gov.uk/api/content/environment/climate-change-energy-energy-infrastructure",
+                                                                             "base_path":  "/environment/climate-change-energy-energy-infrastructure",
+                                                                             "content_id":  "899d76d6-4d59-409e-a7a4-2a7e47c9361b",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Energy infrastructure [T]",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/environment",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/environment",
+                                                                                                                     "base_path":  "/environment",
+                                                                                                                     "content_id":  "3cf97f69-84de-41ae-bc7b-7e2cc238fa58",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Environment",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T13:39:00Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Environment",
+                                                                                                                     "web_url":  "https://www.gov.uk/environment",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-05T16:13:09Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Energy infrastructure",
+                                                                             "web_url":  "https://www.gov.uk/environment/climate-change-energy-energy-infrastructure",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-05T16:13:09Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Low carbon technologies",
+                                     "web_url":  "https://www.gov.uk/environment/low-carbon-technologies",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/business-and-industry/research-and-development",
+                                     "api_url":  "https://www.gov.uk/api/content/business-and-industry/research-and-development",
+                                     "base_path":  "/business-and-industry/research-and-development",
+                                     "content_id":  "1a045007-0eaf-4429-8240-ec034ee6e9d8",
+                                     "details":  {
+                                                     "internal_name":  "Research and development",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/business-and-industry/science-and-innovation",
+                                                                             "api_url":  "https://www.gov.uk/api/content/business-and-industry/science-and-innovation",
+                                                                             "base_path":  "/business-and-industry/science-and-innovation",
+                                                                             "content_id":  "ccb77bcc-56b4-419a-b5ce-f7c2234e0546",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Science and innovation",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/business-and-industry",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/business-and-industry",
+                                                                                                                     "base_path":  "/business-and-industry",
+                                                                                                                     "content_id":  "495afdb6-47be-4df1-8b38-91c8adb1eefc",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Business and industry",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-03T15:41:02Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Business and industry",
+                                                                                                                     "web_url":  "https://www.gov.uk/business-and-industry",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-03T15:41:05Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Science and innovation",
+                                                                             "web_url":  "https://www.gov.uk/business-and-industry/science-and-innovation",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-03T15:41:05Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Research and development",
+                                     "web_url":  "https://www.gov.uk/business-and-industry/research-and-development",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2021-05-07T14:03:47+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1713907992.649-10.13.27.83-628",
+    "publishing_scheduled_at":  "2019-03-05T12:00:00+00:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  8,
+    "schema_name":  "detailed_guide",
+    "title":  "Funding for innovative smart energy systems",
+    "updated_at":  "2024-11-18T13:23:43+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

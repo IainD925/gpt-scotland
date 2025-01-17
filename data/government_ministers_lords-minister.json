@@ -1,0 +1,181 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/government/ministers/lords-minister",
+    "content_id":  "6ab10b53-d2c6-466d-a89e-8bb820166e88",
+    "description":  "The Lords Minister has responsibility for: overall corporate lead including Spending Review and Budget data and identity enablers digital and technology public appointments sponsorship unit countering extremism hate crime forensic science and DNA",
+    "details":  {
+                    "attends_cabinet_type":  null,
+                    "body":  "\u003cp\u003eThe Lords Minister has responsibility for:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eoverall corporate lead including Spending Review and Budget\u003c/li\u003e\n  \u003cli\u003edata and identity\u003c/li\u003e\n  \u003cli\u003eenablers\u003c/li\u003e\n  \u003cli\u003edigital and technology\u003c/li\u003e\n  \u003cli\u003epublic appointments\u003c/li\u003e\n  \u003cli\u003esponsorship unit\u003c/li\u003e\n  \u003cli\u003ecountering extremism\u003c/li\u003e\n  \u003cli\u003ehate crime\u003c/li\u003e\n  \u003cli\u003eforensic science and DNA\u003c/li\u003e\n\u003c/ul\u003e\n",
+                    "role_payment_type":  null,
+                    "seniority":  100,
+                    "supports_historical_accounts":  false,
+                    "whip_organisation":  {
+
+                                          }
+                },
+    "document_type":  "ministerial_role",
+    "first_published_at":  "2020-02-25T12:30:22+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/government/ministers/lords-minister",
+                                                     "api_url":  "https://www.gov.uk/api/content/government/ministers/lords-minister",
+                                                     "base_path":  "/government/ministers/lords-minister",
+                                                     "content_id":  "6ab10b53-d2c6-466d-a89e-8bb820166e88",
+                                                     "document_type":  "ministerial_role",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2021-04-07T11:30:17Z",
+                                                     "schema_name":  "role",
+                                                     "title":  "Minister of State",
+                                                     "web_url":  "https://www.gov.uk/government/ministers/lords-minister",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "ordered_parent_organisations":  [
+                                                       {
+                                                           "analytics_identifier":  "D16",
+                                                           "api_path":  "/api/content/government/organisations/home-office",
+                                                           "api_url":  "https://www.gov.uk/api/content/government/organisations/home-office",
+                                                           "base_path":  "/government/organisations/home-office",
+                                                           "content_id":  "06056197-bc69-4147-aa28-070bca132178",
+                                                           "details":  {
+                                                                           "acronym":  "Home Office",
+                                                                           "brand":  "home-office",
+                                                                           "default_news_image":  {
+                                                                                                      "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/669fa7f5ce1fd0da7b592afc/s960_2MS_Home_Office_sign_-_landscape.jpg",
+                                                                                                      "url":  "https://assets.publishing.service.gov.uk/media/669fa7f5ab418ab055592b21/s300_2MS_Home_Office_sign_-_landscape.jpg"
+                                                                                                  },
+                                                                           "logo":  {
+                                                                                        "crest":  "ho",
+                                                                                        "formatted_title":  "Home Office"
+                                                                                    },
+                                                                           "organisation_govuk_status":  {
+                                                                                                             "status":  "live",
+                                                                                                             "updated_at":  null,
+                                                                                                             "url":  null
+                                                                                                         }
+                                                                       },
+                                                           "document_type":  "organisation",
+                                                           "links":  {
+
+                                                                     },
+                                                           "locale":  "en",
+                                                           "schema_name":  "organisation",
+                                                           "title":  "Home Office",
+                                                           "web_url":  "https://www.gov.uk/government/organisations/home-office",
+                                                           "withdrawn":  false
+                                                       }
+                                                   ],
+                  "role_appointments":  [
+                                            {
+                                                "content_id":  "6c1e7c6f-20fb-4ed5-9e68-c242aef0d4bc",
+                                                "details":  {
+                                                                "current":  false,
+                                                                "ended_on":  "2022-09-06T00:00:00+01:00",
+                                                                "person_appointment_order":  6101,
+                                                                "started_on":  "2020-02-14T00:00:00+00:00"
+                                                            },
+                                                "document_type":  "role_appointment",
+                                                "links":  {
+                                                              "person":  [
+                                                                             {
+                                                                                 "api_path":  "/api/content/government/people/susan-williams-of-trafford",
+                                                                                 "api_url":  "https://www.gov.uk/api/content/government/people/susan-williams-of-trafford",
+                                                                                 "base_path":  "/government/people/susan-williams-of-trafford",
+                                                                                 "content_id":  "853df657-c0f1-11e4-8223-005056011aef",
+                                                                                 "details":  {
+                                                                                                 "body":  "\u003cp\u003eBaroness Williams was Captain of the Honourable Corps of Gentlemen-at-Arms (Lords Chief Whip) from 7 September 2022 to 5 July 2024.\u003c/p\u003e\n\n\u003cp\u003eShe was previously Minister of State at the Home Office from 17 July 2016 to 7 September 2022. She is a Conservative member of the House of Lords. In March 2022 she was made a member of the Privy Council.\u003c/p\u003e\n\n\u003ch2 id=\"education\"\u003eEducation\u003c/h2\u003e\n\n\u003cp\u003eBaroness Williams was educated at La Sagesse High School and the University of Huddersfield, from which she was awarded a a BSc Hons in Nutrition.\u003c/p\u003e\n\n\u003ch2 id=\"political-career\"\u003ePolitical career\u003c/h2\u003e\n\n\u003cp\u003eBaroness Williams was a member of Trafford Metropolitan Borough Council between 1998 and 2011, serving as leader of the Conservative group between 2002 and 2009 and as Council Leader between 2004 and 2009. She was raised to the peerage in 2013. She previously served as Parliamentary Under Secretary of State at the Department for Communities and Local Government from May 2015 until July 2016.\u003c/p\u003e\n\n\u003ch2 id=\"career-outside-politics\"\u003eCareer outside politics\u003c/h2\u003e\n\n\u003cp\u003eBaroness Williams was a non-executive director of the North West Development Agency between 2007 and 2011 and was the Chair (North West) of the Heritage Lottery Fund between 2011 and 2012. She has also served on the board of the Central Salford Urban Regeneration Company and as a member of the Greater Manchester Police Authority.\u003c/p\u003e\n\n\u003cp\u003eMore recently she was a director of the North West Rail Campaign and executive director of Atlantic Gateway.\u003c/p\u003e\n\n\u003ch2 id=\"personal-life\"\u003ePersonal life\u003c/h2\u003e\n\n\u003cp\u003eBaroness Williams is married and has a son and 2 daughters.\u003c/p\u003e\n",
+                                                                                                 "image":  {
+                                                                                                               "alt_text":  "The Rt Hon Baroness Williams of Trafford",
+                                                                                                               "url":  "https://assets.publishing.service.gov.uk/media/5a4f6b6140f0b648c7221d59/s465_Baroness_Williams_-_Official_-_960_x_640.jpg"
+                                                                                                           }
+                                                                                             },
+                                                                                 "document_type":  "person",
+                                                                                 "links":  {
+
+                                                                                           },
+                                                                                 "locale":  "en",
+                                                                                 "public_updated_at":  "2024-07-18T10:07:11Z",
+                                                                                 "schema_name":  "person",
+                                                                                 "title":  "The Rt Hon Baroness Williams of Trafford",
+                                                                                 "web_url":  "https://www.gov.uk/government/people/susan-williams-of-trafford",
+                                                                                 "withdrawn":  false
+                                                                             }
+                                                                         ],
+                                                              "role":  [
+                                                                           {
+                                                                               "api_path":  "/api/content/government/ministers/lords-minister",
+                                                                               "api_url":  "https://www.gov.uk/api/content/government/ministers/lords-minister",
+                                                                               "base_path":  "/government/ministers/lords-minister",
+                                                                               "content_id":  "6ab10b53-d2c6-466d-a89e-8bb820166e88",
+                                                                               "details":  {
+                                                                                               "body":  "\u003cp\u003eThe Lords Minister has responsibility for:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eoverall corporate lead including Spending Review and Budget\u003c/li\u003e\n  \u003cli\u003edata and identity\u003c/li\u003e\n  \u003cli\u003eenablers\u003c/li\u003e\n  \u003cli\u003edigital and technology\u003c/li\u003e\n  \u003cli\u003epublic appointments\u003c/li\u003e\n  \u003cli\u003esponsorship unit\u003c/li\u003e\n  \u003cli\u003ecountering extremism\u003c/li\u003e\n  \u003cli\u003ehate crime\u003c/li\u003e\n  \u003cli\u003eforensic science and DNA\u003c/li\u003e\n\u003c/ul\u003e\n",
+                                                                                               "role_payment_type":  null,
+                                                                                               "seniority":  100,
+                                                                                               "whip_organisation":  {
+
+                                                                                                                     }
+                                                                                           },
+                                                                               "document_type":  "ministerial_role",
+                                                                               "links":  {
+                                                                                             "ordered_parent_organisations":  [
+                                                                                                                                  {
+                                                                                                                                      "analytics_identifier":  "D16",
+                                                                                                                                      "api_path":  "/api/content/government/organisations/home-office",
+                                                                                                                                      "api_url":  "https://www.gov.uk/api/content/government/organisations/home-office",
+                                                                                                                                      "base_path":  "/government/organisations/home-office",
+                                                                                                                                      "content_id":  "06056197-bc69-4147-aa28-070bca132178",
+                                                                                                                                      "details":  {
+                                                                                                                                                      "acronym":  "Home Office",
+                                                                                                                                                      "brand":  "home-office",
+                                                                                                                                                      "default_news_image":  "@{high_resolution_url=https://assets.publishing.service.gov.uk/media/669fa7f5ce1fd0da7b592afc/s960_2MS_Home_Office_sign_-_landscape.jpg; url=https://assets.publishing.service.gov.uk/media/669fa7f5ab418ab055592b21/s300_2MS_Home_Office_sign_-_landscape.jpg}",
+                                                                                                                                                      "logo":  "@{crest=ho; formatted_title=Home Office}",
+                                                                                                                                                      "organisation_govuk_status":  "@{status=live; updated_at=; url=}"
+                                                                                                                                                  },
+                                                                                                                                      "document_type":  "organisation",
+                                                                                                                                      "links":  {
+
+                                                                                                                                                },
+                                                                                                                                      "locale":  "en",
+                                                                                                                                      "schema_name":  "organisation",
+                                                                                                                                      "title":  "Home Office",
+                                                                                                                                      "web_url":  "https://www.gov.uk/government/organisations/home-office",
+                                                                                                                                      "withdrawn":  false
+                                                                                                                                  }
+                                                                                                                              ]
+                                                                                         },
+                                                                               "locale":  "en",
+                                                                               "public_updated_at":  "2021-04-07T11:30:17Z",
+                                                                               "schema_name":  "role",
+                                                                               "title":  "Minister of State",
+                                                                               "web_url":  "https://www.gov.uk/government/ministers/lords-minister",
+                                                                               "withdrawn":  false
+                                                                           }
+                                                                       ]
+                                                          },
+                                                "locale":  "en",
+                                                "public_updated_at":  "2022-09-07T17:09:01Z",
+                                                "schema_name":  "role_appointment",
+                                                "title":  "The Rt Hon Baroness Williams of Trafford - Minister of State",
+                                                "withdrawn":  false
+                                            }
+                                        ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2021-04-07T12:30:17+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1681393811.330-10.13.32.14-403",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "collections",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "role",
+    "title":  "Minister of State",
+    "updated_at":  "2024-12-27T10:08:57+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

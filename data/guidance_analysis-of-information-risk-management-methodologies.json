@@ -1,0 +1,215 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/analysis-of-information-risk-management-methodologies",
+    "content_id":  "12531372-56e7-4a19-b849-8aabda2cfc78",
+    "description":  "A description of different risk management frameworks to help inform organisations who are considering selecting one.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\n\u003cdiv class=\"call-to-action\"\u003e\n\u003cp\u003eThis is an ALPHA  release and we welcome feedback to help us shape further releases. Please send any feedback to \u003ca href=\"mailto:enquiries@cesg.gsi.gov.uk\" class=\"govuk-link\"\u003eenquiries@cesg.gsi.gov.uk\u003c/a\u003e.\u003c/p\u003e\n\u003c/div\u003e\n\n\u003ch2 id=\"introduction\"\u003eIntroduction\u003c/h2\u003e\n\n\u003cp\u003eWhen choosing a risk management framework and assessment methodology, an organisation should ensure it fits their purposes.\u003c/p\u003e\n\n\u003cp\u003eConsiderations may include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe cost\u003c/li\u003e\n  \u003cli\u003ethe scope of the project\u003c/li\u003e\n  \u003cli\u003eensuring resources required are proportionate and sustainable\u003c/li\u003e\n  \u003cli\u003eany commercial aspects that could restrict its use\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThis guide summarises 6 common risk management methods and tools, and considers how they can be effectively applied. Irrespective of what method or tool is used, if it is not supported by thought or context, then effective risk management outcomes are unlikely to be realised.\u003c/p\u003e\n\n\u003cp\u003eNote that:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eother methods not listed here may prove a better choice, depending on the unique circumstances of your business and technology needs\u003c/li\u003e\n  \u003cli\u003eusing a single methodology may not meet your requirements; this is not a finite list and you may wish to use a hybrid approach or develop your own\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"isoiec-270052011-information-technology---security-techniques---information-security-risk-management\"\u003eISO/IEC 27005:2011 (‘Information technology - Security techniques - Information security risk management’)\u003c/h2\u003e\n\n\u003cp\u003eURL: \u003ca rel=\"external\" href=\"http://www.iso.org/iso/catalogue_detail?csnumber=56742\" class=\"govuk-link\"\u003ehttp://www.iso.org/iso/catalogue_detail?csnumber=56742\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eISO 27005 is an international standard providing guidelines for information risk management.  Although it does outline a generic risk assessment process in Chapter 8 and Annex E, it leaves the choice of that process to the business.\u003c/p\u003e\n\n\u003cp\u003eIt is part of the ISO 27000 family of standards. There is some dependency between these documents, with concepts from one being important for understanding those in another.\u003c/p\u003e\n\n\u003cp\u003eISO 27005 is likely to be used by organisations following the security requirements of ISO27001 (ISO/IEC 27001:2013 “Information technology - Security techniques - Information security management systems - Requirements”), although it can be used in other contexts.\u003c/p\u003e\n\n\u003cp\u003eThe appendices provide guidance on using qualitative and quantitative approaches. The standard is not prescriptive about which should be used. It refers out to IEC 31010:2009 (“Risk management - Risk assessment techniques”) to inform the choice of risk assessment technique.  ISO 27005 requires that a risk assessment takes into account threats, vulnerabilities, and impacts. They must be contextualised to the business, then fed into the risk evaluation process, which informs the decisions made on how to treat risks.\u003c/p\u003e\n\n\u003cp\u003eAs a framework that is not overly prescriptive, the principles of ISO 27005 can be applied to a variety of types and sizes of organisation. Given the broad and generic nature of the guidance, specialist skilled resources will be needed to tailor the implementation to the requirements of the business. The cost of these resources should be considered along with the cost of purchasing the standards.\u003c/p\u003e\n\n\u003ch2 id=\"information-security-forum\"\u003eInformation Security Forum\u003c/h2\u003e\n\n\u003cp\u003eURL: \u003ca rel=\"external\" href=\"http://www.securityforum.org/tools/isf-risk-manager/\" class=\"govuk-link\"\u003ehttp://www.securityforum.org/tools/isf-risk-manager/\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eISF aims its products at large public and private sector organisations, and produces an annually updated Standard of Good Practice for Information Security. This standard is comprehensive and is compatible with other well-known standards. It is intended to support any risk assessment, but is particularly geared towards ISF’s own Information Risk Analysis Methodology (IRAM) and automated tool (Risk Analyst Workbench (RAW). This approach has three phases: a business impact assessment which determines the security requirements of the business, a threat and vulnerability assessment, and control selection.\u003c/p\u003e\n\n\u003cp\u003eThe standard and its related tools, which must be purchased from ISF, make for a thorough risk management package. The price of the materials includes user guides and attendance at some ISF events.\u003c/p\u003e\n\n\u003ch2 id=\"cesg-information-standard-12\"\u003eCESG Information Standard 1/2\u003c/h2\u003e\n\n\u003cp\u003eIS 1/2 and its supporting documents provide a suite of information risk management guidance for use, predominantly, by central government departments, the wider public sector and its suppliers. However it can also be used by any organisation to assess and manage their technical risks.\u003c/p\u003e\n\n\u003cp\u003eThe risk assessment method includes defining the scope of assessment and the corresponding information assets and then conducting an impact, threat and vulnerability assessment of them. The risk assessment method and supporting tool is freely available from CESG’s website.\u003c/p\u003e\n\n\u003cp\u003eThe risk treatment method includes: the production of a risk treatment plan, defining an implementation approach for the identified controls (largely based on ISO 27002), the development of an assurance plan, a residual risk assessment and gap analysis.\u003c/p\u003e\n\n\u003cp\u003eThe steps presented in IS1/2 are complex and achieving a consistent and reasoned outcome requires a skilled practitioner.\u003c/p\u003e\n\n\u003ch2 id=\"us-national-institute-of-standards-and-technology-nist-sp-800-30\"\u003eUS National Institute of Standards and Technology (NIST) SP 800-30\u003c/h2\u003e\n\n\u003cp\u003eNIST SP 800-30 is the US government’s preferred risk assessment methodology, and is mandated for US government agencies. It features a detailed step-by-step process from the initial stages of preparing for an assessment, through conducting it, communicating the results, and maintaining the assessment. It is freely available directly from the NIST website, although since NIST SP 800-30 is aimed largely at the US public sector, finding appropriate support to implement it may be difficult outside the US and should be factored into the cost.\u003c/p\u003e\n\n\u003cp\u003eThe guidance itself is comprehensive and clear. The methodology should be usable by organisations of all sizes in both the private and public sectors. It is designed to be consistent with the ISO standards, and flexible enough to be used with other risk management frameworks. Unsurprisingly, as a US standard, much of the supporting documentation in the NIST Risk Management Framework is heavily US-focussed, often dwelling on regulatory issues that may have little relevance to non-US users.\u003c/p\u003e\n\n\u003cp\u003eThe risk assessment process in SP 800-30 takes inputs from a preparatory step that establishes the context, scope, assumptions, and key information sources for the process, and then uses identified threats and vulnerabilities to determine likelihood, impact and risk. The process next requires that the results are communicated and the assessment maintained, including monitoring effectiveness of controls and verifying compliance.\u003c/p\u003e\n\n\u003ch2 id=\"octave-allegro\"\u003eOCTAVE Allegro\u003c/h2\u003e\n\n\u003cp\u003eURL: \u003ca rel=\"external\" href=\"http://www.cert.org/resilience/products-services/octave/index.cfm\" class=\"govuk-link\"\u003ehttp://www.cert.org/resilience/products-services/octave/index.cfm\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eThe Operationally Critical Threat, Asset, and Vulnerability Evaluation (OCTAVE) methodology originates from Carnegie Mellon University in the USA. Older versions are still in use but the most recent version, OCTAVE Allegro, is more streamlined and is actively supported. It is primarily intended as a qualitative assessment, although may be used for simple quantitative analysis.\u003c/p\u003e\n\n\u003cp\u003eOCTAVE is intended to be managed in a ‘workshop’ style, with a small group of participants from the operational and IT areas of the business, not requiring extensive expertise. The resources to perform a risk assessment can be downloaded for free and are integral to the process. Therefore, this approach might suit organisations looking for a risk assessment process that can be done without investing heavily in training or consultants. If training is required, Carnegie Mellon offers e-learning for a fee.\u003c/p\u003e\n\n\u003cp\u003eOctave Allegro is an asset-focussed method. The first step is establishing consistent, qualitative risk measurement criteria specific to the organisation’s drivers and objectives. After assets have been profiled, threats and impacts are considered in light of real world scenarios to identify risks. These risks are then prioritised according to the risk measurement criteria and mitigations planned.\u003c/p\u003e\n\n\u003ch2 id=\"isaca-cobit-5\"\u003eISACA COBIT 5\u003c/h2\u003e\n\n\u003cp\u003eURL: \u003ca rel=\"external\" href=\"https://cobitonline.isaca.org/\" class=\"govuk-link\"\u003ehttps://cobitonline.isaca.org/\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eCOBIT is a comprehensive governance and enterprise IT management framework from ISACA, an international association specialising in IT governance. It is a thorough and prescriptive framework which includes risk assessment, and has become popular in the US for businesses subject to heavy regulation or auditing. The standard is available free to ISACA members or can be purchased by non-members. It will likely require a significant investment of time and skilled personnel to implement. COBIT is likely to suit organisations where legal and regulatory compliance are of utmost importance.\u003c/p\u003e\n\n\u003cp\u003eOrganisations that seek to implement COBIT will need to choose a suitable way to assess risks that takes into account threats, impacts and vulnerabilities. COBIT is aligned with other well known standards such as ISO 27005. An organisation looking to implement COBIT will also need to take into account the specialist resources that will be necessary to implement this large framework, and ensure their chosen risk assessment method appropriately reflects their threats, vulnerabilities and impacts.\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2015-03-06T10:10:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "e3a2fb8d-6b69-4bce-9c51-38e8e2d128c9"
+                                                 ],
+                    "first_public_at":  "2015-03-06T10:10:00.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2015-03-06T10:10:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/analysis-of-information-risk-management-methodologies",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/analysis-of-information-risk-management-methodologies",
+                                                     "base_path":  "/guidance/analysis-of-information-risk-management-methodologies",
+                                                     "content_id":  "12531372-56e7-4a19-b849-8aabda2cfc78",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2015-03-06T10:10:00Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Analysis of information risk management methodologies",
+                                                     "web_url":  "https://www.gov.uk/guidance/analysis-of-information-risk-management-methodologies",
+                                                     "withdrawn":  true
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "base_path":  "/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "content_id":  "591c83aa-3b74-437d-a342-612bddd97572",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2015-05-08T00:00:00+00:00",
+                                                         "started_on":  "2010-05-12T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2010 to 2015 Conservative and Liberal Democrat coalition government",
+                                         "web_url":  "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government"
+                                     }
+                                 ],
+                  "lead_organisations":  [
+                                             {
+                                                 "analytics_identifier":  "OT563",
+                                                 "api_path":  "/api/content/government/organisations/cesg",
+                                                 "api_url":  "https://www.gov.uk/api/content/government/organisations/cesg",
+                                                 "base_path":  "/government/organisations/cesg",
+                                                 "content_id":  "e3a2fb8d-6b69-4bce-9c51-38e8e2d128c9",
+                                                 "details":  {
+                                                                 "brand":  "foreign-commonwealth-office",
+                                                                 "default_news_image":  null,
+                                                                 "logo":  {
+                                                                              "crest":  "single-identity",
+                                                                              "formatted_title":  "CESG"
+                                                                          },
+                                                                 "organisation_govuk_status":  {
+                                                                                                   "status":  "merged",
+                                                                                                   "updated_at":  null,
+                                                                                                   "url":  "http://www.cesg.gov.uk"
+                                                                                               }
+                                                             },
+                                                 "document_type":  "organisation",
+                                                 "links":  {
+
+                                                           },
+                                                 "locale":  "en",
+                                                 "schema_name":  "organisation",
+                                                 "title":  "CESG",
+                                                 "web_url":  "https://www.gov.uk/government/organisations/cesg",
+                                                 "withdrawn":  false
+                                             }
+                                         ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "OT563",
+                                            "api_path":  "/api/content/government/organisations/cesg",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/cesg",
+                                            "base_path":  "/government/organisations/cesg",
+                                            "content_id":  "e3a2fb8d-6b69-4bce-9c51-38e8e2d128c9",
+                                            "details":  {
+                                                            "brand":  "foreign-commonwealth-office",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "CESG"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "merged",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  "http://www.cesg.gov.uk"
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "CESG",
+                                            "web_url":  "https://www.gov.uk/government/organisations/cesg",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "OT563",
+                                                                       "api_path":  "/api/content/government/organisations/cesg",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/cesg",
+                                                                       "base_path":  "/government/organisations/cesg",
+                                                                       "content_id":  "e3a2fb8d-6b69-4bce-9c51-38e8e2d128c9",
+                                                                       "details":  {
+                                                                                       "brand":  "foreign-commonwealth-office",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "CESG"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "merged",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  "http://www.cesg.gov.uk"
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "CESG",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/cesg",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "OT563",
+                                                              "api_path":  "/api/content/government/organisations/cesg",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/cesg",
+                                                              "base_path":  "/government/organisations/cesg",
+                                                              "content_id":  "e3a2fb8d-6b69-4bce-9c51-38e8e2d128c9",
+                                                              "details":  {
+                                                                              "brand":  "foreign-commonwealth-office",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "CESG"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "merged",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  "http://www.cesg.gov.uk"
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "CESG",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/cesg",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2015-03-06T10:10:00+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "2672-1631013976.860-10.13.5.96-539",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Analysis of information risk management methodologies",
+    "updated_at":  "2023-01-11T11:34:38+00:00",
+    "withdrawn_notice":  {
+                             "explanation":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eThis content has been withdrawn and replaced by \u003ca rel=\"external\" href=\"https://www.cesg.gov.uk/guidance/critical-appraisal-risk-methods-and-frameworks\" class=\"govuk-link\"\u003eA critical appraisal of risk methods and frameworks\u003c/a\u003e.\u003c/p\u003e\n\u003c/div\u003e",
+                             "withdrawn_at":  "2016-05-18T13:12:03Z"
+                         }
+}

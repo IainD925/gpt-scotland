@@ -1,0 +1,542 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/how-to-find-a-digital-specialist-on-digital-marketplace",
+    "content_id":  "e6d9d0ef-f89d-485a-b66a-b0d44a1b6e53",
+    "description":  "Find a supplier who can provide a specialist, such as a data scientist or developer, for a specific piece of work.\r\n",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "accessibleformats@digital.cabinet-office.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.spreadsheet",
+                                            "file_size":  13734,
+                                            "filename":  "dos-specialists-requirements.ods",
+                                            "id":  "7075695",
+                                            "title":  "Requirements template for finding a digital specialist",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6038f90ad3bf7f039b78f0af/dos-specialists-requirements.ods"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eYou will need to write requirements to describe the piece of work and ask suppliers to provide a specialist who meets your needs.\u003c/p\u003e\n\n\u003cp\u003eSuppliers provide specialists to work on a digital service or product by providing one of 20 roles. The specialist cannot work for you outside the scope of your written requirements.\u003c/p\u003e\n\n\u003ch2 id=\"before-you-start\"\u003e1. Before you start\u003c/h2\u003e\n\n\u003ch3 id=\"decide-the-digital-specialist-you-need\"\u003eDecide the digital specialist you need\u003c/h3\u003e\n\n\u003cul\u003e\n  \u003cli\u003eagile coach: helps teams and individuals to embed an agile culture\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/business-analyst--2\" class=\"govuk-link\"\u003ebusiness analyst\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003ecommunications manager: develops communication plans across a range of digital channels to ensure that communication is clear, measurable and user-focused\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/content-designer\" class=\"govuk-link\"\u003econtent designer\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003ecyber security consultant: puts systems in place to prevent data destruction or disruption and minimise systems security breaches\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/data-architect\" class=\"govuk-link\"\u003edata architect\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/data-engineer\" class=\"govuk-link\"\u003edata engineer\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/data-scientist\" class=\"govuk-link\"\u003edata scientist\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/delivery-manager\" class=\"govuk-link\"\u003edelivery manager\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/interaction-designer\" class=\"govuk-link\"\u003edesigner\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/software-developer\" class=\"govuk-link\"\u003edeveloper\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/performance-analyst\" class=\"govuk-link\"\u003eperformance analyst\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003eportfolio manager: leads a digital portfolio of projects and programmes\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/product-manager\" class=\"govuk-link\"\u003eproduct manager\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/programme-delivery-manager\" class=\"govuk-link\"\u003eprogramme manager\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/quality-assurance-testing-qat-analyst\" class=\"govuk-link\"\u003equality assurance analyst\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/service-owner\" class=\"govuk-link\"\u003eservice manager, also called service owner\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/technical-architect\" class=\"govuk-link\"\u003etechnical architect\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/user-researcher\" class=\"govuk-link\"\u003euser researcher\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/application-operations-engineer\" class=\"govuk-link\"\u003eweb operations engineer\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"write-your-requirements\"\u003eWrite your requirements\u003c/h3\u003e\n\n\u003cp\u003eThe \u003ca rel=\"external\" href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/965278/dos-specialists-requirements.ods\" class=\"govuk-link\"\u003erequirements template (ODS, 14 KB)\u003c/a\u003e shows the information you’ll be asked to provide when you specify work for digital specialists.\u003c/p\u003e\n\n\u003cp\u003eYou can only post requirements for 1 specialist role at a time. For example if you want to find 3 content designers, you must write 3 separate requirements – 1 for each content designer.\u003c/p\u003e\n\n\u003cp\u003eYour requirements should include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ea title\u003c/li\u003e\n  \u003cli\u003etype of specialist you need\u003c/li\u003e\n  \u003cli\u003ewhere the digital specialist will be based\u003c/li\u003e\n  \u003cli\u003eorganisation the work is for, for example Lewisham Council\u003c/li\u003e\n  \u003cli\u003ewhat the specialist will work on\u003c/li\u003e\n  \u003cli\u003ewho the specialist will work with\u003c/li\u003e\n  \u003cli\u003eworking arrangements\u003c/li\u003e\n  \u003cli\u003eif security clearance is required\u003c/li\u003e\n  \u003cli\u003estart date\u003c/li\u003e\n  \u003cli\u003econtract length\u003c/li\u003e\n  \u003cli\u003emaximum day rate\u003c/li\u003e\n  \u003cli\u003ehow many specialists you will shortlist to evaluate\u003c/li\u003e\n  \u003cli\u003eevaluation criteria and weighting, for example 30% on price and 60% on technical expertise, 10% on cultural fit\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou should also think about including:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ewhich of your criteria are must-have and which are nice-to-have\u003c/li\u003e\n  \u003cli\u003ehow long suppliers will have to respond to your requirements\u003c/li\u003e\n  \u003cli\u003ehow you’re going to assess specialists, for example by interview or code test\u003c/li\u003e\n  \u003cli\u003ehow and when you’ll run an optional question and answer session (so you can talk to suppliers and quickly answer any questions they have about the requirements)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eRead about \u003ca href=\"https://www.gov.uk/guidance/how-to-write-your-requirements-for-digital-outcomes-and-specialists-services\" class=\"govuk-link\"\u003ehow to write requirements\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"talk-to-suppliers\"\u003eTalk to suppliers\u003c/h3\u003e\n\n\u003cp\u003eYou can \u003ca href=\"https://www.gov.uk/guidance/talking-to-suppliers-before-you-buy-digital-marketplace-services\" class=\"govuk-link\"\u003etalk to suppliers before you start\u003c/a\u003e to help you refine your requirements. This is sometimes called early market engagement or pre-tender market engagement (PTME).\u003c/p\u003e\n\n\u003cp\u003eEmail \u003ca href=\"mailto:cloud_digital@crowncommercial.gov.uk\" class=\"govuk-link\"\u003ecloud_digital@crowncommercial.gov.uk\u003c/a\u003e for the current list of supplier contact details.\u003c/p\u003e\n\n\u003ch3 id=\"get-budget-approval\"\u003eGet budget approval\u003c/h3\u003e\n\n\u003cp\u003eYou must get budget approval before you start the buying process.\u003c/p\u003e\n\n\u003cp\u003eIf you’re buying for central government, you have to go through the \u003ca href=\"https://www.gov.uk/service-manual/agile-delivery/spend-controls-check-if-you-need-approval-to-spend-money-on-a-service\" class=\"govuk-link\"\u003edigital and IT spend control\u003c/a\u003e process before you publish your requirements on the Digital Marketplace.\u003c/p\u003e\n\n\u003cp\u003eIf you’re buying for a public sector organisation outside of central government, you must get any internal approval you need.\u003c/p\u003e\n\n\u003ch3 id=\"set-evaluation-criteria\"\u003eSet evaluation criteria\u003c/h3\u003e\n\n\u003cp\u003eTell suppliers:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ehow you’re going to evaluate them\u003c/li\u003e\n  \u003cli\u003ethe weightings you’ll use for evaluation\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou must evaluate technical competence, cultural fit and price.\u003c/p\u003e\n\n\u003cp\u003eRead about \u003ca href=\"https://www.gov.uk/guidance/how-to-set-your-evaluation-criteria-when-buying-digital-outcomes-and-specialists-services\" class=\"govuk-link\"\u003ehow to set evaluation criteria\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"find-a-digital-specialist\"\u003e2. Find a digital specialist\u003c/h2\u003e\n\n\u003ch3 id=\"publish-your-requirements\"\u003ePublish your requirements\u003c/h3\u003e\n\n\u003cp\u003ePublish your requirements and evaluation criteria so suppliers can apply for the work. This information will be published on the Digital Marketplace where anyone can see it.\u003c/p\u003e\n\n\u003ch3 id=\"answer-supplier-questions\"\u003eAnswer supplier questions\u003c/h3\u003e\n\n\u003cp\u003eYou must:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003epost all supplier questions and answers on the Digital Marketplace\u003c/li\u003e\n  \u003cli\u003eremove any reference to the supplier’s name or any confidential information about the supplier\u003c/li\u003e\n  \u003cli\u003egive an individual response to each question, even when questions are similar\u003c/li\u003e\n  \u003cli\u003eanswer all questions at least one working day before the closing date for applications to give suppliers time to decide if the work is right for them\u003c/li\u003e\n  \u003cli\u003eget commercial or legal advice if you do not think you’ll be able to answer, or have not answered, all the questions at least one working day before the closing date for applications\u003c/li\u003e\n  \u003cli\u003ekeep a record of all questions and answers for your audit trail, for example save emails\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eRead about \u003ca href=\"https://www.gov.uk/guidance/how-to-answer-supplier-questions-about-your-digital-outcomes-and-specialists-requirements\" class=\"govuk-link\"\u003ehow to answer supplier questions\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"shortlist-interested-suppliers\"\u003eShortlist interested suppliers\u003c/h3\u003e\n\n\u003cp\u003eReview all supplier responses after the closing date. You cannot review any responses before the closing date.\u003c/p\u003e\n\n\u003cp\u003eCreate a shortlist and evaluate suppliers responses on:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ehow they meet your essential and nice-to-have requirements\u003c/li\u003e\n  \u003cli\u003ewhen they can start work\u003c/li\u003e\n  \u003cli\u003ethe day rate they quoted\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou can exclude suppliers that:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003edo not meet all your essential requirements\u003c/li\u003e\n  \u003cli\u003ecannot start work by the latest start date you gave in your requirements\u003c/li\u003e\n  \u003cli\u003ehave quoted a day rate that exceeds the maximum in your requirements\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eRead about \u003ca href=\"https://www.gov.uk/guidance/how-to-shortlist-digital-outcomes-and-specialists-suppliers\" class=\"govuk-link\"\u003ehow to shortlist suppliers\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eTell suppliers if they have not been shortlisted and explain why they didn’t meet the requirements.\u003c/p\u003e\n\n\u003ch3 id=\"invite-shortlisted-suppliers-to-the-assessment-stage\"\u003eInvite shortlisted suppliers to the assessment stage\u003c/h3\u003e\n\n\u003cp\u003eEvaluate shortlisted suppliers using the assessment methods and criteria you published with your requirements.\u003c/p\u003e\n\n\u003cp\u003eCalculate an overall score for each supplier based on technical competence, cultural fit and price to identify the winning supplier.\u003c/p\u003e\n\n\u003cp\u003eThe buying process should take around 4 to 6 weeks. This may be longer depending on the scope of your requirements, internal governance procedures and the availability of evaluators.\u003c/p\u003e\n\n\u003cp\u003eRead about \u003ca href=\"https://www.gov.uk/guidance/how-digital-marketplace-suppliers-have-been-evaluated\" class=\"govuk-link\"\u003ehow suppliers have been evaluated\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"award-a-contract\"\u003e3. Award a contract\u003c/h2\u003e\n\n\u003ch3 id=\"notify-the-successful-supplier\"\u003eNotify the successful supplier\u003c/h3\u003e\n\n\u003cp\u003eTell the successful supplier you’ll award them a contract.\u003c/p\u003e\n\n\u003cp\u003eRead about \u003ca href=\"https://www.gov.uk/guidance/how-to-award-a-contract-when-you-buy-services\" class=\"govuk-link\"\u003ehow to award a contract\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"notify-unsuccessful-suppliers\"\u003eNotify unsuccessful suppliers\u003c/h3\u003e\n\n\u003cp\u003eSuppliers need to know if and why they weren’t successful so they can plan for other work and improve any future applications they make. You must:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003etell unsuccessful suppliers that you won’t be awarding them a contract\u003c/li\u003e\n  \u003cli\u003egive feedback explaining why a supplier was unsuccessful, including the advantages of the successful bid compared to the unsuccessful bid\u003c/li\u003e\n  \u003cli\u003egive positive feedback where appropriate\u003c/li\u003e\n  \u003cli\u003egive the scores of the winning supplier\u003c/li\u003e\n  \u003cli\u003enot share details of other unsuccessful suppliers’ scores\u003c/li\u003e\n  \u003cli\u003egive only the final agreed scores, not individual evaluator scores\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"if-you-dont-find-the-right-supplier\"\u003eIf you don’t find the right supplier\u003c/h3\u003e\n\n\u003cp\u003eYou do not have to award a contract if you cannot find a suitable supplier. You should tell all remaining suppliers that:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eyou have not found one that meets your needs\u003c/li\u003e\n  \u003cli\u003eyou are not going to award a contract\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou should \u003ca rel=\"external\" href=\"https://www.digitalmarketplace.service.gov.uk/user/login\" class=\"govuk-link\"\u003eupdate your Digital Marketplace account\u003c/a\u003e to cancel the requirement.\u003c/p\u003e\n\n\u003ch2 id=\"publish-the-contract-on-contracts-finder\"\u003ePublish the contract on Contracts Finder\u003c/h2\u003e\n\n\u003cp\u003eYou must publish details of all completed contracts on Contracts Finder.\u003c/p\u003e\n\n\u003cp\u003eYou need to \u003ca rel=\"external\" href=\"https://supplierregistration.cabinetoffice.gov.uk/login\" class=\"govuk-link\"\u003esign in to your account\u003c/a\u003e first. If you do not have an account, \u003ca rel=\"external\" href=\"https://supplierregistration.cabinetoffice.gov.uk/organisation/register\" class=\"govuk-link\"\u003eregister as a buyer on Contracts Finder\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eYou should also \u003ca rel=\"external\" href=\"https://www.digitalmarketplace.service.gov.uk/user/login\" class=\"govuk-link\"\u003eupdate your account on the Digital Marketplace\u003c/a\u003e to let suppliers know the contract was awarded.\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2021-03-01T15:57:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "af07d5a5-df63-4ddc-9383-6a666845ebe9"
+                                                 ],
+                    "first_public_at":  "2021-03-01T15:57:00.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2021-03-01T15:57:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/how-to-find-a-digital-specialist-on-digital-marketplace",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/how-to-find-a-digital-specialist-on-digital-marketplace",
+                                                     "base_path":  "/guidance/how-to-find-a-digital-specialist-on-digital-marketplace",
+                                                     "content_id":  "e6d9d0ef-f89d-485a-b66a-b0d44a1b6e53",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2021-03-01T15:57:00Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "How to find a digital specialist on Digital Marketplace",
+                                                     "web_url":  "https://www.gov.uk/guidance/how-to-find-a-digital-specialist-on-digital-marketplace",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "ordered_related_items":  [
+                                                {
+                                                    "api_path":  "/api/content/guidance/digital-outcomes-and-specialists-buyers-guide",
+                                                    "api_url":  "https://www.gov.uk/api/content/guidance/digital-outcomes-and-specialists-buyers-guide",
+                                                    "base_path":  "/guidance/digital-outcomes-and-specialists-buyers-guide",
+                                                    "content_id":  "2372244c-cf12-4f81-bc2e-2cd720360862",
+                                                    "document_type":  "detailed_guide",
+                                                    "links":  {
+
+                                                              },
+                                                    "locale":  "en",
+                                                    "public_updated_at":  "2021-06-04T10:54:38Z",
+                                                    "schema_name":  "detailed_guide",
+                                                    "title":  "Buying through the Digital Outcomes and Specialists framework",
+                                                    "web_url":  "https://www.gov.uk/guidance/digital-outcomes-and-specialists-buyers-guide",
+                                                    "withdrawn":  false
+                                                },
+                                                {
+                                                    "api_path":  "/api/content/guidance/how-to-write-your-requirements-for-digital-outcomes-and-specialists-services",
+                                                    "api_url":  "https://www.gov.uk/api/content/guidance/how-to-write-your-requirements-for-digital-outcomes-and-specialists-services",
+                                                    "base_path":  "/guidance/how-to-write-your-requirements-for-digital-outcomes-and-specialists-services",
+                                                    "content_id":  "b115c76e-08e2-4dab-b657-cf99671a0977",
+                                                    "document_type":  "detailed_guide",
+                                                    "links":  {
+
+                                                              },
+                                                    "locale":  "en",
+                                                    "public_updated_at":  "2020-10-20T15:44:31Z",
+                                                    "schema_name":  "detailed_guide",
+                                                    "title":  "Writing your requirements for Digital Outcomes and Specialists services",
+                                                    "web_url":  "https://www.gov.uk/guidance/how-to-write-your-requirements-for-digital-outcomes-and-specialists-services",
+                                                    "withdrawn":  false
+                                                },
+                                                {
+                                                    "api_path":  "/api/content/guidance/how-to-find-digital-outcomes-on-digital-marketplace",
+                                                    "api_url":  "https://www.gov.uk/api/content/guidance/how-to-find-digital-outcomes-on-digital-marketplace",
+                                                    "base_path":  "/guidance/how-to-find-digital-outcomes-on-digital-marketplace",
+                                                    "content_id":  "5bacc5d0-af64-449d-9745-41873d6e08af",
+                                                    "document_type":  "detailed_guide",
+                                                    "links":  {
+
+                                                              },
+                                                    "locale":  "en",
+                                                    "public_updated_at":  "2021-03-01T15:57:00Z",
+                                                    "schema_name":  "detailed_guide",
+                                                    "title":  "How to find digital outcomes on Digital Marketplace",
+                                                    "web_url":  "https://www.gov.uk/guidance/how-to-find-digital-outcomes-on-digital-marketplace",
+                                                    "withdrawn":  false
+                                                },
+                                                {
+                                                    "api_path":  "/api/content/guidance/how-to-find-user-research-participants-on-digital-marketplace",
+                                                    "api_url":  "https://www.gov.uk/api/content/guidance/how-to-find-user-research-participants-on-digital-marketplace",
+                                                    "base_path":  "/guidance/how-to-find-user-research-participants-on-digital-marketplace",
+                                                    "content_id":  "98bf61c1-3b3a-417a-86fb-a5dbaeadae14",
+                                                    "document_type":  "detailed_guide",
+                                                    "links":  {
+
+                                                              },
+                                                    "locale":  "en",
+                                                    "public_updated_at":  "2021-03-01T15:56:00Z",
+                                                    "schema_name":  "detailed_guide",
+                                                    "title":  "How to find user research participants on Digital Marketplace",
+                                                    "web_url":  "https://www.gov.uk/guidance/how-to-find-user-research-participants-on-digital-marketplace",
+                                                    "withdrawn":  false
+                                                },
+                                                {
+                                                    "api_path":  "/api/content/guidance/how-to-hire-user-research-labs-on-the-digital-marketplace",
+                                                    "api_url":  "https://www.gov.uk/api/content/guidance/how-to-hire-user-research-labs-on-the-digital-marketplace",
+                                                    "base_path":  "/guidance/how-to-hire-user-research-labs-on-the-digital-marketplace",
+                                                    "content_id":  "81fec6f6-52d3-4904-b072-ebb18b033b02",
+                                                    "document_type":  "detailed_guide",
+                                                    "links":  {
+
+                                                              },
+                                                    "locale":  "en",
+                                                    "public_updated_at":  "2021-03-01T15:55:00Z",
+                                                    "schema_name":  "detailed_guide",
+                                                    "title":  "How to hire user research studios on the Digital Marketplace",
+                                                    "web_url":  "https://www.gov.uk/guidance/how-to-hire-user-research-labs-on-the-digital-marketplace",
+                                                    "withdrawn":  false
+                                                }
+                                            ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "OT1056",
+                                            "api_path":  "/api/content/government/organisations/government-digital-service",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+                                            "base_path":  "/government/organisations/government-digital-service",
+                                            "content_id":  "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+                                            "details":  {
+                                                            "acronym":  "GDS",
+                                                            "brand":  "department-for-science-innovation-and-technology",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Government Digital Service"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Government Digital Service",
+                                            "web_url":  "https://www.gov.uk/government/organisations/government-digital-service",
+                                            "withdrawn":  false
+                                        },
+                                        {
+                                            "analytics_identifier":  "EA1015",
+                                            "api_path":  "/api/content/government/organisations/crown-commercial-service",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/crown-commercial-service",
+                                            "base_path":  "/government/organisations/crown-commercial-service",
+                                            "content_id":  "8437e374-dfa7-4b52-bd88-ebc29032a9e4",
+                                            "details":  {
+                                                            "acronym":  "CCS",
+                                                            "brand":  "cabinet-office",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Crown\u003cbr/\u003eCommercial \u003cbr/\u003eService"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Crown Commercial Service",
+                                            "web_url":  "https://www.gov.uk/government/organisations/crown-commercial-service",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "OT1056",
+                                                                       "api_path":  "/api/content/government/organisations/government-digital-service",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+                                                                       "base_path":  "/government/organisations/government-digital-service",
+                                                                       "content_id":  "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+                                                                       "details":  {
+                                                                                       "acronym":  "GDS",
+                                                                                       "brand":  "department-for-science-innovation-and-technology",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Government Digital Service"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Government Digital Service",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/government-digital-service",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "OT1056",
+                                                              "api_path":  "/api/content/government/organisations/government-digital-service",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+                                                              "base_path":  "/government/organisations/government-digital-service",
+                                                              "content_id":  "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+                                                              "details":  {
+                                                                              "acronym":  "GDS",
+                                                                              "brand":  "department-for-science-innovation-and-technology",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Government Digital Service"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Government Digital Service",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/government-digital-service",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related_guides":  [
+                                         {
+                                             "api_path":  "/api/content/guidance/how-to-find-user-research-participants-on-digital-marketplace",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/how-to-find-user-research-participants-on-digital-marketplace",
+                                             "base_path":  "/guidance/how-to-find-user-research-participants-on-digital-marketplace",
+                                             "content_id":  "98bf61c1-3b3a-417a-86fb-a5dbaeadae14",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2021-03-01T15:56:00Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "How to find user research participants on Digital Marketplace",
+                                             "web_url":  "https://www.gov.uk/guidance/how-to-find-user-research-participants-on-digital-marketplace",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/how-to-hire-user-research-labs-on-the-digital-marketplace",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/how-to-hire-user-research-labs-on-the-digital-marketplace",
+                                             "base_path":  "/guidance/how-to-hire-user-research-labs-on-the-digital-marketplace",
+                                             "content_id":  "81fec6f6-52d3-4904-b072-ebb18b033b02",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2021-03-01T15:55:00Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "How to hire user research studios on the Digital Marketplace",
+                                             "web_url":  "https://www.gov.uk/guidance/how-to-hire-user-research-labs-on-the-digital-marketplace",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/digital-outcomes-and-specialists-buyers-guide",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/digital-outcomes-and-specialists-buyers-guide",
+                                             "base_path":  "/guidance/digital-outcomes-and-specialists-buyers-guide",
+                                             "content_id":  "2372244c-cf12-4f81-bc2e-2cd720360862",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2021-06-04T10:54:38Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Buying through the Digital Outcomes and Specialists framework",
+                                             "web_url":  "https://www.gov.uk/guidance/digital-outcomes-and-specialists-buyers-guide",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/how-to-find-a-digital-specialist-on-digital-marketplace",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/how-to-find-a-digital-specialist-on-digital-marketplace",
+                                             "base_path":  "/guidance/how-to-find-a-digital-specialist-on-digital-marketplace",
+                                             "content_id":  "e6d9d0ef-f89d-485a-b66a-b0d44a1b6e53",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2021-03-01T15:57:00Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "How to find a digital specialist on Digital Marketplace",
+                                             "web_url":  "https://www.gov.uk/guidance/how-to-find-a-digital-specialist-on-digital-marketplace",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/how-to-write-your-requirements-for-digital-outcomes-and-specialists-services",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/how-to-write-your-requirements-for-digital-outcomes-and-specialists-services",
+                                             "base_path":  "/guidance/how-to-write-your-requirements-for-digital-outcomes-and-specialists-services",
+                                             "content_id":  "b115c76e-08e2-4dab-b657-cf99671a0977",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2020-10-20T15:44:31Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Writing your requirements for Digital Outcomes and Specialists services",
+                                             "web_url":  "https://www.gov.uk/guidance/how-to-write-your-requirements-for-digital-outcomes-and-specialists-services",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/how-to-find-digital-outcomes-on-digital-marketplace",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/how-to-find-digital-outcomes-on-digital-marketplace",
+                                             "base_path":  "/guidance/how-to-find-digital-outcomes-on-digital-marketplace",
+                                             "content_id":  "5bacc5d0-af64-449d-9745-41873d6e08af",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2021-03-01T15:57:00Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "How to find digital outcomes on Digital Marketplace",
+                                             "web_url":  "https://www.gov.uk/guidance/how-to-find-digital-outcomes-on-digital-marketplace",
+                                             "withdrawn":  false
+                                         }
+                                     ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/government/technology-guidance-technology-guidance-digital-marketplace",
+                                     "api_url":  "https://www.gov.uk/api/content/government/technology-guidance-technology-guidance-digital-marketplace",
+                                     "base_path":  "/government/technology-guidance-technology-guidance-digital-marketplace",
+                                     "content_id":  "efb5d1e8-5dd8-4b6f-9b9a-de8b098e8046",
+                                     "details":  {
+                                                     "internal_name":  "Digital Marketplace [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/technology-guidance-technology-guidance-buying-technology",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/technology-guidance-technology-guidance-buying-technology",
+                                                                             "base_path":  "/government/technology-guidance-technology-guidance-buying-technology",
+                                                                             "content_id":  "685d131a-5bcc-46e0-b952-8d9a3ffc6f0a",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Buying technology [T]",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/government/government-technology-and-digital-services",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/government/government-technology-and-digital-services",
+                                                                                                                     "base_path":  "/government/government-technology-and-digital-services",
+                                                                                                                     "content_id":  "90c9b9f1-0a4f-4639-b1e9-2bfb23d611bd",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Government technology and digital services",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  false
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "parent_taxons":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "beta",
+                                                                                                                     "public_updated_at":  "2018-08-28T10:56:47Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Government technology and digital services",
+                                                                                                                     "web_url":  "https://www.gov.uk/government/government-technology-and-digital-services",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "beta",
+                                                                             "public_updated_at":  "2018-08-20T09:26:14Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Buying technology",
+                                                                             "web_url":  "https://www.gov.uk/government/technology-guidance-technology-guidance-buying-technology",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "beta",
+                                     "public_updated_at":  "2018-08-20T09:26:14Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Digital Marketplace",
+                                     "web_url":  "https://www.gov.uk/government/technology-guidance-technology-guidance-digital-marketplace",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/government/government-spending",
+                                     "api_url":  "https://www.gov.uk/api/content/government/government-spending",
+                                     "base_path":  "/government/government-spending",
+                                     "content_id":  "f3caf326-fe33-410f-b7f4-553f4011c81e",
+                                     "details":  {
+                                                     "internal_name":  "Government spending (level 2)",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/government-efficiency-transparency-and-accountability",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/government-efficiency-transparency-and-accountability",
+                                                                             "base_path":  "/government/government-efficiency-transparency-and-accountability",
+                                                                             "content_id":  "f3f4b5d3-49c4-487b-bd5b-be75f11ec8c5",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Government efficiency, transparency and accountability [PA] (level 2)",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/government/all",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/government/all",
+                                                                                                                     "base_path":  "/government/all",
+                                                                                                                     "content_id":  "e48ab80a-de80-4e83-bf59-26316856a5f9",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Government",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:29:39Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Government",
+                                                                                                                     "web_url":  "https://www.gov.uk/government/all",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-08-17T15:32:41Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Government efficiency, transparency and accountability",
+                                                                             "web_url":  "https://www.gov.uk/government/government-efficiency-transparency-and-accountability",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-08-17T15:32:41Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Government spending",
+                                     "web_url":  "https://www.gov.uk/government/government-spending",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2021-03-01T15:57:00+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1713904280.822-10.13.28.206-628",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "How to find a digital specialist on Digital Marketplace",
+    "updated_at":  "2024-12-31T08:20:27+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

@@ -1,0 +1,568 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/hm-land-registry-public-guidance",
+    "content_id":  "8d9b7743-1dbf-4dcd-94e1-cdcd5fa97ffc",
+    "description":  "Information for members of the public about HM Land Registry services and help in completing common applications.",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  46614,
+                                            "filename":  "LLCR_Data_Scoping.xlsx",
+                                            "id":  "8378309",
+                                            "title":  "LLCR_Data_Scoping",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/670e7d7192bb81fcdbe7b88e/LLCR_Data_Scoping.xlsx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  24355,
+                                            "filename":  "Migration_readiness_assessment_tool.xlsx",
+                                            "id":  "8378310",
+                                            "title":  "Migration_readiness_assessment_tool",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/670e7d7130536cb9274831be/Migration_readiness_assessment_tool.xlsx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  244838,
+                                            "filename":  "Outline_Business_Case_for_LAs_commencing_LLC_digitisation__6_.pdf",
+                                            "id":  "8378311",
+                                            "number_of_pages":  8,
+                                            "title":  "Outline_Business_Case_for_LAs_commencing_LLC_digitisation",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/670e7d7292bb81fcdbe7b88f/Outline_Business_Case_for_LAs_commencing_LLC_digitisation__6_.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  39269,
+                                            "filename":  "Service_assessment_template.xlsx",
+                                            "id":  "8378312",
+                                            "title":  "Service_assessment_template",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/670e7d7230536cb9274831bf/Service_assessment_template.xlsx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.text",
+                                            "file_size":  124656,
+                                            "filename":  "Criteria_for_participation_in_Data_Analysis.odt",
+                                            "id":  "8378313",
+                                            "title":  "Criteria_for_participation_in_Data_Analysis",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/670e7da792bb81fcdbe7b890/Criteria_for_participation_in_Data_Analysis.odt"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  167516,
+                                            "filename":  "DAD_Example_Data_Quality_Checks.xlsx",
+                                            "id":  "8378314",
+                                            "title":  "DAD_Example_Data_Quality_Checks",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/670e7da7366f494ab2e7b8d8/DAD_Example_Data_Quality_Checks.xlsx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  197571,
+                                            "filename":  "DAD_Example_for_data_summary.xlsx",
+                                            "id":  "8378315",
+                                            "title":  "DAD_Example_for_data_summary",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/670e7da7e84ae1fd8592f3ae/DAD_Example_for_data_summary.xlsx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  136315,
+                                            "filename":  "DAD_Example_for_spatial_analysis.xlsx",
+                                            "id":  "8378316",
+                                            "title":  "DAD_Example_for_spatial_analysis",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/670e7da7080bdf716392f3bb/DAD_Example_for_spatial_analysis.xlsx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  222296,
+                                            "filename":  "DAD_Example_for_textual_analysis.xlsx",
+                                            "id":  "8378317",
+                                            "title":  "DAD_Example_for_textual_analysis",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/670e7da7e84ae1fd8592f3af/DAD_Example_for_textual_analysis.xlsx"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.text",
+                                            "file_size":  1841344,
+                                            "filename":  "Data_quality_approach.odt",
+                                            "id":  "8378318",
+                                            "title":  "Data_quality_approach",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/670e7da7080bdf716392f3bc/Data_quality_approach.odt"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  447331,
+                                            "filename":  "LLC_Data_Specification_-_what_my_data_will_look_like_after_migration.pdf",
+                                            "id":  "8378319",
+                                            "number_of_pages":  37,
+                                            "title":  "Data_Specification_-_what_my_data_will_look_like_after_migration",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/670e7da7366f494ab2e7b8d9/LLC_Data_Specification_-_what_my_data_will_look_like_after_migration.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.text",
+                                            "file_size":  38974,
+                                            "filename":  "Blackpool_Council_Case_Study.odt",
+                                            "id":  "8378320",
+                                            "title":  "Blackpool_Council_Case_Study",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/670e7df1080bdf716392f3bf/Blackpool_Council_Case_Study.odt"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.text",
+                                            "file_size":  31246,
+                                            "filename":  "Carlisle_City_Council.odt",
+                                            "id":  "8378321",
+                                            "title":  "Carlisle_City_Council",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/670e7df1e84ae1fd8592f3b3/Carlisle_City_Council.odt"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.text",
+                                            "file_size":  37830,
+                                            "filename":  "City_of_London_Corporation_case_study.odt",
+                                            "id":  "8378322",
+                                            "title":  "City_of_London_Corporation_case_study",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/670e7df13b919067bb4831d0/City_of_London_Corporation_case_study.odt"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.text",
+                                            "file_size":  34753,
+                                            "filename":  "Council_of_the_Isles_of_Scilly_case_study.odt",
+                                            "id":  "8378323",
+                                            "title":  "Council_of_the_Isles_of_Scilly_case_study",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/670e7df1080bdf716392f3c0/Council_of_the_Isles_of_Scilly_case_study.odt"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.text",
+                                            "file_size":  32342,
+                                            "filename":  "East_Lindsey_Key_Learnings.odt",
+                                            "id":  "8378324",
+                                            "title":  "East_Lindsey_Key_Learnings",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/670e7df130536cb9274831c2/East_Lindsey_Key_Learnings.odt"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.text",
+                                            "file_size":  28203,
+                                            "filename":  "Lambeth_.odt",
+                                            "id":  "8378325",
+                                            "title":  "Lambeth",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/670e7df13b919067bb4831d1/Lambeth_.odt"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.text",
+                                            "file_size":  35051,
+                                            "filename":  "Liverpool_City_Council_case_study.odt",
+                                            "id":  "8378326",
+                                            "title":  "Liverpool_City_Council_case_study",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/670e7df1366f494ab2e7b8dc/Liverpool_City_Council_case_study.odt"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.text",
+                                            "file_size":  34344,
+                                            "filename":  "Milton_Keynes_Council.odt",
+                                            "id":  "8378327",
+                                            "title":  "Milton_Keynes_Council",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/670e7df192bb81fcdbe7b893/Milton_Keynes_Council.odt"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.text",
+                                            "file_size":  33748,
+                                            "filename":  "Norwich_City_Council_case_study.odt",
+                                            "id":  "8378328",
+                                            "title":  "Norwich_City_Council_case_study",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/670e7df1366f494ab2e7b8dd/Norwich_City_Council_case_study.odt"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.text",
+                                            "file_size":  28271,
+                                            "filename":  "Peterborough_LLC_case_study.odt",
+                                            "id":  "8378329",
+                                            "title":  "Peterborough_LLC_case_study",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/670e7df192bb81fcdbe7b894/Peterborough_LLC_case_study.odt"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.text",
+                                            "file_size":  36652,
+                                            "filename":  "Warwick_District_Council_case_study.odt",
+                                            "id":  "8378330",
+                                            "title":  "Warwick_District_Council_case_study",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/670e7df2080bdf716392f3c1/Warwick_District_Council_case_study.odt"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.oasis.opendocument.text",
+                                            "file_size":  27941,
+                                            "filename":  "Watford_Key_Learnings_FINAL.odt",
+                                            "id":  "8378331",
+                                            "title":  "Watford_Key_Learnings_FINAL",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/670e7df2e84ae1fd8592f3b4/Watford_Key_Learnings_FINAL.odt"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "customersupport@mail.landregistry.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  432316,
+                                            "filename":  "Submit_Colleagues__Applications_User_Guide.pdf",
+                                            "id":  "8378332",
+                                            "number_of_pages":  10,
+                                            "title":  "Submit_Colleagues__Applications_User_Guide",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/6734c7750b168c11ea823066/Submit_Colleagues__Applications_User_Guide.pdf"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003ch2 id=\"about-hm-land-registry\"\u003eAbout HM Land Registry\u003c/h2\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/government/organisations/land-registry/about\" class=\"govuk-link\"\u003eAbout us - HM Land Registry - GOV.UK (www.gov.uk)\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.youtube.com/watch?v=Yz1bT-6xhsw\" class=\"govuk-link\"\u003eWhat’s happening with my application?\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.youtube.com/watch?v=xBVTqEK_xTA\" class=\"govuk-link\"\u003eWhat does HM Land Registry do? - YouTube\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.youtube.com/watch?v=35kdyqR1WDI\" class=\"govuk-link\"\u003eHM Land Registry and the conveyancing process - YouTube\u003c/a\u003e\u003c/p\u003e\n\n\u003ch2 id=\"find-out-how-to\"\u003eFind out how to:\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/how-to-read-a-title-register-and-title-plan\" class=\"govuk-link\"\u003eread a title register and title plan\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/how-to-read-a-title-register-and-title-plan/how-to-read-a-title-register\" class=\"govuk-link\"\u003eread a title register\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/how-to-read-a-title-register-and-title-plan/how-to-read-a-title-plan\" class=\"govuk-link\"\u003eread a title plan\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eGeneral information about property boundaries, including what records HM Land Registry holds, a look at title plans and where to get help with a boundary query or dispute.\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.youtube.com/watch?v=1-zc7ux7fz0\" class=\"govuk-link\"\u003efind information about your property boundaries - YouTube\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eUpdate your contact address so HM Land Registry can contact you if necessary.\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.youtube.com/watch?v=1tyC_gGO5Jc\" class=\"govuk-link\"\u003eupdate your address for service - YouTube\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eApplication form ID1 to prove your identity when lodging an application to HM Land Registry.\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.youtube.com/watch?si=fuh1lm4BmNRaNGdz\u0026amp;v=Bx5Zcr9txO8\u0026amp;feature=youtu.be\" class=\"govuk-link\"\u003ecomplete form ID1 - YouTube\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eComplete a form AS1 to assent a property to the beneficiary.\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.youtube.com/watch?si=TcIE3g7R3kpWCKH8\u0026amp;v=N_jyik_uQQY\u0026amp;feature=youtu.be\" class=\"govuk-link\"\u003ecomplete form AS1 - YouTube\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eComplete a form AP1 to change the register for a property including changing your name.\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.youtube.com/watch?si=H77GYrvJpVR9YLgq\u0026amp;v=YRiIDIcq50Q\u0026amp;feature=youtu.be\" class=\"govuk-link\"\u003eHow to Complete Form AP1\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eComplete form AP1 example: name change and transfer from one to two registered owners as gift\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.youtube.com/watch?si=92Txj0SGhdWjOI0T\u0026amp;v=Wlfrtxhx_is\u0026amp;feature=youtu.be\" class=\"govuk-link\"\u003eComplete form AP1 example: name change and transfer from one to two registered owners as gift\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eComplete a form ID3 to prove your identity when lodging an application to HM Land Registry\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://youtu.be/MyvZlmTzFYY?si=PkbpTADLP7gm1OpT\" class=\"govuk-link\"\u003eHow to Complete Form ID3\u003c/a\u003e\u003c/p\u003e\n\n\u003ch2 id=\"boundaries\"\u003eGuidance\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/change-the-register-ap1/guidance-change-your-name-after-marriage-or-civil-partnership\" class=\"govuk-link\"\u003eChange your name after marriage or civil partnership\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/get-information-about-property-and-land/search-the-index-map\" class=\"govuk-link\"\u003eSearch the index map\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://hmlandregistry.blog.gov.uk/2022/11/02/what-kind-of-joint-ownership-do-i-have/\" class=\"govuk-link\"\u003eWhat kind of joint ownership do I have?\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://hmlandregistry.blog.gov.uk/2018/02/27/drawing-the-line-on-boundaries/\" class=\"govuk-link\"\u003eDrawing the line on boundaries\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"fraud\"\u003eFraud\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca href=\"https://www.gov.uk/protect-land-property-from-fraud\" class=\"govuk-link\"\u003eProtect your land and property from fraud\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/property-alert\" class=\"govuk-link\"\u003eSign up to receive alerts when there is certain activity in relation to your property\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca rel=\"external\" href=\"https://hmlandregistry.blog.gov.uk/2021/12/03/5-top-tips-to-keep-your-property-safe/\" class=\"govuk-link\"\u003e5 top tips to keep your property safe\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca rel=\"external\" href=\"https://hmlandregistry.blog.gov.uk/2022/11/04/protecting-your-property-from-fraud-form-ll-the-counter-fraud-restriction/\" class=\"govuk-link\"\u003eProtecting your property from fraud: Form LL – the ‘counter-fraud’ restriction\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca href=\"https://www.gov.uk/registering-land-or-property-with-land-registry\" class=\"govuk-link\"\u003eRegistering land or property with HM Land Registry\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"videos\"\u003eVideos\u003c/h3\u003e\n\n\u003cp\u003eWhat is property fraud, who is most at risk and how you can help protect your property\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.youtube.com/watch?v=QGwVz-69DS4\" class=\"govuk-link\"\u003eProtect your property from fraud\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eWhat is a ‘counter-fraud’ restriction and do you need one?\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.youtube.com/watch?v=aWxPgaTXmFY\" class=\"govuk-link\"\u003eProtecting your property from fraud: Form LL - the ‘counter-fraud’ restriction\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.youtube.com/watch?v=0MwGPhKCrKc\" class=\"govuk-link\"\u003eWhat is property fraud?\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://youtu.be/dkMb33Qh1TA?si=Vw3E67LdPNJjKcKK\" class=\"govuk-link\"\u003eHow to find information about land and property\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://youtu.be/Hy5nwTT-rjY?si=v94zR7ZRTWu7FQTj\" class=\"govuk-link\"\u003eWhat to do when a joint proprietor dies\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://youtu.be/xQ5T5RqfIMg?si=vn-yxNeAW7iLyRXk\" class=\"govuk-link\"\u003eHow to complete form TR1\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eFor specific scenarios you can watch:\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.youtube.com/watch?v=eSAG2hKzadM\" class=\"govuk-link\"\u003eMortgage free? Protect your property from fraud\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.youtube.com/watch?v=t5xf62N1zNE\" class=\"govuk-link\"\u003eOverseas landlord? Protect your property from fraud\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://www.youtube.com/watch?v=1JPjNkk625E\" class=\"govuk-link\"\u003eEmpty property? Protect your property from fraud\u003c/a\u003e\u003c/p\u003e\n\n\u003ch2 id=\"feedback\"\u003eFeedback\u003c/h2\u003e\n\n\u003cp\u003eWe really appreciate your comments, ideas and suggestions. So, if you have any feedback for us about this page or any suggestions for training topics and materials you’d like us to provide, please send an email to the team at \u003ca href=\"mailto:training@landregistry.gov.uk\" class=\"govuk-link\"\u003etraining@landregistry.gov.uk\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eWherever possible, your comments will be used to improve our guidance.\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2023-03-09T00:00:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "5c54ae52-341b-499e-a6dd-67f04633b8cf"
+                                                 ],
+                    "first_public_at":  "2023-03-09T00:00:00.000+00:00",
+                    "national_applicability":  {
+                                                   "england":  {
+                                                                   "applicable":  true,
+                                                                   "label":  "England"
+                                                               },
+                                                   "northern_ireland":  {
+                                                                            "alternative_url":  "",
+                                                                            "applicable":  false,
+                                                                            "label":  "Northern Ireland"
+                                                                        },
+                                                   "scotland":  {
+                                                                    "alternative_url":  "",
+                                                                    "applicable":  false,
+                                                                    "label":  "Scotland"
+                                                                },
+                                                   "wales":  {
+                                                                 "applicable":  true,
+                                                                 "label":  "Wales"
+                                                             }
+                                               },
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2023-03-09T00:00:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/hm-land-registry-public-guidance.cy",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/hm-land-registry-public-guidance.cy",
+                                                     "base_path":  "/guidance/hm-land-registry-public-guidance.cy",
+                                                     "content_id":  "8d9b7743-1dbf-4dcd-94e1-cdcd5fa97ffc",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "cy",
+                                                     "public_updated_at":  "2023-03-09T00:00:00Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Canllawiau cyhoeddus Cofrestrfa Tir EF",
+                                                     "web_url":  "https://www.gov.uk/guidance/hm-land-registry-public-guidance.cy",
+                                                     "withdrawn":  false
+                                                 },
+                                                 {
+                                                     "api_path":  "/api/content/guidance/hm-land-registry-public-guidance",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/hm-land-registry-public-guidance",
+                                                     "base_path":  "/guidance/hm-land-registry-public-guidance",
+                                                     "content_id":  "8d9b7743-1dbf-4dcd-94e1-cdcd5fa97ffc",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2023-03-09T00:00:00Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "HM Land Registry public guidance",
+                                                     "web_url":  "https://www.gov.uk/guidance/hm-land-registry-public-guidance",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2022-to-2024-sunak-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2022-to-2024-sunak-conservative-government",
+                                         "base_path":  "/government/2022-to-2024-sunak-conservative-government",
+                                         "content_id":  "acbd9825-4303-45cf-85bc-20f200c146ff",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2024-07-05T00:00:00+00:00",
+                                                         "started_on":  "2022-10-25T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2022 to 2024 Sunak Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D69",
+                                            "api_path":  "/api/content/government/organisations/land-registry",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/land-registry",
+                                            "base_path":  "/government/organisations/land-registry",
+                                            "content_id":  "5c54ae52-341b-499e-a6dd-67f04633b8cf",
+                                            "details":  {
+                                                            "acronym":  "HM Land Registry",
+                                                            "brand":  "ministry-of-housing-communities-local-government",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37dad8ed915d5a5f96600a/s960_HMLR960640.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5a37dad7ed915d5a5f966009/s300_HMLR960640.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "formatted_title":  "HM Land Registry",
+                                                                         "image":  {
+                                                                                       "alt_text":  "HM Land Registry",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/59fa00e440f0b62eeb2ec8df/HMLR_logo.png"
+                                                                                   }
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "HM Land Registry",
+                                            "web_url":  "https://www.gov.uk/government/organisations/land-registry",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "D69",
+                                                                       "api_path":  "/api/content/government/organisations/land-registry",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/land-registry",
+                                                                       "base_path":  "/government/organisations/land-registry",
+                                                                       "content_id":  "5c54ae52-341b-499e-a6dd-67f04633b8cf",
+                                                                       "details":  {
+                                                                                       "acronym":  "HM Land Registry",
+                                                                                       "brand":  "ministry-of-housing-communities-local-government",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37dad8ed915d5a5f96600a/s960_HMLR960640.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5a37dad7ed915d5a5f966009/s300_HMLR960640.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "formatted_title":  "HM Land Registry",
+                                                                                                    "image":  {
+                                                                                                                  "alt_text":  "HM Land Registry",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/59fa00e440f0b62eeb2ec8df/HMLR_logo.png"
+                                                                                                              }
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "HM Land Registry",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/land-registry",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D69",
+                                                              "api_path":  "/api/content/government/organisations/land-registry",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/land-registry",
+                                                              "base_path":  "/government/organisations/land-registry",
+                                                              "content_id":  "5c54ae52-341b-499e-a6dd-67f04633b8cf",
+                                                              "details":  {
+                                                                              "acronym":  "HM Land Registry",
+                                                                              "brand":  "ministry-of-housing-communities-local-government",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37dad8ed915d5a5f96600a/s960_HMLR960640.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/5a37dad7ed915d5a5f966009/s300_HMLR960640.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "formatted_title":  "HM Land Registry",
+                                                                                           "image":  {
+                                                                                                         "alt_text":  "HM Land Registry",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/59fa00e440f0b62eeb2ec8df/HMLR_logo.png"
+                                                                                                     }
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "HM Land Registry",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/land-registry",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/housing-local-and-community/land-registration",
+                                     "api_url":  "https://www.gov.uk/api/content/housing-local-and-community/land-registration",
+                                     "base_path":  "/housing-local-and-community/land-registration",
+                                     "content_id":  "82730dd2-4ead-4ae6-943b-2c910e758279",
+                                     "details":  {
+                                                     "internal_name":  "Land registration [T] (level 2, housing theme)",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/housing-local-and-community",
+                                                                             "api_url":  "https://www.gov.uk/api/content/housing-local-and-community",
+                                                                             "base_path":  "/housing-local-and-community",
+                                                                             "content_id":  "4794066e-e3cc-425e-8cc4-e7ff3edb4c39",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Housing, local and community",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:32:02Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Housing, local and community",
+                                                                             "web_url":  "https://www.gov.uk/housing-local-and-community",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-08-22T12:54:41Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Land registration",
+                                     "web_url":  "https://www.gov.uk/housing-local-and-community/land-registration",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2023-03-09T00:00:00+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1734602812.986-10.13.20.22-2415",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "HM Land Registry public guidance",
+    "updated_at":  "2025-01-06T11:09:45+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

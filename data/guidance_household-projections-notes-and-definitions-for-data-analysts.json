@@ -1,0 +1,401 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/household-projections-notes-and-definitions-for-data-analysts",
+    "content_id":  "5c81ffc5-7631-11e4-a3cb-005056011aef",
+    "description":  "Methodology for calculating long-term household projections, with notes and definitions for household estimates and analysis of data quality. ",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003ch2 id=\"overview\"\u003eOverview\u003c/h2\u003e\n\n\u003cp\u003eThis guidance is to be read in conjunction with the \u003ca href=\"https://www.gov.uk/government/collections/household-projections\" class=\"govuk-link\"\u003eseries on household projections\u003c/a\u003e, which includes the latest statistical releases on household projections.\u003c/p\u003e\n\n\u003cp\u003eThe current methodology in England reflects work to improve the household projections outputs and methods to better meet user needs. This work culminated in a \u003ca href=\"https://www.gov.uk/government/consultations/national-statistics-on-household-projections\" class=\"govuk-link\"\u003etechnical consultation about proposed changes to the national statistics on household projections\u003c/a\u003e in March 2010.\u003c/p\u003e\n\n\u003ch2 id=\"background\"\u003eBackground\u003c/h2\u003e\n\n\u003cp\u003eThe background research to this methodology consultation can be found in \u003ca href=\"https://www.gov.uk/government/publications/testing-methodological-changes-to-the-household-projections-model-research-report--2\" class=\"govuk-link\"\u003eTesting methodological changes to the household projections model: research report\u003c/a\u003e (published 1 March 2010), which is a report to test the impacts of changes to the household projections methods as proposed in the \u003ca rel=\"external\" href=\"http://webarchive.nationalarchives.gov.uk/20121108165934/http://www.communities.gov.uk/publications/housing/optionsfuturemodel\" class=\"govuk-link\"\u003eOptions for the future of the household projection model\u003c/a\u003e (available on the National Archive).\u003c/p\u003e\n\n\u003cp\u003eAn \u003ca rel=\"external\" href=\"https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/methodologies/householdprojectionsacrosstheukuserguide\" class=\"govuk-link\"\u003eoverview of the methodology used to produce household projections across the four UK countries,\u003c/a\u003e is available on the Office for National Statistics website.\u003c/p\u003e\n\n\u003ch2 id=\"definition-of-a-household\"\u003eDefinition of a household\u003c/h2\u003e\n\n\u003cp\u003eIn the 2001 Census, for the household projections and mid-year estimates a household is defined as:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eone person living alone, or\u003c/li\u003e\n  \u003cli\u003ea group of people (not necessarily related) living at the same address with common housekeeping – that is, sharing a living room or sitting room or at least 1 meal a day\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFor the 2011 Census, the definition of a household was updated to reflect recent social changes and living conditions but for the 2011 interim projections it was assumed that this did not affect household formation at the aggregate level.\u003c/p\u003e\n\n\u003ch2 id=\"projections-of-the-number-of-households\"\u003eProjections of the number of households\u003c/h2\u003e\n\n\u003cp\u003eThe household figures for England and its local authority districts are derived by the Department for Communities and Local Government from the household projections model using sub-national population figures from the Office for National Statistics (\u003cabbr title=\"Office for National Statistics\"\u003eONS\u003c/abbr\u003e).\u003c/p\u003e\n\n\u003cp\u003eGenerally the sub-national population projections are updated every other year following the publication of updated mid-year estimates of population but occasionally an interim set of projections are produced to meet user needs, for example after census results are published. The \u003ca href=\"https://www.gov.uk/government/statistics/household-interim-projections-2011-to-2021-in-england\" title=\"Household interim projections (2011 to 2021) in England\" class=\"govuk-link\"\u003e2011-based projections\u003c/a\u003e are interim because they are based on the 2011-based interim sub-national population projections. These population projections are based on the 2011 mid-year population estimates rolled forward from the Census 2011 data and apply the demographic trends used for the previous 2010-based sub-national population projections.\u003c/p\u003e\n\n\u003cp\u003eAn estimate of the communal establishment population is subtracted from the total population to give the private household population. These population figures, split by age, sex and marital status group, are multiplied by the projected ‘household representative rates’ that represent the proportion of the population in that category who are household representatives. These rates are based on the 1971, 1981, 1991, 2001 and 2011 censuses and Labour Force Survey data.\u003c/p\u003e\n\n\u003cp\u003eThe breakdown of the household projections into the detailed household types is given by a projection of headship rates from the 2001 and 2011 Census.\u003c/p\u003e\n\n\u003cp\u003eFigures for the number of households for 2011 are derived from household representative rates applied to the \u003cabbr title=\"Office for National Statistics\"\u003eONS\u003c/abbr\u003e mid-year population estimates for 2011. They are therefore not direct estimates of the actual number of households as they are derived from modelled household representative rates.\u003c/p\u003e\n\n\u003cp\u003eA more detailed description of the projection methodology is available in \u003ca href=\"https://www.gov.uk/government/statistics/updating-dclgs-household-projections-to-a-2011-base-methodology\" class=\"govuk-link\"\u003eUpdating the Department for Communities and Local Government’s household projections to a 2011 base: methodology\u003c/a\u003e (published 9 April 2013).\u003c/p\u003e\n\n\u003ch2 id=\"contribution-to-growth\"\u003eContribution to growth\u003c/h2\u003e\n\n\u003cp\u003eAnalysis of the effect of population change and household formation on household growth, presented in table 415 in \u003ca href=\"https://www.gov.uk/government/statistical-data-sets/live-tables-on-household-projections\" class=\"govuk-link\"\u003elive tables on household projections\u003c/a\u003e shows changes in the population contributed for about 98% of growth in household formation whereas changes in household formation contributed about 3% of household growth (these 2 elements do not add up to 100 because there is an interaction effect).\u003c/p\u003e\n\n\u003ch2 id=\"quality\"\u003eQuality\u003c/h2\u003e\n\n\u003cp\u003eAs the population projections are a key component of the household projections, the Office for National Statistics generally publishes a set of variant national population projections showing the effect on the population projections of different assumptions on fertility, life expectancy and net migration, and variant household projections give a broad indication of the sensitivity of the projections to these demographic assumptions.\u003c/p\u003e\n\n\u003cp\u003eThere are no variant projections available for the interim 2011-based sub-national population projections so no variant projections have been produced for the consistent 2011 interim household projections.\u003c/p\u003e\n\n\u003cp\u003eIn order to provide a sense of the sensitivity of the 2011-based interim household projections to changes in population, an analytical exercise has been done by applying the household formation rates from the 2011-interim household projections to the 2008-based sub-national population projections.\u003c/p\u003e\n\n\u003cp\u003eA \u003ca href=\"https://www.gov.uk/government/statistics/2011-based-interim-household-projections-quality-report\" title=\"2011-based interim household projections: quality report\" class=\"govuk-link\"\u003equality report\u003c/a\u003e has been published alongside these household projections.\u003c/p\u003e\n\n\u003ch2 id=\"historic-series-and-archive-figures\"\u003eHistoric series and archive figures\u003c/h2\u003e\n\n\u003cp\u003eThe data for 1861 to 1961 are largely based on the census figures for England and Wales, with Wales including Monmouthshire excluded to maintain an area consistent with modern England. The figures up until 1921 use families and separate occupiers and have not been adjusted to take account of the definitional change in 1921 that effectively removed the institutional population from the figures. The figure for 1939 is based on work by A. E. Holmans (see page 63, \u003ca rel=\"external\" href=\"http://books.google.co.uk/books?id=hrkOAAAAQAAJ\u0026amp;printsec=frontcover\u0026amp;source=gbs_ge_summary_r\u0026amp;cad=0#v=onepage\u0026amp;q\u0026amp;f=false\" class=\"govuk-link\"\u003eHousing Policy in Britain 1987,\u003c/a\u003e Croom Helm) with a pro-rata adjustment made for England using the population ratio.\u003c/p\u003e\n\n\u003cp\u003ePrevious projections from this century have been replaced by the 2011-based interim projections but information about these can be found below:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca href=\"https://www.gov.uk/government/statistics/household-projections-2008-to-2033-in-england\" class=\"govuk-link\"\u003eHousehold projections to 2033, England\u003c/a\u003e (published 26 November 2010)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"http://webarchive.nationalarchives.gov.uk/20100410180038/http://www.communities.gov.uk/publications/corporate/statistics/2031households0309\" class=\"govuk-link\"\u003eHousehold projections to 2031, England\u003c/a\u003e (published 11 March 2009)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"http://webarchive.nationalarchives.gov.uk/20121108165934/http://www.communities.gov.uk/publications/corporate/statistics/2026households0307\" class=\"govuk-link\"\u003eHousehold projections to 2029, England\u003c/a\u003e (published 16 March 2007)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"http://webarchive.nationalarchives.gov.uk/20121108165934/http://www.communities.gov.uk/publications/corporate/statistics/2026households0208\" class=\"govuk-link\"\u003eRevised household projections to 2026, England\u003c/a\u003e (published 28 February 2008)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe \u003ca rel=\"external\" href=\"http://webarchive.nationalarchives.gov.uk/20121108165934/http://www.communities.gov.uk/housing/housingresearch/housingstatistics/housingstatisticsby/householdestimates/livetables-households/\" class=\"govuk-link\"\u003esupporting live tables for the 2008-based projections (to 2033)\u003c/a\u003e can also be found on the National Archives.\u003c/p\u003e\n\n\u003ch2 id=\"contacts\"\u003eContacts\u003c/h2\u003e\n\n\u003cp\u003eE-mail: \u003ca href=\"mailto:housing.statistics@communities.gsi.gov.uk\" class=\"govuk-link\"\u003ehousing.statistics@communities.gsi.gov.uk\u003c/a\u003e\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Updated text to reflect publication of the 2011 interim household projections (2011 to 2021).",
+                                               "public_timestamp":  "2013-04-09T09:30:01.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2012-11-14T00:00:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "2e7868a8-38f5-4ff6-b62f-9a15d1c22d28"
+                                                 ],
+                    "first_public_at":  "2012-11-14T00:00:00.000+00:00",
+                    "national_applicability":  {
+                                                   "england":  {
+                                                                   "applicable":  true,
+                                                                   "label":  "England"
+                                                               },
+                                                   "northern_ireland":  {
+                                                                            "alternative_url":  "",
+                                                                            "applicable":  false,
+                                                                            "label":  "Northern Ireland"
+                                                                        },
+                                                   "scotland":  {
+                                                                    "alternative_url":  "",
+                                                                    "applicable":  false,
+                                                                    "label":  "Scotland"
+                                                                },
+                                                   "wales":  {
+                                                                 "alternative_url":  "",
+                                                                 "applicable":  false,
+                                                                 "label":  "Wales"
+                                                             }
+                                               },
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2012-11-14T00:00:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/household-projections-notes-and-definitions-for-data-analysts",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/household-projections-notes-and-definitions-for-data-analysts",
+                                                     "base_path":  "/guidance/household-projections-notes-and-definitions-for-data-analysts",
+                                                     "content_id":  "5c81ffc5-7631-11e4-a3cb-005056011aef",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2013-04-09T08:30:01Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Household projections: notes and definitions for data analysts",
+                                                     "web_url":  "https://www.gov.uk/guidance/household-projections-notes-and-definitions-for-data-analysts",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "base_path":  "/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "content_id":  "591c83aa-3b74-437d-a342-612bddd97572",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2015-05-08T00:00:00+00:00",
+                                                         "started_on":  "2010-05-12T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2010 to 2015 Conservative and Liberal Democrat coalition government",
+                                         "web_url":  "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government"
+                                     }
+                                 ],
+                  "lead_organisations":  [
+                                             {
+                                                 "analytics_identifier":  "D4",
+                                                 "api_path":  "/api/content/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                 "api_url":  "https://www.gov.uk/api/content/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                 "base_path":  "/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                 "content_id":  "2e7868a8-38f5-4ff6-b62f-9a15d1c22d28",
+                                                 "details":  {
+                                                                 "acronym":  "",
+                                                                 "brand":  "department-for-communities-and-local-government",
+                                                                 "default_news_image":  {
+                                                                                            "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db37ed915d5a62fdc789/s960_2_Marsham_Street_960x640.jpg",
+                                                                                            "url":  "https://assets.publishing.service.gov.uk/media/5a37db36e5274a79051c927d/s300_2_Marsham_Street_960x640.jpg"
+                                                                                        },
+                                                                 "logo":  {
+                                                                              "crest":  "single-identity",
+                                                                              "formatted_title":  "Ministry of Housing,\u003cbr/\u003eCommunities \u0026amp;\u003cbr/\u003eLocal Government (2018 to 2021)"
+                                                                          },
+                                                                 "organisation_govuk_status":  {
+                                                                                                   "status":  "changed_name",
+                                                                                                   "updated_at":  "2021-09-20T00:00:00.000+01:00",
+                                                                                                   "url":  "http://www.communities.gov.uk/"
+                                                                                               }
+                                                             },
+                                                 "document_type":  "organisation",
+                                                 "links":  {
+
+                                                           },
+                                                 "locale":  "en",
+                                                 "schema_name":  "organisation",
+                                                 "title":  "Ministry of Housing, Communities \u0026 Local Government (2018 to 2021)",
+                                                 "web_url":  "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                 "withdrawn":  false
+                                             }
+                                         ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D4",
+                                            "api_path":  "/api/content/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                            "base_path":  "/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                            "content_id":  "2e7868a8-38f5-4ff6-b62f-9a15d1c22d28",
+                                            "details":  {
+                                                            "acronym":  "",
+                                                            "brand":  "department-for-communities-and-local-government",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db37ed915d5a62fdc789/s960_2_Marsham_Street_960x640.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5a37db36e5274a79051c927d/s300_2_Marsham_Street_960x640.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Ministry of Housing,\u003cbr/\u003eCommunities \u0026amp;\u003cbr/\u003eLocal Government (2018 to 2021)"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "changed_name",
+                                                                                              "updated_at":  "2021-09-20T00:00:00.000+01:00",
+                                                                                              "url":  "http://www.communities.gov.uk/"
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Ministry of Housing, Communities \u0026 Local Government (2018 to 2021)",
+                                            "web_url":  "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "D4",
+                                                                       "api_path":  "/api/content/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                                       "base_path":  "/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                                       "content_id":  "2e7868a8-38f5-4ff6-b62f-9a15d1c22d28",
+                                                                       "details":  {
+                                                                                       "acronym":  "",
+                                                                                       "brand":  "department-for-communities-and-local-government",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db37ed915d5a62fdc789/s960_2_Marsham_Street_960x640.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5a37db36e5274a79051c927d/s300_2_Marsham_Street_960x640.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Ministry of Housing,\u003cbr/\u003eCommunities \u0026amp;\u003cbr/\u003eLocal Government (2018 to 2021)"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "changed_name",
+                                                                                                                         "updated_at":  "2021-09-20T00:00:00.000+01:00",
+                                                                                                                         "url":  "http://www.communities.gov.uk/"
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Ministry of Housing, Communities \u0026 Local Government (2018 to 2021)",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D4",
+                                                              "api_path":  "/api/content/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                              "base_path":  "/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                              "content_id":  "2e7868a8-38f5-4ff6-b62f-9a15d1c22d28",
+                                                              "details":  {
+                                                                              "acronym":  "",
+                                                                              "brand":  "department-for-communities-and-local-government",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db37ed915d5a62fdc789/s960_2_Marsham_Street_960x640.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/5a37db36e5274a79051c927d/s300_2_Marsham_Street_960x640.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Ministry of Housing,\u003cbr/\u003eCommunities \u0026amp;\u003cbr/\u003eLocal Government (2018 to 2021)"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "changed_name",
+                                                                                                                "updated_at":  "2021-09-20T00:00:00.000+01:00",
+                                                                                                                "url":  "http://www.communities.gov.uk/"
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Ministry of Housing, Communities \u0026 Local Government (2018 to 2021)",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/government/statistics/updating-dclgs-household-projections-to-a-2008-base-methodology",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/statistics/updating-dclgs-household-projections-to-a-2008-base-methodology",
+                                                              "base_path":  "/government/statistics/updating-dclgs-household-projections-to-a-2008-base-methodology",
+                                                              "content_id":  "5c7e2038-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "official_statistics",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2010-11-26T00:00:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Updating DCLG\u0027s household projections to a 2008 base: methodology",
+                                                              "web_url":  "https://www.gov.uk/government/statistics/updating-dclgs-household-projections-to-a-2008-base-methodology",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/statistics/2014-based-household-projections-in-england-2014-to-2039",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/statistics/2014-based-household-projections-in-england-2014-to-2039",
+                                                              "base_path":  "/government/statistics/2014-based-household-projections-in-england-2014-to-2039",
+                                                              "content_id":  "b937d36e-7bdd-4274-9dec-83cc73568282",
+                                                              "document_type":  "national_statistics",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2016-07-12T08:30:10Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "2014-based household projections in England, 2014 to 2039",
+                                                              "web_url":  "https://www.gov.uk/government/statistics/2014-based-household-projections-in-england-2014-to-2039",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/statistical-data-sets/live-tables-on-household-projections",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/statistical-data-sets/live-tables-on-household-projections",
+                                                              "base_path":  "/government/statistical-data-sets/live-tables-on-household-projections",
+                                                              "content_id":  "5c81d33e-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "statistical_data_set",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2016-07-12T08:30:12Z",
+                                                              "schema_name":  "statistical_data_set",
+                                                              "title":  "Live tables on household projections",
+                                                              "web_url":  "https://www.gov.uk/government/statistical-data-sets/live-tables-on-household-projections",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/statistics/2011-based-interim-household-projections-quality-report",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/statistics/2011-based-interim-household-projections-quality-report",
+                                                              "base_path":  "/government/statistics/2011-based-interim-household-projections-quality-report",
+                                                              "content_id":  "5e0edddc-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "official_statistics",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2013-04-09T00:00:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "2011-based interim household projections: quality report",
+                                                              "web_url":  "https://www.gov.uk/government/statistics/2011-based-interim-household-projections-quality-report",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/statistical-data-sets/2014-based-household-projections-detailed-data-for-modelling-and-analytical-purposes",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/statistical-data-sets/2014-based-household-projections-detailed-data-for-modelling-and-analytical-purposes",
+                                                              "base_path":  "/government/statistical-data-sets/2014-based-household-projections-detailed-data-for-modelling-and-analytical-purposes",
+                                                              "content_id":  "941e8aca-367b-47c7-946e-a98be9e394bb",
+                                                              "document_type":  "statistical_data_set",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2016-07-12T08:30:00Z",
+                                                              "schema_name":  "statistical_data_set",
+                                                              "title":  "2014-based household projections: detailed data for modelling and analytical purposes",
+                                                              "web_url":  "https://www.gov.uk/government/statistical-data-sets/2014-based-household-projections-detailed-data-for-modelling-and-analytical-purposes",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/housing-local-and-community/housing-and-communities",
+                                     "api_url":  "https://www.gov.uk/api/content/housing-local-and-community/housing-and-communities",
+                                     "base_path":  "/housing-local-and-community/housing-and-communities",
+                                     "content_id":  "4ad66168-274d-4d83-9195-f4ab0ccc97cb",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Housing and communities (level 2)",
+                                                     "notes_for_editors":  "",
+                                                     "url_override":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/housing-local-and-community",
+                                                                             "api_url":  "https://www.gov.uk/api/content/housing-local-and-community",
+                                                                             "base_path":  "/housing-local-and-community",
+                                                                             "content_id":  "4794066e-e3cc-425e-8cc4-e7ff3edb4c39",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Housing, local and community",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:32:02Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Housing, local and community",
+                                                                             "web_url":  "https://www.gov.uk/housing-local-and-community",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2022-02-14T14:24:18Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Housing and communities",
+                                     "web_url":  "https://www.gov.uk/housing-local-and-community/housing-and-communities",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2013-04-09T09:30:01+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1718617211.695-10.13.21.96-3394",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Household projections: notes and definitions for data analysts",
+    "updated_at":  "2024-09-11T10:11:14+01:00",
+    "withdrawn_notice":  {
+
+                         }
+}

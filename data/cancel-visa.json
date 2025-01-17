@@ -1,0 +1,510 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/cancel-visa",
+    "content_id":  "f4c6ac13-1769-4e0a-aba5-46eedaab2bcf",
+    "description":  "Cancel (withdraw) a UK visa, immigration or citizenship application and get a refund on your application fees, immigration health surcharge and priority service fee.",
+    "details":  {
+                    "external_related_links":  [
+
+                                               ],
+                    "hide_chapter_navigation":  false,
+                    "parts":  [
+                                  {
+                                      "body":  "\u003cp\u003eYou can only cancel (withdraw) an application for a visa, visa extension or citizenship if you’re still waiting for a decision. \u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"/cancel-visa/get-refund\"\u003eWhat you’ll be refunded\u003c/a\u003e depends on what stage your application is at when you cancel.\u003c/p\u003e\n\n\u003ch2 id=\"before-you-cancel\"\u003eBefore you cancel\u003c/h2\u003e\n\n\u003cp\u003eYou may not need to cancel your application if:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eyou only want to \u003ca href=\"/visa-documents-returned\"\u003eask for your passport and other documents to be returned\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003eyou applied from inside the UK and now want to \u003ca href=\"/guidance/vary-your-immigration-application\"\u003eapply for a different visa instead\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIf you cancel your application:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eyou cannot stop the cancellation once it’s been received by UK Visas and Immigration (\u003cabbr title=\"UK Visas and Immigration\"\u003eUKVI\u003c/abbr\u003e)\u003c/li\u003e\n  \u003cli\u003eyou may lose your permission to stay here if you’re in the UK\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"how-to-cancel-your-application\"\u003eHow to cancel your application\u003c/h2\u003e\n\n\u003cp\u003eHow you cancel and the deadline for getting a refund depends on how you were told to prove your identity when you started your online application.\u003c/p\u003e\n\n\u003cp\u003eYou would have been told either to:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eattend an appointment to provide your biometrics (fingerprints and photo) and identity document in person\u003c/li\u003e\n  \u003cli\u003euse the ‘UK Immigration: ID Check’ smartphone app to upload your photo and scan your identity document\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cdiv role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\"\u003e\n\u003cp\u003eFollow the process for appointments even if you were later told you did not need one. For example, because you had given your fingerprints before and were told you could send your photo electronically.\u003c/p\u003e\n\u003c/div\u003e\n\n\u003ch3 id=\"if-you-were-told-to-attend-an-appointment\"\u003eIf you were told to attend an appointment\u003c/h3\u003e\n\n\u003cp\u003eIf you applied within the UK, \u003ca rel=\"external\" href=\"https://eforms.homeoffice.gov.uk/outreach/Return_of_Documents.ofml\"\u003efill in the online form to withdraw your application\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eIf you applied outside the UK, sign in to your account using the link from your sign-up email. Go to ‘Section 6: further actions’ to cancel your application.\u003c/p\u003e\n\n\u003cp\u003eYou’ll also need to cancel any appointments at the visa application centre.\u003c/p\u003e\n\n\u003ch3 id=\"if-you-used-the-smartphone-app\"\u003eIf you used the smartphone app\u003c/h3\u003e\n\n\u003cp\u003eYou can cancel your application online.\u003c/p\u003e\n\n\u003cp\u003eTo cancel, sign in to your account using the link from your sign-up email. Go to your dashboard and select ‘Withdraw this application’ for the application you want to cancel.\u003c/p\u003e\n\n",
+                                      "slug":  "cancel",
+                                      "title":  "Cancel your application"
+                                  },
+                                  {
+                                      "body":  "\u003cp\u003eIf you cancel your visa application, you might be able to get a refund of your:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eapplication fee \u003c/li\u003e\n  \u003cli\u003eimmigration health surcharge\u003c/li\u003e\n  \u003cli\u003epriority service fee (if you used this service)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eWhat you get depends on when you cancelled your application.\u003c/p\u003e\n\n\u003ch2 id=\"application-fee\"\u003eApplication fee\u003c/h2\u003e\n\n\u003cp\u003eThe amount you’ll be refunded depends on how you were told to prove your identity and when you cancel.\u003c/p\u003e\n\n\u003cp\u003eYou do not have to do anything to get the application fee refund. It will be automatically paid to the account or card you paid with.\u003c/p\u003e\n\n\u003ch3 id=\"if-you-were-told-to-attend-an-appointment\"\u003eIf you were told to attend an appointment\u003c/h3\u003e\n\n\u003cp\u003eYour fee will be refunded if you have not yet given your fingerprints and photo.\u003c/p\u003e\n\n\u003cp\u003eYour fee will not usually be refunded if you have already given your fingerprints and photo. \u003c/p\u003e\n\n\u003ch3 id=\"if-you-used-the-smartphone-app\"\u003eIf you used the smartphone app\u003c/h3\u003e\n\n\u003cp\u003eYour fee will be refunded if:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n    \u003cp\u003eyou’ve not selected ‘confirm and upload’ in the app - either to upload your evidence or confirm you do not have anything to upload\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eyou withdraw your application before the deadline you were given for uploading your evidence\u003c/p\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"immigration-health-surcharge\"\u003eImmigration health surcharge\u003c/h2\u003e\n\n\u003cp\u003eYou’ll get a full refund of the immigration health surcharge if you cancel your application before a decision has been made.\u003c/p\u003e\n\n\u003cp\u003eYou do not have to do anything to get it. It will automatically be paid to the account or card you paid with.\u003c/p\u003e\n\n\u003ch2 id=\"priority-service-fee\"\u003ePriority service fee\u003c/h2\u003e\n\n\u003cp\u003eYou can \u003ca href=\"/faster-decision-visa-settlement/getting-a-refund\"\u003eask for a refund of the priority service fee\u003c/a\u003e if you paid one and you’re eligible. It will not be paid automatically, you need to ask for it.\u003c/p\u003e\n\n\u003ch2 id=\"when-youll-get-the-refund\"\u003eWhen you’ll get the refund\u003c/h2\u003e\n\n\u003cp\u003eIf you’re eligible, you’ll get a refund within 28 days of cancelling your application.\u003c/p\u003e\n\n\u003ch3 id=\"if-your-bank-account-has-changed\"\u003eIf your bank account has changed\u003c/h3\u003e\n\n\u003cp\u003eContact \u003cabbr title=\"UK Visas and Immigration\"\u003eUKVI\u003c/abbr\u003e if your bank account has changed. \u003c/p\u003e\n\n\u003cp\u003eDo not send your new bank or account details to \u003cabbr title=\"UK Visas and Immigration\"\u003eUKVI\u003c/abbr\u003e unless it asks for them. You can \u003ca href=\"/contact-ukvi-inside-outside-uk\"\u003econtact \u003cabbr title=\"UK Visas and Immigration\"\u003eUKVI\u003c/abbr\u003e\u003c/a\u003e to check that the request is genuine.\u003c/p\u003e\n\n\u003cp\u003eIt may take longer to get a refund if your bank account has changed.\u003c/p\u003e\n\n\u003ch3 id=\"if-youve-asked-your-bank-to-cancel-your-payment\"\u003eIf you’ve asked your bank to cancel your payment\u003c/h3\u003e\n\n\u003cp\u003eIt can take longer to get a refund if you’ve also asked your bank to cancel your payment to \u003cabbr title=\"UK Visas and Immigration\"\u003eUKVI\u003c/abbr\u003e (called a ‘chargeback’).\u003c/p\u003e\n\n\u003cp\u003eYou will not get a refund if the bank cancelled your payment to \u003cabbr title=\"UK Visas and Immigration\"\u003eUKVI\u003c/abbr\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"if-you-have-not-been-given-your-refund\"\u003eIf you have not been given your refund\u003c/h3\u003e\n\n\u003cp\u003e\u003ca href=\"/contact-ukvi-inside-outside-uk\"\u003eContact \u003cabbr title=\"UK Visas and Immigration\"\u003eUKVI\u003c/abbr\u003e\u003c/a\u003e if it has been more than 28 days since \u003cabbr title=\"UK Visas and Immigration\"\u003eUKVI\u003c/abbr\u003e confirmed your application was cancelled.\u003c/p\u003e\n\n",
+                                      "slug":  "get-refund",
+                                      "title":  "Getting a refund"
+                                  }
+                              ]
+                },
+    "document_type":  "guide",
+    "first_published_at":  "2014-02-21T20:26:58+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/cancel-visa",
+                                                     "api_url":  "https://www.gov.uk/api/content/cancel-visa",
+                                                     "base_path":  "/cancel-visa",
+                                                     "content_id":  "f4c6ac13-1769-4e0a-aba5-46eedaab2bcf",
+                                                     "document_type":  "guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2015-04-01T13:00:36Z",
+                                                     "schema_name":  "guide",
+                                                     "title":  "Cancel your visa, immigration or citizenship application",
+                                                     "web_url":  "https://www.gov.uk/cancel-visa",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "mainstream_browse_pages":  [
+                                                  {
+                                                      "api_path":  "/api/content/browse/visas-immigration/what-you-need-to-do",
+                                                      "api_url":  "https://www.gov.uk/api/content/browse/visas-immigration/what-you-need-to-do",
+                                                      "base_path":  "/browse/visas-immigration/what-you-need-to-do",
+                                                      "content_id":  "8ff60b56-b0e8-4019-af4c-80ca1ad04c29",
+                                                      "description":  "Check if you need a UK Visa, electronic travel authorisation (ETA) or get access to an eVisa to prove your immigration status if you’re not a British citizen or Irish national",
+                                                      "document_type":  "mainstream_browse_page",
+                                                      "links":  {
+
+                                                                },
+                                                      "locale":  "en",
+                                                      "public_updated_at":  "2024-10-31T17:22:31Z",
+                                                      "schema_name":  "mainstream_browse_page",
+                                                      "title":  "What you need to do",
+                                                      "web_url":  "https://www.gov.uk/browse/visas-immigration/what-you-need-to-do",
+                                                      "withdrawn":  false
+                                                  }
+                                              ],
+                  "ordered_related_items":  [
+                                                {
+                                                    "api_path":  "/api/content/visa-documents-returned",
+                                                    "api_url":  "https://www.gov.uk/api/content/visa-documents-returned",
+                                                    "base_path":  "/visa-documents-returned",
+                                                    "content_id":  "240281d1-4e92-428b-a784-9fa085c44777",
+                                                    "document_type":  "answer",
+                                                    "links":  {
+                                                                  "mainstream_browse_pages":  [
+                                                                                                  {
+                                                                                                      "api_path":  "/api/content/browse/visas-immigration/what-you-need-to-do",
+                                                                                                      "api_url":  "https://www.gov.uk/api/content/browse/visas-immigration/what-you-need-to-do",
+                                                                                                      "base_path":  "/browse/visas-immigration/what-you-need-to-do",
+                                                                                                      "content_id":  "8ff60b56-b0e8-4019-af4c-80ca1ad04c29",
+                                                                                                      "description":  "Check if you need a UK Visa, electronic travel authorisation (ETA) or get access to an eVisa to prove your immigration status if you’re not a British citizen or Irish national",
+                                                                                                      "document_type":  "mainstream_browse_page",
+                                                                                                      "links":  {
+                                                                                                                    "parent":  [
+                                                                                                                                   {
+                                                                                                                                       "api_path":  "/api/content/browse/visas-immigration",
+                                                                                                                                       "api_url":  "https://www.gov.uk/api/content/browse/visas-immigration",
+                                                                                                                                       "base_path":  "/browse/visas-immigration",
+                                                                                                                                       "content_id":  "df6fcdc4-62bc-4e05-90e3-cb2e452453a4",
+                                                                                                                                       "description":  "Apply to visit, work, study, settle or seek asylum in the UK",
+                                                                                                                                       "document_type":  "mainstream_browse_page",
+                                                                                                                                       "links":  {
+
+                                                                                                                                                 },
+                                                                                                                                       "locale":  "en",
+                                                                                                                                       "public_updated_at":  "2021-06-03T13:56:26Z",
+                                                                                                                                       "schema_name":  "mainstream_browse_page",
+                                                                                                                                       "title":  "Visas and immigration",
+                                                                                                                                       "web_url":  "https://www.gov.uk/browse/visas-immigration",
+                                                                                                                                       "withdrawn":  false
+                                                                                                                                   }
+                                                                                                                               ]
+                                                                                                                },
+                                                                                                      "locale":  "en",
+                                                                                                      "public_updated_at":  "2024-10-31T17:22:31Z",
+                                                                                                      "schema_name":  "mainstream_browse_page",
+                                                                                                      "title":  "What you need to do",
+                                                                                                      "web_url":  "https://www.gov.uk/browse/visas-immigration/what-you-need-to-do",
+                                                                                                      "withdrawn":  false
+                                                                                                  }
+                                                                                              ]
+                                                              },
+                                                    "locale":  "en",
+                                                    "public_updated_at":  "2025-01-07T14:00:00Z",
+                                                    "schema_name":  "answer",
+                                                    "title":  "Get your visa, immigration or citizenship documents back",
+                                                    "web_url":  "https://www.gov.uk/visa-documents-returned",
+                                                    "withdrawn":  false
+                                                }
+                                            ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "OT554",
+                                            "api_path":  "/api/content/government/organisations/uk-visas-and-immigration",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/uk-visas-and-immigration",
+                                            "base_path":  "/government/organisations/uk-visas-and-immigration",
+                                            "content_id":  "04148522-b0c1-4137-b687-5f3c3bdd561a",
+                                            "details":  {
+                                                            "acronym":  "UKVI",
+                                                            "brand":  "home-office",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "ho",
+                                                                         "formatted_title":  "UK Visas and Immigration"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "UK Visas and Immigration",
+                                            "web_url":  "https://www.gov.uk/government/organisations/uk-visas-and-immigration",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "parent":  [
+                                 {
+                                     "api_path":  "/api/content/browse/visas-immigration/what-you-need-to-do",
+                                     "api_url":  "https://www.gov.uk/api/content/browse/visas-immigration/what-you-need-to-do",
+                                     "base_path":  "/browse/visas-immigration/what-you-need-to-do",
+                                     "content_id":  "8ff60b56-b0e8-4019-af4c-80ca1ad04c29",
+                                     "description":  "Check if you need a UK Visa, electronic travel authorisation (ETA) or get access to an eVisa to prove your immigration status if you’re not a British citizen or Irish national",
+                                     "document_type":  "mainstream_browse_page",
+                                     "links":  {
+                                                   "parent":  [
+                                                                  {
+                                                                      "api_path":  "/api/content/browse/visas-immigration",
+                                                                      "api_url":  "https://www.gov.uk/api/content/browse/visas-immigration",
+                                                                      "base_path":  "/browse/visas-immigration",
+                                                                      "content_id":  "df6fcdc4-62bc-4e05-90e3-cb2e452453a4",
+                                                                      "description":  "Apply to visit, work, study, settle or seek asylum in the UK",
+                                                                      "document_type":  "mainstream_browse_page",
+                                                                      "links":  {
+
+                                                                                },
+                                                                      "locale":  "en",
+                                                                      "public_updated_at":  "2021-06-03T13:56:26Z",
+                                                                      "schema_name":  "mainstream_browse_page",
+                                                                      "title":  "Visas and immigration",
+                                                                      "web_url":  "https://www.gov.uk/browse/visas-immigration",
+                                                                      "withdrawn":  false
+                                                                  }
+                                                              ]
+                                               },
+                                     "locale":  "en",
+                                     "public_updated_at":  "2024-10-31T17:22:31Z",
+                                     "schema_name":  "mainstream_browse_page",
+                                     "title":  "What you need to do",
+                                     "web_url":  "https://www.gov.uk/browse/visas-immigration/what-you-need-to-do",
+                                     "withdrawn":  false
+                                 }
+                             ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "OT1056",
+                                                              "api_path":  "/api/content/government/organisations/government-digital-service",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+                                                              "base_path":  "/government/organisations/government-digital-service",
+                                                              "content_id":  "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+                                                              "details":  {
+                                                                              "acronym":  "GDS",
+                                                                              "brand":  "department-for-science-innovation-and-technology",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Government Digital Service"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Government Digital Service",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/government-digital-service",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/application-fees-and-refunds",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/application-fees-and-refunds",
+                                                              "base_path":  "/government/publications/application-fees-and-refunds",
+                                                              "content_id":  "5d81be89-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-04-11T11:54:19Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Passport fees: caseworker guidance",
+                                                              "web_url":  "https://www.gov.uk/government/publications/application-fees-and-refunds",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/standard-visitor",
+                                                              "api_url":  "https://www.gov.uk/api/content/standard-visitor",
+                                                              "base_path":  "/standard-visitor",
+                                                              "content_id":  "e1067450-7d13-45ff-ada4-5e3dd4025fb7",
+                                                              "document_type":  "guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-10-31T17:00:17Z",
+                                                              "schema_name":  "guide",
+                                                              "title":  "Visit the UK as a Standard Visitor",
+                                                              "web_url":  "https://www.gov.uk/standard-visitor",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/apply-to-come-to-the-uk",
+                                                              "api_url":  "https://www.gov.uk/api/content/apply-to-come-to-the-uk",
+                                                              "base_path":  "/apply-to-come-to-the-uk",
+                                                              "content_id":  "76698ffe-70ab-4fda-be0d-755234f6d340",
+                                                              "document_type":  "guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-10-31T17:00:10Z",
+                                                              "schema_name":  "guide",
+                                                              "title":  "How to apply for a visa to come to the UK",
+                                                              "web_url":  "https://www.gov.uk/apply-to-come-to-the-uk",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/visas-when-you-separate-or-divorce",
+                                                              "api_url":  "https://www.gov.uk/api/content/visas-when-you-separate-or-divorce",
+                                                              "base_path":  "/visas-when-you-separate-or-divorce",
+                                                              "content_id":  "e43c7691-9414-4689-a6f4-0332c05a7a88",
+                                                              "document_type":  "guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2014-11-25T14:35:34Z",
+                                                              "schema_name":  "guide",
+                                                              "title":  "Visas when you separate or divorce",
+                                                              "web_url":  "https://www.gov.uk/visas-when-you-separate-or-divorce",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/entering-staying-uk/citizenship",
+                                     "api_url":  "https://www.gov.uk/api/content/entering-staying-uk/citizenship",
+                                     "base_path":  "/entering-staying-uk/citizenship",
+                                     "content_id":  "7cfca009-f311-43a5-8b44-145ce26986e7",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Citizenship",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/entering-staying-uk/permanent-stay-uk",
+                                                                             "api_url":  "https://www.gov.uk/api/content/entering-staying-uk/permanent-stay-uk",
+                                                                             "base_path":  "/entering-staying-uk/permanent-stay-uk",
+                                                                             "content_id":  "fef7e737-6f1a-4ef4-b844-aa24b630ad03",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Permanent stay in the UK",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/entering-staying-uk",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/entering-staying-uk",
+                                                                                                                     "base_path":  "/entering-staying-uk",
+                                                                                                                     "content_id":  "ba3a9702-da22-487f-86c1-8334a730e559",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Entering and staying in the UK",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-07-11T08:58:32Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Entering and staying in the UK",
+                                                                                                                     "web_url":  "https://www.gov.uk/entering-staying-uk",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-07-11T08:58:33Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Permanent stay in the UK",
+                                                                             "web_url":  "https://www.gov.uk/entering-staying-uk/permanent-stay-uk",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-07-11T08:58:34Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Citizenship",
+                                     "web_url":  "https://www.gov.uk/entering-staying-uk/citizenship",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/entering-staying-uk/settlement",
+                                     "api_url":  "https://www.gov.uk/api/content/entering-staying-uk/settlement",
+                                     "base_path":  "/entering-staying-uk/settlement",
+                                     "content_id":  "7f3e73e4-f20d-43be-9c80-021f2ac1897f",
+                                     "details":  {
+                                                     "internal_name":  "Settlement",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/entering-staying-uk/permanent-stay-uk",
+                                                                             "api_url":  "https://www.gov.uk/api/content/entering-staying-uk/permanent-stay-uk",
+                                                                             "base_path":  "/entering-staying-uk/permanent-stay-uk",
+                                                                             "content_id":  "fef7e737-6f1a-4ef4-b844-aa24b630ad03",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Permanent stay in the UK",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/entering-staying-uk",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/entering-staying-uk",
+                                                                                                                     "base_path":  "/entering-staying-uk",
+                                                                                                                     "content_id":  "ba3a9702-da22-487f-86c1-8334a730e559",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Entering and staying in the UK",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-07-11T08:58:32Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Entering and staying in the UK",
+                                                                                                                     "web_url":  "https://www.gov.uk/entering-staying-uk",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-07-11T08:58:33Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Permanent stay in the UK",
+                                                                             "web_url":  "https://www.gov.uk/entering-staying-uk/permanent-stay-uk",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-07-11T08:58:34Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Settlement",
+                                     "web_url":  "https://www.gov.uk/entering-staying-uk/settlement",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/entering-staying-uk/visa-applications",
+                                     "api_url":  "https://www.gov.uk/api/content/entering-staying-uk/visa-applications",
+                                     "base_path":  "/entering-staying-uk/visa-applications",
+                                     "content_id":  "ccb40a29-34ca-4a4c-b4ea-a78279047774",
+                                     "details":  {
+                                                     "internal_name":  "Visa applications",
+                                                     "notes_for_editors":  "....",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/entering-staying-uk/visas-entry-clearance",
+                                                                             "api_url":  "https://www.gov.uk/api/content/entering-staying-uk/visas-entry-clearance",
+                                                                             "base_path":  "/entering-staying-uk/visas-entry-clearance",
+                                                                             "content_id":  "29480b00-dc4d-49a0-b48c-25dda8569325",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Visas and entry clearance",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/entering-staying-uk",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/entering-staying-uk",
+                                                                                                                     "base_path":  "/entering-staying-uk",
+                                                                                                                     "content_id":  "ba3a9702-da22-487f-86c1-8334a730e559",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Entering and staying in the UK",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-07-11T08:58:32Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Entering and staying in the UK",
+                                                                                                                     "web_url":  "https://www.gov.uk/entering-staying-uk",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-07-11T08:58:33Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Visas and entry clearance",
+                                                                             "web_url":  "https://www.gov.uk/entering-staying-uk/visas-entry-clearance",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-07-11T08:58:33Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Visa applications",
+                                     "web_url":  "https://www.gov.uk/entering-staying-uk/visa-applications",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2015-04-01T14:00:36+01:00",
+    "publishing_app":  "publisher",
+    "publishing_request_id":  "21-1705940810.833-10.13.22.203-13310",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "guide",
+    "title":  "Cancel your visa, immigration or citizenship application",
+    "updated_at":  "2025-01-07T14:00:02+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

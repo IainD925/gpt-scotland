@@ -1,0 +1,448 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/dwelling-stock-data-notes-and-definitions-includes-hfr-full-guidance-notes-and-returns-form",
+    "content_id":  "5c81edca-7631-11e4-a3cb-005056011aef",
+    "description":  "Guidance for local authorities compiling annual information on dwelling stock data (including vacants and net supply of housing), including the Housing Flows Reconciliation (HFR) form and guidance. ",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alternativeformats@levellingup.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  31496,
+                                            "filename":  "120301_Derivation_of_Dwelling_count_from_2011_Census_-_separate_doc_for_web_publication.pdf",
+                                            "id":  "8080398",
+                                            "number_of_pages":  4,
+                                            "title":  "The 2011 Census dwelling count",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/64bf9d759c2df0000d94038c/120301_Derivation_of_Dwelling_count_from_2011_Census_-_separate_doc_for_web_publication.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alternativeformats@levellingup.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1146275,
+                                            "filename":  "MHCLG_HFR_Guidance_-_2023-2024.pdf",
+                                            "id":  "8080399",
+                                            "number_of_pages":  24,
+                                            "title":  "HFR returns form and guidance notes ",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/668e8e59ab418ab055592309/MHCLG_HFR_Guidance_-_2023-2024.pdf"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eThis guidance is to be read in conjunction with the \u003ca href=\"https://www.gov.uk/government/collections/dwelling-stock-including-vacants\" class=\"govuk-link\"\u003eseries on dwelling stock\u003c/a\u003e which includes the latest statistical releases and sets of live tables.\u003c/p\u003e\n\n\u003cp\u003eFor a glossary of terms and definitions used in the Ministry of Housing, Communities and Local Government’s (MHCLG) housing statistical publications and English Housing Survey reports see the \u003ca href=\"https://www.gov.uk/guidance/housing-statistics-and-england-housing-survey-glossary\" class=\"govuk-link\"\u003eHousing statistics and English Housing Survey glossary\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eEstimates of the total dwelling stock, stock changes and the tenure distribution for each country are made by MHCLG, the Scottish Government, the Welsh Government, and Northern Ireland’s Department for Communities.\u003c/p\u003e\n\n\u003cp\u003eVacant dwellings and second homes are included in all English stock figures.\u003c/p\u003e\n\n\u003ch2 id=\"total-stock-calculations\"\u003eTotal stock calculations\u003c/h2\u003e\n\n\u003cp\u003eEstimates for total stock are derived from the Census for those years in which a Census was undertaken. In between census years, the total figures are produced by adding the annual net supply of housing to the existing dwelling stock (see ‘Net change in the dwelling stock’ below). The series before 2001 has been adjusted to meet the 1991 and 2001 Census estimates. Similarly the series from 2002 to 2011 has been adjusted to meet the 2011 Census estimates.\u003c/p\u003e\n\n\u003cp\u003eThe 1981 census did not include a direct count of dwellings which could be used for pre-1991 estimates. Instead, estimates have been made using the information about access which was recorded for each ‘household space’ (the living accommodation occupied or intended to be occupied by one household).\u003c/p\u003e\n\n\u003cp\u003eThe method used took the number of self-contained household spaces in permanent buildings, each of which must by definition correspond to a separate dwelling, and add to that figure an allowance for shared dwellings. This was done by assuming that on average 100 ‘not self contained’ household spaces are equivalent to 25 separate dwellings (for Inner London where sharing is prevalent, this figure is reduced to 19).\u003c/p\u003e\n\n\u003cp\u003eSince only a very small proportion of dwellings are shared, the dwelling stock estimates are not very sensitive to the number of household spaces assumed per shared dwelling. (All household spaces that are not in permanent buildings are assumed to be self-contained dwellings.)\u003c/p\u003e\n\n\u003cp\u003eFor an explanation of how the dwelling count is derived from the 2011 Census, including the definitions of a dwelling and a household, please read the note: \u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/64bf9d759c2df0000d94038c/120301_Derivation_of_Dwelling_count_from_2011_Census_-_separate_doc_for_web_publication.pdf\"\u003eThe 2011 Census dwelling count\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e30.8 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e4 pages\u003c/span\u003e)\u003c/span\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"tenure\"\u003eTenure\u003c/h2\u003e\n\n\u003cp\u003eThe method of compiling annual stock figures by tenure in between Census years is set out in the latest \u003ca href=\"https://www.gov.uk/government/collections/dwelling-stock-including-vacants\" class=\"govuk-link\"\u003edwelling stock estimates statistical release\u003c/a\u003e. For tenure definitions please see \u003ca href=\"https://www.gov.uk/guidance/housing-statistics-and-england-housing-survey-glossary\" class=\"govuk-link\"\u003eHousing statistics and English Housing Survey glossary\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"net-change-in-the-dwelling-stock\"\u003eNet change in the dwelling stock\u003c/h3\u003e\n\n\u003cp\u003eThe annual net additional dwellings figure, or net supply of housing, is the absolute change in dwelling stock between 1 April and 31 March the following year. It is derived from the number of new build completions; plus the net gain from dwelling conversions; plus the net gain of non-residential buildings brought into residential use; plus other gains and losses to the dwelling stock (such as mobile and temporary dwellings); less any demolitions during the financial year.\u003c/p\u003e\n\n\u003cp\u003eThe source of these data is MHCLG’s Housing Flows Reconciliation return, completed by local authorities, and data from the Greater London Authority. For more information please see the latest \u003ca href=\"https://www.gov.uk/government/collections/net-supply-of-housing\" class=\"govuk-link\"\u003enet supply of housing statistical release\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eThe net supply of housing statistical release is separate from and complementary to MHCLG’s quarterly National Statistics on \u003ca href=\"https://www.gov.uk/government/collections/house-building-statistics\" class=\"govuk-link\"\u003enew house building\u003c/a\u003e, providing a more comprehensive but less timely measure of total housing supply in England.\u003c/p\u003e\n\n\u003cp\u003eCompletions figures from the quarterly house building series are not used in the net supply of housing statistics. Instead a separate set of data on the new build completions component of net additions is collected as part of the overall annual net additions data collection. This eliminates timing differences from the net supply series and provides a coherent picture of the components of net change for a given year.\u003c/p\u003e\n\n\u003cp\u003eThe house building statistical series combines data from building control officers at local authorities, the National House-Building Council (NHBC) and other independent Approved Inspectors and is published within 8 weeks of the end of each quarter. For net additions, all the data come from local authorities, and the data collection period for these statistics is relatively long, being annual and closing some 6 months after the end of the financial year.\u003c/p\u003e\n\n\u003ch2 id=\"vacant-dwellings\"\u003eVacant dwellings\u003c/h2\u003e\n\n\u003cp\u003eThere is no statistical release specifically dedicated to vacant dwellings. For data please go to the \u003ca href=\"https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants\" class=\"govuk-link\"\u003elive tables on dwelling stock (including vacants)\u003c/a\u003e and refer to live tables 612 and 615.\u003c/p\u003e\n\n\u003ch2 id=\"housing-flows-reconciliation-hfr-form-and-guidance\"\u003eHousing Flows Reconciliation (HFR) form and guidance\u003c/h2\u003e\n\n\u003cp\u003eYou use this form to record the changes in the dwelling stock in your local authority area.\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/668e8e59ab418ab055592309/MHCLG_HFR_Guidance_-_2023-2024.pdf\"\u003eHFR returns form and guidance notes \u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e1.09 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e24 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Updated HFR returns form and guidance notes.",
+                                               "public_timestamp":  "2024-07-10T15:00:55.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated guidance notes.",
+                                               "public_timestamp":  "2023-07-25T11:28:02.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated guidance notes.",
+                                               "public_timestamp":  "2022-07-21T17:35:58.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added updated HFR returns form and guidance notes.",
+                                               "public_timestamp":  "2020-07-30T11:53:22.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added updated HFR returns form and guidance notes.",
+                                               "public_timestamp":  "2019-07-12T11:34:33.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added new version of HFR returns form and guidance notes.",
+                                               "public_timestamp":  "2018-07-13T12:02:53.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added missing HFR returns form and guidance notes.",
+                                               "public_timestamp":  "2013-06-24T12:57:36.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2012-11-14T00:00:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "1390d07f-12b3-4f55-9dd5-fec5fd9e3649"
+                                                 ],
+                    "first_public_at":  "2012-11-14T00:00:00.000+00:00",
+                    "national_applicability":  {
+                                                   "england":  {
+                                                                   "applicable":  true,
+                                                                   "label":  "England"
+                                                               },
+                                                   "northern_ireland":  {
+                                                                            "alternative_url":  "",
+                                                                            "applicable":  false,
+                                                                            "label":  "Northern Ireland"
+                                                                        },
+                                                   "scotland":  {
+                                                                    "alternative_url":  "",
+                                                                    "applicable":  false,
+                                                                    "label":  "Scotland"
+                                                                },
+                                                   "wales":  {
+                                                                 "alternative_url":  "",
+                                                                 "applicable":  false,
+                                                                 "label":  "Wales"
+                                                             }
+                                               },
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2012-11-14T00:00:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/dwelling-stock-data-notes-and-definitions-includes-hfr-full-guidance-notes-and-returns-form",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/dwelling-stock-data-notes-and-definitions-includes-hfr-full-guidance-notes-and-returns-form",
+                                                     "base_path":  "/guidance/dwelling-stock-data-notes-and-definitions-includes-hfr-full-guidance-notes-and-returns-form",
+                                                     "content_id":  "5c81edca-7631-11e4-a3cb-005056011aef",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2024-07-10T14:00:55Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Dwelling stock data: notes and definitions (includes HFR full guidance notes and returns form)",
+                                                     "web_url":  "https://www.gov.uk/guidance/dwelling-stock-data-notes-and-definitions-includes-hfr-full-guidance-notes-and-returns-form",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "base_path":  "/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "content_id":  "591c83aa-3b74-437d-a342-612bddd97572",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2015-05-08T00:00:00+00:00",
+                                                         "started_on":  "2010-05-12T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2010 to 2015 Conservative and Liberal Democrat coalition government",
+                                         "web_url":  "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government"
+                                     }
+                                 ],
+                  "lead_organisations":  [
+                                             {
+                                                 "analytics_identifier":  "D4",
+                                                 "api_path":  "/api/content/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                 "api_url":  "https://www.gov.uk/api/content/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                 "base_path":  "/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                 "content_id":  "2e7868a8-38f5-4ff6-b62f-9a15d1c22d28",
+                                                 "details":  {
+                                                                 "acronym":  "",
+                                                                 "brand":  "department-for-communities-and-local-government",
+                                                                 "default_news_image":  {
+                                                                                            "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db37ed915d5a62fdc789/s960_2_Marsham_Street_960x640.jpg",
+                                                                                            "url":  "https://assets.publishing.service.gov.uk/media/5a37db36e5274a79051c927d/s300_2_Marsham_Street_960x640.jpg"
+                                                                                        },
+                                                                 "logo":  {
+                                                                              "crest":  "single-identity",
+                                                                              "formatted_title":  "Ministry of Housing,\u003cbr/\u003eCommunities \u0026amp;\u003cbr/\u003eLocal Government (2018 to 2021)"
+                                                                          },
+                                                                 "organisation_govuk_status":  {
+                                                                                                   "status":  "changed_name",
+                                                                                                   "updated_at":  "2021-09-20T00:00:00.000+01:00",
+                                                                                                   "url":  "http://www.communities.gov.uk/"
+                                                                                               }
+                                                             },
+                                                 "document_type":  "organisation",
+                                                 "links":  {
+
+                                                           },
+                                                 "locale":  "en",
+                                                 "schema_name":  "organisation",
+                                                 "title":  "Ministry of Housing, Communities \u0026 Local Government (2018 to 2021)",
+                                                 "web_url":  "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                 "withdrawn":  false
+                                             }
+                                         ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D1419",
+                                            "api_path":  "/api/content/government/organisations/ministry-of-housing-communities-local-government",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/ministry-of-housing-communities-local-government",
+                                            "base_path":  "/government/organisations/ministry-of-housing-communities-local-government",
+                                            "content_id":  "1390d07f-12b3-4f55-9dd5-fec5fd9e3649",
+                                            "details":  {
+                                                            "acronym":  "MHCLG",
+                                                            "brand":  "ministry-of-housing-communities-local-government",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/668f9d9ea3c2a28abb50cd88/s960_2_Marsham_Street_1_-_960x640.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/668f9d9eab418ab055592384/s300_2_Marsham_Street_1_-_960x640.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Ministry of Housing,\u003cbr/\u003eCommunities \u0026amp; \u003cbr/\u003eLocal Government"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Ministry of Housing, Communities and Local Government",
+                                            "web_url":  "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "D4",
+                                                                       "api_path":  "/api/content/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                                       "base_path":  "/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                                       "content_id":  "2e7868a8-38f5-4ff6-b62f-9a15d1c22d28",
+                                                                       "details":  {
+                                                                                       "acronym":  "",
+                                                                                       "brand":  "department-for-communities-and-local-government",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db37ed915d5a62fdc789/s960_2_Marsham_Street_960x640.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5a37db36e5274a79051c927d/s300_2_Marsham_Street_960x640.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Ministry of Housing,\u003cbr/\u003eCommunities \u0026amp;\u003cbr/\u003eLocal Government (2018 to 2021)"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "changed_name",
+                                                                                                                         "updated_at":  "2021-09-20T00:00:00.000+01:00",
+                                                                                                                         "url":  "http://www.communities.gov.uk/"
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Ministry of Housing, Communities \u0026 Local Government (2018 to 2021)",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D1419",
+                                                              "api_path":  "/api/content/government/organisations/ministry-of-housing-communities-local-government",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/ministry-of-housing-communities-local-government",
+                                                              "base_path":  "/government/organisations/ministry-of-housing-communities-local-government",
+                                                              "content_id":  "1390d07f-12b3-4f55-9dd5-fec5fd9e3649",
+                                                              "details":  {
+                                                                              "acronym":  "MHCLG",
+                                                                              "brand":  "ministry-of-housing-communities-local-government",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/668f9d9ea3c2a28abb50cd88/s960_2_Marsham_Street_1_-_960x640.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/668f9d9eab418ab055592384/s300_2_Marsham_Street_1_-_960x640.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Ministry of Housing,\u003cbr/\u003eCommunities \u0026amp; \u003cbr/\u003eLocal Government"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Ministry of Housing, Communities and Local Government",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/government/statistics/housing-statistics-1-april-2022-to-30-september-2022",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/statistics/housing-statistics-1-april-2022-to-30-september-2022",
+                                                              "base_path":  "/government/statistics/housing-statistics-1-april-2022-to-30-september-2022",
+                                                              "content_id":  "c9c43cf5-26b8-41c6-a44d-1e2c97d7d2bb",
+                                                              "document_type":  "national_statistics",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-12-08T12:28:16Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Housing statistics 1 April 2022 to 30 September 2022",
+                                                              "web_url":  "https://www.gov.uk/government/statistics/housing-statistics-1-april-2022-to-30-september-2022",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/statistics/housing-supply-net-additional-dwellings-england-2020-to-2021",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/statistics/housing-supply-net-additional-dwellings-england-2020-to-2021",
+                                                              "base_path":  "/government/statistics/housing-supply-net-additional-dwellings-england-2020-to-2021",
+                                                              "content_id":  "898d781e-c5f9-4006-8ef2-f8e673daccd5",
+                                                              "document_type":  "national_statistics",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-11-25T09:30:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Housing supply: net additional dwellings, England: 2020 to 2021",
+                                                              "web_url":  "https://www.gov.uk/government/statistics/housing-supply-net-additional-dwellings-england-2020-to-2021",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/statistics/dwelling-stock-estimates-in-england-2021",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/statistics/dwelling-stock-estimates-in-england-2021",
+                                                              "base_path":  "/government/statistics/dwelling-stock-estimates-in-england-2021",
+                                                              "content_id":  "f3dc51f2-69cc-44a7-97b2-6e400757cd1d",
+                                                              "document_type":  "national_statistics",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-05-12T08:53:51Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Dwelling stock estimates in England: 2021",
+                                                              "web_url":  "https://www.gov.uk/government/statistics/dwelling-stock-estimates-in-england-2021",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/statistics/house-building-in-england-october-to-december-2012",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/statistics/house-building-in-england-october-to-december-2012",
+                                                              "base_path":  "/government/statistics/house-building-in-england-october-to-december-2012",
+                                                              "content_id":  "5d62e38a-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "national_statistics",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2013-02-21T00:00:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "House building in England: October to December 2012",
+                                                              "web_url":  "https://www.gov.uk/government/statistics/house-building-in-england-october-to-december-2012",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/statistics/house-building-in-england-january-to-march-2013",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/statistics/house-building-in-england-january-to-march-2013",
+                                                              "base_path":  "/government/statistics/house-building-in-england-january-to-march-2013",
+                                                              "content_id":  "5e2e4a09-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "national_statistics",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2013-05-16T08:30:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "House building in England: January to March 2013",
+                                                              "web_url":  "https://www.gov.uk/government/statistics/house-building-in-england-january-to-march-2013",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/housing-local-and-community/housing-and-communities",
+                                     "api_url":  "https://www.gov.uk/api/content/housing-local-and-community/housing-and-communities",
+                                     "base_path":  "/housing-local-and-community/housing-and-communities",
+                                     "content_id":  "4ad66168-274d-4d83-9195-f4ab0ccc97cb",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Housing and communities (level 2)",
+                                                     "notes_for_editors":  "",
+                                                     "url_override":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/housing-local-and-community",
+                                                                             "api_url":  "https://www.gov.uk/api/content/housing-local-and-community",
+                                                                             "base_path":  "/housing-local-and-community",
+                                                                             "content_id":  "4794066e-e3cc-425e-8cc4-e7ff3edb4c39",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Housing, local and community",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:32:02Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Housing, local and community",
+                                                                             "web_url":  "https://www.gov.uk/housing-local-and-community",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2022-02-14T14:24:18Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Housing and communities",
+                                     "web_url":  "https://www.gov.uk/housing-local-and-community/housing-and-communities",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2024-07-10T15:00:55+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1722430237.198-10.13.21.115-16053",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Dwelling stock data: notes and definitions (includes HFR full guidance notes and returns form)",
+    "updated_at":  "2024-10-23T14:59:14+01:00",
+    "withdrawn_notice":  {
+
+                         }
+}

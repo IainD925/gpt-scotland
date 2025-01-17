@@ -1,0 +1,471 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/effective-field-safety-notices-fsns-guidance-for-manufacturers-of-medical-devices",
+    "content_id":  "0719318d-86b5-4809-812b-f830cc61de57",
+    "description":  "Advice on writing clear notices and maximising replies to your FSNs.",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "webupdates@mhra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.ms-excel.sheet.macroEnabled.12",
+                                            "file_size":  29091,
+                                            "filename":  "GS1_UDI_Device_and_Header_Spreadsheet_.xlsm",
+                                            "id":  "8412913",
+                                            "title":  "GS1 UDI spreadsheet",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5ebeb03786650c278e5eb034/GS1_UDI_Device_and_Header_Spreadsheet_.xlsm"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "webupdates@mhra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                            "file_size":  13254,
+                                            "filename":  "HIBCC_UDI_Device_and_Header_Spreadsheet.xlsx",
+                                            "id":  "8412914",
+                                            "title":  "HIBCC UDI and device spreadsheet",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5ebeb05bd3bf7f5d44d4c792/HIBCC_UDI_Device_and_Header_Spreadsheet.xlsx"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eField safety corrective actions (\u003cabbr title=\"field safety corrective action\"\u003eFSCA\u003c/abbr\u003e) are taken by the manufacturer to prevent or reduce the risk of a serious incident in relation to a device which has already been placed on the market or put into service.\u003c/p\u003e\n\n\u003cp\u003eYou should communicate details of \u003cabbr title=\"field safety corrective action\"\u003eFSCA\u003c/abbr\u003e to customers and users using a field safety notice (\u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e). The UK medical devices regulations state that following “submitting the initial report and proposed notice… the manufacturer must implement the \u003cabbr title=\"field safety corrective action\"\u003eFSCA\u003c/abbr\u003e as soon as possible and monitor its progress”.  \u003c/p\u003e\n\n\u003cp\u003eThere are existing guidelines for writing and distributing FSNs in the \u003ca href=\"https://www.gov.uk/government/publications/medical-devices-post-market-surveillance-requirements\" class=\"govuk-link\"\u003eguidance on GB post-market surveillance\u003c/a\u003e. \u003c/p\u003e\n\n\u003cp\u003eIn this guidance for manufacturers, we provide supplementary information and give advice on how to produce and distribute effective FSNs. \u003c/p\u003e\n\n\u003ch2 id=\"good-traceability\"\u003eGood traceability \u003c/h2\u003e\n\n\u003cp\u003eYou should keep records to help trace your distributed product. This should include: \u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n    \u003cp\u003erecords of medical devices by manufacturing date and batch, version or serial number \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eunique device identifiers (\u003cabbr title=\"unique device identifiers\"\u003eUDI\u003c/abbr\u003e) \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003ekeeping traceability of medical devices directly supplied to users and distributors \u003c/p\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eContracts with distributors should include keeping onward traceability records to end users and agreements on information sharing as far as is practicable. If distributors are not willing to share customer lists with you, your contract should require them to do so directly with the MHRA on request. Responsibility for ensuring the communication reaches end users remains with the manufacturer.  \u003c/p\u003e\n\n\u003cp\u003eFor connected devices, software and apps, consider:  \u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n    \u003cp\u003ehow you can use the technology to aid traceability \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003ehow to distribute the message of FSNs \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003ehow to enable updates to be delivered to the field \u003c/p\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eWhen supplying to large organisations such as NHS trusts, recording the address and name of the responsible department is important for traceability. Where possible, record the name of the user or person responsible for the device as well as anybody responsible for the purchase. \u003c/p\u003e\n\n\u003cp\u003eIn addition, when supplying NHS organisations, recording the name of the NHS trust will enable you to identify the medical device safety officer (\u003cabbr title=\"Medical Device Safety Officer\"\u003eMDSO\u003c/abbr\u003e) to contact. This will help you target your communication to get maximum replies to your FSNs. \u003c/p\u003e\n\n\u003ch2 id=\"fsncontent\"\u003e\n\u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e content \u003c/h2\u003e\n\n\u003cp\u003eManufacturers can use this \u003ca rel=\"external\" href=\"https://mhra-gov.filecamp.com/s/d/FSN_template\" class=\"govuk-link\"\u003etemplate to write your FSNs\u003c/a\u003e. Where a section of the template is not applicable, it can be removed for ease of reading. \u003c/p\u003e\n\n\u003cp\u003eFirst, read the \u003ca rel=\"external\" href=\"https://mhra-gov.filecamp.com/s/d/QA_how_to_complete_FSN_template\" class=\"govuk-link\"\u003e\u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e template Q\u0026amp;A\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eThere is also an \u003ca rel=\"external\" href=\"https://mhra-gov.filecamp.com/s/d/FSN_customer_reply_form_template\" class=\"govuk-link\"\u003e\u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e customer reply  template\u003c/a\u003e and an \u003ca rel=\"external\" href=\"https://mhra-gov.filecamp.com/s/d/FSN_reply_distributors_importers\" class=\"govuk-link\"\u003e\u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e distributor/importer reply  template\u003c/a\u003e. \u003c/p\u003e\n\n\u003cp\u003eThe \u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e should be on a company letterhead, be written in English and include the following: \u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eA clear title, with “Urgent FIELD SAFETY NOTICE” followed by the commercial name of the affected product, an \u003cabbr title=\"field safety corrective action\"\u003eFSCA\u003c/abbr\u003e identifier (for example, date or \u003cabbr title=\"field safety corrective action\"\u003eFSCA\u003c/abbr\u003e reference number) and the type of action. \u003c/li\u003e\n  \u003cli\u003eSpecific details to enable the affected product to be easily identified, for example, type of device, model name and number, batch/lot or serial numbers of affected devices, part or order number and UDIs where available. We recommend that the manufacture dates are also included for ease of identification.   \u003c/li\u003e\n  \u003cli\u003eA factual statement explaining the reasons for the \u003cabbr title=\"field safety corrective action\"\u003eFSCA\u003c/abbr\u003e. This should include a description of the device deficiency or malfunction, clarification of the potential hazard associated with the continued use of the device and the associated risk to the patient, user or other person and any possible risks to patients associated with previous use of affected devices. \u003c/li\u003e\n  \u003cli\u003eAdvice on actions to be taken by the user. Include as appropriate: \n    \u003cul\u003e\n      \u003cli\u003ehow to identify an affected device\u003c/li\u003e\n      \u003cli\u003emethod of recovery, quarantine, disposal or modification of device \u003c/li\u003e\n      \u003cli\u003ereview and implementation of additional risk mitigation measures \u003c/li\u003e\n      \u003cli\u003erecommended review of patient’s previous results or patient follow up, for example, implants, IVD \u003c/li\u003e\n      \u003cli\u003etimelines for completion of these actions\u003c/li\u003e\n    \u003c/ul\u003e\n  \u003c/li\u003e\n  \u003cli\u003eA request to pass the field safety notice to all those who need to be aware of it in the organisation and to maintain awareness over an appropriate defined period. \u003c/li\u003e\n  \u003cli\u003eIf relevant, a request for a copy of the field safety notice to be passed on to all organisations to which any affected devices have been transferred, and for the details of onward distribution of these devices to be given to the manufacturer. \u003c/li\u003e\n  \u003cli\u003eIf relevant, a request that the recipient of the field safety notice alerts other organisations to which incorrect test results from the use of the devices have been sent, For example, failure of diagnostic tests. \u003c/li\u003e\n  \u003cli\u003eConfirmation that the MHRA has been advised of the \u003cabbr title=\"field safety corrective action\"\u003eFSCA\u003c/abbr\u003e. \u003c/li\u003e\n  \u003cli\u003eContact point for customers how and when to reach the designated person. This person should be either the manufacturer if UK based, the UK responsible person or Northern Ireland authorised representative.  \u003c/li\u003e\n  \u003cli\u003eAn acknowledgment form for the receiver. \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eOmit any comments and descriptions that attempt to: \u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eplay down the level of risk in an inappropriate manner \u003c/li\u003e\n  \u003cli\u003eadvertise products or services \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"maximising-efficacy-of-fsn-communication\"\u003eMaximising efficacy of \u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e communication \u003c/h2\u003e\n\n\u003cp\u003eWrite the \u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e in a clear style and at an appropriate level for the intended audience. Remember that in some cases patients will read the notice, so it’s best to avoid jargon or unnecessary technical language. \u003c/p\u003e\n\n\u003cp\u003eThe risk to the user is the key element of the notice. Make it clear what the problem is and what the recipient must do. \u003c/p\u003e\n\n\u003cp\u003eDo not delay sending an \u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e because you are waiting to include information on the cause of the problem. In such circumstances, there is the option to send a follow-up \u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e. \u003c/p\u003e\n\n\u003cp\u003eThe \u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e must be sent in a format that enables customers to search for \u003cabbr title=\"unique device identifiers\"\u003eUDI\u003c/abbr\u003e information (wherever available), catalogue numbers, model numbers and LOT numbers. We consider it best practice to include unique device identifiers (UDIs) in your field safety corrective action (\u003cabbr title=\"field safety corrective action\"\u003eFSCA\u003c/abbr\u003e) communications.   \u003c/p\u003e\n\n\u003cp\u003eWe have worked with \u003ca rel=\"external\" href=\"https://www.gs1uk.org/\" class=\"govuk-link\"\u003eGS1\u003c/a\u003e and \u003ca rel=\"external\" href=\"https://www.hibcc.org/\" class=\"govuk-link\"\u003eHIBCC\u003c/a\u003e to produce the following templates for the incorporation of detailed device information in field safety notices (FSNs) and we encourage you to use these. \u003c/p\u003e\n\n\u003cp\u003eIf you use GS1 UDIs, use the \u003ca rel=\"external\" href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/885597/GS1_UDI_Device_and_Header_Spreadsheet_.xlsm\" class=\"govuk-link\"\u003eGS1 \u003cabbr title=\"unique device identifiers\"\u003eUDI\u003c/abbr\u003e device and header spreadsheet\u003c/a\u003e . The \u003ca rel=\"external\" href=\"https://www.gs1uk.org/sites/default/files/061119_Field_Safety_Corrective_Actions_document.pdf\" class=\"govuk-link\"\u003eGS1 recommendations on \u003cabbr title=\"field safety corrective action\"\u003eFSCA\u003c/abbr\u003e and recalls using unique device identifiers and GS1 standards\u003c/a\u003e provides background information and details on how to fill in the spreadsheet. \u003c/p\u003e\n\n\u003cp\u003eIf you use HIBCC UDIs, use the  \u003ca rel=\"external\" href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/885598/HIBCC_UDI_Device_and_Header_Spreadsheet.xlsx\" class=\"govuk-link\"\u003eHIBCC \u003cabbr title=\"unique device identifiers\"\u003eUDI\u003c/abbr\u003e device and header spreadsheet\u003c/a\u003e . \u003c/p\u003e\n\n\u003cp\u003eManufacturers must submit their initial \u003cabbr title=\"field safety corrective action\"\u003eFSCA\u003c/abbr\u003e report and draft \u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e to us before sharing with customers (except for urgent FSNs). This is so we can provide advice on the \u003cabbr title=\"field safety corrective action\"\u003eFSCA\u003c/abbr\u003e implementation strategy or comments on the proposed \u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e. If you receive no response within 5 days of submitting the draft, you should circulate the \u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e to your customers. If the action required to protect patient safety is urgent, you can circulate the \u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e to your customers without waiting the 5 days for a response from MHRA. \u003c/p\u003e\n\n\u003cp\u003eYou should issue the \u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e, with the crucial acknowledgement instructions, as soon as possible after the final version has been agreed. \u003c/p\u003e\n\n\u003cp\u003eThese are some of the common problems we’ve found in draft and in published FSNs: \u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n    \u003cp\u003emissing lot numbers \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003etoo much jargon \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003ebadly explained or missing instructions on what to do next \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003emissing detailed description of the problem \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003emissing explanation of how the problem affects the patient \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eincorrect or missing contact details for the UK \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003emissing acknowledgment form \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003efinal \u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e has not been signed or dated \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003epoor translations – we suggest asking your UK responsible person/Northern Ireland authorised representative or importer/distributor in the UK to check the English \u003c/p\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIn your final version \u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e we are looking for the following: \u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n    \u003cp\u003ethe correct contact details for the UK \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eonly generic information about the recipients - do not use a sample with an individual’s name or address on it \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003einclude covering letters in the \u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003esend it to us as a single PDF file with all the relevant information rather than separate files with versions of FSNs (such as one aimed at distributors and another at customers) \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003ethe PDF must not be a scanned version of a paper document because it cannot be searched for serial numbers, model numbers and similar information \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003ethe UDIs of the affected devices, preferably on the \u003cabbr title=\"unique device identifiers\"\u003eUDI\u003c/abbr\u003e device and header Excel spreadsheet \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eif possible, include NHS supply chain codes to help your customers decide if they have your product in stock \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eif the \u003cabbr title=\"field safety corrective action\"\u003eFSCA\u003c/abbr\u003e covers all lots, state this as well as listing all the numbers \u003c/p\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eWe publish \u003ca href=\"https://www.gov.uk/drug-device-alerts\" class=\"govuk-link\"\u003eweekly lists of FSNs that affect the UK\u003c/a\u003e. Although these are for information only, they are extremely popular – there are over 10,000 subscribers to these pages. \u003c/p\u003e\n\n\u003ch2 id=\"effective-targeting-of-fsns-and-maximising-response-rates\"\u003eEffective targeting of FSNs and maximising response rates \u003c/h2\u003e\n\n\u003cp\u003eThe UK medical devices regulations state that “the manufacturer must take all reasonable steps to ensure the field safety notice is sent to users of the device”.   \u003c/p\u003e\n\n\u003cp\u003eThe MHRA does not stipulate the method of distributing FSNs. The key element in maximising response rates is to make sure the right people know that the \u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e is urgent and needs a response. \u003c/p\u003e\n\n\u003cp\u003eA ‘read receipt’ of an email is not acceptable proof of acknowledgement of an \u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e because it does not prove that the \u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e has been read and acted on. Some companies are now using an e-signature portal as confirmation that FSNs have been received, and acted on, by the organisation. We encourage this route of distributing FSNs. \u003c/p\u003e\n\n\u003cp\u003eRegistered post only proves that the \u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e arrived at its destination, not that it has been read and acted on by the intended recipient. \u003c/p\u003e\n\n\u003cp\u003eOne tactic to help you get replies to FSNs is to use the network of medical device safety officers (\u003cabbr title=\"Medical Device Safety Officer\"\u003eMDSO\u003c/abbr\u003e) in healthcare establishments throughout England. The way to access the list of contacts is through an account with our \u003ca rel=\"external\" href=\"https://aic.mhra.gov.uk/\" class=\"govuk-link\"\u003emanufacturer’s online reporting environment (MORE)\u003c/a\u003e. With a MORE account, you can submit and manage your reports online, or just use the \u003cabbr title=\"Medical Device Safety Officer\"\u003eMDSO\u003c/abbr\u003e email lists to send FSNs. The list is updated monthly and includes the contact details for Scottish equipment co-ordinators. \u003c/p\u003e\n\n\u003cp\u003eMDSOs must be registered with the MHRA and part of their role is to act as an additional senior point of contact for manufacturers and support local actions on FSNs. Although not all healthcare organisations have an \u003cabbr title=\"Medical Device Safety Officer\"\u003eMDSO\u003c/abbr\u003e, over 95% of NHS trusts do, so it is a great advantage to include MDSOs when sending FSNs to your customers. \u003c/p\u003e\n\n\u003cp\u003eThe MHRA has a \u003ca href=\"https://www.gov.uk/government/publications/field-safety-notice-fsn-what-it-is-and-why-its-important\" class=\"govuk-link\"\u003eflyer that explains FSNs\u003c/a\u003e  and why they are important, which manufacturers can send to their customers to help achieve target reconciliation on responses. \u003c/p\u003e\n\n\u003ch2 id=\"the-manufacturersfscastrategy\"\u003eThe manufacturer’s \u003cabbr title=\"field safety corrective action\"\u003eFSCA\u003c/abbr\u003e strategy \u003c/h2\u003e\n\n\u003cp\u003eThe \u003cabbr title=\"field safety corrective action\"\u003eFSCA\u003c/abbr\u003e strategy will need to specify whether a general public warning (advertisement, a helpline number for 24-hour access to further information or media release) is needed and whether to use more specialised news media. The latter can allow targeting of specific segments of the population (for example, customers signed up to receive updates from manufacturer websites or loyalty schemes) to prevent unnecessary public anxiety and advise that consultation between patients and their healthcare professional is essential. \u003c/p\u003e\n\n\u003cp\u003eWhichever method is used, manufacturers should inform the MHRA first and send us a draft copy for comment. There is advice on advertising and using the media in the PROSAFE \u003ca rel=\"external\" href=\"https://prosafe.org/images/publications/Corrective_Actions_GuideAnnexes.pdf\" class=\"govuk-link\"\u003eCorrective Action Guide\u003c/a\u003e. \u003c/p\u003e\n\n\u003cp\u003eFor FSNs relating to software devices published on app stores, a summary of the \u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e should be displayed in the information on the app store and, where possible, at the app’s start-up. If the full \u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e cannot be displayed, a link to the full text should be made available in-app. It is not acceptable to fix a software issue without issuing an \u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e to explain the action taken. \u003c/p\u003e\n\n\u003ch2 id=\"confidentiality-of-fsns\"\u003eConfidentiality of FSNs \u003c/h2\u003e\n\n\u003cp\u003eThe MHRA keeps information from manufacturers on proposed field safety corrective actions (FSCAs), including draft copies of \u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e, confidential as required by the Medical Devices Regulations (SI 2002 No 618, as amended) (UK MDR 2002). Once a manufacturer has issued a final \u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e to customers, it is no longer treated as confidential because it is in the public domain. \u003c/p\u003e\n\n\u003cp\u003eThe MHRA has agreements in place with other international regulatory authorities, where we circulate notifications about FSCAs (in confidence) to promote co-ordinated actions between international regulatory authorities. \u003c/p\u003e\n\n\u003ch2 id=\"what-the-mhra-does-when-there-is-anfsca\"\u003eWhat the MHRA does when there is an \u003cabbr title=\"field safety corrective action\"\u003eFSCA\u003c/abbr\u003e \u003c/h2\u003e\n\n\u003cp\u003eWhere there is doubt, the MHRA will provide its interpretation of whether the action proposed by the manufacturer falls within the definition of an \u003cabbr title=\"field safety corrective action\"\u003eFSCA\u003c/abbr\u003e and will give advice on FSNs and associated \u003cabbr title=\"field safety corrective action\"\u003eFSCA\u003c/abbr\u003e strategies. \u003c/p\u003e\n\n\u003cp\u003eAs soon as possible after we receive sufficient information from the manufacturer, we review the details of every \u003cabbr title=\"field safety corrective action\"\u003eFSCA\u003c/abbr\u003e . We expect manufacturers to reply quickly to queries about FSCAs. Delayed replies increase the likelihood of the MHRA publishing separate advice to the health service in the interests of protecting public health. It may also lead to the MHRA initiating legal compliance action. \u003c/p\u003e\n\n\u003cp\u003eCircumstances where the MHRA might have to issue separate advice include the need to: \u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n    \u003cp\u003esupplement information provided by the manufacturer, for example, when the message of the \u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e is not clear or where additional advice is needed \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003ebring the \u003cabbr title=\"field safety corrective action\"\u003eFSCA\u003c/abbr\u003e to the attention of a wider user base than that contacted directly by the manufacturer, for example, to target different or additional professionals \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003enotify chief executives of NHS trusts or other management personnel, for reasons of clinical governance, of information being issued directly to healthcare professionals \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eissue an MHRA statement where a safety issue has sufficiently high profile that the health service would expect it \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003ehelp ensure the message gets to everyone affected when a very large number of customers and centres are affected, and/or where there is a possibility that devices may have been moved between healthcare providers/centres without the knowledge of the manufacturer or distributor \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003egive different advice to that provided by the manufacturer, although through negotiation we try to avoid this wherever possible \u003c/p\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe manufacturer, or their authorised representative, will almost always get the opportunity to comment on the draft of any safety-related notice that the MHRA produces. \u003c/p\u003e\n\n\u003cp\u003eFor FSCAs with public, media or a particular health interest, the MHRA will liaise with colleagues in the Department of Health and Social Care and with the manufacturer to prepare information for general release. Media statements should be worded to minimise any public alarm. Where necessary, UK health ministers will be kept informed. \u003c/p\u003e\n\n\u003cp\u003eThe MHRA will agree appropriate milestones with the manufacturer or authorised representative for receiving \u003cabbr title=\"field safety corrective action\"\u003eFSCA\u003c/abbr\u003e status reports, including a final report. We examine all the reports from the manufacturer and keep an ongoing assessment of the effectiveness of the \u003cabbr title=\"field safety corrective action\"\u003eFSCA\u003c/abbr\u003e action. This may include further referral to the weekly management meeting. \u003c/p\u003e\n\n\u003cp\u003eWhere an \u003cabbr title=\"field safety corrective action\"\u003eFSCA\u003c/abbr\u003e is initiated following a report of an incident submitted to the MHRA, we will communicate the outcome of the investigation to the person who sent us the report. In the interests of worldwide patient and user safety, we may also provide copies of MHRA safety warnings issued to the health service in the UK to other regulatory authorities. \u003c/p\u003e\n\n\u003ch2 id=\"our-fsnreview-and-monitoring-process\"\u003eOur \u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e review and monitoring process \u003c/h2\u003e\n\n\u003col\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003cabbr title=\"field safety corrective action\"\u003eFSCA\u003c/abbr\u003e and \u003cabbr title=\"Field Safety Notice\"\u003eFSN\u003c/abbr\u003e logged and initial email sent to manufacturer from AIC requesting information about the action being taken.    \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003cabbr title=\"field safety corrective action\"\u003eFSCA\u003c/abbr\u003e assigned to benefit risk evaluation assessor (BRE assessor), who conducts initial review of safety message and required actions.  Therapeutic area group meeting reviews \u003cabbr title=\"field safety corrective action\"\u003eFSCA\u003c/abbr\u003e where required. \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eBRE assessor may ask for more information from manufacturer or seek clinical opinion. \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eInformation on reconciliation and long-term corrective and preventive action (CAPA) received from manufacturer in response to initial email from AIC, and/or request from BRE assessor. \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eBRE assessor completes assessment including recommendations for MHRA actions relating to the \u003cabbr title=\"field safety corrective action\"\u003eFSCA\u003c/abbr\u003e. \u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eBRE assessor completes the actions agreed, for example, continue to monitor, or publish safety communications. \u003c/p\u003e\n  \u003c/li\u003e\n\u003c/ol\u003e\n\n\u003ch2 id=\"field-corrective-actions\"\u003eField corrective actions \u003c/h2\u003e\n\n\u003cp\u003eAlthough they are outside the scope of the notification requirements of the UK MDR 2002, the MHRA encourages manufacturers to deal with field corrective actions (FCAs) in a similar way to FSCAs. \u003c/p\u003e\n\n\u003cp\u003eA field corrective action may arise from a more minor issue that does not pose a risk of death or serious injury. \u003c/p\u003e\n\n\u003ch3 id=\"examples-of-field-actions-considered-to-be-fscas\"\u003eExamples of field actions considered to be FSCAs \u003c/h3\u003e\n\n\u003cp\u003e\u003cstrong\u003e1. A manufacturer identifies that water used in the manufacturing process is contaminated, and all devices manufactured using this process are potentially contaminated. The investigation included consideration of the type of contamination, the causes of the contamination, and the impact use of a contaminated device could have, taking into account different users.\u003c/strong\u003e\u003c/p\u003e\n\n\u003cp\u003eRationale: there is potential for serious injury should a contaminated device be used.   \u003c/p\u003e\n\n\u003cp\u003e\u003cstrong\u003e2. A manufacturer identifies that diagnostic kit for detecting antibodies impacting on fertility processes within human semen or serum has the potential to produce false negative results.\u003c/strong\u003e  \u003c/p\u003e\n\n\u003cp\u003eRationale: any corrective action(s) taken by the manufacturer to reduce the risk of direct or indirect harm associated with the use of a ‘defective’ diagnostic kit should be reportable. This is especially true in the cases where patient follow up measures are required.  \u003c/p\u003e\n\n\u003cp\u003e\u003cstrong\u003e3. The manufacturer updates the instructions for use to include a new warning to mitigate a serious risk to the user.\u003c/strong\u003e \u003c/p\u003e\n\n\u003cp\u003eRationale: the purpose of the new warning is to prevent serious injury to a patient or user. \u003c/p\u003e\n\n\u003cp\u003e\u003cstrong\u003e4. Following reports that a Heaf test seemed to give an abnormally high level of ‘false negative results’, the manufacturer identified that, although it was performing to specification and requirements, the firing mechanism could be interrupted if it was not handled in a specific way. The instructions for use supplied with the device did not clearly identify this handling requirement. The manufacturer changed the instructions so that the handling of the unit was clearly highlighted in both text and diagram form.\u003c/strong\u003e \u003c/p\u003e\n\n\u003cp\u003eRationale: there is potential for misfired units to give rise to false negatives, which in turn could result in inappropriate tuberculosis immunisation.  \u003c/p\u003e\n\n\u003cp\u003e\u003cstrong\u003e5. Sterilisation services are provided for a manufacturer by a third-party supplier.  Devices are found not to have been sterilised in line with the documented, validated process. The investigation included consideration of the impact use of an unsterile device may have as well as the impact removal of product from the market would have on supply.\u003c/strong\u003e\u003c/p\u003e\n\n\u003cp\u003eRationale: there is potential for serious injury should an affected device be used.   \u003c/p\u003e\n\n\u003cp\u003e\u003cstrong\u003e6. A manufacturer of a syringe pump identified a small risk that pumps within a range of serial numbers may not alarm if the syringe plunger clamp was left open. The manufacturer issued instructions on detecting and correcting the problem. Instructions on checking the ‘Clamp Open’ detection mechanism during routine maintenance were also added to the service manual.\u003c/strong\u003e\u003c/p\u003e\n\n\u003cp\u003eRationale: there is potential for serious injury as a result of over- or under-infusion.  \u003c/p\u003e\n\n\u003cp\u003e\u003cstrong\u003e7. A manufacturer identified that due to a battery defect, the rate of battery depletion towards the end of service life of one of their pacemaker models was more rapid than originally anticipated through accelerated testing. There were no un-implanted units remaining with distributors or in hospital supplies available for return to the manufacturer. The manufacturer issued written advice to clinicians following patients implanted with these pacemakers, emphasising the need to schedule clinic visits more frequently than indicated in the physicians’ manual supplied with the product, to check the pacemaker battery status.\u003c/strong\u003e\u003c/p\u003e\n\n\u003cp\u003eRationale: failure to detect early signs of battery depletion would risk the patient losing pacing therapy.   \u003c/p\u003e\n\n\u003cp\u003e\u003cstrong\u003e8. A test for detecting bacterial antigen in cerebrospinal fluid is found to cross-react with another bacterium which causes meningitis.\u003c/strong\u003e\u003c/p\u003e\n\n\u003cp\u003eRationale: this could result in the wrong antibiotics being administered.  \u003c/p\u003e\n\n\u003cp\u003e\u003cstrong\u003e9. Following reports of users falling from powered wheelchairs due to failures of castor assemblies it was found that the instructions for use did not include adequate user checks and regular maintenance requirements to ensure that the castors could continue to operate correctly. The manufacturer revised the instructions for use and incorporated new requirements for user functional checks and regular maintenance.\u003c/strong\u003e\u003c/p\u003e\n\n\u003cp\u003eRationale: there is potential for serious injury as the result of a fall. \u003c/p\u003e\n\n\u003ch3 id=\"examples-of-field-actions-not-considered-to-be-fscas\"\u003eExamples of field actions not considered to be FSCAs \u003c/h3\u003e\n\n\u003ch4 id=\"example-1-general-medical-device\"\u003eExample 1: general medical device \u003c/h4\u003e\n\n\u003cp\u003eA manufacturer places an incorrect expiry date of 18 months on the labelling of a batch of product. The supported shelf life is 2 years. The manufacturer chooses to send new labels with the correct expiry date to customers. \u003c/p\u003e\n\n\u003ch4 id=\"example-2-out-of-box-failure\"\u003eExample 2: out-of-box failure \u003c/h4\u003e\n\n\u003cp\u003eA product is shipped with a reagent missing. Users cannot run the test without it. The manufacturer exchanges distributed product for complete test kits.\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Updated to reflect the laying of The Medical Devices (Post-market Surveillance requirements) (Amendment) Regulations 2024.  ",
+                                               "public_timestamp":  "2025-01-15T10:00:06.000+00:00"
+                                           },
+                                           {
+                                               "note":  "This has been updated due to the end of the Brexit transition period.",
+                                               "public_timestamp":  "2021-01-01T10:35:15.000+00:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2020-05-20T00:00:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "240f72bd-9a4d-4f39-94d9-77235cadde8e"
+                                                 ],
+                    "first_public_at":  "2020-05-20T00:00:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2020-05-20T00:00:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/effective-field-safety-notices-fsns-guidance-for-manufacturers-of-medical-devices",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/effective-field-safety-notices-fsns-guidance-for-manufacturers-of-medical-devices",
+                                                     "base_path":  "/guidance/effective-field-safety-notices-fsns-guidance-for-manufacturers-of-medical-devices",
+                                                     "content_id":  "0719318d-86b5-4809-812b-f830cc61de57",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2025-01-15T10:00:06Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Effective field safety notices (FSNs): guidance for manufacturers of medical devices",
+                                                     "web_url":  "https://www.gov.uk/guidance/effective-field-safety-notices-fsns-guidance-for-manufacturers-of-medical-devices",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/medical-devices-guidance-for-manufacturers-on-vigilance",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/medical-devices-guidance-for-manufacturers-on-vigilance",
+                                                   "base_path":  "/government/collections/medical-devices-guidance-for-manufacturers-on-vigilance",
+                                                   "content_id":  "4fe02bd5-97b4-4774-a7aa-a675860ee738",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/effective-field-safety-notices-fsns-guidance-for-manufacturers-of-medical-devices",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/effective-field-safety-notices-fsns-guidance-for-manufacturers-of-medical-devices",
+                                                                                       "base_path":  "/guidance/effective-field-safety-notices-fsns-guidance-for-manufacturers-of-medical-devices",
+                                                                                       "content_id":  "0719318d-86b5-4809-812b-f830cc61de57",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2025-01-15T10:00:06Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Effective field safety notices (FSNs): guidance for manufacturers of medical devices",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/effective-field-safety-notices-fsns-guidance-for-manufacturers-of-medical-devices",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2025-01-15T10:00:06Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Medical devices: post-market surveillance",
+                                                   "web_url":  "https://www.gov.uk/government/collections/medical-devices-guidance-for-manufacturers-on-vigilance",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2019-to-2022-johnson-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2019-to-2022-johnson-conservative-government",
+                                         "base_path":  "/government/2019-to-2022-johnson-conservative-government",
+                                         "content_id":  "4ed901ec-c8ce-42d5-a2aa-6d7f462480df",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2022-09-06T00:00:00+00:00",
+                                                         "started_on":  "2019-07-24T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2019 to 2022 Johnson Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2019-to-2022-johnson-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "EA63",
+                                            "api_path":  "/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                            "base_path":  "/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                            "content_id":  "240f72bd-9a4d-4f39-94d9-77235cadde8e",
+                                            "details":  {
+                                                            "acronym":  "MHRA",
+                                                            "brand":  "department-of-health",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Medicines \u0026amp; Healthcare products\u003cbr/\u003eRegulatory Agency"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Medicines and Healthcare products Regulatory Agency",
+                                            "web_url":  "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA63",
+                                                                       "api_path":  "/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                                       "base_path":  "/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                                       "content_id":  "240f72bd-9a4d-4f39-94d9-77235cadde8e",
+                                                                       "details":  {
+                                                                                       "acronym":  "MHRA",
+                                                                                       "brand":  "department-of-health",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Medicines \u0026amp; Healthcare products\u003cbr/\u003eRegulatory Agency"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Medicines and Healthcare products Regulatory Agency",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "EA63",
+                                                              "api_path":  "/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                              "base_path":  "/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                              "content_id":  "240f72bd-9a4d-4f39-94d9-77235cadde8e",
+                                                              "details":  {
+                                                                              "acronym":  "MHRA",
+                                                                              "brand":  "department-of-health",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Medicines \u0026amp; Healthcare products\u003cbr/\u003eRegulatory Agency"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Medicines and Healthcare products Regulatory Agency",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/more-registrations-user-reference-guide",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/more-registrations-user-reference-guide",
+                                                              "base_path":  "/government/publications/more-registrations-user-reference-guide",
+                                                              "content_id":  "2f0b0d7a-5f94-453c-8200-a155edb5cf1c",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2023-08-24T15:09:58Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "MORE Registrations - user reference guide",
+                                                              "web_url":  "https://www.gov.uk/government/publications/more-registrations-user-reference-guide",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/field-safety-notice-fsn-what-it-is-and-why-its-important",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/field-safety-notice-fsn-what-it-is-and-why-its-important",
+                                                              "base_path":  "/government/publications/field-safety-notice-fsn-what-it-is-and-why-its-important",
+                                                              "content_id":  "55deea79-0447-402a-9fa9-00c56d87229f",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-10-23T11:23:48Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Field safety notice (FSN): what it is and why it\u0027s important",
+                                                              "web_url":  "https://www.gov.uk/government/publications/field-safety-notice-fsn-what-it-is-and-why-its-important",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/collections/medical-devices-guidance-for-manufacturers-on-vigilance",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/collections/medical-devices-guidance-for-manufacturers-on-vigilance",
+                                                              "base_path":  "/government/collections/medical-devices-guidance-for-manufacturers-on-vigilance",
+                                                              "content_id":  "4fe02bd5-97b4-4774-a7aa-a675860ee738",
+                                                              "document_type":  "document_collection",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2025-01-15T10:00:06Z",
+                                                              "schema_name":  "document_collection",
+                                                              "title":  "Medical devices: post-market surveillance",
+                                                              "web_url":  "https://www.gov.uk/government/collections/medical-devices-guidance-for-manufacturers-on-vigilance",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/mhra-portal-register-to-submit-forms",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/mhra-portal-register-to-submit-forms",
+                                                              "base_path":  "/guidance/mhra-portal-register-to-submit-forms",
+                                                              "content_id":  "5ef5a8ee-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2019-10-08T15:50:36Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "MHRA Portal: register to submit forms",
+                                                              "web_url":  "https://www.gov.uk/guidance/mhra-portal-register-to-submit-forms",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/breast-implants-and-anaplastic-large-cell-lymphoma-alcl",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/breast-implants-and-anaplastic-large-cell-lymphoma-alcl",
+                                                              "base_path":  "/guidance/breast-implants-and-anaplastic-large-cell-lymphoma-alcl",
+                                                              "content_id":  "95348535-95fe-416d-bbc6-45fca8575e72",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2023-04-28T14:10:42Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Breast Implant Associated Anaplastic Large Cell Lymphoma (BIA-ALCL)",
+                                                              "web_url":  "https://www.gov.uk/guidance/breast-implants-and-anaplastic-large-cell-lymphoma-alcl",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/health-and-social-care/medicines-medical-devices-blood-medical-devices-regulation-safety",
+                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care/medicines-medical-devices-blood-medical-devices-regulation-safety",
+                                     "base_path":  "/health-and-social-care/medicines-medical-devices-blood-medical-devices-regulation-safety",
+                                     "content_id":  "974db797-6c7c-4c79-a92e-182dadb62362",
+                                     "details":  {
+                                                     "internal_name":  "Medical devices regulation and safety [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/health-and-social-care/medicines-medical-devices-blood",
+                                                                             "api_url":  "https://www.gov.uk/api/content/health-and-social-care/medicines-medical-devices-blood",
+                                                                             "base_path":  "/health-and-social-care/medicines-medical-devices-blood",
+                                                                             "content_id":  "cebc01ee-f70a-4397-a552-622e10b62508",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Medicines and medical devices [T] (level 2, health theme)",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/health-and-social-care",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care",
+                                                                                                                     "base_path":  "/health-and-social-care",
+                                                                                                                     "content_id":  "8124ead8-8ebc-4faf-88ad-dd5cbcc92ba8",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Health and social care",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:30:51Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Health and social care",
+                                                                                                                     "web_url":  "https://www.gov.uk/health-and-social-care",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2019-02-06T16:16:55Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Medicines, medical devices",
+                                                                             "web_url":  "https://www.gov.uk/health-and-social-care/medicines-medical-devices-blood",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-08-22T12:56:19Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Medical devices regulation and safety",
+                                     "web_url":  "https://www.gov.uk/health-and-social-care/medicines-medical-devices-blood-medical-devices-regulation-safety",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/health-and-social-care/medicines-medical-devices-blood-vigilance-safety-alerts",
+                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care/medicines-medical-devices-blood-vigilance-safety-alerts",
+                                     "base_path":  "/health-and-social-care/medicines-medical-devices-blood-vigilance-safety-alerts",
+                                     "content_id":  "49f5ab15-d6fe-4a8e-8e56-44878798e7d6",
+                                     "details":  {
+                                                     "internal_name":  "Vigilance, safety alerts and guidance [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/health-and-social-care/medicines-medical-devices-blood",
+                                                                             "api_url":  "https://www.gov.uk/api/content/health-and-social-care/medicines-medical-devices-blood",
+                                                                             "base_path":  "/health-and-social-care/medicines-medical-devices-blood",
+                                                                             "content_id":  "cebc01ee-f70a-4397-a552-622e10b62508",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Medicines and medical devices [T] (level 2, health theme)",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/health-and-social-care",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care",
+                                                                                                                     "base_path":  "/health-and-social-care",
+                                                                                                                     "content_id":  "8124ead8-8ebc-4faf-88ad-dd5cbcc92ba8",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Health and social care",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:30:51Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Health and social care",
+                                                                                                                     "web_url":  "https://www.gov.uk/health-and-social-care",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2019-02-06T16:16:55Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Medicines, medical devices",
+                                                                             "web_url":  "https://www.gov.uk/health-and-social-care/medicines-medical-devices-blood",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-08-22T12:56:18Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Vigilance, safety alerts and guidance",
+                                     "web_url":  "https://www.gov.uk/health-and-social-care/medicines-medical-devices-blood-vigilance-safety-alerts",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2025-01-15T10:00:06+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1737019489.003-10.13.21.43-2322",
+    "publishing_scheduled_at":  "2025-01-15T10:00:00+00:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  7,
+    "schema_name":  "detailed_guide",
+    "title":  "Effective field safety notices (FSNs): guidance for manufacturers of medical devices",
+    "updated_at":  "2025-01-16T09:24:49+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

@@ -1,0 +1,455 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/interview-study-qualitative-studies",
+    "content_id":  "c7f97f19-b33f-4f96-bb45-f906439f669c",
+    "description":  "How to use interviews to evaluate your digital health product.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eThis page is part of a \u003ca href=\"https://www.gov.uk/government/collections/evaluating-digital-health-products\" class=\"govuk-link\"\u003ecollection of guidance on evaluating digital health products\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eInterviews with users of a digital health product can be carried out to understand their views and experiences.\u003c/p\u003e\n\n\u003ch2 id=\"what-to-use-it-for\"\u003eWhat to use it for\u003c/h2\u003e\n\n\u003cp\u003eUse an interview study when:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eyou want a more in-depth understanding of users’ thoughts and experiences of your product\u003c/li\u003e\n  \u003cli\u003eyou’re developing your product, to work out how to make it better (formative or iterative evaluation)\u003c/li\u003e\n  \u003cli\u003eyou have open-ended questions about your product\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"pros\"\u003ePros\u003c/h2\u003e\n\n\u003cp\u003eBenefits include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eprovide in-depth insight into experiences\u003c/li\u003e\n  \u003cli\u003ecan be carried out with low numbers of participants\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"cons\"\u003eCons\u003c/h2\u003e\n\n\u003cp\u003eDrawbacks include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ecan be time-consuming to carry out\u003c/li\u003e\n  \u003cli\u003erequire participants to give some of their time\u003c/li\u003e\n  \u003cli\u003ecan describe the range of user views, but not how common each view is\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"how-to-carry-out-an-interview-study\"\u003eHow to carry out an interview study\u003c/h2\u003e\n\n\u003cp\u003eYou can use interviews to collect quantitative or qualitative data or both.\u003c/p\u003e\n\n\u003cp\u003eSemi-structured interviews are a common approach for collecting qualitative data. These involve open-ended discussion with the participant, guided by a pre-existing plan. Write a discussion guide with a few important questions in advance and use this to guide your conversation. The guide may evolve for later interviews based on responses in earlier interviews.\u003c/p\u003e\n\n\u003cp\u003eInterviews can vary in length depending on the context, 20 minutes to an hour is common. Make sure the participant does not feel time-pressured or distracted. You should try to establish a rapport with them.\u003c/p\u003e\n\n\u003cp\u003eSometimes participants are given a task to do before the interview, such as using the product.\nYou may need fewer participants for an interview study than for a quantitative study. One approach is to keep recruiting participants until you are not getting any new insights from extra interviews (saturation of answers).\u003c/p\u003e\n\n\u003cp\u003eYou should record the interview, using one or more of these methods:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eaudio recordings\u003c/li\u003e\n  \u003cli\u003evideo recordings\u003c/li\u003e\n  \u003cli\u003enotes taken by the evaluator or an assistant\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eTaking notes is a useful back-up if the recording fails, but note-taking should not get in the way of establishing a rapport with the interviewee.\u003c/p\u003e\n\n\u003cp\u003eTranscribe the recordings after the interviews and try to review the transcripts soon after each interview. You may want to share transcripts with participants, allowing them to add to their comments.\u003c/p\u003e\n\n\u003cp\u003eInterviews can be carried out in person, by telephone or video conference. They can be carried out via text communication, such as email, but you may get less rich answers.\u003c/p\u003e\n\n\u003cp\u003eInterviews are usually analysed using \u003ca href=\"https://www.gov.uk/guidance/analyse-your-data-evaluating-digital-health-products\" class=\"govuk-link\"\u003ethematic analysis\u003c/a\u003e or other qualitative data analysis methods.\u003c/p\u003e\n\n\u003ch2 id=\"example-physical-activity-apps-for-cancer-survivors\"\u003eExample: physical activity apps for cancer survivors\u003c/h2\u003e\n\n\u003cp\u003eRoberts and others (2019), \u003ca rel=\"external\" href=\"https://mhealth.jmir.org/2019/1/e10918/\" class=\"govuk-link\"\u003eBreast, Prostate, and Colorectal Cancer Survivors’ Experiences of Using Publicly Available Physical Activity Mobile Apps: Qualitative Study\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eThe team wanted to evaluate 4 existing apps for the promotion of physical activity to see whether they would work well for cancer survivors.\u003c/p\u003e\n\n\u003cp\u003eThey chose an interview study because the work was at an early stage of development. They were working out what sort of app or features would work for this patient group.\u003c/p\u003e\n\n\u003cp\u003eRecruitment was done through the support of community-based cancer support groups, Facebook cancer support groups and charities. Participants were offered a £10 voucher for their time and to cover any costs of downloading the apps.\u003c/p\u003e\n\n\u003cp\u003eParticipants had to meet these criteria:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eat least 18 years old\u003c/li\u003e\n  \u003cli\u003ediagnosed with breast, prostate or colorectal cancer\u003c/li\u003e\n  \u003cli\u003ehas finished primary curative treatment (surgery, radiotherapy and chemotherapy)\u003c/li\u003e\n  \u003cli\u003ehas not been advised by a clinician not to exercise\u003c/li\u003e\n  \u003cli\u003eowns a smartphone\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eEthical approval for this study was granted by a university research ethics committee.\u003c/p\u003e\n\n\u003cp\u003eShort telephone interviews were carried out to confirm participants’ eligibility and to get some background details. Each participant was then randomly assigned 2 of the 4 apps and instructed to use them for a week each consecutively. Afterwards, they were interviewed over the telephone using a discussion guide.\u003c/p\u003e\n\n\u003cp\u003eForty participants were recruited, but 8 dropped out, so 32 completed the study.\u003c/p\u003e\n\n\u003cp\u003eThe interviews were recorded and transcribed. They were analysed using \u003ca href=\"https://www.gov.uk/guidance/analyse-your-data-evaluating-digital-health-products\" class=\"govuk-link\"\u003ethematic analysis\u003c/a\u003e. This found many factors that affected the participants’ engagement with physical activity apps and how relevant the apps were perceived as being to cancer survivors. Views of different behaviour change techniques used by the apps – for example, prompts, goal setting, incentives – varied a lot.\u003c/p\u003e\n\n\u003ch2 id=\"more-information-and-resources\"\u003eMore information and resources\u003c/h2\u003e\n\n\u003cp\u003eBraun and Clarke (2006), \u003ca rel=\"external\" href=\"https://uwe-repository.worktribe.com/output/1043060/using-thematic-analysis-in-psychology\" class=\"govuk-link\"\u003eUsing thematic analysis in psychology\u003c/a\u003e. This paper outlines how to do thematic analysis.\u003c/p\u003e\n\n\u003cp\u003eO’Brien and others (2014), \u003ca rel=\"external\" href=\"https://uwe-repository.worktribe.com/output/1043060/using-thematic-analysis-in-psychology\" class=\"govuk-link\"\u003eStandard for reporting qualitative research\u003c/a\u003e. This paper describes the main elements of a qualitative study.\u003c/p\u003e\n\n\u003cp\u003e\u003ca rel=\"external\" href=\"https://nsuworks.nova.edu/tqr/vol15/iss3/19/\" class=\"govuk-link\"\u003eQualitative Interview Design: A Practical Guide for Novice Investigators\u003c/a\u003e\u003c/p\u003e\n\n\u003ch3 id=\"examples-of-interview-studies-in-digital-health\"\u003eExamples of interview studies in digital health\u003c/h3\u003e\n\n\u003cp\u003eGowin and others (2015), \u003ca rel=\"external\" href=\"https://www.tandfonline.com/doi/full/10.1080/19325037.2015.1044140\" class=\"govuk-link\"\u003eHealth and Fitness App Use in College Students: A Qualitative Study\u003c/a\u003e. This study interviewed participants about a range of different apps.\u003c/p\u003e\n\n\u003cp\u003eThies and others (2017), \u003ca rel=\"external\" href=\"https://humanfactors.jmir.org/2017/4/e24/\" class=\"govuk-link\"\u003eLack of Adoption of a Mobile App to Support Patient Self-Management of Diabetes and Hypertension in a Federally Qualified Health Center: Interview Analysis of Staff and Patients in a Failed Randomized Trial\u003c/a\u003e. Researchers tried to carry out a randomised controlled trial but had to abandon this because of low numbers using and engaging with the app. Instead, they interviewed patients and staff about their experience of the app and how it was introduced to patients to understand what had happened.\u003c/p\u003e\n\n\u003cp\u003eCrane and others (2017), \u003ca rel=\"external\" href=\"https://www.frontiersin.org/articles/10.3389/fpubh.2017.00039/full\" class=\"govuk-link\"\u003eFactors Influencing Usability of a Smartphone App to Reduce Excessive Alcohol Consumption: Think Aloud and Interview Studies\u003c/a\u003e. Researchers conducted 2 sorts of interview studies about an app to reduce alcohol consumption. The first was a ‘think aloud’ study, the second was an interview after users had been given the app to use for 2 weeks.\u003c/p\u003e\n\n\u003cp\u003eLangius-Eklöf and others (2017), \u003ca rel=\"external\" href=\"https://cancer.jmir.org/2017/2/e18/\" class=\"govuk-link\"\u003eAdherence to Report and Patient Perception of an Interactive App for Managing Symptoms During Radiotherapy for Prostate Cancer: Descriptive Study of Logged and Interview Data\u003c/a\u003e.\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2020-01-30T17:00:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "e85f9a3f-451d-4a3e-9b63-17b13149269f"
+                                                 ],
+                    "first_public_at":  "2020-01-30T17:00:00.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2020-01-30T17:00:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/interview-study-qualitative-studies",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/interview-study-qualitative-studies",
+                                                     "base_path":  "/guidance/interview-study-qualitative-studies",
+                                                     "content_id":  "c7f97f19-b33f-4f96-bb45-f906439f669c",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2020-01-30T17:00:00Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Interview study: qualitative studies",
+                                                     "web_url":  "https://www.gov.uk/guidance/interview-study-qualitative-studies",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/evaluating-digital-health-products",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/evaluating-digital-health-products",
+                                                   "base_path":  "/government/collections/evaluating-digital-health-products",
+                                                   "content_id":  "9f286c51-0fa2-43c0-abc3-988f75423e36",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/interview-study-qualitative-studies",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/interview-study-qualitative-studies",
+                                                                                       "base_path":  "/guidance/interview-study-qualitative-studies",
+                                                                                       "content_id":  "c7f97f19-b33f-4f96-bb45-f906439f669c",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2020-01-30T17:00:00Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Interview study: qualitative studies",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/interview-study-qualitative-studies",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2021-10-19T09:59:42Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Evaluating digital health products",
+                                                   "web_url":  "https://www.gov.uk/government/collections/evaluating-digital-health-products",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  true,
+                                                         "ended_on":  null,
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "OT1341",
+                                            "api_path":  "/api/content/government/organisations/office-for-health-improvement-and-disparities",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/office-for-health-improvement-and-disparities",
+                                            "base_path":  "/government/organisations/office-for-health-improvement-and-disparities",
+                                            "content_id":  "e85f9a3f-451d-4a3e-9b63-17b13149269f",
+                                            "details":  {
+                                                            "acronym":  "OHID",
+                                                            "brand":  "department-of-health",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/6155e1378fa8f5297cc029fc/s960_39vs-at-night.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/6155e1378fa8f52985dd7449/s300_39vs-at-night.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Office for Health\u003cbr/\u003eImprovement \u003cbr/\u003e\u0026amp; Disparities"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Office for Health Improvement and Disparities",
+                                            "web_url":  "https://www.gov.uk/government/organisations/office-for-health-improvement-and-disparities",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA480",
+                                                                       "api_path":  "/api/content/government/organisations/public-health-england",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/public-health-england",
+                                                                       "base_path":  "/government/organisations/public-health-england",
+                                                                       "content_id":  "1343f283-19e9-4fbb-86b1-58c7549d874b",
+                                                                       "details":  {
+                                                                                       "acronym":  "PHE",
+                                                                                       "brand":  "department-of-health",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db2de5274a7908e352ef/s960_sign5.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5a37db2d40f0b649cceb18bf/s300_sign5.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Public Health \u003cbr/\u003eEngland"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "split",
+                                                                                                                         "updated_at":  "2021-10-01T00:00:00.000+01:00",
+                                                                                                                         "url":  "https://www.gov.uk/phe"
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Public Health England",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/public-health-england",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "OT1341",
+                                                              "api_path":  "/api/content/government/organisations/office-for-health-improvement-and-disparities",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/office-for-health-improvement-and-disparities",
+                                                              "base_path":  "/government/organisations/office-for-health-improvement-and-disparities",
+                                                              "content_id":  "e85f9a3f-451d-4a3e-9b63-17b13149269f",
+                                                              "details":  {
+                                                                              "acronym":  "OHID",
+                                                                              "brand":  "department-of-health",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/6155e1378fa8f5297cc029fc/s960_39vs-at-night.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/6155e1378fa8f52985dd7449/s300_39vs-at-night.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Office for Health\u003cbr/\u003eImprovement \u003cbr/\u003e\u0026amp; Disparities"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Office for Health Improvement and Disparities",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/office-for-health-improvement-and-disparities",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/focus-group-study-qualitative-studies",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/focus-group-study-qualitative-studies",
+                                                              "base_path":  "/guidance/focus-group-study-qualitative-studies",
+                                                              "content_id":  "5fc9e575-62c7-4092-8490-96f230522558",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-01-30T17:11:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Focus group study: qualitative studies",
+                                                              "web_url":  "https://www.gov.uk/guidance/focus-group-study-qualitative-studies",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/feasibility-study",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/feasibility-study",
+                                                              "base_path":  "/guidance/feasibility-study",
+                                                              "content_id":  "b8680350-7bd8-4291-b8ec-746b50af1b44",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-05-04T08:30:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Feasibility study",
+                                                              "web_url":  "https://www.gov.uk/guidance/feasibility-study",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/choose-evaluation-methods-evaluating-digital-health-products",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/choose-evaluation-methods-evaluating-digital-health-products",
+                                                              "base_path":  "/guidance/choose-evaluation-methods-evaluating-digital-health-products",
+                                                              "content_id":  "6ce9f364-ef0c-4923-bd5a-af4267061d88",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-05-19T09:33:01Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Choose evaluation methods: evaluating digital health products",
+                                                              "web_url":  "https://www.gov.uk/guidance/choose-evaluation-methods-evaluating-digital-health-products",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/mixed-methods-study",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/mixed-methods-study",
+                                                              "base_path":  "/guidance/mixed-methods-study",
+                                                              "content_id":  "3d53909f-38b4-4d75-9b95-f7ccdb92e468",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-06-02T10:54:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Mixed methods study",
+                                                              "web_url":  "https://www.gov.uk/guidance/mixed-methods-study",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/quasi-experimental-study-comparative-studies",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/quasi-experimental-study-comparative-studies",
+                                                              "base_path":  "/guidance/quasi-experimental-study-comparative-studies",
+                                                              "content_id":  "ea926798-03f8-4090-b70a-d016ba93208d",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-09-08T14:20:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Quasi-experimental study: comparative studies",
+                                                              "web_url":  "https://www.gov.uk/guidance/quasi-experimental-study-comparative-studies",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/health-and-social-care/health-improvement",
+                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care/health-improvement",
+                                     "base_path":  "/health-and-social-care/health-improvement",
+                                     "content_id":  "42350cb9-f4ab-4e4c-abfb-b5662f3d14f4",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Health improvement",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/health-and-social-care/public-health",
+                                                                             "api_url":  "https://www.gov.uk/api/content/health-and-social-care/public-health",
+                                                                             "base_path":  "/health-and-social-care/public-health",
+                                                                             "content_id":  "d6a4884e-769d-4b81-8ba5-b64394362d92",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Public health",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/health-and-social-care",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care",
+                                                                                                                     "base_path":  "/health-and-social-care",
+                                                                                                                     "content_id":  "8124ead8-8ebc-4faf-88ad-dd5cbcc92ba8",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Health and social care",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:30:51Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Health and social care",
+                                                                                                                     "web_url":  "https://www.gov.uk/health-and-social-care",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-17T15:15:14Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Public health",
+                                                                             "web_url":  "https://www.gov.uk/health-and-social-care/public-health",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-17T15:16:49Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Health improvement",
+                                     "web_url":  "https://www.gov.uk/health-and-social-care/health-improvement",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/health-and-social-care/health-protection-services-research-testing-and-standards",
+                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care/health-protection-services-research-testing-and-standards",
+                                     "base_path":  "/health-and-social-care/health-protection-services-research-testing-and-standards",
+                                     "content_id":  "b19e0be5-22a3-4d79-b693-e42d7f3a608f",
+                                     "details":  {
+                                                     "internal_name":  "Research, testing and standards [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/health-and-social-care/health-protection",
+                                                                             "api_url":  "https://www.gov.uk/api/content/health-and-social-care/health-protection",
+                                                                             "base_path":  "/health-and-social-care/health-protection",
+                                                                             "content_id":  "30ba2d05-d0d6-4978-a5d6-707511894111",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Health protection",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/health-and-social-care/public-health",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care/public-health",
+                                                                                                                     "base_path":  "/health-and-social-care/public-health",
+                                                                                                                     "content_id":  "d6a4884e-769d-4b81-8ba5-b64394362d92",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Public health",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  false
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "parent_taxons":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-17T15:15:14Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Public health",
+                                                                                                                     "web_url":  "https://www.gov.uk/health-and-social-care/public-health",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2019-03-11T14:19:39Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Health protection",
+                                                                             "web_url":  "https://www.gov.uk/health-and-social-care/health-protection",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-08-22T12:56:17Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Research, testing and standards",
+                                     "web_url":  "https://www.gov.uk/health-and-social-care/health-protection-services-research-testing-and-standards",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2020-01-30T17:00:00+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "9342-1666257692.022-10.13.1.109-2327",
+    "publishing_scheduled_at":  "2020-01-30T17:00:00+00:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  3,
+    "schema_name":  "detailed_guide",
+    "title":  "Interview study: qualitative studies",
+    "updated_at":  "2024-07-04T14:57:17+01:00",
+    "withdrawn_notice":  {
+
+                         }
+}

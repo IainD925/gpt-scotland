@@ -1,0 +1,482 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/improving-productivity-in-elective-care",
+    "content_id":  "3d594653-3fa7-448a-865b-e9fea5f83354",
+    "description":  "Support for NHS providers to improve productivity in elective care pathways.",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "publications@dhsc.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1063373,
+                                            "filename":  "Elective_care_main_document_final.pdf",
+                                            "id":  "1254289",
+                                            "number_of_pages":  26,
+                                            "title":  "Helping NHS providers improve productivity in elective care",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a80cbf740f0b623026958c8/Elective_care_main_document_final.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "publications@dhsc.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  370906,
+                                            "filename":  "Appendix_A_operational_opportunities.pdf",
+                                            "id":  "1254290",
+                                            "number_of_pages":  22,
+                                            "title":  "Operational opportunities",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a809969ed915d74e622f623/Appendix_A_operational_opportunities.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "publications@dhsc.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  795558,
+                                            "filename":  "Appendix_B_Alfred_Health_International_Case_Study.pdf",
+                                            "id":  "1254291",
+                                            "number_of_pages":  17,
+                                            "title":  "Alfred Health",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a75081940f0b6397f35d22e/Appendix_B_Alfred_Health_International_Case_Study.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "publications@dhsc.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  551755,
+                                            "filename":  "Appendix_B_Capio_International_Case_Study.pdf",
+                                            "id":  "1254292",
+                                            "number_of_pages":  14,
+                                            "title":  "Capio",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a80c069e5274a2e8ab51f48/Appendix_B_Capio_International_Case_Study.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "publications@dhsc.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  729576,
+                                            "filename":  "Appendix_B_Cleveland_International_Case_Studies.pdf",
+                                            "id":  "1254293",
+                                            "number_of_pages":  10,
+                                            "title":  "Cleveland Clinic ",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a80e5a840f0b623026961eb/Appendix_B_Cleveland_International_Case_Studies.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "publications@dhsc.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  506759,
+                                            "filename":  "Appendix_B_Coxa_International_Case_Study.pdf",
+                                            "id":  "1254294",
+                                            "number_of_pages":  12,
+                                            "title":  "Coxa Hospital for Joint Replacement",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a80e340ed915d74e6231039/Appendix_B_Coxa_International_Case_Study.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "publications@dhsc.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  420688,
+                                            "filename":  "Appendix_B_Emory_Healthcare_International_Case_Studies.pdf",
+                                            "id":  "1254295",
+                                            "number_of_pages":  8,
+                                            "title":  "Emory University Orthopaedics and Spine Hospital",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a74a507ed915d0e8e399dd7/Appendix_B_Emory_Healthcare_International_Case_Studies.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "publications@dhsc.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  735796,
+                                            "filename":  "Appendix_C_NHS_co-production_sites_examples_of_good_practice_REVISED_v2.pdf",
+                                            "id":  "1254296",
+                                            "number_of_pages":  20,
+                                            "title":  "Examples of good practice in the NHS across the elective care pathway",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a815fa7e5274a2e8ab53a45/Appendix_C_NHS_co-production_sites_examples_of_good_practice_REVISED_v2.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "publications@dhsc.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  427352,
+                                            "filename":  "Appendix_D_Outputs_of_financial_model_v9.pdf",
+                                            "id":  "1254297",
+                                            "number_of_pages":  26,
+                                            "title":  "Financial analysis",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7f1453e5274a2e8ab49fbf/Appendix_D_Outputs_of_financial_model_v9.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "publications@dhsc.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  716752,
+                                            "filename":  "Elective-care-summary.pdf",
+                                            "id":  "1254300",
+                                            "number_of_pages":  2,
+                                            "title":  "Our findings at a glance",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a7f9539e5274a2e87db6b9a/Elective-care-summary.pdf"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eNHS providers are under unprecedented pressure to meet greater demand within constrained budgets, while at the same time improving the quality of patient care. Realising available opportunities to improve productivity in  care pathways, from first consultation to postoperative follow-up, could relieve at least some of that pressure.\u003c/p\u003e\n\n\u003cp\u003eThis report aims to help NHS providers identify such opportunities. It scrutinises a group of ophthalmic and orthopaedic elective care providers at home and abroad selected for their strong performance on quality and cost metrics. The report, a result of close collaboration with service providers, pinpoints where and how elective teams can concentrate their efforts to maximise quality and efficiency.\u003c/p\u003e\n\n\u003ch2 id=\"helping-nhs-providers-improve-productivity-in-elective-care\"\u003eHelping NHS providers improve productivity in elective care\u003c/h2\u003e\n\n\u003cp\u003eThis report concentrates on potential improvements in the operational management of elective patient pathways within the direct control of NHS providers and identifies a mechanism whereby clinicians and managers can work together to maximise provision of care.\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a80cbf740f0b623026958c8/Elective_care_main_document_final.pdf\"\u003eHelping NHS providers improve productivity in elective care\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e1.01 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e26 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7f9539e5274a2e87db6b9a/Elective-care-summary.pdf\"\u003eOur findings at a glance\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e700 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e2 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"appendix-a-operational-opportunities\"\u003eAppendix A: operational opportunities\u003c/h2\u003e\n\n\u003cp\u003eSets out the framework used to compare both national and international care models in this study and provides a detailed review of each improvement lever in the care pathway, including:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ea detailed description of the improvement opportunity, including a discussion of how it can be realised in practice using examples from the NHS and international case studies\u003c/li\u003e\n  \u003cli\u003ean assessment of the variability observed within current practice in the NHS\u003c/li\u003e\n  \u003cli\u003ethe benefits associated with good practice\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a809969ed915d74e622f623/Appendix_A_operational_opportunities.pdf\"\u003eOperational opportunities\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e362 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e22 pages\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003ch2 id=\"appendix-b-international-case-studies\"\u003eAppendix B: international case studies\u003c/h2\u003e\n\n\u003cp\u003eDetailed case studies of elective care units in Australia, Europe, Finland and the US.\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a75081940f0b6397f35d22e/Appendix_B_Alfred_Health_International_Case_Study.pdf\"\u003eAlfred Health\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e777 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e17 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a80c069e5274a2e8ab51f48/Appendix_B_Capio_International_Case_Study.pdf\"\u003eCapio\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e539 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e14 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a80e5a840f0b623026961eb/Appendix_B_Cleveland_International_Case_Studies.pdf\"\u003eCleveland Clinic \u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e712 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e10 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a80e340ed915d74e6231039/Appendix_B_Coxa_International_Case_Study.pdf\"\u003eCoxa Hospital for Joint Replacement\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e495 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e12 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a74a507ed915d0e8e399dd7/Appendix_B_Emory_Healthcare_International_Case_Studies.pdf\"\u003eEmory University Orthopaedics and Spine Hospital\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e411 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e8 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"appendix-c-examples-of-good-practice-in-the-nhs\"\u003eAppendix C: examples of good practice in the NHS\u003c/h2\u003e\n\n\u003cp\u003eExamples of good practice across the elective care pathway for each improvement lever from the NHS co-development sites involved in this project.\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a815fa7e5274a2e8ab53a45/Appendix_C_NHS_co-production_sites_examples_of_good_practice_REVISED_v2.pdf\"\u003eExamples of good practice in the NHS across the elective care pathway\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e719 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e20 pages\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003ch2 id=\"appendix-d-financial-analysis\"\u003eAppendix D: financial analysis\u003c/h2\u003e\n\n\u003cp\u003eA guide to the financial model used in our analysis and the assumptions made.\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5a7f1453e5274a2e8ab49fbf/Appendix_D_Outputs_of_financial_model_v9.pdf\"\u003eFinancial analysis\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e417 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e26 pages\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "New visual summary published:our findings at a glance",
+                                               "public_timestamp":  "2015-10-30T15:46:41.000+00:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2015-10-12T11:21:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "f285e31f-e2ba-4014-a0d9-013365f27166"
+                                                 ],
+                    "first_public_at":  "2015-10-12T11:21:00.000+01:00",
+                    "national_applicability":  {
+                                                   "england":  {
+                                                                   "applicable":  true,
+                                                                   "label":  "England"
+                                                               },
+                                                   "northern_ireland":  {
+                                                                            "alternative_url":  "",
+                                                                            "applicable":  false,
+                                                                            "label":  "Northern Ireland"
+                                                                        },
+                                                   "scotland":  {
+                                                                    "alternative_url":  "",
+                                                                    "applicable":  false,
+                                                                    "label":  "Scotland"
+                                                                },
+                                                   "wales":  {
+                                                                 "alternative_url":  "",
+                                                                 "applicable":  false,
+                                                                 "label":  "Wales"
+                                                             }
+                                               },
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2015-10-12T11:21:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/improving-productivity-in-elective-care",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/improving-productivity-in-elective-care",
+                                                     "base_path":  "/guidance/improving-productivity-in-elective-care",
+                                                     "content_id":  "3d594653-3fa7-448a-865b-e9fea5f83354",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2015-10-30T15:46:41Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Improving productivity in elective care",
+                                                     "web_url":  "https://www.gov.uk/guidance/improving-productivity-in-elective-care",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  true,
+                                                         "ended_on":  null,
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "lead_organisations":  [
+                                             {
+                                                 "analytics_identifier":  "PB255",
+                                                 "api_path":  "/api/content/government/organisations/monitor",
+                                                 "api_url":  "https://www.gov.uk/api/content/government/organisations/monitor",
+                                                 "base_path":  "/government/organisations/monitor",
+                                                 "content_id":  "f285e31f-e2ba-4014-a0d9-013365f27166",
+                                                 "details":  {
+                                                                 "acronym":  "Monitor",
+                                                                 "brand":  "department-of-health",
+                                                                 "default_news_image":  {
+                                                                                            "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db1fed915d5a62fdc75f/s960_Monitor-reception-sign1.jpg",
+                                                                                            "url":  "https://assets.publishing.service.gov.uk/media/5a37db1fed915d5a5f966083/s300_Monitor-reception-sign1.jpg"
+                                                                                        },
+                                                                 "logo":  {
+                                                                              "formatted_title":  "Monitor"
+                                                                          },
+                                                                 "organisation_govuk_status":  {
+                                                                                                   "status":  "merged",
+                                                                                                   "updated_at":  "2016-04-01T00:00:00.000+01:00",
+                                                                                                   "url":  "http://www.monitor.gov.uk/"
+                                                                                               }
+                                                             },
+                                                 "document_type":  "organisation",
+                                                 "links":  {
+
+                                                           },
+                                                 "locale":  "en",
+                                                 "schema_name":  "organisation",
+                                                 "title":  "Monitor",
+                                                 "web_url":  "https://www.gov.uk/government/organisations/monitor",
+                                                 "withdrawn":  false
+                                             }
+                                         ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "PB255",
+                                            "api_path":  "/api/content/government/organisations/monitor",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/monitor",
+                                            "base_path":  "/government/organisations/monitor",
+                                            "content_id":  "f285e31f-e2ba-4014-a0d9-013365f27166",
+                                            "details":  {
+                                                            "acronym":  "Monitor",
+                                                            "brand":  "department-of-health",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db1fed915d5a62fdc75f/s960_Monitor-reception-sign1.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5a37db1fed915d5a5f966083/s300_Monitor-reception-sign1.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "formatted_title":  "Monitor"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "merged",
+                                                                                              "updated_at":  "2016-04-01T00:00:00.000+01:00",
+                                                                                              "url":  "http://www.monitor.gov.uk/"
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Monitor",
+                                            "web_url":  "https://www.gov.uk/government/organisations/monitor",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "PB255",
+                                                                       "api_path":  "/api/content/government/organisations/monitor",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/monitor",
+                                                                       "base_path":  "/government/organisations/monitor",
+                                                                       "content_id":  "f285e31f-e2ba-4014-a0d9-013365f27166",
+                                                                       "details":  {
+                                                                                       "acronym":  "Monitor",
+                                                                                       "brand":  "department-of-health",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db1fed915d5a62fdc75f/s960_Monitor-reception-sign1.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5a37db1fed915d5a5f966083/s300_Monitor-reception-sign1.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "formatted_title":  "Monitor"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "merged",
+                                                                                                                         "updated_at":  "2016-04-01T00:00:00.000+01:00",
+                                                                                                                         "url":  "http://www.monitor.gov.uk/"
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Monitor",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/monitor",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "PB255",
+                                                              "api_path":  "/api/content/government/organisations/monitor",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/monitor",
+                                                              "base_path":  "/government/organisations/monitor",
+                                                              "content_id":  "f285e31f-e2ba-4014-a0d9-013365f27166",
+                                                              "details":  {
+                                                                              "acronym":  "Monitor",
+                                                                              "brand":  "department-of-health",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db1fed915d5a62fdc75f/s960_Monitor-reception-sign1.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/5a37db1fed915d5a5f966083/s300_Monitor-reception-sign1.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "formatted_title":  "Monitor"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "merged",
+                                                                                                                "updated_at":  "2016-04-01T00:00:00.000+01:00",
+                                                                                                                "url":  "http://www.monitor.gov.uk/"
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Monitor",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/monitor",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/government/statistics/rhi-deployment-data-june-2015",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/statistics/rhi-deployment-data-june-2015",
+                                                              "base_path":  "/government/statistics/rhi-deployment-data-june-2015",
+                                                              "content_id":  "6d99eabe-3a66-4073-9b1e-3f8258d349f0",
+                                                              "document_type":  "official_statistics",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2015-07-23T08:30:28Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "RHI deployment data: June 2015",
+                                                              "web_url":  "https://www.gov.uk/government/statistics/rhi-deployment-data-june-2015",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/peterborough-and-stamford-hospitals-safeguarding-services",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/peterborough-and-stamford-hospitals-safeguarding-services",
+                                                              "base_path":  "/government/publications/peterborough-and-stamford-hospitals-safeguarding-services",
+                                                              "content_id":  "5f186713-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "independent_report",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2013-09-11T23:00:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Peterborough and Stamford Hospitals: safeguarding services",
+                                                              "web_url":  "https://www.gov.uk/government/publications/peterborough-and-stamford-hospitals-safeguarding-services",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/voa-spending-over-500-july-2022",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/voa-spending-over-500-july-2022",
+                                                              "base_path":  "/government/publications/voa-spending-over-500-july-2022",
+                                                              "content_id":  "27ecad99-28ad-4c98-9ec1-b3f956f7b802",
+                                                              "document_type":  "transparency",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-08-19T14:14:48Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "VOA: spending over £500, July 2022",
+                                                              "web_url":  "https://www.gov.uk/government/publications/voa-spending-over-500-july-2022",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/health-and-social-care/national-health-service",
+                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care/national-health-service",
+                                     "base_path":  "/health-and-social-care/national-health-service",
+                                     "content_id":  "f3dcc290-752f-4bbe-b379-9155d919a58d",
+                                     "details":  {
+                                                     "internal_name":  "National Health Service (level 2)",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/health-and-social-care",
+                                                                             "api_url":  "https://www.gov.uk/api/content/health-and-social-care",
+                                                                             "base_path":  "/health-and-social-care",
+                                                                             "content_id":  "8124ead8-8ebc-4faf-88ad-dd5cbcc92ba8",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Health and social care",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:30:51Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Health and social care",
+                                                                             "web_url":  "https://www.gov.uk/health-and-social-care",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-08-22T12:56:21Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "National Health Service",
+                                     "web_url":  "https://www.gov.uk/health-and-social-care/national-health-service",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2015-10-30T15:46:41+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1713900567.680-10.13.33.117-628",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Improving productivity in elective care",
+    "updated_at":  "2024-04-23T21:23:31+01:00",
+    "withdrawn_notice":  {
+
+                         }
+}

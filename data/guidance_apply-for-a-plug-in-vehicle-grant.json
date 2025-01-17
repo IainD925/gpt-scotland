@@ -1,0 +1,399 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/apply-for-a-plug-in-vehicle-grant",
+    "content_id":  "643e0605-6027-4daa-b0c7-5adab11b9c9b",
+    "description":  "How to apply for funding for plug-in vehicles as a car manufacturer or dealership.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eThe plug-in vehicle grant portal allows dealers to:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003esubmit claims for vehicle grants\u003c/li\u003e\n  \u003cli\u003eupdate existing orders\u003c/li\u003e\n  \u003cli\u003echeck the status of existing orders\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIt is part of a secure website, developed and managed with a high level of security and data protection.\u003c/p\u003e\n\n\u003cp\u003eCustomers buying a vehicle and wanting to claim for a vehicle grant do not require access the portal. Grants will be passed onto them by dealers at point of purchase.\u003c/p\u003e\n\n\u003cp\u003e\u003ca class=\"gem-c-button govuk-button govuk-button--start\" role=\"button\" draggable=\"false\" href=\"https://www.apply-plug-in-vehicle-grant.service.gov.uk/users/sign_in\"\u003e Log into the portal \u003csvg class=\"govuk-button__start-icon govuk-!-display-none-print\" xmlns=\"http://www.w3.org/2000/svg\" width=\"17.5\" height=\"19\" viewbox=\"0 0 33 40\" focusable=\"false\" aria-hidden=\"true\"\u003e\u003cpath fill=\"currentColor\" d=\"M0 0h13l20 20-20 20H0l20-20z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/p\u003e\n\n\u003ch2 id=\"before-logging-in\"\u003eBefore logging in\u003c/h2\u003e\n\n\u003cp\u003eYou will need to read:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe \u003ca href=\"https://www.gov.uk/government/publications/plug-in-vehicle-grant-portal-guidance\" class=\"govuk-link\"\u003euser guidance for the plug-in grant portal\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/plug-in-wheelchair-accessible-vehicle-grants-eligibility-and-applications\" class=\"govuk-link\"\u003eplug-in wheelchair accessible vehicle grants: eligibility and applications\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/plug-in-van-grant\" class=\"govuk-link\"\u003eplug-in van and truck grant: eligibility and applications\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/plug-in-taxi-grants-eligibility-and-applications\" class=\"govuk-link\"\u003eplug-in taxi grants: eligibility and applications\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/plug-in-motorcycle-grant-eligibility\" class=\"govuk-link\"\u003eplug-in motorcycle grant: eligibility and applications\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eTo raise a new order, you will need your dealership reference number.\u003c/p\u003e\n\n\u003cp\u003eTo search for an existing order, you will need:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eyour plug-in grant application number\u003c/li\u003e\n  \u003cli\u003eyour in-house reference number\u003c/li\u003e\n  \u003cli\u003ethe customer’s name or vehicle registration number\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"using-the-portal-for-the-first-time\"\u003eUsing the portal for the first time\u003c/h2\u003e\n\n\u003cp\u003eManufacturers new to the scheme need to email the Office for Zero Emission Vehicles (\u003cabbr title=\"Office for Zero Emission Vehicles\"\u003eOZEV\u003c/abbr\u003e) at \u003ca href=\"mailto:plugingrants@dft.gov.uk\" class=\"govuk-link\"\u003eplugingrants@dft.gov.uk\u003c/a\u003e to request portal credentials and permissions.\u003c/p\u003e\n\n\u003cp\u003eNew dealerships should speak to their manufacturer to have appropriate access created for them to log into the portal.\u003c/p\u003e\n\n\u003cp\u003eOnce set up with an account, click forgotten password and follow the instructions when you log in for the first time. Your username is your email address.\u003c/p\u003e\n\n\u003cp\u003eAll new user account requests must be received directly from manufacturers. There is no limit to the number of administrative users that can be linked to one dealer account.\u003c/p\u003e\n\n\u003cp\u003eDealers should ensure that there are sufficient staff with access to and knowledge of how to use the portal to enable management of orders at all times.\u003c/p\u003e\n\n\u003cp\u003eEach portal administrator must have their own individual user account. Usernames and passwords should not be shared as this is a breach of security and data protection.\u003c/p\u003e\n\n\u003cp\u003eEnsure accounts are linked to the portal user’s own email address which is monitored regularly.\u003c/p\u003e\n\n\u003cp\u003eUser accounts can only be linked to one dealer account at a time. There is no facility to create multi-dealer access. Users that require access to more than one dealer account are required to provide additional email addresses to create new user accounts.\u003c/p\u003e\n\n\u003cp\u003eTo access the portal, javascript will need to be enabled on the browser.\u003c/p\u003e\n\n\u003ch2 id=\"before-you-enter-a-grant-into-the-portal\"\u003eBefore you enter a grant into the portal\u003c/h2\u003e\n\n\u003cp\u003eYou must ensure that:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe end customer has not exceeded \u003ca href=\"https://www.gov.uk/government/publications/plug-in-vehicle-grant-portal-guidance/using-the-plug-in-vehicle-grant-portal#customer-grant-limits\" class=\"govuk-link\"\u003egrant limits per customer\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003efor \u003ca href=\"https://www.gov.uk/government/publications/plug-in-vehicle-grant-portal-guidance/using-the-plug-in-vehicle-grant-portal#supplementary-evidence\" class=\"govuk-link\"\u003emultistage builds applying via route 2\u003c/a\u003e, Form D must be provided to the \u003cabbr title=\"Driver and Vehicle Licensing Agency\"\u003eDVLA\u003c/abbr\u003e before entering the order onto the portal\u003c/li\u003e\n  \u003cli\u003efor \u003ca href=\"https://www.gov.uk/government/publications/plug-in-vehicle-grant-portal-guidance/using-the-plug-in-vehicle-grant-portal#supplementary-evidence\" class=\"govuk-link\"\u003ewheelchair accessible vehicle conversions\u003c/a\u003e, information on the conversion must be provided to the \u003cabbr title=\"Driver and Vehicle Licensing Agency\"\u003eDVLA\u003c/abbr\u003e before entering the order onto the portal\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eDealers can add up to 10 vehicles per application. Note that if one vehicle is cancelled, all vehicles in that application will be cancelled.\u003c/p\u003e\n\n\u003ch2 id=\"starting-a-new-application\"\u003eStarting a new application\u003c/h2\u003e\n\n\u003cp\u003eClick on Start new grant application at the top of the vehicle dashboard.\u003c/p\u003e\n\n\u003cp\u003eYou will need to provide information on:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ewhether the transaction is a lease purchase and, if so, provide the lease company details (this includes Motability orders)\u003c/li\u003e\n  \u003cli\u003ewhether the vehicle is being purchased on finance and, if so, provide the finance company details\u003c/li\u003e\n  \u003cli\u003ethe type of sale (private, business, fleet, sole trader or demonstrator)\u003c/li\u003e\n  \u003cli\u003efor taxi orders, the location the taxi will be operating from\u003c/li\u003e\n  \u003cli\u003eend customer details\u003c/li\u003e\n  \u003cli\u003evehicle details\u003c/li\u003e\n  \u003cli\u003eexpected delivery date\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/plug-in-vehicle-grant-portal-guidance/using-the-plug-in-vehicle-grant-portal#definition-of-price\" class=\"govuk-link\"\u003epurchase price\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eOrders should correlate with the invoice details. Therefore, it is important that a final price has already been agreed and the grant applied.\u003c/p\u003e\n\n\u003cp\u003eWhen the purchase price is entered, the grant rate will be automatically calculated. It is the dealer’s responsibility to review the grant value to ensure the correct amount has been returned.\u003c/p\u003e\n\n\u003cp\u003eEnd customer details must be the individual or business receiving the vehicle. They cannot be the lease company (or Motability) details. Ensure these are entered correctly as they cannot be amended once the order has been placed.\u003c/p\u003e\n\n\u003cp\u003eOrders cannot be transferred from different keepers. If end customer details change, the order must be cancelled and reapplied for.\u003c/p\u003e\n\n\u003cp\u003e\u003cabbr title=\"Office for Zero Emission Vehicles\"\u003eOZEV\u003c/abbr\u003e reserves the right to request supporting evidence to confirm end customer details provided are accurate, and that orders are for the sole use of the business in question.\u003c/p\u003e\n\n\u003cp\u003eA demonstrator is a vehicle sold (wholesale) to either an independent dealer or a dealer owned by the manufacturer. The purpose of these vehicles is to allow potential customers to experience test drives.\u003c/p\u003e\n\n\u003ch2 id=\"updating-a-grant-application\"\u003eUpdating a grant application\u003c/h2\u003e\n\n\u003cp\u003eIt is the dealer’s responsibility to keep orders updated and monitor them throughout the delivery process.\u003c/p\u003e\n\n\u003cp\u003eDealers will need to obtain and provide information based on the status of the order as it progresses. This includes the:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003evehicle identification number (\u003cabbr title=\"vehicle identification number\"\u003eVIN\u003c/abbr\u003e)\u003c/li\u003e\n  \u003cli\u003evehicle registration mark (\u003cabbr title=\"Vehicle registrations mark\"\u003eVRM\u003c/abbr\u003e)\u003c/li\u003e\n  \u003cli\u003edate of registration\u003c/li\u003e\n  \u003cli\u003eactual delivery date\u003c/li\u003e\n  \u003cli\u003etaxi licence number (for taxis only)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe taxi licence number is the taxi plate number displayed on hackney carriage or private hire vehicles.\u003c/p\u003e\n\n\u003cp\u003eOrders for demonstrator vehicles should enter demo in this field.\u003c/p\u003e\n\n\u003ch2 id=\"order-status\"\u003eOrder status\u003c/h2\u003e\n\n\u003cp\u003eAs an order progresses, its status will change. Dealers should track the status on the dashboard overview.\u003c/p\u003e\n\n\u003cp\u003eDealerships outside your business group will not be able to see your orders.\u003c/p\u003e\n\n\u003cp\u003eYou can click on the order ID for an overview of the application. A description will be given on what information is required for the application to progress to the next stage.\u003c/p\u003e\n\n\u003ch4 id=\"in-pipeline\"\u003eIn pipeline\u003c/h4\u003e\n\u003cp\u003eThe order has been created before the vehicle identification number (\u003cabbr title=\"vehicle identification number\"\u003eVIN\u003c/abbr\u003e) has been attributed to the order.\u003c/p\u003e\n\n\u003ch4 id=\"awaiting-registration\"\u003eAwaiting registration\u003c/h4\u003e\n\u003cp\u003eThe order has had the \u003cabbr title=\"vehicle identification number\"\u003eVIN\u003c/abbr\u003e assigned. Vehicle registrations mark (\u003cabbr title=\"Vehicle registrations mark\"\u003eVRM\u003c/abbr\u003e) and the date of first registration are awaiting attribution. Orders should remain in this status until registration with the Driver and Vehicle Licensing Agency (\u003cabbr title=\"Driver and Vehicle Licensing Agency\"\u003eDVLA\u003c/abbr\u003e) is complete.\u003c/p\u003e\n\n\u003ch4 id=\"awaiting-validation\"\u003eAwaiting validation\u003c/h4\u003e\n\u003cp\u003eOnce vehicles are registered with \u003cabbr title=\"Driver and Vehicle Licensing Agency\"\u003eDVLA\u003c/abbr\u003e, the vehicle details given in the order are checked against the \u003cabbr title=\"Driver and Vehicle Licensing Agency\"\u003eDVLA\u003c/abbr\u003e vehicles record database.\u003c/p\u003e\n\n\u003ch4 id=\"failed-validation\"\u003eFailed validation\u003c/h4\u003e\n\u003cp\u003eThe order has failed validations checks against the \u003cabbr title=\"Driver and Vehicle Licensing Agency\"\u003eDVLA\u003c/abbr\u003e vehicles record database. The dealer will be notified with reasons explaining why the order failed validation.\u003c/p\u003e\n\n\u003cp\u003eOrders containing up to 3 vehicles will undergo real-time validation.\u003c/p\u003e\n\n\u003cp\u003eOrders of more than 3 vehicles will undergo an overnight check against \u003cabbr title=\"Driver and Vehicle Licensing Agency\"\u003eDVLA\u003c/abbr\u003e’s vehicles enquiry service (\u003cabbr title=\"vehicles enquiry service\"\u003eVES\u003c/abbr\u003e).\u003c/p\u003e\n\n\u003cp\u003eOrders will not progress to the next status until all vehicles in the order have been successfully validated.\u003c/p\u003e\n\n\u003ch4 id=\"passed-validation\"\u003ePassed validation\u003c/h4\u003e\n\u003cp\u003eA transient state where the order has passed validation and before it moves on to pending delivery.\u003c/p\u003e\n\n\u003ch4 id=\"pending-delivery\"\u003ePending delivery\u003c/h4\u003e\n\u003cp\u003eAfter the vehicle(s) order has been validated against the \u003cabbr title=\"Driver and Vehicle Licensing Agency\"\u003eDVLA\u003c/abbr\u003e vehicles record database but before an actual delivery date has been assigned to the order.\u003c/p\u003e\n\n\u003ch4 id=\"awaiting-casework\"\u003eAwaiting casework\u003c/h4\u003e\n\u003cp\u003eWhere an order has failed validation several times, requires review or the order has been submitted prior to the completion of vehicle registration with \u003cabbr title=\"Driver and Vehicle Licensing Agency\"\u003eDVLA\u003c/abbr\u003e.\u003c/p\u003e\n\n\u003cp\u003eOrders cannot be checked against the \u003cabbr title=\"Driver and Vehicle Licensing Agency\"\u003eDVLA\u003c/abbr\u003e vehicles record database over the weekend.\u003c/p\u003e\n\n\u003cp\u003eIf the vehicle is registered and details provided on a Friday, Saturday or Sunday, the vehicle may fall to awaiting casework status by the Monday.\u003c/p\u003e\n\n\u003cp\u003eThe portal administrators regularly review orders in awaiting casework and will provide instructions to dealers on any required amendments.\u003c/p\u003e\n\n\u003ch4 id=\"awaiting-payment\"\u003eAwaiting payment\u003c/h4\u003e\n\u003cp\u003eAll required information needed to facilitate grant payments has now been entered successfully onto the portal (\u003cabbr title=\"vehicle identification number\"\u003eVIN\u003c/abbr\u003e, \u003cabbr title=\"Vehicle registrations mark\"\u003eVRM\u003c/abbr\u003e, date of first registration and actual delivery date).\u003c/p\u003e\n\n\u003cp\u003eThe order has now moved into a state waiting for the payment process to be actioned.\u003c/p\u003e\n\n\u003ch4 id=\"completed\"\u003eCompleted\u003c/h4\u003e\n\u003cp\u003eThe payment file has been generated and is awaiting action by the Department for Transport (\u003cabbr title=\"Department for Transport\"\u003eDfT\u003c/abbr\u003e) to pay manufacturers.\u003c/p\u003e\n\n\u003ch4 id=\"awaiting-audit\"\u003eAwaiting audit\u003c/h4\u003e\n\u003cp\u003eThe order has been selected for audit and is waiting for the dealership to email invoices to the scheme administrators. Invoices must be submitted within 28 days of reaching this status. The email address is \u003ca href=\"mailto:PlugInVehicleGrant@dvla.gov.uk\" class=\"govuk-link\"\u003ePlugInVehicleGrant@dvla.gov.uk\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch4 id=\"audit-in-progress\"\u003eAudit in progress\u003c/h4\u003e\n\u003cp\u003eThe scheme administrators have received the required invoice documentation and are in the process of auditing the order.\u003c/p\u003e\n\n\u003ch4 id=\"audit-success\"\u003eAudit success\u003c/h4\u003e\n\u003cp\u003eThe order has successfully passed audit and may proceed to entering remaining information to complete the order.\u003c/p\u003e\n\n\u003ch4 id=\"audit-rejected\"\u003eAudit rejected\u003c/h4\u003e\n\u003cp\u003eThe order has failed audit. Dealers will receive email notification explaining the reasons for failure and the required action.\u003c/p\u003e\n\n\u003ch4 id=\"on-hold\"\u003eOn hold\u003c/h4\u003e\n\u003cp\u003eThe order has not had \u003cabbr title=\"Vehicle registrations mark\"\u003eVRM\u003c/abbr\u003e or date of first registration details entered within 9 months of the order being created.\u003c/p\u003e\n\n\u003cp\u003eOrders will normally enter on hold status once they have been in the system for more than 9 months.\u003c/p\u003e\n\n\u003cp\u003eSuch orders will not be reinstated except in exceptional circumstances and at the discretion of \u003cabbr title=\"Office for Zero Emission Vehicles\"\u003eOZEV\u003c/abbr\u003e or if an extension to the usual 9-month deadline has been granted.\u003c/p\u003e\n\n\u003cp\u003eDealers will need to email the scheme administrators at \u003ca href=\"mailto:PlugInVehicleGrant@dvla.gov.uk\" class=\"govuk-link\"\u003ePlugInVehicleGrant@dvla.gov.uk\u003c/a\u003e to request the order is taken off hold.\u003c/p\u003e\n\n\u003ch4 id=\"cancelled\"\u003eCancelled\u003c/h4\u003e\n\u003cp\u003eThe dealer or \u003cabbr title=\"Office for Zero Emission Vehicles\"\u003eOZEV\u003c/abbr\u003e has cancelled the order.\u003c/p\u003e\n\n\u003ch2 id=\"how-to-update-an-order\"\u003eHow to update an order\u003c/h2\u003e\n\n\u003cp\u003eTo update an order with new information, search for the order in the overview dashboard and click on the Order ID to make any updates. The dashboard can be filtered by date or status.\u003c/p\u003e\n\n\u003cp\u003eNavigate to the bottom of the overview and press Open all. This will allow you to enter the next required piece of information.\u003c/p\u003e\n\n\u003ch2 id=\"payment-of-grants\"\u003ePayment of grants\u003c/h2\u003e\n\n\u003cp\u003eAt the end of each month, \u003cabbr title=\"Office for Zero Emission Vehicles\"\u003eOZEV\u003c/abbr\u003e will check with manufacturers that order details are correct.\u003c/p\u003e\n\n\u003cp\u003eIf there are any discrepancies, a manufacturer may push orders back to an earlier status and dealers should confer with their manufacturer to check and resolve issues.\u003c/p\u003e\n\n\u003cp\u003eOnce any issues have been resolved, \u003cabbr title=\"Office for Zero Emission Vehicles\"\u003eOZEV\u003c/abbr\u003e will process respective payments so that dealers may be reimbursed for grant payments.\u003c/p\u003e\n\n\u003ch2 id=\"if-you-need-help\"\u003eIf you need help\u003c/h2\u003e\n\n\u003cp\u003eTo communicate with administrators of the system, email \u003ca href=\"mailto:PlugInVehicleGrant@dvla.gov.uk\" class=\"govuk-link\"\u003ePlugInVehicleGrant@dvla.gov.uk\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eAdministrators will respond within 5 working days for enquiries and 10 days for audits.\u003c/p\u003e\n\n\u003cp\u003eThe claim system email address is monitored daily excluding weekends and bank holidays.\u003c/p\u003e\n\n\u003cp\u003eContact your manufacturer if:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eyour dealership is not registered on the system\u003c/li\u003e\n  \u003cli\u003eyou are unsure what information to put into the fields relating to make or model of the vehicle\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"if-you-are-locked-out-of-the-system\"\u003eIf you are locked out of the system\u003c/h2\u003e\n\n\u003cp\u003eIf your login details are not recognised after several attempts, the system will automatically lock you out.\u003c/p\u003e\n\n\u003cp\u003eAfter 30 minutes you will be able to attempt login again. During this time, you will not be able to reset your password.\u003c/p\u003e\n\n\u003cp\u003eIf you are still unable to login after 30 minutes, email \u003ca href=\"mailto:PlugInVehicleGrant@dvla.gov.uk\" class=\"govuk-link\"\u003ePlugInVehicleGrant@dvla.gov.uk\u003c/a\u003e to have your account unlocked.\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "The plug-in car grant is no longer available with the exception of wheelchair accessible vehicles.",
+                                               "public_timestamp":  "2022-06-14T07:00:06.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2017-04-10T16:18:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "57f7737a-90e3-4e24-9de1-b4312830b4e7"
+                                                 ],
+                    "first_public_at":  "2017-04-10T16:18:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+                                                       "fd6b76e3-e1c3-4a9d-99ad-b8ed1930b035"
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2017-04-10T16:18:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/apply-for-a-plug-in-vehicle-grant",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/apply-for-a-plug-in-vehicle-grant",
+                                                     "base_path":  "/guidance/apply-for-a-plug-in-vehicle-grant",
+                                                     "content_id":  "643e0605-6027-4daa-b0c7-5adab11b9c9b",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2022-06-14T06:00:06Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Apply for a plug-in vehicle grant",
+                                                     "web_url":  "https://www.gov.uk/guidance/apply-for-a-plug-in-vehicle-grant",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/grants-for-plug-in-vehicles",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/grants-for-plug-in-vehicles",
+                                                   "base_path":  "/government/collections/grants-for-plug-in-vehicles",
+                                                   "content_id":  "2ae65d6a-f576-43dd-a501-bc8b582ff841",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/apply-for-a-plug-in-vehicle-grant",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/apply-for-a-plug-in-vehicle-grant",
+                                                                                       "base_path":  "/guidance/apply-for-a-plug-in-vehicle-grant",
+                                                                                       "content_id":  "643e0605-6027-4daa-b0c7-5adab11b9c9b",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2022-06-14T06:00:06Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Apply for a plug-in vehicle grant",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/apply-for-a-plug-in-vehicle-grant",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2022-06-14T06:00:06Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Grants for plug-in vehicles",
+                                                   "web_url":  "https://www.gov.uk/government/collections/grants-for-plug-in-vehicles",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "OT1323",
+                                            "api_path":  "/api/content/government/organisations/office-for-zero-emission-vehicles",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/office-for-zero-emission-vehicles",
+                                            "base_path":  "/government/organisations/office-for-zero-emission-vehicles",
+                                            "content_id":  "57f7737a-90e3-4e24-9de1-b4312830b4e7",
+                                            "details":  {
+                                                            "acronym":  "OZEV",
+                                                            "brand":  "department-for-transport",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Office for Zero Emission Vehicles"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Office for Zero Emission Vehicles",
+                                            "web_url":  "https://www.gov.uk/government/organisations/office-for-zero-emission-vehicles",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA74",
+                                                                       "api_path":  "/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/driver-and-vehicle-licensing-agency",
+                                                                       "base_path":  "/government/organisations/driver-and-vehicle-licensing-agency",
+                                                                       "content_id":  "70580624-93b5-4aed-823b-76042486c769",
+                                                                       "details":  {
+                                                                                       "acronym":  "DVLA",
+                                                                                       "brand":  "department-for-transport",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Driver \u0026amp; Vehicle\u003cbr/\u003eLicensing\u003cbr/\u003eAgency"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Driver and Vehicle Licensing Agency",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "OT1323",
+                                                              "api_path":  "/api/content/government/organisations/office-for-zero-emission-vehicles",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/office-for-zero-emission-vehicles",
+                                                              "base_path":  "/government/organisations/office-for-zero-emission-vehicles",
+                                                              "content_id":  "57f7737a-90e3-4e24-9de1-b4312830b4e7",
+                                                              "details":  {
+                                                                              "acronym":  "OZEV",
+                                                                              "brand":  "department-for-transport",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Office for Zero Emission Vehicles"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Office for Zero Emission Vehicles",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/office-for-zero-emission-vehicles",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related_mainstream_content":  [
+                                                     {
+                                                         "api_path":  "/api/content/plug-in-vehicle-grants",
+                                                         "api_url":  "https://www.gov.uk/api/content/plug-in-vehicle-grants",
+                                                         "base_path":  "/plug-in-vehicle-grants",
+                                                         "content_id":  "fd6b76e3-e1c3-4a9d-99ad-b8ed1930b035",
+                                                         "document_type":  "guide",
+                                                         "links":  {
+
+                                                                   },
+                                                         "locale":  "en",
+                                                         "public_updated_at":  "2024-11-05T13:34:49Z",
+                                                         "schema_name":  "guide",
+                                                         "title":  "Low-emission vehicles eligible for a plug-in grant",
+                                                         "web_url":  "https://www.gov.uk/plug-in-vehicle-grants",
+                                                         "withdrawn":  false
+                                                     }
+                                                 ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/government/collections/grants-for-plug-in-vehicles",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/collections/grants-for-plug-in-vehicles",
+                                                              "base_path":  "/government/collections/grants-for-plug-in-vehicles",
+                                                              "content_id":  "2ae65d6a-f576-43dd-a501-bc8b582ff841",
+                                                              "document_type":  "document_collection",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-06-14T06:00:06Z",
+                                                              "schema_name":  "document_collection",
+                                                              "title":  "Grants for plug-in vehicles",
+                                                              "web_url":  "https://www.gov.uk/government/collections/grants-for-plug-in-vehicles",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/plug-in-van-grant",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/plug-in-van-grant",
+                                                              "base_path":  "/government/publications/plug-in-van-grant",
+                                                              "content_id":  "5c7f0f3e-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2023-11-24T12:24:19Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Plug-in van and truck grant: eligibility and applications",
+                                                              "web_url":  "https://www.gov.uk/government/publications/plug-in-van-grant",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/plug-in-taxi-grants-eligibility-and-applications",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/plug-in-taxi-grants-eligibility-and-applications",
+                                                              "base_path":  "/government/publications/plug-in-taxi-grants-eligibility-and-applications",
+                                                              "content_id":  "cd26dd03-31b4-4663-b56d-978fba1be969",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-04-08T09:01:07Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Plug-in taxi grants: eligibility and applications",
+                                                              "web_url":  "https://www.gov.uk/government/publications/plug-in-taxi-grants-eligibility-and-applications",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/plug-in-vehicle-grant-portal-guidance",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/plug-in-vehicle-grant-portal-guidance",
+                                                              "base_path":  "/government/publications/plug-in-vehicle-grant-portal-guidance",
+                                                              "content_id":  "94175d3b-b521-49d3-ae82-fcd24263c065",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2023-11-24T12:24:21Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Plug-in vehicle grant portal",
+                                                              "web_url":  "https://www.gov.uk/government/publications/plug-in-vehicle-grant-portal-guidance",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/plug-in-wheelchair-accessible-vehicle-grants-eligibility-and-applications",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/plug-in-wheelchair-accessible-vehicle-grants-eligibility-and-applications",
+                                                              "base_path":  "/government/publications/plug-in-wheelchair-accessible-vehicle-grants-eligibility-and-applications",
+                                                              "content_id":  "fe8bb393-80c5-474a-97a2-243de48fa8ac",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-06-14T06:00:06Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Plug-in wheelchair accessible vehicle grants: eligibility and applications",
+                                                              "web_url":  "https://www.gov.uk/government/publications/plug-in-wheelchair-accessible-vehicle-grants-eligibility-and-applications",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/transport/zero-emission-and-electric-vehicles",
+                                     "api_url":  "https://www.gov.uk/api/content/transport/zero-emission-and-electric-vehicles",
+                                     "base_path":  "/transport/zero-emission-and-electric-vehicles",
+                                     "content_id":  "906b4bbc-e7e4-416c-bd42-a50b7d5f9574",
+                                     "description":  "Zero emission and electric vehicles, funding and chargepoint schemes and renewable fuels.",
+                                     "details":  {
+                                                     "internal_name":  "Zero emission and electric vehicles",
+                                                     "notes_for_editors":  "",
+                                                     "url_override":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/transport/road-transport-and-the-environment",
+                                                                             "api_url":  "https://www.gov.uk/api/content/transport/road-transport-and-the-environment",
+                                                                             "base_path":  "/transport/road-transport-and-the-environment",
+                                                                             "content_id":  "c23e2747-a59e-476e-be65-2add5c896f13",
+                                                                             "description":  "Emissions testing, low emission and electric vehicles, chargepoints, low carbon and sustainable transport and renewable fuels.",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Road transport and the environment",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/transport/driving-and-road-transport",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/transport/driving-and-road-transport",
+                                                                                                                     "base_path":  "/transport/driving-and-road-transport",
+                                                                                                                     "content_id":  "84a394d2-b388-4e4e-904e-136ca3f5dd7d",
+                                                                                                                     "description":  "Driving tests and licences, vehicle tests and licences, road safety, MOT, transport businesses, professional driving, HGV, LGV and PSV.",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Driving and road transport",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  false
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "parent_taxons":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-06-14T09:27:13Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Driving and road transport",
+                                                                                                                     "web_url":  "https://www.gov.uk/transport/driving-and-road-transport",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-06-14T09:27:13Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Road transport and the environment",
+                                                                             "web_url":  "https://www.gov.uk/transport/road-transport-and-the-environment",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2023-08-10T08:27:30Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Zero emission and electric vehicles",
+                                     "web_url":  "https://www.gov.uk/transport/zero-emission-and-electric-vehicles",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2022-06-14T07:00:06+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "26702-1667482417.032-10.13.1.109-2367",
+    "publishing_scheduled_at":  "2022-06-14T07:00:00+01:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  6,
+    "schema_name":  "detailed_guide",
+    "title":  "Apply for a plug-in vehicle grant",
+    "updated_at":  "2024-12-02T11:54:08+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

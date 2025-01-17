@@ -1,0 +1,371 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/carbon-calculator",
+    "content_id":  "58c4ee0d-87ac-4de7-af79-382e577fe3a0",
+    "description":  "The MacKay Carbon Calculator provides a model of the UK energy system that allows you to explore pathways to decarbonisation, including net zero by 2050.",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  87089,
+                                            "filename":  "Tribute_to_Sir_David_MacKay.pdf",
+                                            "id":  "8150830",
+                                            "number_of_pages":  2,
+                                            "title":  "Tribute to Sir David MacKay",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5fc7c3308fa8f5474f03c8b8/Tribute_to_Sir_David_MacKay.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/vnd.ms-excel.sheet.macroEnabled.12",
+                                            "file_size":  14094159,
+                                            "filename":  "Excel_MacKay_Carbon_Calculator_v198.xlsm",
+                                            "id":  "8150831",
+                                            "title":  "MacKay carbon calculator (Excel version)",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5fc7c336d3bf7f7f5db85ba8/Excel_MacKay_Carbon_Calculator_v198.xlsm"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "alt.formats@energysecurity.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  472380,
+                                            "filename":  "mackay-carbon-calculator-user-guide.pdf",
+                                            "id":  "8150832",
+                                            "number_of_pages":  9,
+                                            "title":  "MacKay carbon calculator user guide",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/65a4e33469fbd3000d25c098/mackay-carbon-calculator-user-guide.pdf"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eUsing the MacKay Carbon Calculator, you can create pathways to find out how we might reduce the UK’s greenhouse gas emissions to net zero by 2050 and beyond. You choose your ‘levels of ambition’ for decarbonising different parts of the energy system, and the calculator then shows how your choices affect UK emissions expressed as ‘carbon dioxide equivalent’ (\u003cabbr title=\"carbon dioxide equivalent\"\u003eCO2e\u003c/abbr\u003e).\u003c/p\u003e\n\n\u003cp\u003eIts purpose is to help everyone engage in the debate. It also allows government to explore how its plans support the path to net zero.\u003c/p\u003e\n\n\u003cp\u003eThe calculator is named in honour of the late Sir David MacKay who was the driving force behind the first UK 2050 calculator:\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5fc7c3308fa8f5474f03c8b8/Tribute_to_Sir_David_MacKay.pdf\"\u003eTribute to Sir David MacKay\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e85 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e2 pages\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003ch2 id=\"the-mackay-carbon-calculator\"\u003eThe MacKay Carbon Calculator\u003c/h2\u003e\n\n\u003cp\u003eThere are 2 online versions of the calculator, a universal version called My2050 and the more detailed MacKay Carbon Calculator version.\u003c/p\u003e\n\n\u003cdiv class=\"call-to-action\"\u003e\n  \u003cul\u003e\n    \u003cli\u003eopen \u003ca rel=\"external\" href=\"https://my2050.energysecurity.gov.uk/\" class=\"govuk-link\"\u003eMy2050\u003c/a\u003e\n\u003c/li\u003e\n    \u003cli\u003eopen the \u003ca rel=\"external\" href=\"https://mackaycarboncalculator.energysecurity.gov.uk/\" class=\"govuk-link\"\u003eMacKay Carbon Calculator\u003c/a\u003e\n\u003c/li\u003e\n  \u003c/ul\u003e\n\u003c/div\u003e\n\n\u003cp\u003eBoth versions contain levers of decarbonisation:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e15 in My2050\u003c/li\u003e\n  \u003cli\u003e45 in the MacKay Carbon Calculator\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eSelect your level of ambition of decarbonisation effort using the levers, ranging from Level 1 - minimal effort, to Level 4 - maximum effort. Popup descriptions explain what the levels represent in terms of behavioural change or infrastructure investment.\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/65a4e33469fbd3000d25c098/mackay-carbon-calculator-user-guide.pdf\"\u003eMacKay carbon calculator user guide\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e461 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e9 pages\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003cp\u003eThe calculator results are based on scientific data. This Excel spreadsheet provides more information about the model used by the online versions of the calculator:\u003c/p\u003e\n\n\u003cp\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/5fc7c336d3bf7f7f5db85ba8/Excel_MacKay_Carbon_Calculator_v198.xlsm\"\u003eMacKay carbon calculator (Excel version)\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e13.4 MB\u003c/span\u003e)\u003c/span\u003e\u003c/p\u003e\n\n\u003ch2 id=\"the-levels-of-ambition\"\u003eThe levels of ambition\u003c/h2\u003e\n\n\u003cp\u003eThe levels of ambition are based on views expressed by over 100 expert stakeholders, including academics, non-government organisations, industry bodies, operators and consultants. They don’t reflect government policy but can be used to represent policy.\u003c/p\u003e\n\n\u003ch2 id=\"teacher-resources\"\u003eTeacher resources\u003c/h2\u003e\n\n\u003cp\u003eTeacher resources for \u003ca rel=\"external\" href=\"https://www.rgs.org/schools/teaching-resources/my2050/\" class=\"govuk-link\"\u003eMy2050 (Key Stage 4)\u003c/a\u003e and the \u003ca rel=\"external\" href=\"https://www.rgs.org/schools/teaching-resources/the-mackay-carbon-calculator/\" class=\"govuk-link\"\u003eMacKay Carbon Calculator (Key Stage 5)\u003c/a\u003e, developed with the Royal Geographical Society, are available on the RGS website.\u003c/p\u003e\n\n\u003cp\u003eResources for My2050 (Key Stage 3), created by EngineeringUK, are available from \u003ca rel=\"external\" href=\"https://www.climateschoolsprogramme.org.uk/\" class=\"govuk-link\"\u003eClimate Schools Programme\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"the-project\"\u003eThe project\u003c/h2\u003e\n\n\u003cp\u003eThe MacKay Carbon Calculator project is a collaborative project between the Department for Energy Security and Net Zero (\u003cabbr title=\"Department for Energy Security and Net Zero\"\u003eDESNZ\u003c/abbr\u003e) and 4 main partners, \u003ca rel=\"external\" href=\"https://es.catapult.org.uk/\" class=\"govuk-link\"\u003eEnergy Systems Catapult\u003c/a\u003e, \u003ca rel=\"external\" href=\"http://www.climatemedia.de/\" class=\"govuk-link\"\u003eClimate Media Factory\u003c/a\u003e, \u003ca rel=\"external\" href=\"http://www.carltd.com/\" class=\"govuk-link\"\u003eCambridge Architectural Research (CAR)\u003c/a\u003e and \u003ca rel=\"external\" href=\"http://www.climact.com/\" class=\"govuk-link\"\u003eClimact\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"contact-us\"\u003eContact us\u003c/h2\u003e\n\n\u003cp\u003eIf you have any comments or questions, please contact \u003ca href=\"mailto:mackaycarboncalculator@beis.gov.uk\" class=\"govuk-link\"\u003emackaycarboncalculator@beis.gov.uk\u003c/a\u003e.\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Added link to new teacher resources for My2050 (Key Stage 3).",
+                                               "public_timestamp":  "2024-08-21T12:21:58.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added MacKay Carbon Calculator user guide.",
+                                               "public_timestamp":  "2024-01-15T08:35:38.000+00:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2020-12-03T00:00:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "6315817c-ef11-4905-bb4d-b6dca8e9052c"
+                                                 ],
+                    "first_public_at":  "2020-12-03T00:00:00.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2020-12-03T00:00:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/carbon-calculator",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/carbon-calculator",
+                                                     "base_path":  "/guidance/carbon-calculator",
+                                                     "content_id":  "58c4ee0d-87ac-4de7-af79-382e577fe3a0",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2024-08-21T11:21:58Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Carbon calculator",
+                                                     "web_url":  "https://www.gov.uk/guidance/carbon-calculator",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2019-to-2022-johnson-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2019-to-2022-johnson-conservative-government",
+                                         "base_path":  "/government/2019-to-2022-johnson-conservative-government",
+                                         "content_id":  "4ed901ec-c8ce-42d5-a2aa-6d7f462480df",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2022-09-06T00:00:00+00:00",
+                                                         "started_on":  "2019-07-24T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2019 to 2022 Johnson Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2019-to-2022-johnson-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D1380",
+                                            "api_path":  "/api/content/government/organisations/department-for-energy-security-and-net-zero",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-energy-security-and-net-zero",
+                                            "base_path":  "/government/organisations/department-for-energy-security-and-net-zero",
+                                            "content_id":  "6315817c-ef11-4905-bb4d-b6dca8e9052c",
+                                            "details":  {
+                                                            "acronym":  "DESNZ",
+                                                            "brand":  "department-for-business-innovation-skills",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/656df1fd1104cf000dfa74a1/s960_whitehall-place-exterior-960x640.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/656df1fd0f12ef07a53e01be/s300_whitehall-place-exterior-960x640.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Department for\u003cbr/\u003eEnergy Security\u003cbr/\u003e\u0026amp; Net Zero"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Department for Energy Security and Net Zero",
+                                            "web_url":  "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "D1380",
+                                                                       "api_path":  "/api/content/government/organisations/department-for-energy-security-and-net-zero",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-energy-security-and-net-zero",
+                                                                       "base_path":  "/government/organisations/department-for-energy-security-and-net-zero",
+                                                                       "content_id":  "6315817c-ef11-4905-bb4d-b6dca8e9052c",
+                                                                       "details":  {
+                                                                                       "acronym":  "DESNZ",
+                                                                                       "brand":  "department-for-business-innovation-skills",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/656df1fd1104cf000dfa74a1/s960_whitehall-place-exterior-960x640.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/656df1fd0f12ef07a53e01be/s300_whitehall-place-exterior-960x640.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Department for\u003cbr/\u003eEnergy Security\u003cbr/\u003e\u0026amp; Net Zero"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Department for Energy Security and Net Zero",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D1380",
+                                                              "api_path":  "/api/content/government/organisations/department-for-energy-security-and-net-zero",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-energy-security-and-net-zero",
+                                                              "base_path":  "/government/organisations/department-for-energy-security-and-net-zero",
+                                                              "content_id":  "6315817c-ef11-4905-bb4d-b6dca8e9052c",
+                                                              "details":  {
+                                                                              "acronym":  "DESNZ",
+                                                                              "brand":  "department-for-business-innovation-skills",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/656df1fd1104cf000dfa74a1/s960_whitehall-place-exterior-960x640.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/656df1fd0f12ef07a53e01be/s300_whitehall-place-exterior-960x640.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Department for\u003cbr/\u003eEnergy Security\u003cbr/\u003e\u0026amp; Net Zero"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Department for Energy Security and Net Zero",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/calculate-the-carbon-dioxide-equivalent-quantity-of-an-f-gas",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/calculate-the-carbon-dioxide-equivalent-quantity-of-an-f-gas",
+                                                              "base_path":  "/guidance/calculate-the-carbon-dioxide-equivalent-quantity-of-an-f-gas",
+                                                              "content_id":  "6054c97a-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-01-16T13:26:24Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Calculate the carbon dioxide equivalent quantity of an F gas",
+                                                              "web_url":  "https://www.gov.uk/guidance/calculate-the-carbon-dioxide-equivalent-quantity-of-an-f-gas",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/fcerm-carbon-impacts-tool",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/fcerm-carbon-impacts-tool",
+                                                              "base_path":  "/government/publications/fcerm-carbon-impacts-tool",
+                                                              "content_id":  "974dbe4e-63be-4c93-ad0b-6b5446389eaf",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-06-29T09:41:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "FCERM carbon impacts tool",
+                                                              "web_url":  "https://www.gov.uk/government/publications/fcerm-carbon-impacts-tool",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/greenhouse-gas-reporting-conversion-factors-2021",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/greenhouse-gas-reporting-conversion-factors-2021",
+                                                              "base_path":  "/government/publications/greenhouse-gas-reporting-conversion-factors-2021",
+                                                              "content_id":  "d6177dea-55a0-4003-9a93-ac1d81fbcfe3",
+                                                              "document_type":  "research",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-01-24T15:44:34Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Greenhouse gas reporting: conversion factors 2021",
+                                                              "web_url":  "https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2021",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/methods-of-calculating-greenhouse-gas-emissions",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/methods-of-calculating-greenhouse-gas-emissions",
+                                                              "base_path":  "/government/publications/methods-of-calculating-greenhouse-gas-emissions",
+                                                              "content_id":  "a29123c4-3871-4a40-8d02-23e08694dae4",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-02-15T17:05:38Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Methods of calculating greenhouse gas emissions",
+                                                              "web_url":  "https://www.gov.uk/government/publications/methods-of-calculating-greenhouse-gas-emissions",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/environment/greenhouse-gas-emissions",
+                                     "api_url":  "https://www.gov.uk/api/content/environment/greenhouse-gas-emissions",
+                                     "base_path":  "/environment/greenhouse-gas-emissions",
+                                     "content_id":  "2b15ade6-cfcb-4088-bcde-0ab4e29c26ac",
+                                     "details":  {
+                                                     "internal_name":  "Greenhouse gas emissions [P]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/environment/climate-change-energy",
+                                                                             "api_url":  "https://www.gov.uk/api/content/environment/climate-change-energy",
+                                                                             "base_path":  "/environment/climate-change-energy",
+                                                                             "content_id":  "62e08e6f-9161-42c6-b9dd-0cf8fcab2c69",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Climate change and energy (level 2, content from policy areas)",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/environment",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/environment",
+                                                                                                                     "base_path":  "/environment",
+                                                                                                                     "content_id":  "3cf97f69-84de-41ae-bc7b-7e2cc238fa58",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Environment",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T13:39:00Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Environment",
+                                                                                                                     "web_url":  "https://www.gov.uk/environment",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-05T16:13:08Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Climate change and energy",
+                                                                             "web_url":  "https://www.gov.uk/environment/climate-change-energy",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-05T16:13:08Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Greenhouse gas emissions",
+                                     "web_url":  "https://www.gov.uk/environment/greenhouse-gas-emissions",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2024-08-21T12:21:58+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1724239318.864-10.13.21.48-2314",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Carbon calculator",
+    "updated_at":  "2024-11-18T13:23:18+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

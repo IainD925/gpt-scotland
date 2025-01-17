@@ -1,0 +1,337 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/collecting-pre-employment-information-from-candidates-vx",
+    "content_id":  "1bff26cf-4316-4d10-bf3f-f9158d93b192",
+    "description":  "The process for a recruiter to confirm applicant type, issue forms, and identify when a candidate has provided their information.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eAfter assessment has been completed and an outcome has been confirmed, your candidate will be at the \u003cstrong\u003eSelected for Offer\u003c/strong\u003e status.\u003c/p\u003e\n\n\u003ch2 id=\"check-and-edit-the-applicant-type\"\u003eCheck and edit the applicant type\u003c/h2\u003e\n\n\u003cp\u003eCheck that candidates have the correct applicant type assigned. List applications and add columns:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eApplication form \u0026gt; Applicant type\u003c/li\u003e\n  \u003cli\u003eApplication form \u0026gt; Home department\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIf the applicant type is wrong:\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003eFind the application, then go to the \u003cstrong\u003eApplication Forms\u003c/strong\u003e tab.\u003c/li\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003eFlags\u003c/strong\u003e form.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eEdit\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eSelect the correct applicant type in \u003cstrong\u003eApplicant Type (Employment Status)\u003c/strong\u003e\n\u003c/li\u003e\n  \u003cli\u003e\n\u003cstrong\u003eSubmit\u003c/strong\u003e.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eIf the candidate has already progressed to checks and has the wrong \u003ca href=\"https://www.gov.uk/guidance/selecting-pre-employment-checks-for-vacancies-and-candidates-vx#candidate-types\" class=\"govuk-link\"\u003eapplicant type\u003c/a\u003e, you must change their status so they can complete the correct forms.\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003eGo to the candidate’s \u003cstrong\u003eApplication Summary\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eAdministration\u003c/strong\u003e, then \u003cstrong\u003eOther status\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eProvisional Offer - Accepted\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eTick the \u003cstrong\u003eRun Automatic Actions\u003c/strong\u003e box.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eChange Status\u003c/strong\u003e.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003ch2 id=\"issue-a-provisional-offer\"\u003eIssue a provisional offer\u003c/h2\u003e\n\n\u003cp\u003eCandidates who accept an online provisional offer will be automatically asked to complete pre-employment checking forms.\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003eList candidates who require an offer - they generally will be at the \u003cstrong\u003eSelected for Offer\u003c/strong\u003e status.\u003c/li\u003e\n  \u003cli\u003eSelect candidates.\u003c/li\u003e\n  \u003cli\u003eMove candidate to \u003cstrong\u003eProvisional offer - online\u003c/strong\u003e.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eOnce the offer is issued, candidates have three options:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eAccept - candidate will go to the \u003cstrong\u003eProvisional offer accepted\u003c/strong\u003e status\u003c/li\u003e\n  \u003cli\u003eDecline - candidate will go to the \u003cstrong\u003eReject - declined provisional offer\u003c/strong\u003e status\u003c/li\u003e\n  \u003cli\u003eDiscuss the offer - candidate will  go to the \u003cstrong\u003eProvisional offer - discussion required\u003c/strong\u003e status\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eTo check the reason why a candidate requires a discussion, go to the \u003cstrong\u003eApplication forms\u003c/strong\u003e tab and the \u003cstrong\u003eProvisional offer\u003c/strong\u003e form.\u003c/p\u003e\n\n\u003cp\u003eTo review multiple applications, add the \u003cstrong\u003eProvisional offer \u0026gt; reason for discussion\u003c/strong\u003e column to a list of applications.\u003c/p\u003e\n\n\u003ch2 id=\"accepted-offers\"\u003eAccepted offers\u003c/h2\u003e\n\n\u003cp\u003eWhen a candidate accepts an offer, they are sent an email advising:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe offer is provisional\u003c/li\u003e\n  \u003cli\u003ethey shouldn’t resign until they receive a formal offer\u003c/li\u003e\n  \u003cli\u003ethey should withdraw if no longer interested\u003c/li\u003e\n  \u003cli\u003ethey must provide additional information via their application centre\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"reminders\"\u003eReminders\u003c/h3\u003e\n\n\u003cp\u003eAutomatic reminders are sent to candidates until they provide their information:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ebefore they accept the offer - every 3 days (up to 15 days)\u003c/li\u003e\n  \u003cli\u003eonce accepted, until all information is provided - every 2 days (up to 16 days)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"identifying-candidates-ready-for-checking\"\u003eIdentifying candidates ready for checking\u003c/h2\u003e\n\n\u003cp\u003eCandidates who have completed their forms move to the next status:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eif Right To Work checks are selected on the vacancy -  \u003cstrong\u003eRight to Work Check available\u003c/strong\u003e status.\u003c/li\u003e\n  \u003cli\u003eif Right To Work checks are not selected - \u003cstrong\u003ePre-employment checks\u003c/strong\u003e status.\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThese applications appear on the dashboard on the \u003cstrong\u003ePre-Employment Checks and Onboarding\u003c/strong\u003e tab.\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/managing-candidates-through-pre-employment-checks-vx\" class=\"govuk-link\"\u003eManaging candidates through pre-employment checks\u003c/a\u003e\u003c/p\u003e\n\n\u003ch2 id=\"help-and-support\"\u003eHelp and support\u003c/h2\u003e\n\n\u003cp\u003eContact the Product and Support Team if you have a technical problem: \u003ca href=\"mailto:support.csjobs@cabinetoffice.gov.uk\" class=\"govuk-link\"\u003esupport.csjobs@cabinetoffice.gov.uk\u003c/a\u003e.\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2020-02-21T16:15:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "2c9232a2-04c0-4694-95e5-73004da6dc51"
+                                                 ],
+                    "first_public_at":  "2020-02-21T16:15:00.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2020-02-21T16:15:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/collecting-pre-employment-information-from-candidates-vx",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/collecting-pre-employment-information-from-candidates-vx",
+                                                     "base_path":  "/guidance/collecting-pre-employment-information-from-candidates-vx",
+                                                     "content_id":  "1bff26cf-4316-4d10-bf3f-f9158d93b192",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2020-02-21T16:15:00Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Collecting pre-employment information from candidates (vX)",
+                                                     "web_url":  "https://www.gov.uk/guidance/collecting-pre-employment-information-from-candidates-vx",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/guidance-for-recruiters-using-civil-service-jobs-vx",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/guidance-for-recruiters-using-civil-service-jobs-vx",
+                                                   "base_path":  "/government/collections/guidance-for-recruiters-using-civil-service-jobs-vx",
+                                                   "content_id":  "80c87be4-74ef-4fd6-946a-0aa6962e629f",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/collecting-pre-employment-information-from-candidates-vx",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/collecting-pre-employment-information-from-candidates-vx",
+                                                                                       "base_path":  "/guidance/collecting-pre-employment-information-from-candidates-vx",
+                                                                                       "content_id":  "1bff26cf-4316-4d10-bf3f-f9158d93b192",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2020-02-21T16:15:00Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Collecting pre-employment information from candidates (vX)",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/collecting-pre-employment-information-from-candidates-vx",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2024-03-01T11:37:05Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Guidance for recruiters using Civil Service Jobs vX",
+                                                   "web_url":  "https://www.gov.uk/government/collections/guidance-for-recruiters-using-civil-service-jobs-vx",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  true,
+                                                         "ended_on":  null,
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "OT1076",
+                                            "api_path":  "/api/content/government/organisations/civil-service-resourcing",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/civil-service-resourcing",
+                                            "base_path":  "/government/organisations/civil-service-resourcing",
+                                            "content_id":  "2c9232a2-04c0-4694-95e5-73004da6dc51",
+                                            "details":  {
+                                                            "acronym":  "",
+                                                            "brand":  "cabinet-office",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Civil Service Resourcing"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "replaced",
+                                                                                              "updated_at":  "2017-09-01T00:00:00.000+01:00",
+                                                                                              "url":  ""
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Civil Service Resourcing",
+                                            "web_url":  "https://www.gov.uk/government/organisations/civil-service-resourcing",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "OT1076",
+                                                                       "api_path":  "/api/content/government/organisations/civil-service-resourcing",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/civil-service-resourcing",
+                                                                       "base_path":  "/government/organisations/civil-service-resourcing",
+                                                                       "content_id":  "2c9232a2-04c0-4694-95e5-73004da6dc51",
+                                                                       "details":  {
+                                                                                       "acronym":  "",
+                                                                                       "brand":  "cabinet-office",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Civil Service Resourcing"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "replaced",
+                                                                                                                         "updated_at":  "2017-09-01T00:00:00.000+01:00",
+                                                                                                                         "url":  ""
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Civil Service Resourcing",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/civil-service-resourcing",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "OT1076",
+                                                              "api_path":  "/api/content/government/organisations/civil-service-resourcing",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/civil-service-resourcing",
+                                                              "base_path":  "/government/organisations/civil-service-resourcing",
+                                                              "content_id":  "2c9232a2-04c0-4694-95e5-73004da6dc51",
+                                                              "details":  {
+                                                                              "acronym":  "",
+                                                                              "brand":  "cabinet-office",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Civil Service Resourcing"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "replaced",
+                                                                                                                "updated_at":  "2017-09-01T00:00:00.000+01:00",
+                                                                                                                "url":  ""
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Civil Service Resourcing",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/civil-service-resourcing",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related_guides":  [
+                                         {
+                                             "api_path":  "/api/content/guidance/managing-candidates-through-pre-employment-checks-vx",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/managing-candidates-through-pre-employment-checks-vx",
+                                             "base_path":  "/guidance/managing-candidates-through-pre-employment-checks-vx",
+                                             "content_id":  "54097588-a656-44ae-8678-44b04f93d992",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2023-12-15T13:11:46Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Managing candidates through pre-employment checks (vX)",
+                                             "web_url":  "https://www.gov.uk/guidance/managing-candidates-through-pre-employment-checks-vx",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/selecting-pre-employment-checks-for-vacancies-and-candidates-vx",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/selecting-pre-employment-checks-for-vacancies-and-candidates-vx",
+                                             "base_path":  "/guidance/selecting-pre-employment-checks-for-vacancies-and-candidates-vx",
+                                             "content_id":  "281984a0-f4c3-437c-8465-8f36821f3ca9",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2022-01-05T14:03:59Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Selecting pre-employment checks for vacancies and candidates (vX)",
+                                             "web_url":  "https://www.gov.uk/guidance/selecting-pre-employment-checks-for-vacancies-and-candidates-vx",
+                                             "withdrawn":  false
+                                         }
+                                     ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/selecting-pre-employment-checks-for-vacancies-and-candidates-vx",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/selecting-pre-employment-checks-for-vacancies-and-candidates-vx",
+                                                              "base_path":  "/guidance/selecting-pre-employment-checks-for-vacancies-and-candidates-vx",
+                                                              "content_id":  "281984a0-f4c3-437c-8465-8f36821f3ca9",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-01-05T14:03:59Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Selecting pre-employment checks for vacancies and candidates (vX)",
+                                                              "web_url":  "https://www.gov.uk/guidance/selecting-pre-employment-checks-for-vacancies-and-candidates-vx",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/managing-candidates-through-pre-employment-checks-vx",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/managing-candidates-through-pre-employment-checks-vx",
+                                                              "base_path":  "/guidance/managing-candidates-through-pre-employment-checks-vx",
+                                                              "content_id":  "54097588-a656-44ae-8678-44b04f93d992",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2023-12-15T13:11:46Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Managing candidates through pre-employment checks (vX)",
+                                                              "web_url":  "https://www.gov.uk/guidance/managing-candidates-through-pre-employment-checks-vx",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/staff-transfers-in-the-public-sector",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/staff-transfers-in-the-public-sector",
+                                                              "base_path":  "/government/publications/staff-transfers-in-the-public-sector",
+                                                              "content_id":  "5f538e8a-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-02-22T11:35:39Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Staff transfers in the public sector",
+                                                              "web_url":  "https://www.gov.uk/government/publications/staff-transfers-in-the-public-sector",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/collections/guidance-for-recruiters-using-civil-service-jobs-vx",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/collections/guidance-for-recruiters-using-civil-service-jobs-vx",
+                                                              "base_path":  "/government/collections/guidance-for-recruiters-using-civil-service-jobs-vx",
+                                                              "content_id":  "80c87be4-74ef-4fd6-946a-0aa6962e629f",
+                                                              "document_type":  "document_collection",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-03-01T11:37:05Z",
+                                                              "schema_name":  "document_collection",
+                                                              "title":  "Guidance for recruiters using Civil Service Jobs vX",
+                                                              "web_url":  "https://www.gov.uk/government/collections/guidance-for-recruiters-using-civil-service-jobs-vx",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/basic-navigation-and-search-for-recruiters-vx",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/basic-navigation-and-search-for-recruiters-vx",
+                                                              "base_path":  "/guidance/basic-navigation-and-search-for-recruiters-vx",
+                                                              "content_id":  "85b249e1-0a4a-4383-9b51-3d0a14f686de",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-10-10T07:58:08Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Basic navigation and search for recruiters (vX)",
+                                                              "web_url":  "https://www.gov.uk/guidance/basic-navigation-and-search-for-recruiters-vx",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2020-02-21T16:15:00+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "2776-1656074746.518-10.13.2.120-11082",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Collecting pre-employment information from candidates (vX)",
+    "updated_at":  "2024-03-01T11:37:06+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

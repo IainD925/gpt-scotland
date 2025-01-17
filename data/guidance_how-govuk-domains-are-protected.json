@@ -1,0 +1,254 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/how-govuk-domains-are-protected",
+    "content_id":  "ee9df263-fb32-4634-abd5-7c22618fd3f1",
+    "description":  "Read this to understand the relationship between all the parties involved in the management and protection of .gov.uk domain names.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eThe Central Digital and Data Office (CDDO) intends to procure a new .gov.uk Registry Operator. The changes below will come into effect when .gov.uk domains have migrated to this new Registry.\u003c/p\u003e\n\n\u003cp\u003ePublic sector bodies buy a third-level .gov.uk domain (for example, \u003ccode\u003emydomain.gov.uk\u003c/code\u003e) through a .gov.uk Approved Registrar, which may also offer additional services like email and website hosting services. A public sector body that has bought such a third level domain is called a Registrant.\u003c/p\u003e\n\n\u003cp\u003eSome Registrants delegate lower-level subdomains out to other public sector bodies, making the users of those domains sub-Registrants. For example, the Government Digital Service (GDS) is a Registrant and has \u003ccode\u003eservice.gov.uk\u003c/code\u003e. GDS has delegated the lower-level domain \u003ccode\u003ebook-theory-test.service.gov.uk\u003c/code\u003e out to DVLA, which is a sub-Registrant.\u003c/p\u003e\n\n\u003cp\u003eIf a vulnerability is detected in any .gov.uk domain or subdomain it’s important that CDDO, the Registry Operator, Registrars, Registrants and sub-Registrants all understand their roles and responsibilities and work together quickly to fix the vulnerability. \u003c/p\u003e\n\n\u003cp\u003eCDDO is introducing new rules to make sure all parties understand their roles and responsibilities. All the agreements between these organisations must now include these \u003ca href=\"https://www.gov.uk/guidance/additional-terms-for-govuk-agreements\" class=\"govuk-link\"\u003e\u003cins\u003eAdditional terms for .gov.uk agreements\u003c/ins\u003e\u003c/a\u003e\u003cins\u003e.\u003c/ins\u003e\u003c/p\u003e\n\n\u003cp\u003eHere is an overview of the roles and responsibilities.\u003c/p\u003e\n\n\u003ch2 id=\"how-cddo-protects-govuk-domains\"\u003eHow CDDO protects .gov.uk domains\u003c/h2\u003e\n\n\u003cp\u003eCDDO maintains the domain name registration and management rules which are fully described in the \u003ca href=\"https://www.gov.uk/apply-for-and-manage-a-gov-uk-domain-name\" class=\"govuk-link\"\u003e\u003cins\u003eApply for a .gov.uk domain name: step by step\u003c/ins\u003e\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eCDDO also monitors .gov.uk domains for potential vulnerabilities and is the escalation point for supporting Registants and Registrars to deal with serious or persistent risks to the .gov.uk domain. \u003c/p\u003e\n\n\u003ch2 id=\"how-the-registry-operator-protects-govuk-domains\"\u003eHow the Registry Operator protects .gov.uk domains\u003c/h2\u003e\n\n\u003cp\u003eThe .gov.uk Registry Operator is responsible for the monitoring and support of .gov.uk Registrars to make sure that they continue to meet the \u003ca href=\"https://www.gov.uk/guidance/criteria-to-be-a-govuk-approved-registrar\" class=\"govuk-link\"\u003e\u003cins\u003eCriteria to be a .gov.uk Approved Registrar\u003c/ins\u003e\u003c/a\u003e, and they support their Registrants to meet the domain name registration and management rules. \u003c/p\u003e\n\n\u003cp\u003eThe .gov.uk Registry Operator commits to this through its contract with CDDO and through terms in the Registry Registrar agreement (RRA) they have with Registrars.\u003c/p\u003e\n\n\u003ch2 id=\"how-registrars-protect-govuk-domains\"\u003eHow Registrars protect .gov.uk domains\u003c/h2\u003e\n\n\u003cp\u003eRegistrars must help their Registants protect their .gov.uk domain names. They do this by following the Criteria to be a .gov.uk Approved Registrar.\u003c/p\u003e\n\n\u003cp\u003eRegistrars commit to meeting the criteria also through terms in the RRA they have with the Registry Operator.\u003c/p\u003e\n\n\u003ch2 id=\"how-registrants-protect-govuk-domains\"\u003eHow Registrants protect .gov.uk domains\u003c/h2\u003e\n\n\u003cp\u003eAll .gov.uk Registrants must protect their .gov.uk domain by following the relevant domain name registration and management rules found here:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/get-permission-to-apply-for-a-govuk-domain-name?step-by-step-nav=5a9309a3-9a80-4faa-b24f-1797023e897f#content\" class=\"govuk-link\"\u003e\u003cins\u003eGet permission to apply for a .gov.uk domain name\u003c/ins\u003e\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/appoint-a-govuk-domain-name-administrator?step-by-step-nav=5a9309a3-9a80-4faa-b24f-1797023e897f\" class=\"govuk-link\"\u003eIdentify a registrant for your .gov.uk domain name\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/choose-your-govuk-domain-name?step-by-step-nav=5a9309a3-9a80-4faa-b24f-1797023e897f\" class=\"govuk-link\"\u003e\u003cins\u003eChoose your .gov.uk domain name\u003c/ins\u003e\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/use-your-govuk-domain-name?step-by-step-nav=5a9309a3-9a80-4faa-b24f-1797023e897f\" class=\"govuk-link\"\u003e\u003cins\u003eGet started with your .gov.uk domain name\u003c/ins\u003e\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/creating-and-managing-govuk-subdomains\" class=\"govuk-link\"\u003e\u003cins\u003eCreating and managing .gov.uk subdomains\u003c/ins\u003e\u003c/a\u003e\u003cins\u003e.\u003c/ins\u003e\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/keeping-your-domain-name-secure?step-by-step-nav=5a9309a3-9a80-4faa-b24f-1797023e897f\" class=\"govuk-link\"\u003e\u003cins\u003eKeeping your domain name secure\u003c/ins\u003e\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/keeping-your-domain-name-secure?step-by-step-nav=5a9309a3-9a80-4faa-b24f-1797023e897f#renew-domains-on-time\" class=\"govuk-link\"\u003e\u003cins\u003eRenew your domain name\u003c/ins\u003e\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/make-changes-to-your-govuk-domain-name?step-by-step-nav=5a9309a3-9a80-4faa-b24f-1797023e897f\" class=\"govuk-link\"\u003e\u003cins\u003eMake changes to your .gov.uk domain name\u003c/ins\u003e\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/how-to-stop-using-your-govuk-domain-name?step-by-step-nav=5a9309a3-9a80-4faa-b24f-1797023e897f\" class=\"govuk-link\"\u003e\u003cins\u003eHow to stop using your domain name\u003c/ins\u003e\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/what-to-do-if-your-domain-name-is-compromised?step-by-step-nav=5a9309a3-9a80-4faa-b24f-1797023e897f\" class=\"govuk-link\"\u003e\u003cins\u003eWhat to do if your domain is compromised\u003c/ins\u003e\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eAll .gov.uk Registrants must have either a:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n    \u003cp\u003eRegistrant Agreement with the Registrar that contains terms which reference these rules or\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003eRRA with the Registry Operator  - where the Registrant is also the Registrar\u003c/p\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"how-sub-registrants-protect-govuk-domains\"\u003eHow sub-Registrants protect .gov.uk domains\u003c/h2\u003e\n\n\u003cp\u003eAll .gov.uk sub-Registrants must protect their .gov.uk domain by following the relevant domain name registration and management rules found here: \u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/use-your-govuk-domain-name?step-by-step-nav=5a9309a3-9a80-4faa-b24f-1797023e897f\" class=\"govuk-link\"\u003eGet started with your .gov.uk domain name\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/creating-and-managing-govuk-subdomains\" class=\"govuk-link\"\u003e\u003cins\u003eCreating and managing .gov.uk subdomains\u003c/ins\u003e\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/keeping-your-domain-name-secure?step-by-step-nav=5a9309a3-9a80-4faa-b24f-1797023e897f\" class=\"govuk-link\"\u003e\u003cins\u003eKeeping your domain name secure\u003c/ins\u003e\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/how-to-stop-using-your-govuk-domain-name?step-by-step-nav=5a9309a3-9a80-4faa-b24f-1797023e897f\" class=\"govuk-link\"\u003e\u003cins\u003eHow to stop using your domain name\u003c/ins\u003e\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/what-to-do-if-your-domain-name-is-compromised?step-by-step-nav=5a9309a3-9a80-4faa-b24f-1797023e897f\" class=\"govuk-link\"\u003e\u003cins\u003eWhat to do if your domain is compromised\u003c/ins\u003e\u003c/a\u003e\u003c/p\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eAll .gov.uk sub-Registrants must have a Registrant Agreement with their Registrant that contains terms which reference these rules. You can find out more information about how to do this in the \u003ca href=\"https://www.gov.uk/guidance/additional-terms-for-govuk-agreements\" class=\"govuk-link\"\u003eAdditional terms for .gov.uk agreements guidance\u003c/a\u003e.\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2023-07-06T00:00:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "2fb482e7-3c4d-496f-887d-f8a55a15e89a"
+                                                 ],
+                    "first_public_at":  "2023-07-06T00:00:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2023-07-06T00:00:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/how-govuk-domains-are-protected",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/how-govuk-domains-are-protected",
+                                                     "base_path":  "/guidance/how-govuk-domains-are-protected",
+                                                     "content_id":  "ee9df263-fb32-4634-abd5-7c22618fd3f1",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2023-07-05T23:00:00Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "How .gov.uk domains are protected",
+                                                     "web_url":  "https://www.gov.uk/guidance/how-govuk-domains-are-protected",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "OT1329",
+                                            "api_path":  "/api/content/government/organisations/central-digital-and-data-office",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/central-digital-and-data-office",
+                                            "base_path":  "/government/organisations/central-digital-and-data-office",
+                                            "content_id":  "2fb482e7-3c4d-496f-887d-f8a55a15e89a",
+                                            "details":  {
+                                                            "acronym":  "CDDO",
+                                                            "brand":  "department-for-science-innovation-and-technology",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Central Digital \u003cbr/\u003e\u0026amp; Data Office"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Central Digital and Data Office",
+                                            "web_url":  "https://www.gov.uk/government/organisations/central-digital-and-data-office",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "OT1329",
+                                                                       "api_path":  "/api/content/government/organisations/central-digital-and-data-office",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/central-digital-and-data-office",
+                                                                       "base_path":  "/government/organisations/central-digital-and-data-office",
+                                                                       "content_id":  "2fb482e7-3c4d-496f-887d-f8a55a15e89a",
+                                                                       "details":  {
+                                                                                       "acronym":  "CDDO",
+                                                                                       "brand":  "department-for-science-innovation-and-technology",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Central Digital \u003cbr/\u003e\u0026amp; Data Office"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Central Digital and Data Office",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/central-digital-and-data-office",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "OT1329",
+                                                              "api_path":  "/api/content/government/organisations/central-digital-and-data-office",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/central-digital-and-data-office",
+                                                              "base_path":  "/government/organisations/central-digital-and-data-office",
+                                                              "content_id":  "2fb482e7-3c4d-496f-887d-f8a55a15e89a",
+                                                              "details":  {
+                                                                              "acronym":  "CDDO",
+                                                                              "brand":  "department-for-science-innovation-and-technology",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Central Digital \u003cbr/\u003e\u0026amp; Data Office"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Central Digital and Data Office",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/central-digital-and-data-office",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/government/technology-guidance-technology-guidance-digital-transformation",
+                                     "api_url":  "https://www.gov.uk/api/content/government/technology-guidance-technology-guidance-digital-transformation",
+                                     "base_path":  "/government/technology-guidance-technology-guidance-digital-transformation",
+                                     "content_id":  "93549580-c134-41a7-9cbc-1797ebc10200",
+                                     "details":  {
+                                                     "internal_name":  "Digital transformation [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/government-technology-and-digital-services",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/government-technology-and-digital-services",
+                                                                             "base_path":  "/government/government-technology-and-digital-services",
+                                                                             "content_id":  "90c9b9f1-0a4f-4639-b1e9-2bfb23d611bd",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Government technology and digital services",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/government/all",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/government/all",
+                                                                                                                     "base_path":  "/government/all",
+                                                                                                                     "content_id":  "e48ab80a-de80-4e83-bf59-26316856a5f9",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Government",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:29:39Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Government",
+                                                                                                                     "web_url":  "https://www.gov.uk/government/all",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "beta",
+                                                                             "public_updated_at":  "2018-08-28T10:56:47Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Government technology and digital services",
+                                                                             "web_url":  "https://www.gov.uk/government/government-technology-and-digital-services",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "beta",
+                                     "public_updated_at":  "2018-08-20T09:26:15Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Digital transformation",
+                                     "web_url":  "https://www.gov.uk/government/technology-guidance-technology-guidance-digital-transformation",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2023-07-06T00:00:00+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1718383838.615-10.13.22.16-2255",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "How .gov.uk domains are protected",
+    "updated_at":  "2024-12-12T10:27:40+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

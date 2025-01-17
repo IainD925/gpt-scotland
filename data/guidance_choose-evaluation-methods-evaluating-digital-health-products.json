@@ -1,0 +1,481 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/choose-evaluation-methods-evaluating-digital-health-products",
+    "content_id":  "6ce9f364-ef0c-4923-bd5a-af4267061d88",
+    "description":  "Compare different evaluation approaches and choose an appropriate method.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eThis page is part of a \u003ca href=\"https://www.gov.uk/government/collections/evaluating-digital-health-products\" class=\"govuk-link\"\u003ecollection of guidance on evaluating digital health products\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eThese resources look at 4 main types of study. If you are unfamiliar with them, read about each one before choosing your method. You can also combine methods.\u003c/p\u003e\n\n\u003ch2 id=\"descriptive-studies\"\u003e1. Descriptive studies\u003c/h2\u003e\n\n\u003cp\u003eUnderstand how things are going.\u003c/p\u003e\n\n\u003cp\u003eThese types of studies describe what is going on. They can give you descriptive statistics (what proportion, how many, how much), or investigate correlations: relationships between variables.\u003c/p\u003e\n\n\u003cp\u003eDescriptive studies are weaker at providing evidence of cause and effect. They can’t tell you what would have happened if you had done something else, for example, if a different product would have worked better.\u003c/p\u003e\n\n\u003cp\u003eDescriptive studies are often simple. For digital products, they can be quick and cheap if you can use data that is already being collected. Sometimes you will want to collect additional data specifically for the evaluation. This may cost more.\u003c/p\u003e\n\n\u003cp\u003eMost descriptive studies use quantitative methods, but some are qualitative or incorporate qualitative methods.\u003c/p\u003e\n\n\u003ch3 id=\"when-to-use-them\"\u003eWhen to use them\u003c/h3\u003e\n\n\u003cp\u003eUse them when:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eyour product is in use, to check it works and has no unintended consequences (ex-post evaluation)\u003c/li\u003e\n  \u003cli\u003eyour product is about to be in use and can be tested with a pilot group to see how it works in practice\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"questions-they-answer\"\u003eQuestions they answer\u003c/h3\u003e\n\n\u003cp\u003eHow many people are using your product?\u003c/p\u003e\n\n\u003cp\u003eHow many people stay engaged with your product?\u003c/p\u003e\n\n\u003cp\u003eHow often do they use it?\u003c/p\u003e\n\n\u003cp\u003eDo they like the product?\u003c/p\u003e\n\n\u003ch3 id=\"descriptive-study-methods\"\u003eDescriptive study methods\u003c/h3\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/analysis-of-routinely-collected-data-descriptive-studies\" class=\"govuk-link\"\u003eAnalysis of routinely collected data\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/behaviour-change-techniques-review-descriptive-studies\" class=\"govuk-link\"\u003eBehaviour change techniques review\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/clinical-audit-descriptive-studies\" class=\"govuk-link\"\u003eClinical audit\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/user-feedback-study-descriptive-studies\" class=\"govuk-link\"\u003eUser feedback study\u003c/a\u003e\u003c/p\u003e\n\n\u003ch2 id=\"comparative-studies\"\u003e2. Comparative studies\u003c/h2\u003e\n\n\u003cp\u003eCheck whether your product works.\u003c/p\u003e\n\n\u003cp\u003eTo judge whether a digital health product or service is effective, you need to make a comparison to what the alternative would be. If this product didn’t exist, what would have happened? The alternative might be nothing, an existing non-digital service, or a different digital product or service.\u003c/p\u003e\n\n\u003cp\u003eFor example, a group of people who have some anxiety problems use your new app. Six months later, 30% report they no longer have anxiety problems. Does this prove that the app is effective? No. Some people recover from anxiety problems over time without outside assistance. You need to compare whether more people recovered using the app than would have without the app.\u003c/p\u003e\n\n\u003cp\u003eComparative studies usually involve collecting quantitative data on individuals who are not given your product. This is more complex and expensive than a typical descriptive study.\u003c/p\u003e\n\n\u003cp\u003eThe choice of comparison is important. Some comparisons are easier and cheaper to make, but may not be fair. You will have to find a balance between a very robust evaluation and what is practical and affordable. \nSome types of comparative study are very robust. They are recommended in the \u003ca rel=\"external\" href=\"https://www.nice.org.uk/about/what-we-do/our-programmes/evidence-standards-framework-for-digital-health-technologies\" class=\"govuk-link\"\u003eNICE Evidence Standards Framework\u003c/a\u003e for several types of digital product.\u003c/p\u003e\n\n\u003ch3 id=\"when-to-use-them-1\"\u003eWhen to use them\u003c/h3\u003e\n\n\u003cp\u003eUse them when:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eyou want to know how effective your product is, for example, in comparison to not using your product or to using another product\u003c/li\u003e\n  \u003cli\u003eyou are launching your product, or soon after (summative evaluation) and want to know how effective it is\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"questions-they-answer-1\"\u003eQuestions they answer\u003c/h3\u003e\n\n\u003cp\u003eWhat is the difference in health outcomes between people using your product and people using a rival product?\u003c/p\u003e\n\n\u003cp\u003eWhat is the difference in health outcomes between people using 2 versions of your product?\u003c/p\u003e\n\n\u003cp\u003eWhat is the difference in health outcomes between people using your product now and how people did before your product was available?\u003c/p\u003e\n\n\u003ch3 id=\"comparative-study-methods\"\u003eComparative study methods\u003c/h3\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/ab-testing-comparative-studies\" class=\"govuk-link\"\u003eA/B testing\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/before-and-after-study-comparative-studies\" class=\"govuk-link\"\u003eBefore-and-after study\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/case-control-study-comparative-studies\" class=\"govuk-link\"\u003eCase-control study\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/crossover-randomised-controlled-trial-comparative-studies\" class=\"govuk-link\"\u003eCrossover randomised controlled trial\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/factorial-randomised-controlled-trial-comparative-studies\" class=\"govuk-link\"\u003eFactorial randomised controlled trial\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/n-of-1-study-comparative-studies\" class=\"govuk-link\"\u003eN-of-1 study\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/quasi-experimental-study-comparative-studies\" class=\"govuk-link\"\u003eQuasi-experimental study\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/randomised-controlled-trial-comparative-studies\" class=\"govuk-link\"\u003eRandomised controlled trial\u003c/a\u003e\u003c/p\u003e\n\n\u003ch2 id=\"qualitative-studies\"\u003e3. Qualitative studies\u003c/h2\u003e\n\n\u003cp\u003eUnderstand how people feel about your product.\u003c/p\u003e\n\n\u003cp\u003eQualitative approaches can be good for understanding the thoughts and experiences of users of the digital health product, or of other stakeholders. Qualitative methods can give a richer explanation of what is happening. For example, a quantitative approach could describe patterns of disengagement with an app and what demographic factors predict disengagement, but a qualitative approach can describe why users stopped using the app. It could also focus on giving a voice to particular users who might otherwise be overlooked in evaluations. Qualitative studies may be more subjective than quantitative studies.\u003c/p\u003e\n\n\u003cp\u003eWhile qualitative studies can describe the range of views among participants, they are weak at saying how many participants hold different views. Results from qualitative studies are hard to generalise to other participants. \nThe number of participants needed can be much lower than for other evaluation methods. However, the amount of information you get from each participant can be much higher, so usually more time is spent with each participant.\u003c/p\u003e\n\n\u003ch3 id=\"when-to-use-them-2\"\u003eWhen to use them\u003c/h3\u003e\n\n\u003cp\u003eUse them when:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eyou want a more in-depth understanding of users’ thoughts and experiences of your product\u003c/li\u003e\n  \u003cli\u003eyou’re developing your product, to work out how to improve it (formative or iterative evaluation)\u003c/li\u003e\n  \u003cli\u003eyou have open-ended questions\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"questions-they-answer-2\"\u003eQuestions they answer\u003c/h3\u003e\n\n\u003cp\u003eWhat was users’ overall experience of the product?\u003c/p\u003e\n\n\u003cp\u003eHow did users feel during their journey through the product?\u003c/p\u003e\n\n\u003cp\u003eWhat do users want to see in a new version of the product?\u003c/p\u003e\n\n\u003ch3 id=\"qualitative-study-methods\"\u003eQualitative study methods\u003c/h3\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/contextual-inquiry\" class=\"govuk-link\"\u003eContextual inquiry\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/ethnographic-study-qualitative-studies\" class=\"govuk-link\"\u003eEthnographic study\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/focus-group-study-qualitative-studies\" class=\"govuk-link\"\u003eFocus group study\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/interview-study-qualitative-studies\" class=\"govuk-link\"\u003eInterview study\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/think-aloud-study-qualitative-studies\" class=\"govuk-link\"\u003eThink aloud study\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/usability-testing-qualitative-studies\" class=\"govuk-link\"\u003eUsability testing\u003c/a\u003e\u003c/p\u003e\n\n\u003ch2 id=\"health-economic-studies\"\u003e4. Health economic studies\u003c/h2\u003e\n\n\u003cp\u003eUnderstand what value for money your product provides and the cost implications of implementing it.\u003c/p\u003e\n\n\u003cp\u003eHealth economic studies typically involve 2 broad types of economic analyses: economic evaluation and budget impact analysis.\u003c/p\u003e\n\n\u003cp\u003eEconomic evaluation can help you assess the costs and effects of a digital health product and compare it with alternative options. It provides information about the relative effectiveness and cost-effectiveness of your product to help inform decisions about which digital health interventions to provide. Economic evaluation enables decision-makers to make efficient use of available resources for improving a population’s health. Pursuing efficiency involves maximising the benefits of the available resources, not just reducing costs.\u003c/p\u003e\n\n\u003cp\u003eBudget impact analysis evaluates the affordability of a digital health product given the available budget constraints. This involves a comprehensive assessment of the costs and savings of implementing a new digital health product. Budget impact analysis usually complements value for money assessments and is often conducted after an economic evaluation.\u003c/p\u003e\n\n\u003cp\u003eHealth economic studies can tell you whether the benefits of investing in your product exceed the benefits you would have got from investing the same amount in an alternative option. For example, if you are launching a new mobile app to facilitate remote GP consultations, economic evaluation will tell you whether your product provides most benefits for each additional pound invested in it compared to competing options. The alternative options could be other mobile apps or face-to-face appointments. It will also tell you about the likely cost implications of rolling out your product within the decision-maker’s available budget.\u003c/p\u003e\n\n\u003ch3 id=\"when-to-use-them-3\"\u003eWhen to use them\u003c/h3\u003e\n\n\u003cp\u003eUse them when:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eyour product is being launched or tested in a pilot study to help guide decisions about whether it should be adopted\u003c/li\u003e\n  \u003cli\u003eyou want to understand how your product compares with competing alternatives in terms of both benefits and costs\u003c/li\u003e\n  \u003cli\u003eyou need to know whether your product offers the most benefits given the available budget\u003c/li\u003e\n  \u003cli\u003eyou need a more comprehensive assessment of the broader economic implications of your product, and its impact on the decision-maker’s budget\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"questions-they-answer-3\"\u003eQuestions they answer\u003c/h3\u003e\n\n\u003cp\u003eHow much benefit is gained for each additional pound invested in your product?\u003c/p\u003e\n\n\u003cp\u003eHow cost-effective is your product compared to alternative options when competing for local or national resources?\u003c/p\u003e\n\n\u003cp\u003eIs the adoption and spread of your product feasible within the decision-maker’s available budget?\u003c/p\u003e\n\n\u003ch3 id=\"economic-study-methods\"\u003eEconomic study methods\u003c/h3\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/budget-impact-analysis-health-economic-studies\" class=\"govuk-link\"\u003eBudget impact analysis\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/economic-evaluation-health-economic-studies\" class=\"govuk-link\"\u003eEconomic evaluation\u003c/a\u003e:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/cost-consequence-analysis-health-economic-studies\" class=\"govuk-link\"\u003ecost consequence analysis\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/cost-effectiveness-analysis-health-economic-studies\" class=\"govuk-link\"\u003ecost effectiveness analysis\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/cost-utility-analysis-health-economic-studies\" class=\"govuk-link\"\u003ecost utility analysis\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/cost-benefit-analysis-health-economic-studies\" class=\"govuk-link\"\u003ecost benefit analysis\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"approaches-that-cut-across-categories\"\u003eApproaches that cut across categories\u003c/h2\u003e\n\n\u003cp\u003eThe categorisation in this guide is one way of classifying different methods. Some approaches cut across this distinction. You can use qualitative or quantitative methods or both, depending on the objectives of your evaluation. Mixed methods evaluations combine quantitative and qualitative methods – for example, you could collect data on everyone using a product in a before-and-after study and also interview a subset of users in more depth.\u003c/p\u003e\n\n\u003ch3 id=\"cross-category-methods\"\u003eCross-category methods\u003c/h3\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/ecological-momentary-assessment\" class=\"govuk-link\"\u003eEcological momentary assessment\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/feasibility-study\" class=\"govuk-link\"\u003eFeasibility study\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/interrupted-time-series-study\" class=\"govuk-link\"\u003eInterrupted time series study\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/micro-randomised-trial\" class=\"govuk-link\"\u003eMicro-randomised trial\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/multiphase-optimization-strategy-most\" class=\"govuk-link\"\u003eMultiphase optimization strategy (MOST)\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/mixed-methods-study\" class=\"govuk-link\"\u003eMixed methods study\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"https://www.gov.uk/guidance/patient-reported-outcomes-and-experiences-study\" class=\"govuk-link\"\u003ePatient-reported outcomes and experiences study\u003c/a\u003e\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Added link to case-control studies under comparative studies.",
+                                               "public_timestamp":  "2021-05-19T10:33:01.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added information on evaluation methods that straddle categories.",
+                                               "public_timestamp":  "2020-12-02T13:47:08.000+00:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2020-01-30T17:00:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "e85f9a3f-451d-4a3e-9b63-17b13149269f"
+                                                 ],
+                    "first_public_at":  "2020-01-30T17:00:00.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2020-01-30T17:00:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/choose-evaluation-methods-evaluating-digital-health-products",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/choose-evaluation-methods-evaluating-digital-health-products",
+                                                     "base_path":  "/guidance/choose-evaluation-methods-evaluating-digital-health-products",
+                                                     "content_id":  "6ce9f364-ef0c-4923-bd5a-af4267061d88",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2021-05-19T09:33:01Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Choose evaluation methods: evaluating digital health products",
+                                                     "web_url":  "https://www.gov.uk/guidance/choose-evaluation-methods-evaluating-digital-health-products",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/evaluating-digital-health-products",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/evaluating-digital-health-products",
+                                                   "base_path":  "/government/collections/evaluating-digital-health-products",
+                                                   "content_id":  "9f286c51-0fa2-43c0-abc3-988f75423e36",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/choose-evaluation-methods-evaluating-digital-health-products",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/choose-evaluation-methods-evaluating-digital-health-products",
+                                                                                       "base_path":  "/guidance/choose-evaluation-methods-evaluating-digital-health-products",
+                                                                                       "content_id":  "6ce9f364-ef0c-4923-bd5a-af4267061d88",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2021-05-19T09:33:01Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Choose evaluation methods: evaluating digital health products",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/choose-evaluation-methods-evaluating-digital-health-products",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2021-10-19T09:59:42Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Evaluating digital health products",
+                                                   "web_url":  "https://www.gov.uk/government/collections/evaluating-digital-health-products",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  true,
+                                                         "ended_on":  null,
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "OT1341",
+                                            "api_path":  "/api/content/government/organisations/office-for-health-improvement-and-disparities",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/office-for-health-improvement-and-disparities",
+                                            "base_path":  "/government/organisations/office-for-health-improvement-and-disparities",
+                                            "content_id":  "e85f9a3f-451d-4a3e-9b63-17b13149269f",
+                                            "details":  {
+                                                            "acronym":  "OHID",
+                                                            "brand":  "department-of-health",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/6155e1378fa8f5297cc029fc/s960_39vs-at-night.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/6155e1378fa8f52985dd7449/s300_39vs-at-night.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Office for Health\u003cbr/\u003eImprovement \u003cbr/\u003e\u0026amp; Disparities"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Office for Health Improvement and Disparities",
+                                            "web_url":  "https://www.gov.uk/government/organisations/office-for-health-improvement-and-disparities",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA480",
+                                                                       "api_path":  "/api/content/government/organisations/public-health-england",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/public-health-england",
+                                                                       "base_path":  "/government/organisations/public-health-england",
+                                                                       "content_id":  "1343f283-19e9-4fbb-86b1-58c7549d874b",
+                                                                       "details":  {
+                                                                                       "acronym":  "PHE",
+                                                                                       "brand":  "department-of-health",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db2de5274a7908e352ef/s960_sign5.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5a37db2d40f0b649cceb18bf/s300_sign5.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Public Health \u003cbr/\u003eEngland"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "split",
+                                                                                                                         "updated_at":  "2021-10-01T00:00:00.000+01:00",
+                                                                                                                         "url":  "https://www.gov.uk/phe"
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Public Health England",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/public-health-england",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "OT1341",
+                                                              "api_path":  "/api/content/government/organisations/office-for-health-improvement-and-disparities",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/office-for-health-improvement-and-disparities",
+                                                              "base_path":  "/government/organisations/office-for-health-improvement-and-disparities",
+                                                              "content_id":  "e85f9a3f-451d-4a3e-9b63-17b13149269f",
+                                                              "details":  {
+                                                                              "acronym":  "OHID",
+                                                                              "brand":  "department-of-health",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/6155e1378fa8f5297cc029fc/s960_39vs-at-night.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/6155e1378fa8f52985dd7449/s300_39vs-at-night.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Office for Health\u003cbr/\u003eImprovement \u003cbr/\u003e\u0026amp; Disparities"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Office for Health Improvement and Disparities",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/office-for-health-improvement-and-disparities",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related_guides":  [
+                                         {
+                                             "api_path":  "/api/content/guidance/contextual-inquiry",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/contextual-inquiry",
+                                             "base_path":  "/guidance/contextual-inquiry",
+                                             "content_id":  "fefeefb6-1c31-46f0-8102-d5388073d9a4",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2021-10-19T09:55:00Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Contextual inquiry",
+                                             "web_url":  "https://www.gov.uk/guidance/contextual-inquiry",
+                                             "withdrawn":  false
+                                         }
+                                     ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/carry-out-your-evaluation-evaluating-digital-health-products",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/carry-out-your-evaluation-evaluating-digital-health-products",
+                                                              "base_path":  "/guidance/carry-out-your-evaluation-evaluating-digital-health-products",
+                                                              "content_id":  "975b6fb7-2db1-4739-8df0-1d7ef8932f2d",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-01-30T17:00:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Carry out your evaluation: evaluating digital health products",
+                                                              "web_url":  "https://www.gov.uk/guidance/carry-out-your-evaluation-evaluating-digital-health-products",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/ethnographic-study-qualitative-studies",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/ethnographic-study-qualitative-studies",
+                                                              "base_path":  "/guidance/ethnographic-study-qualitative-studies",
+                                                              "content_id":  "fe0fbb50-5b24-40f7-b6df-14f130767073",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-05-04T15:00:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Ethnographic study: qualitative studies",
+                                                              "web_url":  "https://www.gov.uk/guidance/ethnographic-study-qualitative-studies",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/interview-study-qualitative-studies",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/interview-study-qualitative-studies",
+                                                              "base_path":  "/guidance/interview-study-qualitative-studies",
+                                                              "content_id":  "c7f97f19-b33f-4f96-bb45-f906439f669c",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-01-30T17:00:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Interview study: qualitative studies",
+                                                              "web_url":  "https://www.gov.uk/guidance/interview-study-qualitative-studies",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/quasi-experimental-study-comparative-studies",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/quasi-experimental-study-comparative-studies",
+                                                              "base_path":  "/guidance/quasi-experimental-study-comparative-studies",
+                                                              "content_id":  "ea926798-03f8-4090-b70a-d016ba93208d",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-09-08T14:20:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Quasi-experimental study: comparative studies",
+                                                              "web_url":  "https://www.gov.uk/guidance/quasi-experimental-study-comparative-studies",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/focus-group-study-qualitative-studies",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/focus-group-study-qualitative-studies",
+                                                              "base_path":  "/guidance/focus-group-study-qualitative-studies",
+                                                              "content_id":  "5fc9e575-62c7-4092-8490-96f230522558",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2020-01-30T17:11:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Focus group study: qualitative studies",
+                                                              "web_url":  "https://www.gov.uk/guidance/focus-group-study-qualitative-studies",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/health-and-social-care/health-improvement",
+                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care/health-improvement",
+                                     "base_path":  "/health-and-social-care/health-improvement",
+                                     "content_id":  "42350cb9-f4ab-4e4c-abfb-b5662f3d14f4",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Health improvement",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/health-and-social-care/public-health",
+                                                                             "api_url":  "https://www.gov.uk/api/content/health-and-social-care/public-health",
+                                                                             "base_path":  "/health-and-social-care/public-health",
+                                                                             "content_id":  "d6a4884e-769d-4b81-8ba5-b64394362d92",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Public health",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/health-and-social-care",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care",
+                                                                                                                     "base_path":  "/health-and-social-care",
+                                                                                                                     "content_id":  "8124ead8-8ebc-4faf-88ad-dd5cbcc92ba8",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Health and social care",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:30:51Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Health and social care",
+                                                                                                                     "web_url":  "https://www.gov.uk/health-and-social-care",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-17T15:15:14Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Public health",
+                                                                             "web_url":  "https://www.gov.uk/health-and-social-care/public-health",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-17T15:16:49Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Health improvement",
+                                     "web_url":  "https://www.gov.uk/health-and-social-care/health-improvement",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/health-and-social-care/health-protection-services-research-testing-and-standards",
+                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care/health-protection-services-research-testing-and-standards",
+                                     "base_path":  "/health-and-social-care/health-protection-services-research-testing-and-standards",
+                                     "content_id":  "b19e0be5-22a3-4d79-b693-e42d7f3a608f",
+                                     "details":  {
+                                                     "internal_name":  "Research, testing and standards [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/health-and-social-care/health-protection",
+                                                                             "api_url":  "https://www.gov.uk/api/content/health-and-social-care/health-protection",
+                                                                             "base_path":  "/health-and-social-care/health-protection",
+                                                                             "content_id":  "30ba2d05-d0d6-4978-a5d6-707511894111",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Health protection",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/health-and-social-care/public-health",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care/public-health",
+                                                                                                                     "base_path":  "/health-and-social-care/public-health",
+                                                                                                                     "content_id":  "d6a4884e-769d-4b81-8ba5-b64394362d92",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Public health",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  false
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "parent_taxons":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-17T15:15:14Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Public health",
+                                                                                                                     "web_url":  "https://www.gov.uk/health-and-social-care/public-health",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2019-03-11T14:19:39Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Health protection",
+                                                                             "web_url":  "https://www.gov.uk/health-and-social-care/health-protection",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-08-22T12:56:17Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Research, testing and standards",
+                                     "web_url":  "https://www.gov.uk/health-and-social-care/health-protection-services-research-testing-and-standards",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2021-05-19T10:33:01+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "11152-1665067572.960-10.13.2.171-2166",
+    "publishing_scheduled_at":  "2020-01-30T17:00:00+00:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  3,
+    "schema_name":  "detailed_guide",
+    "title":  "Choose evaluation methods: evaluating digital health products",
+    "updated_at":  "2024-07-04T14:57:02+01:00",
+    "withdrawn_notice":  {
+
+                         }
+}

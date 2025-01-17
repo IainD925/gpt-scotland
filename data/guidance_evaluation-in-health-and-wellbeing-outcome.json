@@ -1,0 +1,378 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/evaluation-in-health-and-wellbeing-outcome",
+    "content_id":  "36a93837-ff8a-492a-bfc2-e0010f419f6a",
+    "description":  "Helping public health practitioners conducting evaluations – using outcome evaluations to find out if an intervention works.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eAn outcome evaluation can tell us how effective an intervention is by asking ‘Did it work?’ and ‘How well did it work?’ These studies investigate whether changes in outcomes occurred as a result of the intervention.\u003c/p\u003e\n\n\u003ch2 id=\"intervention-outcomes\"\u003eIntervention outcomes\u003c/h2\u003e\n\n\u003cp\u003eAn intervention outcome is a measure of something that the intervention was expected to change. This could be something about participants or their environments. Outcome evaluations can employ primary and secondary outcomes. The primary outcome is the main change the intervention was designed to generate and is the endpoint of the logic model. Identification of the primary intervention outcome measure is central to intervention design.\u003c/p\u003e\n\n\u003cp\u003eSecondary outcomes are usually measures of effects expected to follow from primary outcome. For example, an intervention might be designed to promote weight loss (the primary outcome) but also expected to enhance quality of life as a secondary outcome. Interventions are designed to change a wide variety of outcomes so, depending on the initial needs assessment, many different primary outcomes may be considered. For example:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eincreasing knowledge or awareness (for example, about a health threat)\u003c/li\u003e\n  \u003cli\u003echanging beliefs or attitudes\u003c/li\u003e\n  \u003cli\u003eenhancing motivation\u003c/li\u003e\n  \u003cli\u003epromoting particular behaviour patterns (for example, physical activity, condom use or adherence to medication)\u003c/li\u003e\n  \u003cli\u003ereducing the prevalence of health-risk factors (for example, blood pressure or body mass index)\u003c/li\u003e\n  \u003cli\u003ereducing the incidence of health conditions or diseases (for example, heart attacks or sexually transmitted diseases)\u003c/li\u003e\n  \u003cli\u003echanging use of services (for example, GP appointments or hospital admissions)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"reliability-and-validity-of-outcome-measures\"\u003eReliability and validity of outcome measures\u003c/h2\u003e\n\n\u003cp\u003eThe reliability of an outcome measures is the degree to which it generates the same score or value when it is used repeatedly in unchanging circumstances. For example, if a weighing machine generates different weights for the same person over a single afternoon then it is unreliable. Reliability is prerequisite to the validity and usefulness of an outcome measure. Ensuring that a reliable measure of the proposed outcome is available and can be use in practice is a critical aspect of evaluation design.\u003c/p\u003e\n\n\u003cp\u003eValidity of outcome measures is the degree to which a measure or test can be said to really measure what it is designed to measure. Concurrent validity is achieved when 2 or more tests generate the same findings. The tests validate one another. For example, if 2 weighing machines give the same weight for the same person on the same afternoon, it suggests that they are both measuring the same thing – weight. Predictive validity is achieved when a measure predicts a future measure. For example, when a fitness measure predicts performance in a subsequent test of strength or endurance.\u003c/p\u003e\n\n\u003cp\u003eEvaluation design involves identifying reliable and valid outcome measures. This is likely to involve searching the research literature early in the design process.\u003c/p\u003e\n\n\u003ch2 id=\"outcome-evaluation-design\"\u003eOutcome evaluation design\u003c/h2\u003e\n\n\u003cp\u003eSeveral different study designs are used in outcome evaluations. We briefly discuss 3 here. In a single-group pre-post comparison, outcomes are measured before and after the intervention. Then post-intervention levels or scores are compared to pre-intervention scores to assess change. This design provides relatively weak evidence of effectiveness because changes occurring outside the intervention may be mistakenly attributed to the intervention. For example, the season or media coverage may be changing the primary outcome quite apart from the intervention itself.\u003c/p\u003e\n\n\u003cp\u003eA stronger design would use a matched control group who do not receive the intervention. This allows comparison of change in the intervention group to change in the control group. So naturally occurring change (not caused by the intervention) can be measured. The intervention and control group should be as similar as possible so that naturally occurring change relevant to the intervention group is captured by measuring change in the control group. This design allows change in the intervention group to be judged in relation to change in the control group.\u003c/p\u003e\n\n\u003cp\u003eThe bar chart illustrates hypothetical findings from 3 outcome evaluations. The first study shows an intervention group doing much better than the control group who show a small improvement, so the intervention may have had a real effect. In the second study the intervention group changes by the same amount but, because the control group also changes by this amount, it appears that the intervention was ineffective. In the third study the same change in the intervention group is contrasted with a deterioration in the control group, suggesting that the intervention may have prevented naturally occurring deterioration and well as prompting improvement.\u003c/p\u003e\n\n\u003cp\u003eChart: hypothetical findings from 3 outcome evaluations\u003c/p\u003e\n\n\u003ctable class=\"js-barchart-table mc-negative mc-auto-outdent\"\u003e\n  \u003cthead\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"col\"\u003eStudy\u003c/th\u003e\n      \u003cth scope=\"col\" class=\"cell-text-right\"\u003eControl\u003c/th\u003e\n      \u003cth scope=\"col\" class=\"cell-text-right\"\u003eIntervention\u003c/th\u003e\n    \u003c/tr\u003e\n  \u003c/thead\u003e\n  \u003ctbody\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eStudy 1\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e0.25\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e2.5\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eStudy 2\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e2.5\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e2.5\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"row\"\u003eStudy 3\u003c/th\u003e\n      \u003ctd class=\"cell-text-right\"\u003e-1.5\u003c/td\u003e\n      \u003ctd class=\"cell-text-right\"\u003e2.5\u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e\n\n\u003cp\u003eA yet stronger design is provided by a randomised control trial in which study participants are randomly allocated to the intervention and control group. Randomisation provides better matching because differences between participants should be evenly spread between the 2 groups. This means that such differences should not affect differences in change between the 2 groups. Randomisation may be managed at an individual level, or organisational level (for example, when comparing one GP practice or school to another).\u003c/p\u003e\n\n\u003cp\u003eAnother important outcome evaluation design question is when to measure the outcomes. In addition to pre-post intervention measures, intermediate measures may be taken during the intervention to track progress (for example, weight loss measures each week during a 3-month intervention). These are especially important in process evaluations.\u003c/p\u003e\n\n\u003cp\u003eImmediate follow-up measures can tell us what happened once the intervention was complete (for example, weight loss measures at the end of the intervention). Longer-term follow-up measures can tell us whether immediate post-intervention changes were maintained, that is, remained stable over time. Such follow-up measure may be taken at any time after the intervention (for example, at 6, 12 or 24 months).\u003c/p\u003e\n\n\u003ch2 id=\"efficacy-versus-effectiveness-evaluations\"\u003eEfficacy versus effectiveness evaluations\u003c/h2\u003e\n\n\u003cp\u003eEfficacy is the capacity of the intervention to generate change when delivered properly (for example, by experts) in favourable or ideal circumstances. Efficacy evaluations can demonstrate the potential of an intervention. Efficacy evaluations may be small scale (for example, a 2-site trial or a laboratory study).\u003c/p\u003e\n\n\u003cp\u003eConversely, effectiveness is the capacity of the intervention to generate change when delivered in practice (for example, as part of routine service delivery). Effectiveness evaluations (for example, multisite service randomised control trials) may be challenging and expensive to conduct and are usually best undertaken once good efficacy has been demonstrated.\u003c/p\u003e\n\n\u003cp\u003eEfficacy does not guarantee effectiveness.\u003c/p\u003e\n\n\u003ch2 id=\"external-validity\"\u003eExternal validity\u003c/h2\u003e\n\n\u003cp\u003eExternal validity is the extent to which the findings of an outcome evaluation can be generalized to other groups and contexts. For instance, is a weight-loss intervention found to be effective for overweight adults likely to work for overweight British children?\u003c/p\u003e\n\n\u003cp\u003eA limitation of randomised controlled trials is that the very careful selection and randomisation of participants and the control of the intervention-delivery contexts may mean that observed effects of interventions in trials are not replicated in (or do not generalise to) routine practice. So a trial may demonstrate efficacy but not effectiveness across contexts.\u003c/p\u003e\n\n\u003cp\u003eThis potential disjunction between the findings of well-conducted trails and real- world implementation is referred to as ‘external validity’. The RE-AIM framework (Glasgow et al, 2002) helps to anticipate challenges to external validity in the adoption, implementation and maintenance of interventions. The framework details 5 dimensions of external validity:\u003c/p\u003e\n\n\u003ch3 id=\"reach\"\u003eReach\u003c/h3\u003e\n\u003cp\u003eThis includes:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003enumber or percent of target population impacted\u003c/li\u003e\n  \u003cli\u003eextent that the participants represent the population and are the most at risk\u003c/li\u003e\n  \u003cli\u003eparticipation rate, representativeness and exclusion rate\u003c/li\u003e\n  \u003cli\u003eeffectiveness\u003c/li\u003e\n  \u003cli\u003emeasurement of intervention impact on health or behaviour patterns including the positive, negative and unanticipated consequences\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"adoption\"\u003eAdoption\u003c/h3\u003e\n\u003cp\u003eThis includes:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eextent to which intervention in adopted by implementers\u003c/li\u003e\n  \u003cli\u003eextent that participating settings are representative of ‘real world’ settings that the target population uses or visits\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"implementation\"\u003eImplementation\u003c/h3\u003e\n\u003cp\u003eThis includes:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ewhether intervention components delivered as intended; time and cost\u003c/li\u003e\n  \u003cli\u003eadherence to protocols or guidelines\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"maintenance\"\u003eMaintenance\u003c/h3\u003e\n\u003cp\u003eThis includes:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003efor organisations – integration into the systems, staff, and budgets\u003c/li\u003e\n  \u003cli\u003efor individuals – continuation to exhibit the desired health behaviour changes\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"outcome-evaluation-challenges\"\u003eOutcome evaluation challenges\u003c/h2\u003e\n\n\u003cp\u003ePractical challenges of outcome evaluations include the following:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003einterventions may impact at several levels so multiple valid and relatable outcome measures may needed\u003c/li\u003e\n  \u003cli\u003eif care is not taken, measurement could be affected by researcher expectations\u003c/li\u003e\n  \u003cli\u003erandomisation may lead to demoralisation or competition – for example, those assigned to the control group may be disappointed\u003c/li\u003e\n  \u003cli\u003elarge samples may be needed to measure change, especially if the expected change is small – therefore, study recruitment may be challenging\u003c/li\u003e\n  \u003cli\u003eintervention and control groups may be difficult to isolate so resulting in ‘contamination’\u003c/li\u003e\n  \u003cli\u003epeople or sites may drop out – causing ‘attrition’\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eChallenges associated with designing outcome evaluations:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003edefining outcomes during evaluation design, both primary and secondary outcomes\u003c/li\u003e\n  \u003cli\u003eensuring reliability and validity of all outcome measures\u003c/li\u003e\n  \u003cli\u003edeciding how to measure effect sizes\u003c/li\u003e\n  \u003cli\u003eestablishing the size of change that is important or useful (practical or clinical importance)\u003c/li\u003e\n  \u003cli\u003edeciding on an evaluation design\u003c/li\u003e\n  \u003cli\u003edeciding when to measure outcomes\u003c/li\u003e\n  \u003cli\u003econducting efficacy evaluations before effectiveness evaluations\u003c/li\u003e\n  \u003cli\u003econducting process evaluations to optimise external validity\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"review-questions-and-answers-on-outcome-evaluations\"\u003eReview questions and answers on outcome evaluations\u003c/h2\u003e\n\n\u003cp\u003eHow outcome evaluation differs from other types of evaluation The purpose of an outcome evaluation can tell us how effective an intervention is. These studies investigate whether changes in outcomes occurred as a result of the intervention. This is achieved by measuring something at different time points (for example, pre- and post-intervention) that the intervention was expected to change, or intervention outcome.\u003c/p\u003e\n\n\u003ch3 id=\"how-to-start-to-design-an-outcome-evaluation\"\u003eHow to start to design an outcome evaluation\u003c/h3\u003e\n\n\u003cp\u003eThe first steps are to determine what the aim of your intervention is and how you will measure the intervention outcome. The logic model will inform you of the aim of the study. You need to make sure that your intervention outcome measure is reliable (generates the same score or value when it is used repeatedly) and valid (measures what it is designed to measure).\u003c/p\u003e\n\n\u003cp\u003eYou will also need to consider the study design that you plan to use (for example, single-group pre-post comparison, matched control group, or randomised control trial). Each of these designs provides varying levels of evidence, with a randomised controlled trial proving the strongest evidence. Another important design element of outcome evaluation is when to measure the outcomes: pre- and post-intervention, during the interventions, and/or short- and long-term follow-ups.\u003c/p\u003e\n\n\u003ch3 id=\"the-difference-between-efficacy-and-effectiveness\"\u003eThe difference between efficacy and effectiveness\u003c/h3\u003e\n\n\u003cp\u003eEfficacy is the capacity of the intervention to generate change while effectiveness is the capacity of the intervention to generate change. Efficacy evaluations may be small scale (for example, a 2-site trial or a laboratory study), and effectiveness evaluations may be on a larger scale (for example, multisite service randomised control trials). Effectiveness evaluations can be challenging and expensive to conduct and are usually best undertaken after good efficacy has been demonstrated. However, demonstrating efficacy does not necessarily mean an intervention will be effective.\u003c/p\u003e\n\n\u003ch3 id=\"why-external-validity-is-important\"\u003eWhy external validity is important\u003c/h3\u003e\n\n\u003cp\u003eExternal validity is whether the findings of an outcome evaluation can be applicable to other groups and settings. The observed findings of the study (for example, benefits of a weight loss intervention) may only work in the study conditions and not in the ‘real world’. It is important to assess external validity because the ultimate goal of designing and testing interventions – particularly, public health intervention – is so they can be implemented widely. If the intervention is not externally valid then a great deal of resources will have been used to test an intervention that has no application in everyday life. The RE-AIM framework can be used to anticipate some of the challenges to external validity.\u003c/p\u003e\n\n\u003ch2 id=\"references\"\u003eReferences\u003c/h2\u003e\n\n\u003cp\u003eCohen, J. (1992): \u003ca rel=\"external\" href=\"https://trialsjournal.biomedcentral.com/articles/10.1186/1745-6215-15-267\" class=\"govuk-link\"\u003eTheory of Change: a theory-driven approach to enhance the Medical Research Council’s framework for complex interventions\u003c/a\u003e. A power primer. Psychological Bulletin, 112, 155–159. Trials 15: 267 doi: 10.1186/1745-6215-15-267.\u003c/p\u003e\n\n\u003cp\u003eGlasgow, RE, Bull, SS, Gillette, C, Klesges, LM, Dzewaltowski, DM (2002): \u003ca rel=\"external\" href=\"https://pubmed.ncbi.nlm.nih.gov/12093425/\" class=\"govuk-link\"\u003eBehavior change intervention research in healthcare settings: a review of recent reports with emphasis on external validity\u003c/a\u003e. American Journal of Preventive Medicine, 23, 62–69.\u003c/p\u003e\n\n\u003ch2 id=\"acknowledgements\"\u003eAcknowledgements\u003c/h2\u003e\n\n\u003cp\u003eThis work was partially funded by the UK National Institute for Health Research (NIHR) School for Public Health Research, the NIHR Collaboration for Leadership in Applied Health Research and Care of the South West Peninsula (PenCLAHRC) and by Public Health England. However, the views expressed are those of the authors.\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2018-08-07T00:00:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "e85f9a3f-451d-4a3e-9b63-17b13149269f"
+                                                 ],
+                    "first_public_at":  "2018-08-07T00:00:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2018-08-07T00:00:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/evaluation-in-health-and-wellbeing-outcome",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/evaluation-in-health-and-wellbeing-outcome",
+                                                     "base_path":  "/guidance/evaluation-in-health-and-wellbeing-outcome",
+                                                     "content_id":  "36a93837-ff8a-492a-bfc2-e0010f419f6a",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2018-08-06T23:00:00Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Outcome evaluation: evaluation in health and wellbeing",
+                                                     "web_url":  "https://www.gov.uk/guidance/evaluation-in-health-and-wellbeing-outcome",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/evaluation-in-health-and-wellbeing",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/evaluation-in-health-and-wellbeing",
+                                                   "base_path":  "/government/collections/evaluation-in-health-and-wellbeing",
+                                                   "content_id":  "145acb0b-1f3f-4448-b5d1-1100df409401",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/evaluation-in-health-and-wellbeing-outcome",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/evaluation-in-health-and-wellbeing-outcome",
+                                                                                       "base_path":  "/guidance/evaluation-in-health-and-wellbeing-outcome",
+                                                                                       "content_id":  "36a93837-ff8a-492a-bfc2-e0010f419f6a",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2018-08-06T23:00:00Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Outcome evaluation: evaluation in health and wellbeing",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/evaluation-in-health-and-wellbeing-outcome",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2021-09-10T15:09:04Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Evaluation in health and wellbeing",
+                                                   "web_url":  "https://www.gov.uk/government/collections/evaluation-in-health-and-wellbeing",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  true,
+                                                         "ended_on":  null,
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "OT1341",
+                                            "api_path":  "/api/content/government/organisations/office-for-health-improvement-and-disparities",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/office-for-health-improvement-and-disparities",
+                                            "base_path":  "/government/organisations/office-for-health-improvement-and-disparities",
+                                            "content_id":  "e85f9a3f-451d-4a3e-9b63-17b13149269f",
+                                            "details":  {
+                                                            "acronym":  "OHID",
+                                                            "brand":  "department-of-health",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/6155e1378fa8f5297cc029fc/s960_39vs-at-night.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/6155e1378fa8f52985dd7449/s300_39vs-at-night.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Office for Health\u003cbr/\u003eImprovement \u003cbr/\u003e\u0026amp; Disparities"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Office for Health Improvement and Disparities",
+                                            "web_url":  "https://www.gov.uk/government/organisations/office-for-health-improvement-and-disparities",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA480",
+                                                                       "api_path":  "/api/content/government/organisations/public-health-england",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/public-health-england",
+                                                                       "base_path":  "/government/organisations/public-health-england",
+                                                                       "content_id":  "1343f283-19e9-4fbb-86b1-58c7549d874b",
+                                                                       "details":  {
+                                                                                       "acronym":  "PHE",
+                                                                                       "brand":  "department-of-health",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db2de5274a7908e352ef/s960_sign5.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/5a37db2d40f0b649cceb18bf/s300_sign5.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Public Health \u003cbr/\u003eEngland"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "split",
+                                                                                                                         "updated_at":  "2021-10-01T00:00:00.000+01:00",
+                                                                                                                         "url":  "https://www.gov.uk/phe"
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Public Health England",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/public-health-england",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "OT1341",
+                                                              "api_path":  "/api/content/government/organisations/office-for-health-improvement-and-disparities",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/office-for-health-improvement-and-disparities",
+                                                              "base_path":  "/government/organisations/office-for-health-improvement-and-disparities",
+                                                              "content_id":  "e85f9a3f-451d-4a3e-9b63-17b13149269f",
+                                                              "details":  {
+                                                                              "acronym":  "OHID",
+                                                                              "brand":  "department-of-health",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/6155e1378fa8f5297cc029fc/s960_39vs-at-night.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/6155e1378fa8f52985dd7449/s300_39vs-at-night.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Office for Health\u003cbr/\u003eImprovement \u003cbr/\u003e\u0026amp; Disparities"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Office for Health Improvement and Disparities",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/office-for-health-improvement-and-disparities",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/evaluation-in-health-and-wellbeing-economics",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/evaluation-in-health-and-wellbeing-economics",
+                                                              "base_path":  "/guidance/evaluation-in-health-and-wellbeing-economics",
+                                                              "content_id":  "d1438354-ae50-4c72-95f2-e73fdcf727f6",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2018-08-06T23:00:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Economic evaluation: evaluation in health and wellbeing",
+                                                              "web_url":  "https://www.gov.uk/guidance/evaluation-in-health-and-wellbeing-economics",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/evaluation-in-health-and-wellbeing-when-to-evaluate",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/evaluation-in-health-and-wellbeing-when-to-evaluate",
+                                                              "base_path":  "/guidance/evaluation-in-health-and-wellbeing-when-to-evaluate",
+                                                              "content_id":  "8749a0c3-c239-4537-a599-5eccd2008d3e",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2018-08-06T23:00:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "When to evaluate: evaluation in health and wellbeing",
+                                                              "web_url":  "https://www.gov.uk/guidance/evaluation-in-health-and-wellbeing-when-to-evaluate",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/evaluation-in-health-and-wellbeing-creating-a-logic-model",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/evaluation-in-health-and-wellbeing-creating-a-logic-model",
+                                                              "base_path":  "/guidance/evaluation-in-health-and-wellbeing-creating-a-logic-model",
+                                                              "content_id":  "631d1c2d-c8f5-48d3-819b-e762a59554ea",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2018-08-06T23:00:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Creating a logic model for an intervention: evaluation in health and wellbeing",
+                                                              "web_url":  "https://www.gov.uk/guidance/evaluation-in-health-and-wellbeing-creating-a-logic-model",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/evaluation-in-health-and-wellbeing-planning",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/evaluation-in-health-and-wellbeing-planning",
+                                                              "base_path":  "/guidance/evaluation-in-health-and-wellbeing-planning",
+                                                              "content_id":  "f78c0451-e18b-4e5b-b942-a707740b1862",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2018-08-06T23:00:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Planning an evaluation: evaluation in health and wellbeing",
+                                                              "web_url":  "https://www.gov.uk/guidance/evaluation-in-health-and-wellbeing-planning",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/evaluation-in-health-and-wellbeing-process",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/evaluation-in-health-and-wellbeing-process",
+                                                              "base_path":  "/guidance/evaluation-in-health-and-wellbeing-process",
+                                                              "content_id":  "9e85a484-0958-4ba4-aa47-69bd9a635538",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2018-08-06T23:00:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Process evaluation: evaluation in health and wellbeing",
+                                                              "web_url":  "https://www.gov.uk/guidance/evaluation-in-health-and-wellbeing-process",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/health-and-social-care/public-health",
+                                     "api_url":  "https://www.gov.uk/api/content/health-and-social-care/public-health",
+                                     "base_path":  "/health-and-social-care/public-health",
+                                     "content_id":  "d6a4884e-769d-4b81-8ba5-b64394362d92",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Public health",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/health-and-social-care",
+                                                                             "api_url":  "https://www.gov.uk/api/content/health-and-social-care",
+                                                                             "base_path":  "/health-and-social-care",
+                                                                             "content_id":  "8124ead8-8ebc-4faf-88ad-dd5cbcc92ba8",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Health and social care",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:30:51Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Health and social care",
+                                                                             "web_url":  "https://www.gov.uk/health-and-social-care",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-17T15:15:14Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Public health",
+                                     "web_url":  "https://www.gov.uk/health-and-social-care/public-health",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2018-08-07T00:00:00+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1683307064.558-10.13.26.199-403",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Outcome evaluation: evaluation in health and wellbeing",
+    "updated_at":  "2024-07-04T14:56:52+01:00",
+    "withdrawn_notice":  {
+
+                         }
+}

@@ -1,0 +1,1007 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/dus-protocols-for-testing-plant-varieties",
+    "content_id":  "5402dc0c-3fad-44ce-a8d9-8ed469e11b99",
+    "description":  "Protocols and procedures for testing the distinctiveness, uniformity and stability (DUS) of certain agricultural and vegetable plants.",
+    "details":  {
+                    "attachments":  [
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  377964,
+                                            "filename":  "Barley_DUS_Protocol_2024.pdf",
+                                            "id":  "8367443",
+                                            "number_of_pages":  32,
+                                            "title":  "Barley ",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/67348a502469c5b71dbc7a39/Barley_DUS_Protocol_2024.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  354228,
+                                            "filename":  "Broad_Bean_DUS_Protocol_2022.pdf",
+                                            "id":  "8367444",
+                                            "number_of_pages":  35,
+                                            "title":  "Broad bean",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/63a1c0f18fa8f5391dd96e59/Broad_Bean_DUS_Protocol_2022.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  355652,
+                                            "filename":  "Beetroot_DUS_Protocol_2022.pdf",
+                                            "id":  "8367445",
+                                            "number_of_pages":  40,
+                                            "title":  "Beetroot",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/63a1c0e5d3bf7f3762ed5464/Beetroot_DUS_Protocol_2022.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  339477,
+                                            "filename":  "Broccoli_DUS_Protocol_2022.pdf",
+                                            "id":  "8367446",
+                                            "number_of_pages":  35,
+                                            "title":  "Broccoli",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/63a1c103d3bf7f37573a1c60/Broccoli_DUS_Protocol_2022.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  276776,
+                                            "filename":  "dus-protocol-cabbage.pdf",
+                                            "id":  "8367447",
+                                            "number_of_pages":  24,
+                                            "title":  "Cabbage",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5b852988e5274a4a624ea8b7/dus-protocol-cabbage.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  366799,
+                                            "filename":  "Carrot_DUS_Protocol_2022.pdf",
+                                            "id":  "8367448",
+                                            "number_of_pages":  35,
+                                            "title":  "Carrot",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/63a1c124e90e075870e2cee0/Carrot_DUS_Protocol_2022.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  342583,
+                                            "filename":  "Celery_DUS_Protocol_2022.pdf",
+                                            "id":  "8367449",
+                                            "number_of_pages":  33,
+                                            "title":  "Celery",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/63a1c12f8fa8f5391dd96e5a/Celery_DUS_Protocol_2022.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  308579,
+                                            "filename":  "Festulolium_DUS_Protocol_2022.pdf",
+                                            "id":  "8367450",
+                                            "number_of_pages":  30,
+                                            "title":  "Festulolium",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/63a1c14ee90e07587364f685/Festulolium_DUS_Protocol_2022.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  317158,
+                                            "filename":  "Field_Beans_DUS_Protocol_2024.pdf",
+                                            "id":  "8367451",
+                                            "number_of_pages":  29,
+                                            "title":  "Field beans",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/67348a7437aabe56c4161042/Field_Beans_DUS_Protocol_2024.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  547539,
+                                            "filename":  "Field_Pea_and_Pea_DUS_Protocol_2024.pdf",
+                                            "id":  "8367452",
+                                            "number_of_pages":  50,
+                                            "title":  "Field pea and pea",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/672e10924f7608e424ffdaaa/Field_Pea_and_Pea_DUS_Protocol_2024.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  351826,
+                                            "filename":  "Fodder_Kale_DUS_Protocol_2022.pdf",
+                                            "id":  "8367453",
+                                            "number_of_pages":  28,
+                                            "title":  "Fodder kale",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/63a1c19fd3bf7f375f7c4379/Fodder_Kale_DUS_Protocol_2022.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  291241,
+                                            "filename":  "Curly_Kale_and_Napus_Kale_2022.pdf",
+                                            "id":  "8367454",
+                                            "number_of_pages":  30,
+                                            "title":  "Curly kale",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/63a1c140d3bf7f375c7d82fe/Curly_Kale_and_Napus_Kale_2022.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  356646,
+                                            "filename":  "Leek_DUS_Protocol_2022.pdf",
+                                            "id":  "8367455",
+                                            "number_of_pages":  29,
+                                            "title":  "Leek",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/63a1c224e90e07586f0a421c/Leek_DUS_Protocol_2022.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  375887,
+                                            "filename":  "Oats_DUS_Protocol_2024.pdf",
+                                            "id":  "8367456",
+                                            "number_of_pages":  33,
+                                            "title":  "Oats",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/67348a5db613efc3f1823001/Oats_DUS_Protocol_2024.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  341832,
+                                            "filename":  "Onion_and_Echalion_DUS_Protocol_2022.pdf",
+                                            "id":  "8367457",
+                                            "number_of_pages":  35,
+                                            "title":  "Onion and echalion",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/63a1c2408fa8f539198d9bbf/Onion_and_Echalion_DUS_Protocol_2022.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  348161,
+                                            "filename":  "Parsnip_DUS_Protocol_2022.pdf",
+                                            "id":  "8367458",
+                                            "number_of_pages":  32,
+                                            "title":  "Parsnip",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/63a1c2848fa8f53913e80703/Parsnip_DUS_Protocol_2022.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1075776,
+                                            "filename":  "Potato_DUS_Protocol_2022.pdf",
+                                            "id":  "8367459",
+                                            "number_of_pages":  44,
+                                            "title":  "Potato",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/63a1c292d3bf7f376474f836/Potato_DUS_Protocol_2022.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  388969,
+                                            "filename":  "Radish_DUS_Protocol_2022.pdf",
+                                            "id":  "8367460",
+                                            "number_of_pages":  27,
+                                            "title":  "Radish",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/63a1c2edd3bf7f3763457f43/Radish_DUS_Protocol_2022.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  312832,
+                                            "filename":  "Oilseed_Rape_and_Fodder_Rape_DUS_Protocol_2024.pdf",
+                                            "id":  "8367461",
+                                            "number_of_pages":  29,
+                                            "title":  "Oilseed rape and fodder rape",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/66d98bed561701fa1c214e64/Oilseed_Rape_and_Fodder_Rape_DUS_Protocol_2024.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  260945,
+                                            "filename":  "dus-protocol-rose.pdf",
+                                            "id":  "8367462",
+                                            "number_of_pages":  32,
+                                            "title":  "Rose",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5a809131ed915d74e622f326/dus-protocol-rose.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  357717,
+                                            "filename":  "Runner_Bean_DUS_Protocol_2022.pdf",
+                                            "id":  "8367463",
+                                            "number_of_pages":  33,
+                                            "title":  "Runner bean",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/63a1c306d3bf7f37618b5c9d/Runner_Bean_DUS_Protocol_2022.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  438782,
+                                            "filename":  "Hybrid_Ryegrass_DUS_Protocol_2022.pdf",
+                                            "id":  "8367464",
+                                            "number_of_pages":  27,
+                                            "title":  "Hybrid ryegrass ",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/63a1c1cfd3bf7f3763457f42/Hybrid_Ryegrass_DUS_Protocol_2022.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  335803,
+                                            "filename":  "Italian_Ryegrass_DUS_Protocol_2022.pdf",
+                                            "id":  "8367465",
+                                            "number_of_pages":  29,
+                                            "title":  "Italian ryegrass",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/63a1c211d3bf7f375f7c437a/Italian_Ryegrass_DUS_Protocol_2022.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  766743,
+                                            "filename":  "Perennial_Ryegrass_DUS_Protocol_2022.pdf",
+                                            "id":  "8367466",
+                                            "number_of_pages":  38,
+                                            "title":  "Perennial ryegrass ",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/63a1c2c48fa8f5391a4ed4bc/Perennial_Ryegrass_DUS_Protocol_2022.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  336611,
+                                            "filename":  "Brussels_sprout_DUS_Protocol_2022.pdf",
+                                            "id":  "8367467",
+                                            "number_of_pages":  36,
+                                            "title":  "Brussels sprout",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/63a1c111d3bf7f3762ed5465/Brussels_sprout_DUS_Protocol_2022.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  362517,
+                                            "filename":  "Shallot_DUS_Protocol_2022.pdf",
+                                            "id":  "8367468",
+                                            "number_of_pages":  38,
+                                            "title":  "Shallot",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/63a1c31ce90e07587cde1dc3/Shallot_DUS_Protocol_2022.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  318887,
+                                            "filename":  "Sugar_Beet_DUS_Protocol.pdf",
+                                            "id":  "8367469",
+                                            "number_of_pages":  28,
+                                            "title":  "Sugar beet",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/675c642998302e574b915390/Sugar_Beet_DUS_Protocol.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  371679,
+                                            "filename":  "Swede_DUS_Protocol_2024.pdf",
+                                            "id":  "8367470",
+                                            "number_of_pages":  37,
+                                            "title":  "Swede",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/672e10abcc61d0a714ffdab5/Swede_DUS_Protocol_2024.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  440911,
+                                            "filename":  "Turnip_Rape_DUS_Protocol_2024.pdf",
+                                            "id":  "8367471",
+                                            "number_of_pages":  45,
+                                            "title":  "Turnip rape",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/672e10bc4f7608e424ffdaab/Turnip_Rape_DUS_Protocol_2024.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  360696,
+                                            "filename":  "Watercress_DUS_Protocol_2022.pdf",
+                                            "id":  "8367472",
+                                            "number_of_pages":  34,
+                                            "title":  "Watercress",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/63a1c35be90e07586e7642ad/Watercress_DUS_Protocol_2022.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  304012,
+                                            "filename":  "Wheat_DUS_Protocol_2022.pdf",
+                                            "id":  "8367473",
+                                            "number_of_pages":  29,
+                                            "title":  "Wheat",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/63a1c3778fa8f53911cfcd1b/Wheat_DUS_Protocol_2022.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  309565,
+                                            "filename":  "White_Clover_DUS_Protocol_2022.pdf",
+                                            "id":  "8367474",
+                                            "number_of_pages":  33,
+                                            "title":  "White clover",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/63a1c385d3bf7f3762ed5468/White_Clover_DUS_Protocol_2022.pdf"
+                                        },
+                                        {
+                                            "accessible":  true,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  251840,
+                                            "filename":  "notce-transposition-2019-1985-EU.pdf",
+                                            "id":  "8367475",
+                                            "number_of_pages":  5,
+                                            "title":  "notice announcing the implementation",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/5ecfbee786650c76a7c9aeb1/notce-transposition-2019-1985-EU.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  1065313,
+                                            "filename":  "Potato-DUS-Protocol-2022.pdf",
+                                            "id":  "8367476",
+                                            "number_of_pages":  44,
+                                            "title":  "Potato",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/65ce33df0f4eb1001aa9810e/Potato-DUS-Protocol-2022.pdf"
+                                        },
+                                        {
+                                            "accessible":  false,
+                                            "alternative_format_contact_email":  "contentteam@defra.gov.uk",
+                                            "attachment_type":  "file",
+                                            "content_type":  "application/pdf",
+                                            "file_size":  470273,
+                                            "filename":  "Turnip_DUS_Protocol_2024.pdf",
+                                            "id":  "8367477",
+                                            "number_of_pages":  40,
+                                            "title":  "Turnip",
+                                            "url":  "https://assets.publishing.service.gov.uk/media/672e10cd4f7608e424ffdaac/Turnip_DUS_Protocol_2024.pdf"
+                                        }
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eIf you have a new plant variety, it must be tested to make sure it is distinct, sufficiently uniform and stable (\u003cabbr title=\"distinct, unique, stable\"\u003eDUS\u003c/abbr\u003e) as part of the application process to:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/national-lists-of-agricultural-and-vegetable-crops\" class=\"govuk-link\"\u003eadd a plant variety to the UK national lists\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003eget intellectual property rights (known as \u003ca href=\"https://www.gov.uk/guidance/plant-breeders-rights\" class=\"govuk-link\"\u003eplant breeders’ rights (\u003cabbr title=\"plant breeders\u0027 rights\"\u003ePBR\u003c/abbr\u003e)\u003c/a\u003e)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"dus-criteria\"\u003e\n\u003cabbr title=\"distinct, unique, stable\"\u003eDUS\u003c/abbr\u003e criteria\u003c/h2\u003e\n\u003cp\u003e\u003cabbr title=\"distinct, unique, stable\"\u003eDUS\u003c/abbr\u003e testing checks your new plant variety is distinct, uniform and stable.\u003c/p\u003e\n\n\u003ch3 id=\"distinct\"\u003eDistinct\u003c/h3\u003e\n\u003cp\u003eA distinct plant variety has at least one important characteristic that is different from other varieties included in the national list.\u003c/p\u003e\n\n\u003ch3 id=\"uniform\"\u003eUniform\u003c/h3\u003e\n\u003cp\u003eA uniform plant variety has individual plants that share the same important characteristics.\u003c/p\u003e\n\n\u003ch3 id=\"stable\"\u003eStable\u003c/h3\u003e\n\u003cp\u003eA stable plant variety remains unchanged after ‘repeated propagation’, for example, reproduction from seeds, cuttings, bulbs or other plant parts.\u003c/p\u003e\n\n\u003ch2 id=\"get-your-variety-tested\"\u003eGet your variety tested\u003c/h2\u003e\n\n\u003cp\u003e\u003cabbr title=\"Animal and Plant Health Agency\"\u003eAPHA\u003c/abbr\u003e will ask you to send your seed or plant material for testing as part of your application to add your variety to the national lists or for \u003cabbr title=\"plant breeders\u0027 rights\"\u003ePBR\u003c/abbr\u003e. They’ll tell you how much to send and when.\u003c/p\u003e\n\n\u003cp\u003eDo not send plant material until \u003cabbr title=\"Animal and Plant Health Agency\"\u003eAPHA\u003c/abbr\u003e requests it.\u003c/p\u003e\n\n\u003cp\u003eTesting takes:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e1 to 3 years for ornamentals depending on species\u003c/li\u003e\n  \u003cli\u003e3 years for trees\u003c/li\u003e\n  \u003cli\u003e4 years for herbage varieties\u003c/li\u003e\n  \u003cli\u003e2 years for other species\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYour variety might need more tests on parental species if you’re registering hybrid varieties.\u003c/p\u003e\n\n\u003cp\u003e\u003cabbr title=\"Animal and Plant Health Agency\"\u003eAPHA\u003c/abbr\u003e will send you a copy of the test results.\u003c/p\u003e\n\n\u003ch2 id=\"dus-protocols\"\u003e\n\u003cabbr title=\"distinct, unique, stable\"\u003eDUS\u003c/abbr\u003e protocols\u003c/h2\u003e\n\n\u003cp\u003eRead the \u003cabbr title=\"distinct, unique, stable\"\u003eDUS\u003c/abbr\u003e protocols for:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/67348a502469c5b71dbc7a39/Barley_DUS_Protocol_2024.pdf\"\u003eBarley \u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e369 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e32 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/63a1c14ee90e07587364f685/Festulolium_DUS_Protocol_2022.pdf\"\u003eFestulolium\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e301 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e30 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/67348a7437aabe56c4161042/Field_Beans_DUS_Protocol_2024.pdf\"\u003eField beans\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e310 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e29 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/672e10924f7608e424ffdaaa/Field_Pea_and_Pea_DUS_Protocol_2024.pdf\"\u003eField pea and pea\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e535 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e50 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/63a1c19fd3bf7f375f7c4379/Fodder_Kale_DUS_Protocol_2022.pdf\"\u003eFodder kale\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e344 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e28 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/63a1c1cfd3bf7f3763457f42/Hybrid_Ryegrass_DUS_Protocol_2022.pdf\"\u003eHybrid ryegrass \u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e428 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e27 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/63a1c211d3bf7f375f7c437a/Italian_Ryegrass_DUS_Protocol_2022.pdf\"\u003eItalian ryegrass\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e328 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e29 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/67348a5db613efc3f1823001/Oats_DUS_Protocol_2024.pdf\"\u003eOats\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e367 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e33 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/66d98bed561701fa1c214e64/Oilseed_Rape_and_Fodder_Rape_DUS_Protocol_2024.pdf\"\u003eOilseed rape and fodder rape\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e306 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e29 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/63a1c2c48fa8f5391a4ed4bc/Perennial_Ryegrass_DUS_Protocol_2022.pdf\"\u003ePerennial ryegrass \u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e749 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e38 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/65ce33df0f4eb1001aa9810e/Potato-DUS-Protocol-2022.pdf\"\u003ePotato\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e1.02 MB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e44 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/675c642998302e574b915390/Sugar_Beet_DUS_Protocol.pdf\"\u003eSugar beet\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e311 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e28 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/672e10abcc61d0a714ffdab5/Swede_DUS_Protocol_2024.pdf\"\u003eSwede\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e363 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e37 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/672e10cd4f7608e424ffdaac/Turnip_DUS_Protocol_2024.pdf\"\u003eTurnip\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e459 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e40 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/672e10bc4f7608e424ffdaab/Turnip_Rape_DUS_Protocol_2024.pdf\"\u003eTurnip rape\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e431 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e45 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/63a1c3778fa8f53911cfcd1b/Wheat_DUS_Protocol_2022.pdf\"\u003eWheat\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e297 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e29 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cspan class=\"gem-c-attachment-link\"\u003e\n  \u003ca class=\"govuk-link\" href=\"https://assets.publishing.service.gov.uk/media/63a1c385d3bf7f3762ed5468/White_Clover_DUS_Protocol_2022.pdf\"\u003eWhite clover\u003c/a\u003e  (\u003cspan class=\"gem-c-attachment-link__attribute\"\u003e\u003cabbr title=\"Portable Document Format\" class=\"gem-c-attachment-link__abbr\"\u003ePDF\u003c/abbr\u003e\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e302 KB\u003c/span\u003e, \u003cspan class=\"gem-c-attachment-link__attribute\"\u003e33 pages\u003c/span\u003e)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"dus-reports-in-the-eu-and-uk\"\u003e\n\u003cabbr title=\"distinct, unique, stable\"\u003eDUS\u003c/abbr\u003e reports in the EU and UK\u003c/h2\u003e\n\n\u003cp\u003eThe EU stopped accepting UK \u003cabbr title=\"distinct, unique, stable\"\u003eDUS\u003c/abbr\u003e reports from 1 January 2021.\u003c/p\u003e\n\n\u003cp\u003eThe UK is reliant on EU testing for a large number of species where the UK does not have \u003cabbr title=\"distinct, unique, stable\"\u003eDUS\u003c/abbr\u003e testing capability. The UK will accept EU reports for these species, if the testing done for the report is of comparable quality to UK testing.\u003c/p\u003e\n\n\u003cp\u003eThe UK will accept EU \u003cabbr title=\"distinct, unique, stable\"\u003eDUS\u003c/abbr\u003e test reports for the following species the UK does have testing capability for:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eagricultural\u003c/li\u003e\n  \u003cli\u003eamenity\u003c/li\u003e\n  \u003cli\u003evegetable\u003c/li\u003e\n  \u003cli\u003eornamental\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eEU testing must have started before 31 January 2020 for the UK to accept an EU \u003cabbr title=\"distinct, unique, stable\"\u003eDUS\u003c/abbr\u003e test report.\u003c/p\u003e\n\n\u003cp\u003eFor all other species where the UK has testing capability, you need to get a UK \u003cabbr title=\"distinct, unique, stable\"\u003eDUS\u003c/abbr\u003e test as part of your national list or plant breeders’ rights applications.\u003c/p\u003e\n\n\u003ch2 id=\"dus-testing-capability-in-the-uk\"\u003e\n\u003cabbr title=\"distinct, unique, stable\"\u003eDUS\u003c/abbr\u003e testing capability in the UK\u003c/h2\u003e\n\u003cp\u003e\u003cabbr title=\"distinct, unique, stable\"\u003eDUS\u003c/abbr\u003e tests take place at approved centres over a 2-year period. You’ll get first year results and a final decision is generally made after the second year. Grasses can take up to 4 years to be tested.\u003c/p\u003e\n\n\u003cp\u003eThere are 3 test centres for \u003cabbr title=\"distinct, unique, stable\"\u003eDUS\u003c/abbr\u003e testing of agricultural and vegetable varieties in the UK:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe Agri-Food and Biosciences Institute (AFBI)\u003c/li\u003e\n  \u003cli\u003ethe National Institute of Agricultural Botany (NIAB)\u003c/li\u003e\n  \u003cli\u003eSASA\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou can read the \u003ca href=\"https://www.gov.uk/government/publications/dus-testing-lists-for-agricultural-vegetable-and-ornamental-plants\" class=\"govuk-link\"\u003elist of agricultural, vegetable and ornamental plant varieties that the UK tests for distinctiveness, uniformity and stability (\u003cabbr title=\"distinct, unique, stable\"\u003eDUS\u003c/abbr\u003e)\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eThe UK does not have \u003cabbr title=\"distinct, unique, stable\"\u003eDUS\u003c/abbr\u003e testing capability for all the vegetable varieties listed. For the varieties that the UK does not have \u003cabbr title=\"distinct, unique, stable\"\u003eDUS\u003c/abbr\u003e testing capability for, the UK will do one of the following:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003epurchase the \u003cabbr title=\"distinct, unique, stable\"\u003eDUS\u003c/abbr\u003e report\u003c/li\u003e\n  \u003cli\u003eentrust another examination office to carry out the \u003cabbr title=\"distinct, unique, stable\"\u003eDUS\u003c/abbr\u003e testing on behalf of the UK\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eApplications for vegetable varieties that the UK does not have \u003cabbr title=\"distinct, unique, stable\"\u003eDUS\u003c/abbr\u003e testing capability for can be received all year round. However the closing date for receipt of plant material is at the discretion of the examination office.\u003c/p\u003e\n\n\u003ch2 id=\"uk-dus-report-requests\"\u003eUK \u003cabbr title=\"distinct, unique, stable\"\u003eDUS\u003c/abbr\u003e report requests\u003c/h2\u003e\n\n\u003cp\u003eIf you apply for \u003cabbr title=\"plant breeders\u0027 rights\"\u003ePBR\u003c/abbr\u003e or a national listing in another country, the country you apply to will need a copy of your UK \u003cabbr title=\"distinct, unique, stable\"\u003eDUS\u003c/abbr\u003e test report.\u003c/p\u003e\n\n\u003cp\u003eThe national dedicated authority (\u003cabbr title=\"national dedicated authority\"\u003eNDA\u003c/abbr\u003e) of that country will request a copy of your test report from \u003cabbr title=\"Animal and Plant Health Agency\"\u003eAPHA\u003c/abbr\u003e. \u003cabbr title=\"Animal and Plant Health Agency\"\u003eAPHA\u003c/abbr\u003e will email a copy of your report to the \u003cabbr title=\"national dedicated authority\"\u003eNDA\u003c/abbr\u003e.\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Updated the sugar beet protocol.",
+                                               "public_timestamp":  "2024-12-13T17:10:40.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Added 2024 DUS protocols for barley, field beans, field pea and peas, oats, swede, turnip, and turnip rape.",
+                                               "public_timestamp":  "2024-11-13T11:37:49.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated the DUS protocol for oilseed rape and fodder rape. ",
+                                               "public_timestamp":  "2024-09-05T16:04:57.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Replaced DUS for sugar beet.",
+                                               "public_timestamp":  "2024-08-19T16:44:22.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Turnip DUS protocol replaced with correct version.",
+                                               "public_timestamp":  "2024-04-25T15:53:34.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated the Turnip DUS protocol.",
+                                               "public_timestamp":  "2024-03-13T16:18:20.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Added 2022 DUS protocol for potato.",
+                                               "public_timestamp":  "2024-02-15T16:09:08.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated the DUS variety testing time to 1 to 3 years for ornamentals depending on species.",
+                                               "public_timestamp":  "2023-12-05T14:42:52.000+00:00"
+                                           },
+                                           {
+                                               "note":  "The UK will accept EU DUS test reports for ornamental species that the UK has testing capability for.",
+                                               "public_timestamp":  "2023-12-01T10:41:29.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Removed DUS protocols for beetroot, broad bean, broccoli, brussels sprout, cabbage, carrot, celery, curly kale, leek, onion and echalion, parsnip, potato, radish, rose, runner bean, shallot, watercress. ",
+                                               "public_timestamp":  "2023-11-01T08:32:38.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Removed the 2023 DUS protocol for sugar beet and replaced with previous version. The 2023 DUS protocol for Sugar Beet is under review.",
+                                               "public_timestamp":  "2023-10-05T10:53:03.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added sugar beet DUS protocols for 2023.",
+                                               "public_timestamp":  "2023-09-13T11:27:44.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Added DUS protocols for barley, beetroot, broad bean, broccoli, Brussels sprout, cabbage, carrot, celery, curly kale, festulolium, field beans, field pea and pea, fodder kale, hybrid ryegrass, Italian ryegrass, leek, oats, oilseed rape and fodder rape, onion and echalion, parsnip, perennial ryegrass, potato, runner bean, radish, rose, shallot, sugar beet, swede, turnip, turnip rape, watercress, wheat, white clover.",
+                                               "public_timestamp":  "2022-12-20T15:49:16.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Added a new section on UK DUS report requests",
+                                               "public_timestamp":  "2022-08-19T14:34:28.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Removed information on the EU Directive as this is not directly applicable to DUS testing in the UK.",
+                                               "public_timestamp":  "2021-09-30T17:26:44.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Removed DUS forms and added option to email for a copy of the DUS protocol for some species. ",
+                                               "public_timestamp":  "2020-12-31T23:00:08.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated DUS protocols - barley, field beans, ryegrass hybrid, ryegrass Italian, ryegrass perennial and wheat.",
+                                               "public_timestamp":  "2020-05-28T14:49:51.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated EU Directive section.",
+                                               "public_timestamp":  "2020-05-28T11:09:28.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated DUS protocols for potato",
+                                               "public_timestamp":  "2020-02-25T07:16:11.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Oilseed rape and fodder rape protocol updated",
+                                               "public_timestamp":  "2019-07-31T09:53:08.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Notice announcing the implementation updated",
+                                               "public_timestamp":  "2018-08-31T14:07:36.000+01:00"
+                                           },
+                                           {
+                                               "note":  "DUS protocol for potatoes updated",
+                                               "public_timestamp":  "2018-08-31T10:04:08.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Broccoli, Brussels sprout, Cabbage and Field pea and pea DUS protocols updated.",
+                                               "public_timestamp":  "2018-08-28T12:20:29.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Sugar beet protocol updated",
+                                               "public_timestamp":  "2017-09-20T14:04:00.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Oats DUS protocol updated",
+                                               "public_timestamp":  "2017-08-04T10:55:22.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Notice announcing the implementation of 2016/1914/EU published",
+                                               "public_timestamp":  "2017-06-30T13:41:43.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Notice announcing the implementation of EU Directive 2016/1914/EU published",
+                                               "public_timestamp":  "2017-06-30T11:42:15.000+01:00"
+                                           },
+                                           {
+                                               "note":  "DUS protocols for \u0027oats\u0027 and \u0027oilseed rape and fodder rape\u0027 updated",
+                                               "public_timestamp":  "2017-06-30T11:17:01.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated DUS protocol - field beans",
+                                               "public_timestamp":  "2017-05-04T11:01:59.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Field beans DUS protocol updated",
+                                               "public_timestamp":  "2016-06-09T12:08:54.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Notice announcing the implementation of EU Directive 2015/1168/EU published.",
+                                               "public_timestamp":  "2016-05-06T10:30:01.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Sugar beet protocol updated",
+                                               "public_timestamp":  "2016-04-19T15:43:19.000+01:00"
+                                           },
+                                           {
+                                               "note":  "DUS protocols - peas, radish, rape and swede updated",
+                                               "public_timestamp":  "2016-04-14T11:43:49.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Notice announcing the implementation of EU Directive 2014/105/EU published.",
+                                               "public_timestamp":  "2015-06-08T10:50:33.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2014-06-16T00:00:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "4ad67f14-6f9c-4fa4-80ab-687b6d81ea6f"
+                                                 ],
+                    "first_public_at":  "2014-06-16T00:00:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2014-06-16T00:00:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/dus-protocols-for-testing-plant-varieties",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/dus-protocols-for-testing-plant-varieties",
+                                                     "base_path":  "/guidance/dus-protocols-for-testing-plant-varieties",
+                                                     "content_id":  "5402dc0c-3fad-44ce-a8d9-8ed469e11b99",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2024-12-13T17:10:40Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "DUS protocols for testing plant varieties",
+                                                     "web_url":  "https://www.gov.uk/guidance/dus-protocols-for-testing-plant-varieties",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/guides-and-forms-for-plant-varieties-and-seeds-applications",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/guides-and-forms-for-plant-varieties-and-seeds-applications",
+                                                   "base_path":  "/government/collections/guides-and-forms-for-plant-varieties-and-seeds-applications",
+                                                   "content_id":  "957dabc9-3a77-4ffa-b8a9-cf6322ed214e",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/dus-protocols-for-testing-plant-varieties",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/dus-protocols-for-testing-plant-varieties",
+                                                                                       "base_path":  "/guidance/dus-protocols-for-testing-plant-varieties",
+                                                                                       "content_id":  "5402dc0c-3fad-44ce-a8d9-8ed469e11b99",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2024-12-13T17:10:40Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "DUS protocols for testing plant varieties",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/dus-protocols-for-testing-plant-varieties",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2021-03-24T08:54:17Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Guides and forms for plant varieties and seeds applications",
+                                                   "web_url":  "https://www.gov.uk/government/collections/guides-and-forms-for-plant-varieties-and-seeds-applications",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "base_path":  "/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "content_id":  "591c83aa-3b74-437d-a342-612bddd97572",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2015-05-08T00:00:00+00:00",
+                                                         "started_on":  "2010-05-12T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2010 to 2015 Conservative and Liberal Democrat coalition government",
+                                         "web_url":  "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government"
+                                     }
+                                 ],
+                  "lead_organisations":  [
+                                             {
+                                                 "analytics_identifier":  "EA1079",
+                                                 "api_path":  "/api/content/government/organisations/animal-and-plant-health-agency",
+                                                 "api_url":  "https://www.gov.uk/api/content/government/organisations/animal-and-plant-health-agency",
+                                                 "base_path":  "/government/organisations/animal-and-plant-health-agency",
+                                                 "content_id":  "4ad67f14-6f9c-4fa4-80ab-687b6d81ea6f",
+                                                 "details":  {
+                                                                 "acronym":  "APHA",
+                                                                 "brand":  "department-for-environment-food-rural-affairs",
+                                                                 "default_news_image":  null,
+                                                                 "logo":  {
+                                                                              "crest":  "single-identity",
+                                                                              "formatted_title":  "Animal \u0026amp;\u003cbr/\u003ePlant Health\u003cbr/\u003eAgency"
+                                                                          },
+                                                                 "organisation_govuk_status":  {
+                                                                                                   "status":  "live",
+                                                                                                   "updated_at":  null,
+                                                                                                   "url":  null
+                                                                                               }
+                                                             },
+                                                 "document_type":  "organisation",
+                                                 "links":  {
+
+                                                           },
+                                                 "locale":  "en",
+                                                 "schema_name":  "organisation",
+                                                 "title":  "Animal and Plant Health Agency",
+                                                 "web_url":  "https://www.gov.uk/government/organisations/animal-and-plant-health-agency",
+                                                 "withdrawn":  false
+                                             }
+                                         ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "EA1079",
+                                            "api_path":  "/api/content/government/organisations/animal-and-plant-health-agency",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/animal-and-plant-health-agency",
+                                            "base_path":  "/government/organisations/animal-and-plant-health-agency",
+                                            "content_id":  "4ad67f14-6f9c-4fa4-80ab-687b6d81ea6f",
+                                            "details":  {
+                                                            "acronym":  "APHA",
+                                                            "brand":  "department-for-environment-food-rural-affairs",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Animal \u0026amp;\u003cbr/\u003ePlant Health\u003cbr/\u003eAgency"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Animal and Plant Health Agency",
+                                            "web_url":  "https://www.gov.uk/government/organisations/animal-and-plant-health-agency",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA1079",
+                                                                       "api_path":  "/api/content/government/organisations/animal-and-plant-health-agency",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/animal-and-plant-health-agency",
+                                                                       "base_path":  "/government/organisations/animal-and-plant-health-agency",
+                                                                       "content_id":  "4ad67f14-6f9c-4fa4-80ab-687b6d81ea6f",
+                                                                       "details":  {
+                                                                                       "acronym":  "APHA",
+                                                                                       "brand":  "department-for-environment-food-rural-affairs",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Animal \u0026amp;\u003cbr/\u003ePlant Health\u003cbr/\u003eAgency"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Animal and Plant Health Agency",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/animal-and-plant-health-agency",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "EA1079",
+                                                              "api_path":  "/api/content/government/organisations/animal-and-plant-health-agency",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/animal-and-plant-health-agency",
+                                                              "base_path":  "/government/organisations/animal-and-plant-health-agency",
+                                                              "content_id":  "4ad67f14-6f9c-4fa4-80ab-687b6d81ea6f",
+                                                              "details":  {
+                                                                              "acronym":  "APHA",
+                                                                              "brand":  "department-for-environment-food-rural-affairs",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Animal \u0026amp;\u003cbr/\u003ePlant Health\u003cbr/\u003eAgency"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Animal and Plant Health Agency",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/animal-and-plant-health-agency",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/national-lists-of-agricultural-and-vegetable-crops",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/national-lists-of-agricultural-and-vegetable-crops",
+                                                              "base_path":  "/guidance/national-lists-of-agricultural-and-vegetable-crops",
+                                                              "content_id":  "5c72162a-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-10-22T11:31:54Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Add a new plant variety to the national lists",
+                                                              "web_url":  "https://www.gov.uk/guidance/national-lists-of-agricultural-and-vegetable-crops",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/plant-breeders-rights",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/plant-breeders-rights",
+                                                              "base_path":  "/guidance/plant-breeders-rights",
+                                                              "content_id":  "5c72169c-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-10-22T11:32:35Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Get plant breeders’ rights for your new variety",
+                                                              "web_url":  "https://www.gov.uk/guidance/plant-breeders-rights",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/dus-testing-lists-for-agricultural-vegetable-and-ornamental-plants",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/dus-testing-lists-for-agricultural-vegetable-and-ornamental-plants",
+                                                              "base_path":  "/government/publications/dus-testing-lists-for-agricultural-vegetable-and-ornamental-plants",
+                                                              "content_id":  "ac5df822-0c7e-4cf5-a9fd-5a77cbe06bd8",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-03-11T15:51:18Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "DUS testing lists for agricultural, vegetable and ornamental plants",
+                                                              "web_url":  "https://www.gov.uk/government/publications/dus-testing-lists-for-agricultural-vegetable-and-ornamental-plants",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/fees-for-national-listing-and-plant-breeders-rights",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/fees-for-national-listing-and-plant-breeders-rights",
+                                                              "base_path":  "/guidance/fees-for-national-listing-and-plant-breeders-rights",
+                                                              "content_id":  "fe9c3bb1-773d-4577-96a0-21bba5268856",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-09-03T15:29:53Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Fees for national listing and plant breeders’ rights",
+                                                              "web_url":  "https://www.gov.uk/guidance/fees-for-national-listing-and-plant-breeders-rights",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/environment/producing-distributing-food-crops-horticulture",
+                                     "api_url":  "https://www.gov.uk/api/content/environment/producing-distributing-food-crops-horticulture",
+                                     "base_path":  "/environment/producing-distributing-food-crops-horticulture",
+                                     "content_id":  "52872ecc-6996-4af0-9fae-6897e6a1d86c",
+                                     "details":  {
+                                                     "internal_name":  "Crops and horticulture  [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/environment/producing-distributing-food",
+                                                                             "api_url":  "https://www.gov.uk/api/content/environment/producing-distributing-food",
+                                                                             "base_path":  "/environment/producing-distributing-food",
+                                                                             "content_id":  "a937271d-25d1-4ebc-a2dd-eb94947c2122",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Producing and distributing food [T] (level 3, environment theme)",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/environment/food-and-farming",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/environment/food-and-farming",
+                                                                                                                     "base_path":  "/environment/food-and-farming",
+                                                                                                                     "content_id":  "52ff5c99-a17b-42c4-a9d7-2cc92cccca39",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Food and farming",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  false
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "parent_taxons":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T11:59:10Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Food and farming",
+                                                                                                                     "web_url":  "https://www.gov.uk/environment/food-and-farming",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-05T16:13:09Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Producing and distributing food",
+                                                                             "web_url":  "https://www.gov.uk/environment/producing-distributing-food",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-05T16:13:10Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Crops and horticulture ",
+                                     "web_url":  "https://www.gov.uk/environment/producing-distributing-food-crops-horticulture",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/government/brexit",
+                                     "api_url":  "https://www.gov.uk/api/content/government/brexit",
+                                     "base_path":  "/government/brexit",
+                                     "content_id":  "d6c2de5d-ef90-45d1-82d4-5f2438369eea",
+                                     "description":  "Find out how new Brexit rules apply to things like travel and doing business with Europe.",
+                                     "details":  {
+                                                     "internal_name":  "Brexit",
+                                                     "notes_for_editors":  "",
+                                                     "url_override":  "/government/collections/brexit-guidance",
+                                                     "visible_to_departmental_editors":  true
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/all",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/all",
+                                                                             "base_path":  "/government/all",
+                                                                             "content_id":  "e48ab80a-de80-4e83-bf59-26316856a5f9",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Government",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:29:39Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Government",
+                                                                             "web_url":  "https://www.gov.uk/government/all",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2024-11-14T17:47:34Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Brexit",
+                                     "web_url":  "https://www.gov.uk/government/brexit",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2024-12-13T17:10:40+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1734109840.274-10.13.20.22-2775",
+    "publishing_scheduled_at":  "2020-12-31T23:00:00+00:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  12,
+    "schema_name":  "detailed_guide",
+    "title":  "DUS protocols for testing plant varieties",
+    "updated_at":  "2024-12-13T17:10:40+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

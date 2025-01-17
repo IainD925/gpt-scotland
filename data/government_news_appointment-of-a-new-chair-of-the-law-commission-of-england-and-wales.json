@@ -1,0 +1,283 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/government/news/appointment-of-a-new-chair-of-the-law-commission-of-england-and-wales",
+    "content_id":  "f05500a3-189f-4695-bacd-c38e10af65d9",
+    "description":  "The Lord Chancellor has approved the appointment of a new Chair of the Law Commission of England and Wales.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cp\u003eThe Lord Chancellor has approved the appointment of the Honourable Mr Justice (Peter) Fraser as the Chair of the Law Commission for England and Wales for 3 years commencing 1 December 2023.\u003c/p\u003e\n\n\u003cp\u003eThe Law Commission is the statutory independent body created by the Law Commissions Act 1965 to keep the law of England and Wales under review and to recommend reform where it is needed. The aim of the Commission is to ensure that the law is fair, modern, simple and cost effective.\u003c/p\u003e\n\n\u003cp\u003eThe Chair of the Law Commission is appointed, by the Lord Chancellor, under Section 1 of the Law Commissions Act 1965.\u003c/p\u003e\n\n\u003ch3 id=\"biography\"\u003eBiography\u003c/h3\u003e\n\n\u003cp\u003eMr Justice Fraser was educated at Harrogate Grammar School in Yorkshire and St John’s College at the University of Cambridge (where he took both an MA in Law and a LL.M). He was called to the Bar in 1989 by Middle Temple and practised from Atkin Chambers between 1990 and 2015 when he was appointed to the King’s Bench Division. As a barrister he specialised in international arbitration, technology, engineering and construction disputes. He was appointed a Recorder of the Crown Court in 2002 and QC in 2009. He sits both as a judge of the Technology and Construction Court (being judge in Charge from 2017 to 2020) and the Commercial Court.\u003c/p\u003e\n",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2023-06-29T11:00:09.065+01:00"
+                                           }
+                                       ],
+                    "political":  true
+                },
+    "document_type":  "news_story",
+    "first_published_at":  "2023-06-29T11:00:09+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/government/news/appointment-of-a-new-chair-of-the-law-commission-of-england-and-wales",
+                                                     "api_url":  "https://www.gov.uk/api/content/government/news/appointment-of-a-new-chair-of-the-law-commission-of-england-and-wales",
+                                                     "base_path":  "/government/news/appointment-of-a-new-chair-of-the-law-commission-of-england-and-wales",
+                                                     "content_id":  "f05500a3-189f-4695-bacd-c38e10af65d9",
+                                                     "document_type":  "news_story",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2023-06-29T10:00:09Z",
+                                                     "schema_name":  "news_article",
+                                                     "title":  "Appointment of a new Chair of the Law Commission of England and Wales",
+                                                     "web_url":  "https://www.gov.uk/government/news/appointment-of-a-new-chair-of-the-law-commission-of-england-and-wales",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2022-to-2024-sunak-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2022-to-2024-sunak-conservative-government",
+                                         "base_path":  "/government/2022-to-2024-sunak-conservative-government",
+                                         "content_id":  "acbd9825-4303-45cf-85bc-20f200c146ff",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2024-07-05T00:00:00+00:00",
+                                                         "started_on":  "2022-10-25T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2022 to 2024 Sunak Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2022-to-2024-sunak-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D18",
+                                            "api_path":  "/api/content/government/organisations/ministry-of-justice",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/ministry-of-justice",
+                                            "base_path":  "/government/organisations/ministry-of-justice",
+                                            "content_id":  "dcc907d6-433c-42df-9ffb-d9c68be5dc4d",
+                                            "details":  {
+                                                            "acronym":  "MOJ",
+                                                            "brand":  "ministry-of-justice",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db21ed915d5a62fdc762/s960_ministry-of-justice.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5a37db21e5274a7908e352d9/s300_ministry-of-justice.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Ministry\u003cbr/\u003eof Justice"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Ministry of Justice",
+                                            "web_url":  "https://www.gov.uk/government/organisations/ministry-of-justice",
+                                            "withdrawn":  false
+                                        },
+                                        {
+                                            "analytics_identifier":  "PB294",
+                                            "api_path":  "/api/content/government/organisations/law-commission",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/law-commission",
+                                            "base_path":  "/government/organisations/law-commission",
+                                            "content_id":  "664625d0-5799-4a70-9e79-95a1df8cb887",
+                                            "details":  {
+                                                            "acronym":  "",
+                                                            "brand":  "ministry-of-justice",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "formatted_title":  "Law Commission"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "exempt",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  "http://www.lawcom.gov.uk"
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Law Commission",
+                                            "web_url":  "https://www.gov.uk/government/organisations/law-commission",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "people":  [
+                                 {
+                                     "api_path":  "/api/content/government/people/alex-chalk",
+                                     "api_url":  "https://www.gov.uk/api/content/government/people/alex-chalk",
+                                     "base_path":  "/government/people/alex-chalk",
+                                     "content_id":  "d8eb33a1-47ef-4492-8f9b-7029d4da725d",
+                                     "document_type":  "person",
+                                     "links":  {
+
+                                               },
+                                     "locale":  "en",
+                                     "public_updated_at":  "2024-07-18T09:42:44Z",
+                                     "schema_name":  "person",
+                                     "title":  "The Rt Hon Alex Chalk KC",
+                                     "web_url":  "https://www.gov.uk/government/people/alex-chalk",
+                                     "withdrawn":  false
+                                 }
+                             ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D18",
+                                                              "api_path":  "/api/content/government/organisations/ministry-of-justice",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/ministry-of-justice",
+                                                              "base_path":  "/government/organisations/ministry-of-justice",
+                                                              "content_id":  "dcc907d6-433c-42df-9ffb-d9c68be5dc4d",
+                                                              "details":  {
+                                                                              "acronym":  "MOJ",
+                                                                              "brand":  "ministry-of-justice",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5a37db21ed915d5a62fdc762/s960_ministry-of-justice.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/5a37db21e5274a7908e352d9/s300_ministry-of-justice.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Ministry\u003cbr/\u003eof Justice"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Ministry of Justice",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/ministry-of-justice",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "roles":  [
+                                {
+                                    "api_path":  "/api/content/government/ministers/secretary-of-state-for-justice",
+                                    "api_url":  "https://www.gov.uk/api/content/government/ministers/secretary-of-state-for-justice",
+                                    "base_path":  "/government/ministers/secretary-of-state-for-justice",
+                                    "content_id":  "845e5cf4-c0f1-11e4-8223-005056011aef",
+                                    "details":  {
+                                                    "body":  "\u003cul\u003e\n  \u003cli\u003eOversight of all portfolios, policy, and Ministry of Justice strategy\u003c/li\u003e\n  \u003cli\u003eOversight of cross-cutting emergency issues, responses supported by other ministers according to portfolio\u003c/li\u003e\n  \u003cli\u003eOversight of international business and future relations with the EU\u003c/li\u003e\n  \u003cli\u003eMoJ support for the Union.\u003c/li\u003e\n  \u003cli\u003eResourcing of the department\u003c/li\u003e\n  \u003cli\u003eFunctions of the Lord Chancellor\u003c/li\u003e\n  \u003cli\u003eJudicial policy including pay, pensions and diversity (these and other operational decisions affecting the judiciary are reserved to the Lord Chancellor)\u003c/li\u003e\n  \u003cli\u003eCorporate services\u003c/li\u003e\n\u003c/ul\u003e\n",
+                                                    "role_payment_type":  null,
+                                                    "seniority":  8,
+                                                    "whip_organisation":  {
+
+                                                                          }
+                                                },
+                                    "document_type":  "ministerial_role",
+                                    "links":  {
+
+                                              },
+                                    "locale":  "en",
+                                    "public_updated_at":  "2024-07-26T15:39:53Z",
+                                    "schema_name":  "role",
+                                    "title":  "Lord Chancellor and Secretary of State for Justice",
+                                    "web_url":  "https://www.gov.uk/government/ministers/secretary-of-state-for-justice",
+                                    "withdrawn":  false
+                                }
+                            ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/crime-justice-and-law/justice-system-transparency",
+                                     "api_url":  "https://www.gov.uk/api/content/crime-justice-and-law/justice-system-transparency",
+                                     "base_path":  "/crime-justice-and-law/justice-system-transparency",
+                                     "content_id":  "afd65c1c-dee0-4f5b-8bd6-4f502e4870af",
+                                     "details":  {
+                                                     "internal_name":  "Justice system transparency [P]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/crime-justice-and-law",
+                                                                             "api_url":  "https://www.gov.uk/api/content/crime-justice-and-law",
+                                                                             "base_path":  "/crime-justice-and-law",
+                                                                             "content_id":  "ba951b09-5146-43be-87af-44075eac3ae9",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Crime, justice and law",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:34:51Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Crime, justice and law",
+                                                                             "web_url":  "https://www.gov.uk/crime-justice-and-law",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-05T16:15:52Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Justice system transparency",
+                                     "web_url":  "https://www.gov.uk/crime-justice-and-law/justice-system-transparency",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2023-06-29T11:00:09+01:00",
+    "publishing_app":  "content-publisher",
+    "publishing_request_id":  "21-1731597552.599-10.13.22.244-2534",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "news_article",
+    "title":  "Appointment of a new Chair of the Law Commission of England and Wales",
+    "updated_at":  "2024-12-02T12:49:55+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

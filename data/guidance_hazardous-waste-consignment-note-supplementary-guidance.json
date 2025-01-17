@@ -1,0 +1,478 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/hazardous-waste-consignment-note-supplementary-guidance",
+    "content_id":  "5f42c3aa-7631-11e4-a3cb-005056011aef",
+    "description":  "What information the consignment note must contain, who has to complete each part and when it has to be completed. ",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eConsignment is only one part of the control system for hazardous waste.\u003c/p\u003e\n\n\u003cp\u003eIf you produce, transport or manage hazardous waste you must follow all the rules of the control system. See the guidance on \u003ca href=\"https://www.gov.uk/dispose-hazardous-waste/overview\" class=\"govuk-link\"\u003ehazardous waste\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"when-consignment-notes-are-needed\"\u003eWhen consignment notes are needed\u003c/h2\u003e\n\n\u003cp\u003eWhen hazardous waste is moved it must be accompanied by correctly completed paperwork called a consignment note. The note must be prepared before it’s moved.\u003c/p\u003e\n\n\u003cp\u003eA note is needed for all movements of hazardous waste, including:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ecollections from businesses by registered waste carriers\u003c/li\u003e\n  \u003cli\u003emovements from one premises to another within the same business\u003c/li\u003e\n  \u003cli\u003emovements from customer premises, where another business has produced waste\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eA consignment note is not needed to move hazardous waste for:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe movement of \u003ca href=\"#domestic\" class=\"govuk-link\"\u003edomestic hazardous waste\u003c/a\u003e (other than \u003ca href=\"#asbestos\" class=\"govuk-link\"\u003easbestos waste\u003c/a\u003e) from a domestic household to an initial collection point\u003c/li\u003e\n  \u003cli\u003ewaste imported or exported under \u003ca href=\"https://www.gov.uk/guidance/importing-and-exporting-waste\" class=\"govuk-link\"\u003einternational waste shipment controls\u003c/a\u003e which uses a different movement note\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eSee the information on \u003ca href=\"#unusual\" class=\"govuk-link\"\u003eunusual circumstances\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"what-is-domestic-hazardous-waste\"\u003eWhat is domestic hazardous waste?\u003c/h2\u003e\n\n\u003cp id=\"domestic\"\u003eDomestic hazardous waste includes hazardous waste produced in an occupied domestic household by:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ehouseholders\u003c/li\u003e\n  \u003cli\u003ecommunity healthcare workers\u003c/li\u003e\n  \u003cli\u003eservice engineers and trades people, like plumbers and electricians\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIt also includes waste produced by roadside breakdown services attending a domestic householder’s private vehicle at home or at the roadside.\u003c/p\u003e\n\n\u003ch2 id=\"layout-and-information-fields\"\u003eLayout and information fields\u003c/h2\u003e\n\n\u003cp\u003eTo be valid the consignment note must include all the information fields and be as near as possible to the format in the example note.\u003c/p\u003e\n\n\u003cp\u003eDo not use any note if:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003einformation fields are missing or have been altered to reduce or change what is required – for example email, phone or weight is missing\u003c/li\u003e\n  \u003cli\u003edeclarations are worded differently\u003c/li\u003e\n  \u003cli\u003ethe format is different - for example it does not have separate tables in Part B and E\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIf you have any concerns about the validity of a note please \u003ca href=\"#FI\" class=\"govuk-link\"\u003econtact the Environment Agency\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"complete-the-consignment-note\"\u003eComplete the consignment note\u003c/h2\u003e\n\n\u003cp\u003eThe consignment note has 5 parts (A to E). Each part must be filled out in order, by the right person, at the right time:\u003c/p\u003e\n\n\u003ch3 id=\"producer-or-holder-completes-parts-a-and-b\"\u003e1: producer or holder completes parts A and B\u003c/h3\u003e\n\n\u003cp\u003eThe producer or holder of the waste must complete parts A and B on each copy of the note before the waste is removed. You will normally need 3 copies, although more may be needed in some circumstances. Give all copies to the carrier.\u003c/p\u003e\n\n\u003ch3 id=\"part-a-notification-details\"\u003ePart A: notification details\u003c/h3\u003e\n\n\u003cp\u003eYou must provide details of the origin and destination of the waste in parts A1 to A4.\u003c/p\u003e\n\n\u003ch3 id=\"a1-consignment-note-code\"\u003eA1. Consignment note code\u003c/h3\u003e\n\n\u003cp\u003eYou must create a consignment note code and enter it onto the consignment note. The format for the consignment note code must be ‘XXXXXX/YYYYY. The:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e‘XXXXXX’ is the first 6 letters or numbers (not symbols or spaces) of the name of the company entered in part A2 of the consignment note and must be followed by ‘/’\u003c/li\u003e\n  \u003cli\u003e‘YYYYY’ is exactly 5 numbers or letters (not symbols or spaces) you choose\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFor example, CJTILE/A0001. Each code can only be used once from the address in part A2. You must change the ‘YYYYY’ to create a different code each time waste is consigned from that premises.\u003c/p\u003e\n\n\u003cp\u003eNote: If your company name has less than 6 letters or numbers you must assign the letter ‘Q’ to remaining characters.\u003c/p\u003e\n\n\u003cp\u003eYou must also assign an additional letter at the end of the consignment note code for certain types of consignment. Add:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ea  ‘V’ to waste removed from ships - ‘XXXXXX/YYYYYV’\u003c/li\u003e\n  \u003cli\u003ean ‘F’ to fly-tipped waste - ‘XXXXXX/YYYYYF’\u003c/li\u003e\n  \u003cli\u003ea  ‘D’  to waste moving under a consignee return derogation - ‘XXXXXX/YYYYYD’\u003c/li\u003e\n  \u003cli\u003ea ‘P’ to continuous piped waste\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eAdditional letters are also assigned to rejected loads. See the guidance on \u003ca href=\"https://www.gov.uk/guidance/hazardous-waste-rejected-loads-supplementary-guidance\" class=\"govuk-link\"\u003erejected loads\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eThe \u003ca href=\"https://www.gov.uk/government/publications/hazardous-waste-consignment-note\" class=\"govuk-link\"\u003econsignment note form\u003c/a\u003e contains 2 extra grey boxes for these additional letters, the second may be needed for rejected loads.\u003c/p\u003e\n\n\u003ch3 id=\"a2-the-waste-described-below-is-to-be-removed-from-name-address-postcode-telephone-email-fax\"\u003eA2. The waste described below is to be removed from (name, address, postcode, telephone, email, fax)\u003c/h3\u003e\n\n\u003cp\u003eYou must enter all of the required details for the premises from which the waste is being removed and:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eif the premises do not have a postcode, give the nearest full postcode\u003c/li\u003e\n  \u003cli\u003eyou may only omit telephone, email or fax if the premises do not have them - instead enter ‘N/A’\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"a3-the-waste-will-be-taken-to-name-address-and-postcode\"\u003eA3. The waste will be taken to (name, address and postcode)\u003c/h3\u003e\n\n\u003cp\u003eYou must enter the name, address and postcode of the place your waste is to be taken to (the consignee).\u003c/p\u003e\n\n\u003cp\u003eYou should first check that the consignee holds an environmental permit, or exemption from a permit, that allows them to accept the type(s) of waste being consigned.\u003c/p\u003e\n\n\u003ch3 id=\"a4-the-waste-producer-was-if-different-from-a2-name-address-postcode-telephone-email-fax\"\u003eA4. The waste producer was (if different from A2) (name, address, postcode, telephone, email, fax)\u003c/h3\u003e\n\n\u003cp\u003eThis field is important if the waste was not produced by the organisation entered in A2. For example, if the waste was produced by a contractor or the organisation in A2 is an on-site facilities management company.\u003c/p\u003e\n\n\u003cp\u003eYou must put either one of these - enter:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e‘as A2’ if the producer is the same\u003c/li\u003e\n  \u003cli\u003edetails of the waste producer if different from that in A2\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"part-b-description-of-the-waste\"\u003ePart B: description of the waste\u003c/h3\u003e\n\n\u003cp\u003eYou must provide information about the waste, the activity that produced it, its composition, properties and its packaging in part B1 to B3.\u003c/p\u003e\n\n\u003ch3 id=\"b1-the-process-giving-rise-to-the-waste-and-b2-sic-for-the-process-giving-rise-to-the-waste\"\u003eB1. The process giving rise to the waste and B2 SIC for the process giving rise to the waste\u003c/h3\u003e\n\n\u003cp\u003eYou must provide a full written description and the Standard Industrial Classification \u003ca href=\"https://www.gov.uk/government/publications/standard-industrial-classification-of-economic-activities-sic\" class=\"govuk-link\"\u003eSIC 2007\u003c/a\u003e code of the process that created the waste.\u003c/p\u003e\n\n\u003cp\u003eIf you operate more than one process, this may be different to the SIC code for your main process.\u003c/p\u003e\n\n\u003cp\u003eIf the wastes on the note are produced by more than one process, use the SIC code and description of the process that produced most of the waste.\u003c/p\u003e\n\n\u003cp\u003eYou may use equivalent NACE codes here instead.\u003c/p\u003e\n\n\u003ch3 id=\"b3-waste-details\"\u003eB3. Waste details\u003c/h3\u003e\n\n\u003cp\u003eFor each different type of waste being collected you must enter details of the:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ewaste description: this must be a full description of each waste - the short description from the list of wastes (LoW) is not normally sufficient\u003c/li\u003e\n  \u003cli\u003eLoW or European Waste Catalogue (EWC) code 6 digits: the 6 digit \u003ca href=\"https://www.gov.uk/how-to-classify-different-types-of-waste\" class=\"govuk-link\"\u003elist of waste code(s)\u003c/a\u003efor the waste\u003c/li\u003e\n  \u003cli\u003equantity (kg): you must provide the total weight in kg for each hazardous LoW code - the weight entered must be accurate, if you use conversion factors for volumes of liquids or containers you must ensure that they are reliable\u003c/li\u003e\n  \u003cli\u003echemical or biological components of the waste and their concentrations: you must describe the chemical (or biological) composition of the waste including both hazardous and non-hazardous items - for many products (such as paint) this will be listed in section 3 of the Safety Data Sheet\u003c/li\u003e\n  \u003cli\u003ephysical form (gas, liquid, solid, powder, sludge or mixed): enter the one that best describes the waste\u003c/li\u003e\n  \u003cli\u003ehazard code(s): you must identify which hazardous properties the waste possesses - you must work this out and must:\n    \u003cul\u003e\n      \u003cli\u003enot omit properties the waste does possess\u003c/li\u003e\n      \u003cli\u003enot include properties the waste does not possess\u003c/li\u003e\n      \u003cli\u003euse the code ‘POP’ for persistent organic pollutants\u003c/li\u003e\n    \u003c/ul\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eSee the detail in the \u003ca href=\"https://www.gov.uk/how-to-classify-different-types-of-waste\" class=\"govuk-link\"\u003ewaste classification guidance\u003c/a\u003e for:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003econtainer type, number and size: you must enter this (for example 3 x 205L metal drum) - if a larger container contains smaller containers of different hazardous wastes you must also enter this information for the smaller containers\u003c/li\u003e\n  \u003cli\u003eUN identification number(s), proper shipping name(s), UN class(es), packaging group(s) and special handling requirements: this information is required for the transport of dangerous goods - more information is available from the \u003ca rel=\"external\" href=\"http://www.hse.gov.uk/cdg/\" class=\"govuk-link\"\u003eHealth and Safety Executive website\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"carrier-checks-parts-a-and-b-and-completes-part-c\"\u003e2: carrier checks parts A and B, and completes part C\u003c/h3\u003e\n\n\u003cp\u003eThe carrier must check parts A and B of the note, and complete part C after the producer or holder has completed parts A and B and before the waste is removed. Once you have signed part C you must hand all copies back to the consignor, producer or holder.\u003c/p\u003e\n\n\u003ch3 id=\"checking-part-a-waste-details\"\u003eChecking part A: waste details\u003c/h3\u003e\n\n\u003cp\u003eYou must (as a minimum) do duty of care checks to confirm the waste details given by the producer or holder in part B3 are correct and fully completed. You should not sign part C (or remove the waste) if any of the details are incomplete or incorrect.\u003c/p\u003e\n\n\u003ch3 id=\"checking-part-b-the-journey\"\u003eChecking part B: the journey\u003c/h3\u003e\n\n\u003cp\u003eYou are confirming that you are collecting the waste from the premises listed in A2, and taking it directly to the destination listed in A3. The note is only valid for the journey shown.\u003c/p\u003e\n\n\u003ch3 id=\"part-c-carrier-certificate\"\u003ePart C: carrier certificate\u003c/h3\u003e\n\n\u003cp\u003eBy completing part C the carrier is doing 2 things. They are:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003econfirming they have checked the details provided by the producer or holder in parts A and B\u003c/li\u003e\n  \u003cli\u003eentering their own details\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"entering-vehicle-and-carrier-details\"\u003eEntering vehicle and carrier details\u003c/h3\u003e\n\n\u003cp\u003eThe note is valid only for the carrier company using the specific vehicle indicated on the note.\u003c/p\u003e\n\n\u003cp\u003eIf more than one carrier or vehicle is used you should use a carrier schedule. \u003ca href=\"#FI\" class=\"govuk-link\"\u003eContact the Environment Agency\u003c/a\u003e for more information.\u003c/p\u003e\n\n\u003ch3 id=\"multiple-collection-details-where-relevant\"\u003eMultiple collection details (where relevant)\u003c/h3\u003e\n\n\u003cp\u003eA multiple collection is a journey that meets all of the following criteria. It is:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ehazardous waste collected from 2 or more different premises\u003c/li\u003e\n  \u003cli\u003ein England and Wales - at least one premises must be in England\u003c/li\u003e\n  \u003cli\u003ein a single journey\u003c/li\u003e\n  \u003cli\u003eby a single waste carrier\u003c/li\u003e\n  \u003cli\u003ewhen all the waste is taken to the same consignee\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIf these criteria are met you must enter a round number and collection number in part C of the note in the format ‘XXXXXXXXXXXXXXX’/’YY’ where the:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eround number ‘XXXXXXXXXXXXXXX’ is any alphanumeric code identifying the collection round, up to a maximum of 15 characters (it may contain a ‘/’ or ‘-‘, but must not contain a space). You must agree this number with the consignee to ensure it is unique to them\u003c/li\u003e\n  \u003cli\u003ecollection number ‘YY’ is a numeric code of 1 or 2 digits that identifies the order of collection within the round. The first premises from which waste is collected is ‘01’ or ‘1’, the second ‘02’ or ‘2’ and so on\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eA reduced charge is made to consignees for receipt of multiple collections.\u003c/p\u003e\n\n\u003ch3 id=\"consignor-checks-parts-a-b-and-c-and-completes-part-d\"\u003e3: consignor checks parts A, B and C and completes part D\u003c/h3\u003e\n\n\u003cp\u003eThe consignor must complete part D:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eafter the carrier has completed part C but before the waste is removed\u003c/li\u003e\n  \u003cli\u003eto confirm that the information the producer or holder entered into parts A and B, and the carrier entered into part C is correct\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe consignor must be present when the waste is collected. The carrier cannot complete part D for you. You cannot complete part D in advance for the carrier to collect when you are not there.\u003c/p\u003e\n\n\u003ch3 id=\"part-d-consignors-certificate--information-you-must-confirm\"\u003ePart D: consignor’s certificate – information you must confirm\u003c/h3\u003e\n\n\u003cp\u003eYou must check and confirm each of the 6 points before completing part D:\u003c/p\u003e\n\n\u003ch3 id=\"i-certify-that\"\u003eI certify that:\u003c/h3\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe information in A, B and C has been completed and is correct – the person signing the note must have sufficient knowledge to certify this and be present when the waste is collected to check the carrier’s vehicle registration number\u003c/li\u003e\n  \u003cli\u003ethe carrier is registered  – you must check that the carrier is registered (\u003ca href=\"https://www.gov.uk/find-registered-waste-carrier\" class=\"govuk-link\"\u003efind a registered waste carrier\u003c/a\u003e)\u003c/li\u003e\n  \u003cli\u003eI was advised of the appropriate precautionary measures – you have a duty to give the carrier any precautionary measures needed for the waste material\u003c/li\u003e\n  \u003cli\u003eall of the waste is packaged and labelled correctly - and is in line with carriage of dangerous goods requirements for transport\u003c/li\u003e\n  \u003cli\u003ethe carrier has been advised of any special handling requirements – you have a duty to inform the carrier of any special handling requirements\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eI confirm that:\u003c/p\u003e\n\n\u003cp\u003eI have fulfilled my duty to apply the waste hierarchy as required by Regulation 12 of the Waste (England and Wales) Regulations 2011 – see the \u003ca href=\"https://www.gov.uk/managing-your-waste-an-overview/duty-of-care\" class=\"govuk-link\"\u003ewaste hierarchy guidance\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"consignor-name\"\u003e1. Consignor name\u003c/h3\u003e\n\n\u003cp\u003eThis must be the name of the person who supervises the carrier collection and signs the note.\u003c/p\u003e\n\n\u003ch3 id=\"on-behalf-of-name-address-postcode-telephone-email-fax\"\u003eOn behalf of (name, address, postcode, telephone, email, fax)\u003c/h3\u003e\n\n\u003cp\u003eIf you are employed by the business listed in part A2 of the note write ‘as A2’.\u003c/p\u003e\n\n\u003cp\u003eOtherwise provide the full address and contact details of the business that you work for.\u003c/p\u003e\n\n\u003ch3 id=\"signature-date-time\"\u003eSignature, date, time\u003c/h3\u003e\n\n\u003cp\u003eThe consignor signs the note and enters the date and time (using 24-hour clock) of signing.\u003c/p\u003e\n\n\u003ch3 id=\"after-completion-of-parts-a-to-d\"\u003eAfter completion of parts A to D\u003c/h3\u003e\n\n\u003cp\u003eThe consignor:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ekeeps one copy of the note\u003c/li\u003e\n  \u003cli\u003epasses one copy to the producer or holder (if different from the consignor)\u003c/li\u003e\n  \u003cli\u003ehands the other copies back to the carrier\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe carrier removes the waste and must deliver it promptly to the consignee. This should normally be within 24 hours of collection.\u003c/p\u003e\n\n\u003ch3 id=\"the-consignee-receives-the-waste-from-the-carrier\"\u003e4: the consignee receives the waste from the carrier\u003c/h3\u003e\n\n\u003cp\u003eOn arrival the carrier gives the consignee 2 copies of the note. The consignee:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003echecks the waste and the note and either accepts or rejects the waste\u003c/li\u003e\n  \u003cli\u003ecompletes part E to confirm they have checked the delivery of waste and whether it has been accepted or rejected\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"checking-the-waste-and-the-note\"\u003eChecking the waste and the note\u003c/h3\u003e\n\n\u003cp\u003eYou may commit an offence if you accept a hazardous waste without a consignment note, or if the consignment note is incomplete or incorrect.\u003c/p\u003e\n\n\u003cp\u003eYou must check both the waste and its accompanying documentation to ensure it is correct and complete before you accept the waste.\u003c/p\u003e\n\n\u003cp\u003eYou must reject the waste if:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe waste is not accompanied by a consignment note - unless you are able to confirm that the movement legally does not need a consignment note\u003c/li\u003e\n  \u003cli\u003eyour site is not identified as the destination site in part A3 of the consignment note\u003c/li\u003e\n  \u003cli\u003eyour site is not authorised to accept the waste\u003c/li\u003e\n  \u003cli\u003ethe waste is inaccurately or incompletely classified or described\u003c/li\u003e\n  \u003cli\u003ethe vehicle delivering the waste is not the one identified in part C of the note and there is not a schedule of carriers form recording a transfer to it\u003c/li\u003e\n  \u003cli\u003ethe consignment note does not contain all the information fields required and is not set out in substantially the same format\u003c/li\u003e\n  \u003cli\u003ePart A to D of the consignment note has been amended in any way, unless you have contacted the consignor and confirmed that the:\n    \u003cul\u003e\n      \u003cli\u003eperson responsible for completing that part, or a person authorised by them, made the amendment\u003c/li\u003e\n      \u003cli\u003echange happened before the carrier and consignor certified it\u003c/li\u003e\n      \u003cli\u003echange happened before the waste was removed\u003c/li\u003e\n    \u003c/ul\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou should keep a record of this correspondence in your register.\u003c/p\u003e\n\n\u003cp\u003eYou must not amend or correct any information in parts A, B, C or D of the note.\u003c/p\u003e\n\n\u003cp\u003eIf you reject the waste, you must follow the rules in the \u003ca href=\"https://www.gov.uk/guidance/hazardous-waste-rejected-loads-supplementary-guidance\" class=\"govuk-link\"\u003erejected loads guidance\u003c/a\u003e. Rejecting a waste does not always mean you have to send the carrier and waste away. The rules set out how you must manage the waste and may provide you with a means to accept the waste in certain circumstances.\u003c/p\u003e\n\n\u003ch3 id=\"part-e-consignee-certificate--information-you-must-provide\"\u003ePart E: consignee certificate – information you must provide\u003c/h3\u003e\n\n\u003cp\u003eYou must enter the:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eindividual EWC code(s) received – check the waste is as classified and described in part B then enter the code if correct - if the code in part B is incorrect, you must reject the waste and provide an explanation under number 3\u003c/li\u003e\n  \u003cli\u003equantity of each code received (in kg) – weigh the waste or otherwise accurately determine the quantity you received in kg – do not copy the quantity collected from part B\u003c/li\u003e\n  \u003cli\u003eEWC code accepted or rejected – enter whether you accept or reject each code received\u003c/li\u003e\n  \u003cli\u003ewaste management operation (\u003ca href=\"https://www.gov.uk/government/publications/waste-returns-spreadsheet-and-supporting-information\" class=\"govuk-link\"\u003erecovery or disposal (\u003cabbr title=\"recovery or disposal\"\u003eR or D\u003c/abbr\u003e) code\u003c/a\u003e) – enter the waste \u003cabbr title=\"recovery or disposal\"\u003eR or D\u003c/abbr\u003e operation you will apply to the waste at your site using its \u003cabbr title=\"recovery or disposal\"\u003eR or D\u003c/abbr\u003e code\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"i-received-this-waste-at-the-address-given-in-a3-on\"\u003e1. I received this waste at the address given in A3 on\u003c/h3\u003e\n\n\u003cp\u003eCheck your site is the one listed in part A3 of the note. If so, enter the date and time the waste was received.\u003c/p\u003e\n\n\u003ch3 id=\"vehicle-registration-number-or-mode-of-transport-if-not-road\"\u003e2. Vehicle registration number (or mode of transport if not road)\u003c/h3\u003e\n\n\u003cp\u003eEnter the registration number of the vehicle delivering the waste and check that it matches that given in part C or, where applicable, a schedule of carriers form.\u003c/p\u003e\n\n\u003ch3 id=\"where-waste-is-rejected-please-provide-details\"\u003e3. Where waste is rejected please provide details\u003c/h3\u003e\n\n\u003cp\u003eGive the reason why you rejected the waste.\u003c/p\u003e\n\n\u003ch3 id=\"nameon-behalf-of-name-address-postcode-telephone-email-fax\"\u003eName:……on behalf of (name, address, postcode, telephone, email, fax)\u003c/h3\u003e\n\n\u003cp\u003eYou must enter your name, the name of your company, and the address and contact details for the site receiving the waste.\u003c/p\u003e\n\n\u003ch3 id=\"i-certify-that-the-waste-permit-or-exempt-waste-operation-number--authorises-the-management-of-the-waste-described-in-b-at-the-address-given-in-a3\"\u003eI certify that the waste permit or exempt waste operation number: …….. authorises the management of the waste described in B at the address given in A3\u003c/h3\u003e\n\n\u003cp\u003eYou must check the site’s authorisation (permit or exemption) number allows it to accept the waste for the intended \u003cabbr title=\"recovery or disposal\"\u003eR or D\u003c/abbr\u003e operation. If waste is misclassified or described you must reject it. Enter the permit or exemption reference number that authorises the intended \u003cabbr title=\"recovery or disposal\"\u003eR or D\u003c/abbr\u003e operation.\u003c/p\u003e\n\n\u003ch3 id=\"where-the-consignment-forms-part-of-a-multiple-collection-as-identified-in-part-c-i-certify-that-the-total-number-of-consignments-forming-the-collection-are\"\u003eWhere the consignment forms part of a multiple collection, as identified in part C, I certify that the total number of consignments forming the collection are\u003c/h3\u003e\n\n\u003cp\u003eIf the consignment is part of a multiple collection, you must state the total number of consignments delivered to you as part of that multiple collection.\u003c/p\u003e\n\n\u003ch2 id=\"amending-notes\"\u003eAmending notes\u003c/h2\u003e\n\n\u003cp\u003eThe information in parts A, B, and C of the consignment note must not be changed after the carrier has agreed and signed it.\u003c/p\u003e\n\n\u003cp\u003eThe information in parts A, B, C and D of the note must not be changed after the:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003econsignor has certified it\u003c/li\u003e\n  \u003cli\u003ewaste has been removed from the premises listed in A2\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThese changes make the note invalid.\u003c/p\u003e\n\n\u003cp\u003eOnly the party legally responsible for completion of each part of the note, or a person authorised by them to act on their behalf, can amend parts A, B, C or D. This must be done before certification of that information, and before removal of the waste.\u003c/p\u003e\n\n\u003cp\u003eIf the consignee identifies an error on the note when it is delivered to their site, they must not correct it or ask for it to be corrected. They must reject the waste. See the detail in the \u003ca href=\"https://www.gov.uk/guidance/hazardous-waste-rejected-loads-supplementary-guidance\" class=\"govuk-link\"\u003erejected loads guidance\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"cross-border-movements\"\u003eCross border movements\u003c/h2\u003e\n\n\u003ch3 id=\"waste-moving-to-england-from-scotland-northern-ireland-wales-or-gibraltar\"\u003eWaste moving to England from Scotland, Northern Ireland, Wales or Gibraltar\u003c/h3\u003e\n\n\u003cp\u003eAs the producer, holder, carrier or consignor you must:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003euse the consignment note of the country of origin, completed in line with their legislation\u003c/li\u003e\n  \u003cli\u003eprovide a separate transport document where the consignment notes do not contain enough information to comply with \u003ca href=\"https://www.gov.uk/guidance/moving-dangerous-goods\" class=\"govuk-link\"\u003ecarriage of dangerous goods requirements\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003enot send us a pre-notification copy\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eAs the consignee in England receiving the waste, you must:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ealso send a completed copy of the note to the Scottish Environment Protection Agency (\u003cabbr title=\"Scottish Environment Protection Agency\"\u003eSEPA\u003c/abbr\u003e) if the waste is from Scotland\u003c/li\u003e\n  \u003cli\u003ealso send a completed copy of the note to the Northern Ireland Environment Agency (\u003cabbr title=\"Northern Ireland Environment Agency\"\u003eNIEA\u003c/abbr\u003e) if the waste is from Northern Ireland\u003c/li\u003e\n  \u003cli\u003efollow our \u003ca href=\"https://www.gov.uk/guidance/hazardous-waste-rejected-loads-supplementary-guidance\" class=\"govuk-link\"\u003erejected loads procedure\u003c/a\u003e and also send a copy of the note to \u003cabbr title=\"Scottish Environment Protection Agency\"\u003eSEPA\u003c/abbr\u003e, \u003cabbr title=\"Northern Ireland Environment Agency\"\u003eNIEA\u003c/abbr\u003e, or Natural Resources Wales if you reject a waste from Scotland, Northern Ireland or Wales\u003c/li\u003e\n  \u003cli\u003estill report all wastes received on consignee returns to the producer, and to the Environment Agency (normal charges apply)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"waste-moving-to-england-from-anywhere-else-except-scotland-northern-ireland-wales-or-gibraltar\"\u003eWaste moving to England from anywhere else except Scotland, Northern Ireland, Wales or Gibraltar\u003c/h3\u003e\n\n\u003cp\u003eThis is an international waste shipment and you must follow rules for the \u003ca href=\"https://www.gov.uk/guidance/importing-and-exporting-waste\" class=\"govuk-link\"\u003etransfrontier shipment of waste\u003c/a\u003e. You can email the International Waste Shipments team for advice at \u003ca href=\"mailto:shipments@environment-agency.gov.uk\" class=\"govuk-link\"\u003eshipments@environment-agency.gov.uk\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"waste-moving-from-england-to-scotland-or-northern-ireland-but-not-wales\"\u003eWaste moving from England to Scotland or Northern Ireland (but not Wales)\u003c/h3\u003e\n\n\u003cp\u003eYou must:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eprepare an additional copy of the note\u003c/li\u003e\n  \u003cli\u003esend this to \u003ca rel=\"external\" href=\"https://www.sepa.org.uk/contact/\" class=\"govuk-link\"\u003e\u003cabbr title=\"Scottish Environment Protection Agency\"\u003eSEPA\u003c/abbr\u003e\u003c/a\u003e or \u003ca rel=\"external\" href=\"https://www.daera-ni.gov.uk/publications/guide-consigning-hazardous-waste\" class=\"govuk-link\"\u003e\u003cabbr title=\"Northern Ireland Environment Agency\"\u003eNIEA\u003c/abbr\u003e\u003c/a\u003e as appropriate, at least 72 hours before the waste is being moved – this is pre-notification\u003c/li\u003e\n  \u003cli\u003ethen, consign the waste as per a movement within England\u003c/li\u003e\n  \u003cli\u003ecomply with the requirements in Scotland or Northern Ireland if the consignee rejects the waste\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"waste-moving-from-england-to-wales\"\u003eWaste moving from England to Wales\u003c/h3\u003e\n\n\u003cp\u003eYou must follow the normal consignment note procedure for England.\u003c/p\u003e\n\n\u003ch2 id=\"consignment-in-unusual-circumstances\"\u003eConsignment in unusual circumstances\u003c/h2\u003e\n\n\u003ch3 id=\"unusual\"\u003eAdditional coding standards\u003c/h3\u003e\n\n\u003cp\u003eAdd an additional letter at the end of the consignment note code for certain types of consignment. Add:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ea  ‘V’ to waste removed from ships - XXXXXX/YYYYYV\u003c/li\u003e\n  \u003cli\u003ean ‘F’ to fly-tipped waste - XXXXXX/YYYYYF\u003c/li\u003e\n  \u003cli\u003ea  ‘D’  to waste moving under a consignee return derogation - XXXXXX/YYYYYD\u003c/li\u003e\n  \u003cli\u003ea ‘P’ to continuously piped waste\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eAdditional letters may also be assigned to consignment note codes when:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ewaste is rejected, see the guidance on \u003ca href=\"https://www.gov.uk/guidance/hazardous-waste-rejected-loads-supplementary-guidance\" class=\"govuk-link\"\u003erejected loads\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003ereturns are submitted, see the guidance on \u003ca href=\"https://www.gov.uk/guidance/hazardous-waste-returns-supplementary-guidance\" class=\"govuk-link\"\u003econsignee returns\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"emergency-services\"\u003eEmergency services\u003c/h3\u003e\n\n\u003cp\u003eYou are an emergency service responding to a genuine emergency which produced hazardous waste.\u003c/p\u003e\n\n\u003cp\u003eYou do not need to consign hazardous waste because the rules on \u003ca rel=\"external\" href=\"http://www.legislation.gov.uk/uksi/2005/894/part/9/made\" class=\"govuk-link\"\u003eemergency and grave danger\u003c/a\u003e apply.\u003c/p\u003e\n\n\u003cp\u003eEmergency services means the police, fire and ambulance services and includes contractors engaged by them.\u003c/p\u003e\n\n\u003ch3 id=\"fly-tipped-waste\"\u003eFly-tipped waste\u003c/h3\u003e\n\n\u003cp\u003eYou are a carrier asked to remove fly-tipped hazardous waste. You may act as a consignor on behalf of the holder provided you have written authorisation from the holder to do so.\u003c/p\u003e\n\n\u003cp\u003eThe only other circumstance where you may act in another role is for rejected loads - see the guidance on \u003ca href=\"https://www.gov.uk/guidance/hazardous-waste-rejected-loads-supplementary-guidance\" class=\"govuk-link\"\u003erejected loads\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"asbestos-waste-from-a-domestic-premises\"\u003eAsbestos waste from a domestic premises\u003c/h3\u003e\n\n\u003cp id=\"asbestos\"\u003eYou are a contractor or mobile service and do one of the following:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eproduce waste asbestos at a domestic premises\u003c/li\u003e\n  \u003cli\u003eare employed by the householder to collect asbestos waste from a domestic premises\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou must:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003econsign the asbestos\u003c/li\u003e\n  \u003cli\u003ecomplete the consignment note as the waste producer\u003c/li\u003e\n  \u003cli\u003eenter your business name and the address of the domestic premises in part A2\u003c/li\u003e\n  \u003cli\u003euse your business name to create the consignment note code\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"mobile-services\"\u003eMobile services\u003c/h3\u003e\n\n\u003cp\u003eYou are a mobile service producing hazardous waste at a customer premises, other than a domestic premises.\u003c/p\u003e\n\n\u003cp\u003eYou must:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003econsign the hazardous waste when its removed from the customer premises\u003c/li\u003e\n  \u003cli\u003eenter the customer’s business name and address in part A2, and use this to create the consignment note code\u003c/li\u003e\n  \u003cli\u003eenter your business name and address in part A4\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"diffuse-network-infrastructure\"\u003eDiffuse network infrastructure\u003c/h2\u003e\n\n\u003cp\u003eThe following regulatory position statement (\u003cabbr title=\"regulatory position statement\"\u003eRPS\u003c/abbr\u003e) allows engineers or operators to move small quantities of waste from minor works, at diffuse locations not associated with other premises, back to base.\u003c/p\u003e\n\n\u003cp\u003eWe will remove this \u003cabbr title=\"regulatory position statement\"\u003eRPS\u003c/abbr\u003e when new tracking controls are introduced.\u003c/p\u003e\n\n\u003cp\u003eDiffuse network infrastructure includes:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003estreet lighting\u003c/li\u003e\n  \u003cli\u003etelephone poles, public phone boxes, street cabinets and connecting cables (excludes exchanges and other defined premises)\u003c/li\u003e\n  \u003cli\u003eelectricity pylons, pole mounted transformers and connecting cables (excludes substations and other defined premises)\u003c/li\u003e\n  \u003cli\u003egas, water and sewerage pipelines (excludes pumping stations and other defined premises)\u003c/li\u003e\n  \u003cli\u003epublic roads (includes road maintenance and roadside commercial vehicle breakdown services)\u003c/li\u003e\n  \u003cli\u003erailway track (excludes stations and other defined premises)\u003c/li\u003e\n  \u003cli\u003ewaterways (includes coastlines, canals and rivers but excludes ships, ports and other defined premises)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou must always consign hazardous waste when it’s removed from the place where it was produced on the network. This includes waste being moved from one place on the network to another place on the same network by road, rail, water or air.\u003c/p\u003e\n\n\u003cp\u003eYou may use a summary consignment note to move waste you have produced at or removed from multiple locations if you meet all of the following conditions.\u003c/p\u003e\n\n\u003cp\u003eYou must:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ebe the producer or holder of the waste\u003c/li\u003e\n  \u003cli\u003eproduce only one consignment of hazardous waste in that place\u003c/li\u003e\n  \u003cli\u003euse your vehicle to move your waste so you are the producer or holder, carrier and consignor\u003c/li\u003e\n  \u003cli\u003edeliver all the waste to the same destination at the same time\u003c/li\u003e\n  \u003cli\u003eonly remove the waste from the place where it was produced (the first movement of the waste)\u003c/li\u003e\n  \u003cli\u003eonly use it for waste produced or held by a single work unit, such as a service engineer\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou must use a normal consignment note for each consignment if you do not meet all these conditions.\u003c/p\u003e\n\n\u003cp\u003eYou complete a summary consignment note in the same way as a normal consignment note, with the following changes:\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003eAttach a continuation or ‘job’ sheet to the note to record the individual waste movements.\u003c/li\u003e\n  \u003cli\u003ePart A1: use the consignment note coding standard for waste moving under a consignee return derogation.\u003c/li\u003e\n  \u003cli\u003ePart A2: refer to the continuation or ‘job’ sheet. Identify each place, date and time where you produced waste on that sheet.\u003c/li\u003e\n  \u003cli\u003ePart A4: enter your details (producer).\u003c/li\u003e\n  \u003cli\u003eSummarise the total quantity of each waste produced in part B.\u003c/li\u003e\n  \u003cli\u003ePart C and D: enter the time and date when you move the first waste.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eIf you receive waste on a summary consignment note, you do not need to send a consignee return if you:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eare the waste producer or network operator\u003c/li\u003e\n  \u003cli\u003ereceive waste only for temporary storage prior to recovery or disposal elsewhere\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou must send a consignee return for receipt of the waste if both these conditions are not met. No consignee return derogation applies. Each summary note must be on the return, using the postcode from A4 in the consignment details.\u003c/p\u003e\n\n\u003ch2 id=\"veterinary-wastes-from-non-domestic-premises\"\u003eVeterinary wastes from non-domestic premises\u003c/h2\u003e\n\n\u003cp\u003eYou must consign any hazardous waste you produce at a customer premises when you remove it (unless it is domestic waste).\u003c/p\u003e\n\n\u003cp\u003eYou may move the waste back to your practice following the summary consignment procedures for diffuse network infrastructure.\u003c/p\u003e\n\n\u003ch2 id=\"contact-the-environment-agency\"\u003eContact the Environment Agency\u003c/h2\u003e\n\n\u003cp id=\"FI\"\u003eContact the Environment Agency for guidance about:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ecarrier schedules - where more than one carrier or vehicle is used\u003c/li\u003e\n  \u003cli\u003ewaste moved by pipelines\u003c/li\u003e\n  \u003cli\u003ewaste from a ship\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cdiv class=\"contact contact\" id=\"contact_144\"\u003e\n    \u003cp class=\"govuk-body\"\u003eGeneral enquiries\u003c/p\u003e\n\n    \u003cp class=\"govuk-body govuk-!-margin-bottom-4\"\u003e\n      National Customer Contact Centre \u003cbr\u003ePO Box 544\u003cbr\u003eRotherham\u003cbr\u003eS60 1BY\n    \u003c/p\u003e\n\n    \u003cdiv\u003e\n        \u003cp class=\"govuk-body govuk-!-margin-bottom-4\"\u003e\n          Email \u003ca class=\"govuk-link\" href=\"mailto:enquiries@environment-agency.gov.uk\"\u003eenquiries@environment-agency.gov.uk\u003c/a\u003e\n        \u003c/p\u003e\n\n\n        \u003cp class=\"govuk-body govuk-!-margin-bottom-4\"\u003e\n          Telephone 03708 506 506\n        \u003c/p\u003e\n        \u003cp class=\"govuk-body govuk-!-margin-bottom-4\"\u003e\n          Telephone from outside the UK (Monday to Friday, 8am to 6pm GMT) +44 (0) 114 282 5312\n        \u003c/p\u003e\n    \u003c/div\u003e\n\n    \u003cp class=\"govuk-body\"\u003eMonday to Friday, 8am to 6pm.\u003c/p\u003e\n\n\u003c/div\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "We\u0027ve amended the RPS so that it applies to engineers and operators, and to reflect the scenario where an organisation removing waste can also be a holder. ",
+                                               "public_timestamp":  "2019-09-02T11:38:57.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Guidance updated to explain how consignment controls apply to businesses that benefited from RPS 25 on premises notification. This RPS ceased to apply when premises notification was removed in 2015. We are reducing the consignment requirements while a new tracking system is being developed.",
+                                               "public_timestamp":  "2018-02-08T15:59:51.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Additional text added to clarify how to create a consignment code. Additional guidance added on asbestos waste.",
+                                               "public_timestamp":  "2016-05-17T14:22:17.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Removed out of date guidance following implementation of new regulations.",
+                                               "public_timestamp":  "2016-04-04T10:35:31.000+01:00"
+                                           },
+                                           {
+                                               "note":  "From 1 April 2016, premises will no longer need to register as hazardous waste producers. This change will affect the entire hazardous waste control system. See the guidance effective from 1 April 2016. Or use the current guidance that applies until 31 March 2016.",
+                                               "public_timestamp":  "2016-03-07T13:41:08.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Added the Environment Agency position on the use of NACE codes in the consignment note.",
+                                               "public_timestamp":  "2014-09-18T12:01:50.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2014-04-04T13:29:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "16628142-57b2-4611-bc03-5912785acee3"
+                                                 ],
+                    "first_public_at":  "2014-04-04T13:29:00.000+01:00",
+                    "national_applicability":  {
+                                                   "england":  {
+                                                                   "applicable":  true,
+                                                                   "label":  "England"
+                                                               },
+                                                   "northern_ireland":  {
+                                                                            "alternative_url":  "https://www.daera-ni.gov.uk/publications/guide-consigning-hazardous-waste",
+                                                                            "applicable":  false,
+                                                                            "label":  "Northern Ireland"
+                                                                        },
+                                                   "scotland":  {
+                                                                    "alternative_url":  "https://www.sepa.org.uk/regulations/waste/special-waste/",
+                                                                    "applicable":  false,
+                                                                    "label":  "Scotland"
+                                                                },
+                                                   "wales":  {
+                                                                 "alternative_url":  "https://naturalresources.wales/guidance-and-advice/environmental-topics/waste-management/?lang=en",
+                                                                 "applicable":  false,
+                                                                 "label":  "Wales"
+                                                             }
+                                               },
+                    "political":  false,
+                    "related_mainstream_content":  [
+                                                       "5ede6386-9f7b-47f7-9510-36c05fac6d48"
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+                                                "095e782c-a635-4d19-9de2-3b24baf6772e"
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2014-04-04T13:29:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/hazardous-waste-consignment-note-supplementary-guidance",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/hazardous-waste-consignment-note-supplementary-guidance",
+                                                     "base_path":  "/guidance/hazardous-waste-consignment-note-supplementary-guidance",
+                                                     "content_id":  "5f42c3aa-7631-11e4-a3cb-005056011aef",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2019-09-02T10:38:57Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Hazardous waste: consignment note guidance",
+                                                     "web_url":  "https://www.gov.uk/guidance/hazardous-waste-consignment-note-supplementary-guidance",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "base_path":  "/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "content_id":  "591c83aa-3b74-437d-a342-612bddd97572",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2015-05-08T00:00:00+00:00",
+                                                         "started_on":  "2010-05-12T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2010 to 2015 Conservative and Liberal Democrat coalition government",
+                                         "web_url":  "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government"
+                                     }
+                                 ],
+                  "lead_organisations":  [
+                                             {
+                                                 "analytics_identifier":  "EA199",
+                                                 "api_path":  "/api/content/government/organisations/environment-agency",
+                                                 "api_url":  "https://www.gov.uk/api/content/government/organisations/environment-agency",
+                                                 "base_path":  "/government/organisations/environment-agency",
+                                                 "content_id":  "16628142-57b2-4611-bc03-5912785acee3",
+                                                 "details":  {
+                                                                 "acronym":  "EA",
+                                                                 "brand":  "department-for-environment-food-rural-affairs",
+                                                                 "default_news_image":  {
+                                                                                            "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/62c56ed9e90e0774833f5583/s960_EA-officer-high-viz-jacket_960x640.jpg",
+                                                                                            "url":  "https://assets.publishing.service.gov.uk/media/62c56ed9d3bf7f30034430da/s300_EA-officer-high-viz-jacket_960x640.jpg"
+                                                                                        },
+                                                                 "logo":  {
+                                                                              "formatted_title":  "Environment Agency",
+                                                                              "image":  {
+                                                                                            "alt_text":  "Environment Agency",
+                                                                                            "url":  "https://assets.publishing.service.gov.uk/media/61fd3365e90e0768a8e97523/environment-agency-logo-480w.png"
+                                                                                        }
+                                                                          },
+                                                                 "organisation_govuk_status":  {
+                                                                                                   "status":  "live",
+                                                                                                   "updated_at":  null,
+                                                                                                   "url":  null
+                                                                                               }
+                                                             },
+                                                 "document_type":  "organisation",
+                                                 "links":  {
+
+                                                           },
+                                                 "locale":  "en",
+                                                 "schema_name":  "organisation",
+                                                 "title":  "Environment Agency",
+                                                 "web_url":  "https://www.gov.uk/government/organisations/environment-agency",
+                                                 "withdrawn":  false
+                                             }
+                                         ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "EA199",
+                                            "api_path":  "/api/content/government/organisations/environment-agency",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/environment-agency",
+                                            "base_path":  "/government/organisations/environment-agency",
+                                            "content_id":  "16628142-57b2-4611-bc03-5912785acee3",
+                                            "details":  {
+                                                            "acronym":  "EA",
+                                                            "brand":  "department-for-environment-food-rural-affairs",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/62c56ed9e90e0774833f5583/s960_EA-officer-high-viz-jacket_960x640.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/62c56ed9d3bf7f30034430da/s300_EA-officer-high-viz-jacket_960x640.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "formatted_title":  "Environment Agency",
+                                                                         "image":  {
+                                                                                       "alt_text":  "Environment Agency",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/61fd3365e90e0768a8e97523/environment-agency-logo-480w.png"
+                                                                                   }
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Environment Agency",
+                                            "web_url":  "https://www.gov.uk/government/organisations/environment-agency",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA199",
+                                                                       "api_path":  "/api/content/government/organisations/environment-agency",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/environment-agency",
+                                                                       "base_path":  "/government/organisations/environment-agency",
+                                                                       "content_id":  "16628142-57b2-4611-bc03-5912785acee3",
+                                                                       "details":  {
+                                                                                       "acronym":  "EA",
+                                                                                       "brand":  "department-for-environment-food-rural-affairs",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/62c56ed9e90e0774833f5583/s960_EA-officer-high-viz-jacket_960x640.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/62c56ed9d3bf7f30034430da/s300_EA-officer-high-viz-jacket_960x640.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "formatted_title":  "Environment Agency",
+                                                                                                    "image":  {
+                                                                                                                  "alt_text":  "Environment Agency",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/61fd3365e90e0768a8e97523/environment-agency-logo-480w.png"
+                                                                                                              }
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Environment Agency",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/environment-agency",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "EA199",
+                                                              "api_path":  "/api/content/government/organisations/environment-agency",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/environment-agency",
+                                                              "base_path":  "/government/organisations/environment-agency",
+                                                              "content_id":  "16628142-57b2-4611-bc03-5912785acee3",
+                                                              "details":  {
+                                                                              "acronym":  "EA",
+                                                                              "brand":  "department-for-environment-food-rural-affairs",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/62c56ed9e90e0774833f5583/s960_EA-officer-high-viz-jacket_960x640.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/62c56ed9d3bf7f30034430da/s300_EA-officer-high-viz-jacket_960x640.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "formatted_title":  "Environment Agency",
+                                                                                           "image":  {
+                                                                                                         "alt_text":  "Environment Agency",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/61fd3365e90e0768a8e97523/environment-agency-logo-480w.png"
+                                                                                                     }
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Environment Agency",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/environment-agency",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related_mainstream":  [
+                                             {
+                                                 "api_path":  "/api/content/dispose-hazardous-waste",
+                                                 "api_url":  "https://www.gov.uk/api/content/dispose-hazardous-waste",
+                                                 "base_path":  "/dispose-hazardous-waste",
+                                                 "content_id":  "5ede6386-9f7b-47f7-9510-36c05fac6d48",
+                                                 "document_type":  "guide",
+                                                 "links":  {
+
+                                                           },
+                                                 "locale":  "en",
+                                                 "public_updated_at":  "2015-05-18T15:53:40Z",
+                                                 "schema_name":  "guide",
+                                                 "title":  "Hazardous waste",
+                                                 "web_url":  "https://www.gov.uk/dispose-hazardous-waste",
+                                                 "withdrawn":  false
+                                             }
+                                         ],
+                  "related_mainstream_content":  [
+                                                     {
+                                                         "api_path":  "/api/content/dispose-hazardous-waste",
+                                                         "api_url":  "https://www.gov.uk/api/content/dispose-hazardous-waste",
+                                                         "base_path":  "/dispose-hazardous-waste",
+                                                         "content_id":  "5ede6386-9f7b-47f7-9510-36c05fac6d48",
+                                                         "document_type":  "guide",
+                                                         "links":  {
+
+                                                                   },
+                                                         "locale":  "en",
+                                                         "public_updated_at":  "2015-05-18T15:53:40Z",
+                                                         "schema_name":  "guide",
+                                                         "title":  "Hazardous waste",
+                                                         "web_url":  "https://www.gov.uk/dispose-hazardous-waste",
+                                                         "withdrawn":  false
+                                                     }
+                                                 ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/waste-classification-technical-guidance",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/waste-classification-technical-guidance",
+                                                              "base_path":  "/government/publications/waste-classification-technical-guidance",
+                                                              "content_id":  "602aadd6-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-09-28T11:18:24Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Waste classification technical guidance",
+                                                              "web_url":  "https://www.gov.uk/government/publications/waste-classification-technical-guidance",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/hazardous-waste-consignment-note",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/hazardous-waste-consignment-note",
+                                                              "base_path":  "/government/publications/hazardous-waste-consignment-note",
+                                                              "content_id":  "5f4ab593-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "form",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2016-03-31T23:15:07Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Hazardous waste consignment note",
+                                                              "web_url":  "https://www.gov.uk/government/publications/hazardous-waste-consignment-note",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/duty-of-care-waste-transfer-note-template",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/duty-of-care-waste-transfer-note-template",
+                                                              "base_path":  "/government/publications/duty-of-care-waste-transfer-note-template",
+                                                              "content_id":  "5f454093-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "form",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-11-01T14:57:40Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Duty of care waste transfer note form",
+                                                              "web_url":  "https://www.gov.uk/government/publications/duty-of-care-waste-transfer-note-template",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/hazardous-waste-returns-supplementary-guidance",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/hazardous-waste-returns-supplementary-guidance",
+                                                              "base_path":  "/guidance/hazardous-waste-returns-supplementary-guidance",
+                                                              "content_id":  "5f426665-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2023-05-31T07:57:14Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Hazardous waste: consignee returns guidance (England)",
+                                                              "web_url":  "https://www.gov.uk/guidance/hazardous-waste-returns-supplementary-guidance",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/standard-industrial-classification-of-economic-activities-sic",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/standard-industrial-classification-of-economic-activities-sic",
+                                                              "base_path":  "/government/publications/standard-industrial-classification-of-economic-activities-sic",
+                                                              "content_id":  "602c631f-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2018-01-09T14:24:41Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Standard industrial classification of economic activities (SIC)",
+                                                              "web_url":  "https://www.gov.uk/government/publications/standard-industrial-classification-of-economic-activities-sic",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/environment/radioactive-and-nuclear-substances-and-waste",
+                                     "api_url":  "https://www.gov.uk/api/content/environment/radioactive-and-nuclear-substances-and-waste",
+                                     "base_path":  "/environment/radioactive-and-nuclear-substances-and-waste",
+                                     "content_id":  "bac7acc0-48aa-4889-ad2a-e0f5a138e6b0",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Radioactive and nuclear substances and waste",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/environment/waste-and-recycling",
+                                                                             "api_url":  "https://www.gov.uk/api/content/environment/waste-and-recycling",
+                                                                             "base_path":  "/environment/waste-and-recycling",
+                                                                             "content_id":  "f4e9e92d-9192-4e17-90c6-553339bc04c3",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Waste and recycling",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/environment",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/environment",
+                                                                                                                     "base_path":  "/environment",
+                                                                                                                     "content_id":  "3cf97f69-84de-41ae-bc7b-7e2cc238fa58",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Environment",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T13:39:00Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Environment",
+                                                                                                                     "web_url":  "https://www.gov.uk/environment",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T11:57:52Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Waste and recycling",
+                                                                             "web_url":  "https://www.gov.uk/environment/waste-and-recycling",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-16T11:57:21Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Radioactive and nuclear substances and waste",
+                                     "web_url":  "https://www.gov.uk/environment/radioactive-and-nuclear-substances-and-waste",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2019-09-02T11:38:57+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "26074-1675864362.605-10.13.2.220-3372",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Hazardous waste: consignment note guidance",
+    "updated_at":  "2024-03-11T16:49:11+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

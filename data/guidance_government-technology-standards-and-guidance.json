@@ -1,0 +1,822 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/government-technology-standards-and-guidance",
+    "content_id":  "dbe63338-d47e-4163-800c-b1d915bc57cb",
+    "description":  "This is collated guidance from government websites and independent bodies to help you follow the technology code of practice.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eThe \u003ca href=\"https://www.gov.uk/guidance/the-technology-code-of-practice\" class=\"govuk-link\"\u003etechnology code of practice\u003c/a\u003e is a set of criteria to help government design, build and buy technology.\u003c/p\u003e\n\n\u003ch2 id=\"accessibility\"\u003eAccessibility\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction\" class=\"govuk-link\"\u003eMaking your service accessible: an introduction\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/service-manual/technology/testing-for-accessibility\" class=\"govuk-link\"\u003eTesting for accessibility\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/service-manual/user-centred-design/browsers-and-devices.html\" class=\"govuk-link\"\u003eDesigning for different web browsers and devices\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/equality-act-2010-guidance\" class=\"govuk-link\"\u003eEquality Act 2010\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/how-to-publish-on-gov-uk\" class=\"govuk-link\"\u003eHow to publish on GOV.UK\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/government-approach-to-assisted-digital\" class=\"govuk-link\"\u003eGovernment approach to assisted digital\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps\" class=\"govuk-link\"\u003eMake your public sector website or app accessible\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"apis\"\u003eAPIs\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/gds-api-technical-and-data-standards\" class=\"govuk-link\"\u003eAPI technical and data standards\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/collections/api-design-guidance\" class=\"govuk-link\"\u003eAPI design guidance\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/setting-api-service-levels\" class=\"govuk-link\"\u003eSetting API service levels\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/writing-api-reference-documentation\" class=\"govuk-link\"\u003eWriting API reference documentation\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/how-to-document-apis\" class=\"govuk-link\"\u003eHow to document APIs\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://govukpay-docs.cloudapps.digital/#this-documentation\" class=\"govuk-link\"\u003eAPI documentation for GOV.UK Pay\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"application-development\"\u003eApplication development\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/guidance/application-development-guidance-introduction\" class=\"govuk-link\"\u003eApplication development guidance: introduction\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/service-manual/technology/working-with-mobile-technology#native-or-hybrid-apps\" class=\"govuk-link\"\u003eNative or hybrid apps\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/collection/mobile-device-guidance/platform-guides/android-10\" class=\"govuk-link\"\u003eMobile device guidance\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/guidance/apple-ios-application-development-guidance-0\" class=\"govuk-link\"\u003eApple iOS application development guidance\u003c/a\u003e  (NCSC)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"buying-technology\"\u003eBuying technology\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/service-manual/technology/choosing-technology-an-introduction\" class=\"govuk-link\"\u003eChoosing technology: an introduction\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://www.crowncommercial.gov.uk/products-and-services/aggregation\" class=\"govuk-link\"\u003eCCS aggregation\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/cabinet-office-controls\" class=\"govuk-link\"\u003eCabinet Office spend controls guidance version 4.0\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.crowncommercial.gov.uk/agreements\" class=\"govuk-link\"\u003eCrown Commercial Service (CCS) agreements search\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/commercial-operating-standards-for-government\" class=\"govuk-link\"\u003eCommercial operating standards for government\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/common-areas-of-spend-data-definitions\" class=\"govuk-link\"\u003eCommon areas of spend: data definitions\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/commercial-capability-contract-management-standards\" class=\"govuk-link\"\u003eCommercial capability: contract management standards\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/government-supplier-assurance-framework\" class=\"govuk-link\"\u003eGovernment supplier assurance framework\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/how-to-buy-digital-marketplace-services-fairly\" class=\"govuk-link\"\u003eHow to buy Digital Marketplace services fairly\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/how-to-set-your-evaluation-criteria-when-buying-digital-outcomes-and-specialists-services\" class=\"govuk-link\"\u003eHow to set your evaluation criteria when buying Digital Outcomes and Specialist services\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/lean-sourcing-guidance-for-public-sector-buyers\" class=\"govuk-link\"\u003eLean sourcing: guidance for public sector buyers\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/public-sector-procurement-policy\" class=\"govuk-link\"\u003ePublic procurement policy\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/public-sector-discounts-for-software/public-sector-discounts-for-software\" class=\"govuk-link\"\u003ePublic sector discounts for software\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/talking-to-suppliers-before-you-buy-digital-marketplace-services\" class=\"govuk-link\"\u003eTalking to suppliers before you buy Digital Marketplace services\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/technology-service-principles\" class=\"govuk-link\"\u003eTechnology service principles\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"cloud-strategy\"\u003eCloud strategy\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/government-cloud-first-policy\" class=\"govuk-link\"\u003eCloud first policy\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/how-to-assess-a-hosting-business-case\" class=\"govuk-link\"\u003eHow to assess a hosting business case\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/collection/cloud-security/iaas\" class=\"govuk-link\"\u003eIaaS - Managing your responsibilities\u003c/a\u003e  (NCSC)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"data-protection\"\u003eData protection\u003c/h2\u003e\n\n\u003ch3 id=\"general-data-protection-regulation-gdpr\"\u003eGeneral Data Protection Regulation (GDPR)\u003c/h3\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/\" class=\"govuk-link\"\u003eGuide to the General Data Protection Regulation (GDPR)\u003c/a\u003e  (ICO)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"data-provisioning-and-usage\"\u003eData provisioning and usage\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/code-of-data-matching-practice-for-national-fraud-initiative\" class=\"govuk-link\"\u003eCode of data matching practice for the National Fraud initiative\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/open-data-charter\" class=\"govuk-link\"\u003eOpen Data Charter\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"design-and-build-government-services\"\u003eDesign and build government services\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/service-toolkit\" class=\"govuk-link\"\u003eService toolkit\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"design-principles\"\u003eDesign principles\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/collection/security-design-principles-digital-services-main\" class=\"govuk-link\"\u003eSecurity design principles for service design\u003c/a\u003e  (NCSC)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"digital-inclusion\"\u003eDigital inclusion\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/digital-inclusion-evaluation-toolkit\" class=\"govuk-link\"\u003eDigital inclusion evaluation toolkit\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/digital-inclusion-and-skills-policy\" class=\"govuk-link\"\u003eDigital skills and inclusion policy\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy\" class=\"govuk-link\"\u003eGovernment digital inclusion strategy\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"digital-marketplace\"\u003eDigital Marketplace\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/collections/digital-marketplace-buyers-and-suppliers-information\" class=\"govuk-link\"\u003eDigital Marketplace buyers and suppliers information\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/digital-marketplace-buyers-guide\" class=\"govuk-link\"\u003eDigital Marketplace buyers’ guide\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/digital-marketplace-suppliers-guide\" class=\"govuk-link\"\u003eDigital Marketplace suppliers’ guide\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/digital-outcomes-and-specialists-buyers-guide\" class=\"govuk-link\"\u003eDigital outcomes and specialist buyers’ guide\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/digital-outcomes-and-specialists-templates-and-legal-documents\" class=\"govuk-link\"\u003eDigital outcomes and specialists templates and legal documents\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/emarketplace-a-guide-for-public-sector-buyers\" class=\"govuk-link\"\u003eeMarketplace: a guide for public sector buyers\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/g7-fundamental-elements-for-cyber-security\" class=\"govuk-link\"\u003eG7 fundamental elements for cyber security\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/how-digital-marketplace-suppliers-have-been-evaluated\" class=\"govuk-link\"\u003eHow Digital Marketplace suppliers have been evaluated\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/how-to-award-a-contract-when-you-buy-services\" class=\"govuk-link\"\u003eHow to award a contract when you buy services through the Digital Marketplace\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/how-to-manage-your-digital-outcomes-and-specialists-contract\" class=\"govuk-link\"\u003eHow to manage your digital outcomes and specialists contract\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/how-to-shortlist-digital-outcomes-and-specialists-suppliers\" class=\"govuk-link\"\u003eHow to shortlist digital outcomes and specialists suppliers\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/how-to-talk-about-being-a-supplier-on-the-digital-marketplace\" class=\"govuk-link\"\u003eHow to talk about being a supplier on the Digital Marketplace\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/terms-and-conditions-of-digital-marketplace-frameworks\" class=\"govuk-link\"\u003eTerms and conditions of Digital Marketplace frameworks\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"g-cloud\"\u003eG-Cloud\u003c/h3\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/g-cloud-templates-and-legal-documents\" class=\"govuk-link\"\u003eG-Cloud templates and legal documents\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/g-cloud-buyers-guide\" class=\"govuk-link\"\u003eG-Cloud buyers’ guide\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/g-cloud-suppliers-guide\" class=\"govuk-link\"\u003eG-Cloud suppliers’ guide\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"digital-outcomes-and-specialists-framework\"\u003eDigital outcomes and specialists framework\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/uk-digital-strategy\" class=\"govuk-link\"\u003eUK Digital Strategy\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/digital-outcomes-and-specialists-templates-and-legal-documents\" class=\"govuk-link\"\u003eDigital Outcomes and Specialists templates and legal documents\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/digital-outcomes-and-specialists-audit-trail-guidance\" class=\"govuk-link\"\u003eDigital outcomes and specialists audit trail guidance\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/digital-outcomes-and-specialists-suppliers-guide\" class=\"govuk-link\"\u003eDigital outcomes and specialists suppliers’ guide\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/digital-outcomes-and-specialists-digital-specialist-roles\" class=\"govuk-link\"\u003eDigital outcomes and specialists: digital specialist roles\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/how-to-answer-supplier-questions-about-your-digital-outcomes-and-specialists-requirements\" class=\"govuk-link\"\u003eHow to answer supplier questions about your outcomes and specialist requirements\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/how-to-evaluate-digital-outcomes-and-specialists-suppliers\" class=\"govuk-link\"\u003eHow to evaluate digital outcomes and specialist suppliers\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/how-to-make-changes-to-your-published-digital-outcomes-and-specialists-requirements\" class=\"govuk-link\"\u003eHow to make changes to your published digital outcomes and specialists requirements\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/how-to-score-digital-outcomes-and-specialists-suppliers\" class=\"govuk-link\"\u003eHow to score digital outcomes and specialist suppliers\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/how-to-sell-your-digital-outcomes-and-specialists-services\" class=\"govuk-link\"\u003eHow to sell your digital outcomes and specialist services\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/how-to-write-your-requirements-for-digital-outcomes-and-specialists-services\" class=\"govuk-link\"\u003eHow to write your requirements for digital outcomes and specialist services\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/ways-to-assess-digital-outcomes-and-specialists-suppliers\" class=\"govuk-link\"\u003eWays to assess digital outcomes and specialists suppliers\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"digital-service-standard\"\u003eDigital Service Standard\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/service-manual/service-standard\" class=\"govuk-link\"\u003eDigital Service Standard\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"digital-transformation\"\u003eDigital transformation\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/collections/digital-economy-bill-2016\" class=\"govuk-link\"\u003eDigital Economy Act 2017\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/organisational-design-for-digital-delivery\" class=\"govuk-link\"\u003eOrganisational design for digital delivery\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/government-transformation-strategy-2017-to-2020/government-transformation-strategy\" class=\"govuk-link\"\u003eGovernment transformation strategy\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/uk-digital-strategy/7-data-unlocking-the-power-of-data-in-the-uk-economy-and-improving-public-confidence-in-its-use\" class=\"govuk-link\"\u003eUK Digital Strategy\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/make-video-conferencing-tools-work-across-government\" class=\"govuk-link\"\u003eMake video conferencing tools work across government\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"emerging-technologies\"\u003eEmerging technologies\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca href=\"https://www.gov.uk/government/publications/growing-the-artificial-intelligence-industry-in-the-uk\" class=\"govuk-link\"\u003eGrowing the artificial intelligence industry in the UK\u003c/a\u003e  (DCMS \u0026amp; BEIS)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://publications.parliament.uk/pa/ld201719/ldselect/ldai/100/10002.htm\" class=\"govuk-link\"\u003eAI in the UK: ready, willing and able?\u003c/a\u003e  (House of Lords)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca href=\"https://www.gov.uk/government/publications/distributed-ledger-technology-blackett-review\" class=\"govuk-link\"\u003eDistributed ledger technology: Blackett review\u003c/a\u003e  (Government Office for Science)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca href=\"https://www.gov.uk/government/publications/quantum-technologies-blackett-review\" class=\"govuk-link\"\u003eQuantum technologies: Blackett review\u003c/a\u003e  (Government Office for Science)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"end-user-devices\"\u003eEnd user devices\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/collection/device-security-guidance\" class=\"govuk-link\"\u003eEnd user device: security guidance\u003c/a\u003e  (NCSC)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"govuk-notify\"\u003eGOV.UK Notify\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://www.notifications.service.gov.uk/\" class=\"govuk-link\"\u003eGOV.UK Notify overview\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"govuk-pay\"\u003eGOV.UK Pay\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://www.payments.service.gov.uk\" class=\"govuk-link\"\u003eGOV.UK Pay overview\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"govuk-proposition\"\u003eGOV.UK Proposition\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/govuk-proposition\" class=\"govuk-link\"\u003eGOV.UK Proposition overview\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"govuk-platform-as-a-service-paas\"\u003eGOV.UK Platform as a Service (PaaS)\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://www.cloud.service.gov.uk/\" class=\"govuk-link\"\u003eGOV.UK Platform as a Service (PaaS) overview\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://docs.cloud.service.gov.uk/#technical-documentation-for-gov-uk-paas\" class=\"govuk-link\"\u003eTechnical documentation for GOV.UK PaaS\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"govwifi\"\u003eGovWifi\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.wifi.service.gov.uk/about-govwifi/connect-to-govwifi/\" class=\"govuk-link\"\u003eConnect to GovWifi\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.wifi.service.gov.uk/support/connect-to-govwifi-using-a-mac-imac-or-macbook/\" class=\"govuk-link\"\u003eConnect to GovWifi using a Mac, iMac or Macbook\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.wifi.service.gov.uk/support/connect-to-govwifi-using-a-windows-device/\" class=\"govuk-link\"\u003eConnect to GovWifi using a Windows device\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.wifi.service.gov.uk/support/connect-to-govwifi-using-an-iphone-or-ipad/\" class=\"govuk-link\"\u003eConnect to GovWifi using an iPhone or iPad\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://www.wifi.service.gov.uk/\" class=\"govuk-link\"\u003eCreate a new GovWifi installation\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"http://www.wifi.service.gov.uk/terms-and-conditions/\" class=\"govuk-link\"\u003eTerms and conditions for connecting to GovWifi\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"green-technology\"\u003eGreen technology\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/a-guide-to-financing-energy-efficiency-in-the-public-sector\" class=\"govuk-link\"\u003eA Guide to financing energy efficiency in the Public Sector\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/energy-performance-contract-epc\" class=\"govuk-link\"\u003eEnergy Performance Contract (EPC)\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/greening-government-commitments-2016-to-2020\" class=\"govuk-link\"\u003eGreening Government Commitments 2016 to 2020\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/greening-government-sustainable-technology-strategy-2020/the-greening-government-sustainable-technology-strategy-2020-sustainable-technology-for-sustainable-government\" class=\"govuk-link\"\u003eThe greening government: sustainable technology strategy 2020\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/greening-government-ict-and-digital-services-strategy-2020-2025/greening-government-ict-and-digital-services-strategy-2020-2025\" class=\"govuk-link\"\u003eGreening government: ICT and digital services strategy 2020-2025\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"hosting-your-service\"\u003eHosting your service\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/service-manual/technology/deciding-how-to-host-your-service\" class=\"govuk-link\"\u003eDeciding how to host your service\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/service-manual/technology/get-a-domain-name\" class=\"govuk-link\"\u003eGet a service domain name\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/service-manual/technology/managing-domain-names\" class=\"govuk-link\"\u003eManaging service domains\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/the-crown-hosting-data-centres-framework-on-the-digital-marketplace\" class=\"govuk-link\"\u003eThe Crown Hosting data centres framework on the Digital Marketplace\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"identity-assurance\"\u003eIdentity assurance\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/guidance/introduction-identity-and-access-management\" class=\"govuk-link\"\u003eIntroduction to identity and access management\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/guidance/multi-factor-authentication-online-services\" class=\"govuk-link\"\u003eMulti-factor authentication for online services\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/collection/biometrics\" class=\"govuk-link\"\u003eBiometric recognition and authentication systems\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/guidance/setting-two-factor-authentication-2fa\" class=\"govuk-link\"\u003eSetting up two-factor authentication (2FA)\u003c/a\u003e  (NCSC)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"job-roles\"\u003eJob roles\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/collections/digital-data-and-technology-job-roles-in-government\" class=\"govuk-link\"\u003eDigital, data and technology job roles in government\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"legacy\"\u003eLegacy\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/managing-legacy-technology\" class=\"govuk-link\"\u003eManaging legacy technology\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/obsolete-products\" class=\"govuk-link\"\u003eObsolete platforms security guidance\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/service-manual/technology/moving-away-from-legacy-systems\" class=\"govuk-link\"\u003eMoving away from legacy systems\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"managing-government-websites\"\u003eManaging government websites\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/govuk-proposition\" class=\"govuk-link\"\u003eGOV.UK proposition\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/content-design/campaigns-on-gov-uk-standards-and-guidelines\" class=\"govuk-link\"\u003eContent design: planning, writing and managing content\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/naming-and-registering-government-websites\" class=\"govuk-link\"\u003eNaming and registering government websites\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/open-central-government-websites-march-2017\" class=\"govuk-link\"\u003eOpen central government websites\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/request-an-exemption-from-govuk\" class=\"govuk-link\"\u003eRequest an exemption from GOV.UK\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"microsoft-365-guidance\"\u003eMicrosoft 365 Guidance\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/guidance/microsoft-365-guidance-for-uk-government\" class=\"govuk-link\"\u003eMicrosoft 365 Guidance for UK Government\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"networking\"\u003eNetworking\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/collection/10-steps\" class=\"govuk-link\"\u003e10 steps: network security\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/government-network-policy-changes\" class=\"govuk-link\"\u003eGovernment network policy changes\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/guidance/provisioning-and-securing-security-certificates\" class=\"govuk-link\"\u003eProvisioning and securing security certificates\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/how-to-install-network-infrastructure-in-shared-buildings\" class=\"govuk-link\"\u003eHow to install network infrastructure in shared buildings\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/sharing-workplace-wireless-networks\" class=\"govuk-link\"\u003eSharing workplace wireless networks\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"open-source\"\u003eOpen source\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/collections/open-government\" class=\"govuk-link\"\u003eOpen government\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://opensource.org/\" class=\"govuk-link\"\u003eOpen Source Initiative\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/service-manual/service-standard/make-all-new-source-code-open\" class=\"govuk-link\"\u003eMaking new source code open by default\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/open-source-guidance/when-code-should-be-open-or-closed\" class=\"govuk-link\"\u003eWhen code should be open or closed\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/open-source-guidance/security-considerations-when-coding-in-the-open\" class=\"govuk-link\"\u003eSecurity considerations when coding in the open\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"open-standards\"\u003eOpen standards\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/open-data-charter\" class=\"govuk-link\"\u003eOpen Data Charter\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/open-formats-implementation-plan\" class=\"govuk-link\"\u003eOpen formats implementation plan\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/collections/open-standards-for-government-data-and-technology\" class=\"govuk-link\"\u003eOpen standards for government data and technology\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles\" class=\"govuk-link\"\u003eOpen standards principles\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/procurement-policy-note-0715-open-standards-for-technology\" class=\"govuk-link\"\u003eProcurement policy note 07/15: open standards for technology\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/service-manual/technology/working-with-open-standards\" class=\"govuk-link\"\u003eWorking with open standards\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"performance-platform\"\u003ePerformance platform\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/performance\" class=\"govuk-link\"\u003ePerformance Platform overview\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"public-service-network-psn\"\u003ePublic Service Network (PSN)\u003c/h2\u003e\n\n\u003ch3 id=\"psn-certification\"\u003ePSN certification\u003c/h3\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/how-to-access-or-provide-public-service-network-psn-services-and-connectivity\" class=\"govuk-link\"\u003eAccess or provide PSN services and connectivity\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/apply-for-a-government-conveyancing-network-gcn-connectivity-service-compliance-certificate\" class=\"govuk-link\"\u003eApply for a GCN connectivity service compliance certificate\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/apply-for-a-public-services-network-psn-connection-compliance-certificate\" class=\"govuk-link\"\u003eApply for a PSN connection compliance certificate\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/apply-for-a-public-services-network-psn-connectivity-service-compliance-certificate\" class=\"govuk-link\"\u003eApply for a PSN connectivity service compliance certificate\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/apply-for-a-public-services-network-psn-connection-compliance-certificate\" class=\"govuk-link\"\u003eApply for a PSN service provision compliance certificate\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"connect-and-configure-psn-systems\"\u003eConnect and configure PSN systems\u003c/h3\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/how-to-connect-and-configure-your-systems-to-the-public-services-network-psn\" class=\"govuk-link\"\u003eConnect and configure your systems to PSN\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/how-to-connect-and-configure-your-systems-to-the-public-services-network-psn\" class=\"govuk-link\"\u003eConnect and configure your systems to the Public Services Network\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/it-health-check-ithc-supporting-guidance\" class=\"govuk-link\"\u003eIT Health Check (ITHC): supporting guidance\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"psn-compliance\"\u003ePSN compliance\u003c/h3\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/public-services-network-psn-compliance\" class=\"govuk-link\"\u003eFind out about PSN compliance\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/psn-code-of-connection-coco\" class=\"govuk-link\"\u003ePSN Code of Connection (CoCo)\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/psn-code-of-interconnection-coico\" class=\"govuk-link\"\u003ePSN Code of Interconnection (CoICo)\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/psn-code-of-practice-cop\" class=\"govuk-link\"\u003ePSN Code of Practice (CoP)\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/public-services-network-psn-service-compliance\" class=\"govuk-link\"\u003ePSN Compliant services\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/public-services-network-psn-connectivity-services/psn-connectivity-services\" class=\"govuk-link\"\u003ePSN Connectivity services\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/psn-governance-obligations-for-all-connectivity-services\" class=\"govuk-link\"\u003ePSN governance obligations for all connectivity services\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"psn-forms\"\u003ePSN forms\u003c/h3\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/psn-dns-change-forms\" class=\"govuk-link\"\u003ePSN DSN Change form\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/public-services-network-psn-incident-reporting-form\" class=\"govuk-link\"\u003ePSN incident reporting form\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"psn-allocation-and-management\"\u003ePSN allocation and management\u003c/h3\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/public-services-network-psn-incidents-and-problems\" class=\"govuk-link\"\u003ePSN incidents and problems\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/public-services-network-psn-ip-address-allocation\" class=\"govuk-link\"\u003ePSN IP address allocation\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/psn-ip-address-management/psn-ip-address-management\" class=\"govuk-link\"\u003ePSN IP address management\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/public-services-network-psn-management-information-requirements\" class=\"govuk-link\"\u003ePSN management information requirements\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/public-services-network-psn-management-information-requirements/psn-management-information-requirements-for-gcnsps\" class=\"govuk-link\"\u003ePSN management information requirements for GCNSPs\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/psn-network-architecture\" class=\"govuk-link\"\u003ePSN network architecture\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/public-services-network-psn-obligations-for-connectivity-services\" class=\"govuk-link\"\u003ePSN obligations\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/psn-quality-of-service-qos-specification\" class=\"govuk-link\"\u003ePSN Quality of Service (QoS) specification\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/psn-quality-of-service-qos-testing-and-reporting/psn-quality-of-service-qos-testing-and-reporting\" class=\"govuk-link\"\u003ePSN Quality of Service (QoS) testing and reporting\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/public-services-network-psn-service-management-good-practice\" class=\"govuk-link\"\u003ePSN service management good practice\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/psn-service-management-obligations-for-gcn-services\" class=\"govuk-link\"\u003ePSN service management obligations for GCN services\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/psn-standard-terms-and-conditions\" class=\"govuk-link\"\u003ePSN standard terms and conditions\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/public-services-network-psn-virtual-points-of-connection-vpocs\" class=\"govuk-link\"\u003ePSN Virtual Points of Connection (VPoCs)\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/public-services-network-psn-deed-of-undertakings-dou\" class=\"govuk-link\"\u003ePublic Services Network (PSN): Deed of Undertakings (DoU)\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"registers\"\u003eRegisters\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/registers-becoming-a-custodian\" class=\"govuk-link\"\u003eBecoming a custodian\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/creating-a-register\" class=\"govuk-link\"\u003eCreating a register\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/registers/registers\" class=\"govuk-link\"\u003eIntroducing registers\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/collections/registers-guidance\" class=\"govuk-link\"\u003eRegisters guidance\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/using-registers-to-build-a-service\" class=\"govuk-link\"\u003eUsing registers to build a service\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"risk-management\"\u003eRisk management\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/collection/risk-management-collection\" class=\"govuk-link\"\u003eRisk management guidance\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/management-of-risk-in-government-framework/management-of-risk-in-government-summary\" class=\"govuk-link\"\u003eManagement of risk in government: summary\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/guidance/systems-administration-architectures\" class=\"govuk-link\"\u003eSystem administration architecture\u003c/a\u003e  (NCSC)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"smarter-working\"\u003eSmarter working\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/collection/10-steps-to-cyber-security/the-10-steps/home-and-mobile-working\" class=\"govuk-link\"\u003e10 steps: home and mobile working\u003c/a\u003e  (NCSC)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"security\"\u003eSecurity\u003c/h2\u003e\n\n\u003ch3 id=\"standards-and-regulations\"\u003eStandards and regulations\u003c/h3\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/the-minimum-cyber-security-standard\" class=\"govuk-link\"\u003eMinimum Cyber Security Standard\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/collection/nis-directive\" class=\"govuk-link\"\u003eNCSC NIS guidance\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://www.pcisecuritystandards.org/\" class=\"govuk-link\"\u003ePayment Card Industry Data Security Standard\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/\" class=\"govuk-link\"\u003eGeneral Data Protection Regulation\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://www.iso.org/isoiec-27001-information-security.html\" class=\"govuk-link\"\u003eISO/IEC 27001 Information Security Management\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/cyber-essentials-scheme-overview\" class=\"govuk-link\"\u003eCyber Essentials Scheme\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"cloud-security\"\u003eCloud security\u003c/h3\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/guidance/introduction-understanding-cloud-security\" class=\"govuk-link\"\u003eIntroduction: understanding cloud security\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/collection/cloud-security/implementing-the-cloud-security-principles\" class=\"govuk-link\"\u003eImplementing the cloud security principles\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/using-cloud-tools-securely\" class=\"govuk-link\"\u003eUsing cloud tools securely\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/guidance/managing-risk-cloud-enabled-products\" class=\"govuk-link\"\u003eManaging the risk of cloud-enabled products\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/service-manual/technology/securing-your-cloud-environment\" class=\"govuk-link\"\u003eSecuring your cloud environment\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"cyber-security\"\u003eCyber security\u003c/h3\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/collection/10-steps\" class=\"govuk-link\"\u003e10 steps to cyber security\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/collection/10-steps-to-cyber-security/the-10-steps/incident-management\" class=\"govuk-link\"\u003e10 steps: incident management\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/collection/10-steps-to-cyber-security/the-10-steps/malware-prevention\" class=\"govuk-link\"\u003e10 steps: malware prevention\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/collection/10-steps-to-cyber-security/the-10-steps/managing-user-privileges\" class=\"govuk-link\"\u003e10 steps: managing user privileges\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/collection/10-steps-to-cyber-security/the-10-steps/monitoring\" class=\"govuk-link\"\u003e10 steps: monitoring\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/collection/10-steps-to-cyber-security/the-10-steps/removable-media-controls\" class=\"govuk-link\"\u003e10 steps: removable media controls\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/collection/10-steps-to-cyber-security/the-10-steps/user-education-and-awareness\" class=\"govuk-link\"\u003e10 steps: user education and awareness\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/collections/cyber-security-guidance-for-business\" class=\"govuk-link\"\u003eCyber security guidance for business\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/cyber-security-regulation-and-incentives-review\" class=\"govuk-link\"\u003eCyber security regulation and incentives review\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/cyber-security-supplier-to-government-scheme\" class=\"govuk-link\"\u003eCyber security supplier to government scheme\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/guidance/internet-edge-device-security\" class=\"govuk-link\"\u003eInternet edge device security\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/collections/investigatory-powers-bill\" class=\"govuk-link\"\u003eInvestigatory Powers Act\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/guidance/security-governance-enabling-sensible-risk-management-decisions-communication\" class=\"govuk-link\"\u003eSecurity governance, enabling sensible risk management decisions \u0026amp; communication\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/transaction-monitoring-for-hmg-online-service-providers\" class=\"govuk-link\"\u003eTransaction monitoring for HMG online service providers\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/service-manual/technology/working-with-cookies-and-similar-technologies\" class=\"govuk-link\"\u003eWorking with cookies and similar technologies\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/guidance/introduction-logging-security-purposes\" class=\"govuk-link\"\u003eIntroduction to logging for security purposes\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"addressing-cyber-attacks-and-fraud\"\u003eAddressing cyber attacks and fraud\u003c/h3\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/collection/10-steps-to-cyber-security/introduction-to-cyber-security/common-cyber-attacks-reducing-the-impact\" class=\"govuk-link\"\u003eCommon cyber attacks: reducing the impact\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/data-sharing-for-the-prevention-of-fraud-code-of-practice\" class=\"govuk-link\"\u003eData sharing for the prevention of fraud: code of practice\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/defence-cyber-protection-partnership-an-overview\" class=\"govuk-link\"\u003eDefence cyber protection partnership: an overview\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/collection/denial-service-dos-guidance-collection\" class=\"govuk-link\"\u003eDenial of service (DOS) guidance\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/collection/digital-service-security\" class=\"govuk-link\"\u003eDigital service security\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/guidance/phishing-threat-following-data-breaches\" class=\"govuk-link\"\u003eThe phishing threat following data breaches\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/guidance/protecting-your-organisation-ransomware\" class=\"govuk-link\"\u003eProtecting your organisation from ransomware\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/service-manual/technology/protecting-your-service-against-fraud\" class=\"govuk-link\"\u003eProtecting your service against fraud\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/guidance/ransomware-latest-ncsc-guidance\" class=\"govuk-link\"\u003eRansomware: latest NCSC guidance\u003c/a\u003e  (NCSC)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"securing-data-and-consent\"\u003eSecuring data and consent\u003c/h3\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/official-sensitive-data-and-it\" class=\"govuk-link\"\u003e‘OFFICIAL SENSITIVE’ data and IT\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/secure-electronic-transfer-key-features-and-benefits/secure-electronic-transfer-key-features-and-benefits\" class=\"govuk-link\"\u003eKey features and benefits of secure electronic transfer\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/government-security-classifications\" class=\"govuk-link\"\u003eGovernment security classifications\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/data-ethics-framework\" class=\"govuk-link\"\u003eData ethics framework\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/guidance/protecting-bulk-personal-data-main\" class=\"govuk-link\"\u003eProtecting bulk personal data - collection\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/service-manual/technology/securing-your-information\" class=\"govuk-link\"\u003eSecuring your information\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/guidance/tls-external-facing-services\" class=\"govuk-link\"\u003eUsing Transport Layer Security (TLS) to protect data\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/guidance/pattern-safely-importing-data\" class=\"govuk-link\"\u003ePattern: Safely Importing Data\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"digital-service-security\"\u003eDigital service security\u003c/h3\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/collection/digital-service-security/digital-services-designing-secure-digital-service\" class=\"govuk-link\"\u003eDigital service security: designing a secure digital service\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/collection/digital-service-security/digital-services-building-secure-digital-service\" class=\"govuk-link\"\u003eDigital service security: building a secure digital service\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/collection/digital-service-security/digital-services-operating-secure-digital-service\" class=\"govuk-link\"\u003eDigital service security: operating a secure digital service\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/securing-saas-tools-for-your-organisation\" class=\"govuk-link\"\u003eSecuring SaaS tools for your organisation\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/collection/saas-security/saas-security-principles\" class=\"govuk-link\"\u003eSaaS security principles\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/guidance/saas-security-collection\" class=\"govuk-link\"\u003eSaaS security collection\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"email\"\u003eEmail\u003c/h3\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/email-security-standards\" class=\"govuk-link\"\u003eEmail security standards\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/service-manual/design/email-addresses\" class=\"govuk-link\"\u003eHow to ask users for their email address\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/service-manual/technology/how-to-email-your-users\" class=\"govuk-link\"\u003eHow to email your users\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/new-computerised-transit-system-ncts-email-service-availability-and-issues\" class=\"govuk-link\"\u003eNew computerised transit system (NCTS) email: service availability and issues\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/set-up-government-email-services-securely\" class=\"govuk-link\"\u003eSet up government email services securely\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/securing-government-email\" class=\"govuk-link\"\u003eSecuring government email\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/guidance-to-departments-on-private-email-use\" class=\"govuk-link\"\u003eUse of private emails\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"passwords\"\u003ePasswords\u003c/h3\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/guidance/password-guidance-summary-how-protect-against-password-guessing-attacks\" class=\"govuk-link\"\u003ePassword guidance summary: How to protect against password-guessing attacks\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/guidance/password-guidance-simplifying-your-approach\" class=\"govuk-link\"\u003ePassword guidance: simplifying your approach\u003c/a\u003e  (NCSC)\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/guidance/multi-factor-authentication-online-services\" class=\"govuk-link\"\u003eMulti-factor authentication for online services\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"phishing\"\u003ePhishing\u003c/h3\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/guidance/phishing-threat-following-data-breaches\" class=\"govuk-link\"\u003eThe phishing threat following data breaches\u003c/a\u003e  (NCSC)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"talent-acquisition\"\u003eTalent acquisition\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/talent-action-plan-guidance-for-civil-servants\" class=\"govuk-link\"\u003eTalent action plan: guide for civil servants\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/the-right-people-in-the-right-place-with-the-right-skills\" class=\"govuk-link\"\u003eThe right people in the right place with the right skills\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/civil-service-competency-framework\" class=\"govuk-link\"\u003eCivil service competency framework\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"telecommunications\"\u003eTelecommunications\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/resilient-communications\" class=\"govuk-link\"\u003eResilient communications\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"user-research\"\u003eUser research\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/service-manual/service-standard/understand-user-needs\" class=\"govuk-link\"\u003eUnderstanding user needs\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/service-manual/user-research/how-user-research-improves-service-design\" class=\"govuk-link\"\u003eUser research for government services: an introduction\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/service-manual/user-research/start-by-learning-user-needs\" class=\"govuk-link\"\u003eLearning about users and their needs\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Added a new section and link for Microsoft 365 Guidance",
+                                               "public_timestamp":  "2023-10-05T10:00:07.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2016-08-02T00:00:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "2fb482e7-3c4d-496f-887d-f8a55a15e89a"
+                                                 ],
+                    "first_public_at":  "2016-08-02T00:00:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2016-08-02T00:00:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/government-technology-standards-and-guidance",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/government-technology-standards-and-guidance",
+                                                     "base_path":  "/guidance/government-technology-standards-and-guidance",
+                                                     "content_id":  "dbe63338-d47e-4163-800c-b1d915bc57cb",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2023-10-05T09:00:07Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Government technology standards and guidance",
+                                                     "web_url":  "https://www.gov.uk/guidance/government-technology-standards-and-guidance",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "OT1329",
+                                            "api_path":  "/api/content/government/organisations/central-digital-and-data-office",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/central-digital-and-data-office",
+                                            "base_path":  "/government/organisations/central-digital-and-data-office",
+                                            "content_id":  "2fb482e7-3c4d-496f-887d-f8a55a15e89a",
+                                            "details":  {
+                                                            "acronym":  "CDDO",
+                                                            "brand":  "department-for-science-innovation-and-technology",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Central Digital \u003cbr/\u003e\u0026amp; Data Office"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Central Digital and Data Office",
+                                            "web_url":  "https://www.gov.uk/government/organisations/central-digital-and-data-office",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "OT1329",
+                                                                       "api_path":  "/api/content/government/organisations/central-digital-and-data-office",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/central-digital-and-data-office",
+                                                                       "base_path":  "/government/organisations/central-digital-and-data-office",
+                                                                       "content_id":  "2fb482e7-3c4d-496f-887d-f8a55a15e89a",
+                                                                       "details":  {
+                                                                                       "acronym":  "CDDO",
+                                                                                       "brand":  "department-for-science-innovation-and-technology",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Central Digital \u003cbr/\u003e\u0026amp; Data Office"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Central Digital and Data Office",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/central-digital-and-data-office",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "OT1329",
+                                                              "api_path":  "/api/content/government/organisations/central-digital-and-data-office",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/central-digital-and-data-office",
+                                                              "base_path":  "/government/organisations/central-digital-and-data-office",
+                                                              "content_id":  "2fb482e7-3c4d-496f-887d-f8a55a15e89a",
+                                                              "details":  {
+                                                                              "acronym":  "CDDO",
+                                                                              "brand":  "department-for-science-innovation-and-technology",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Central Digital \u003cbr/\u003e\u0026amp; Data Office"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Central Digital and Data Office",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/central-digital-and-data-office",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/define-user-needs",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/define-user-needs",
+                                                              "base_path":  "/guidance/define-user-needs",
+                                                              "content_id":  "b8c6247a-2596-4306-86dc-93e6597b01b0",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-03-31T11:30:07Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Define user needs",
+                                                              "web_url":  "https://www.gov.uk/guidance/define-user-needs",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/make-things-accessible",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/make-things-accessible",
+                                                              "base_path":  "/guidance/make-things-accessible",
+                                                              "content_id":  "bba91fa1-7875-4dff-8285-63c5ff1e7caf",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2023-10-05T15:04:12Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Make things accessible and inclusive",
+                                                              "web_url":  "https://www.gov.uk/guidance/make-things-accessible",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/make-things-secure",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/make-things-secure",
+                                                              "base_path":  "/guidance/make-things-secure",
+                                                              "content_id":  "3458f0b9-f07f-48eb-814a-6fb6e7d9fc8f",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-03-31T11:31:04Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Make things secure",
+                                                              "web_url":  "https://www.gov.uk/guidance/make-things-secure",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/make-privacy-integral",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/make-privacy-integral",
+                                                              "base_path":  "/guidance/make-privacy-integral",
+                                                              "content_id":  "16672cca-ed32-423d-8bab-f6612095b21f",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2021-03-31T11:31:13Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Make privacy integral",
+                                                              "web_url":  "https://www.gov.uk/guidance/make-privacy-integral",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/share-and-reuse-technology",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/share-and-reuse-technology",
+                                                              "base_path":  "/guidance/share-and-reuse-technology",
+                                                              "content_id":  "258f509c-a5b7-4c6e-a805-42eebf7a0320",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2023-07-24T08:05:01Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Share, reuse and collaborate",
+                                                              "web_url":  "https://www.gov.uk/guidance/share-and-reuse-technology",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/government/apis-and-app-development",
+                                     "api_url":  "https://www.gov.uk/api/content/government/apis-and-app-development",
+                                     "base_path":  "/government/apis-and-app-development",
+                                     "content_id":  "34dfe08a-a416-4052-9952-4266ffb08dba",
+                                     "details":  {
+                                                     "internal_name":  "APIs and application development",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/government-technology-and-digital-services",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/government-technology-and-digital-services",
+                                                                             "base_path":  "/government/government-technology-and-digital-services",
+                                                                             "content_id":  "90c9b9f1-0a4f-4639-b1e9-2bfb23d611bd",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Government technology and digital services",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/government/all",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/government/all",
+                                                                                                                     "base_path":  "/government/all",
+                                                                                                                     "content_id":  "e48ab80a-de80-4e83-bf59-26316856a5f9",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Government",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:29:39Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Government",
+                                                                                                                     "web_url":  "https://www.gov.uk/government/all",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "beta",
+                                                                             "public_updated_at":  "2018-08-28T10:56:47Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Government technology and digital services",
+                                                                             "web_url":  "https://www.gov.uk/government/government-technology-and-digital-services",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "beta",
+                                     "public_updated_at":  "2018-08-20T09:26:15Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "APIs and app development",
+                                     "web_url":  "https://www.gov.uk/government/apis-and-app-development",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/government/technology-guidance-technology-guidance-buying-technology",
+                                     "api_url":  "https://www.gov.uk/api/content/government/technology-guidance-technology-guidance-buying-technology",
+                                     "base_path":  "/government/technology-guidance-technology-guidance-buying-technology",
+                                     "content_id":  "685d131a-5bcc-46e0-b952-8d9a3ffc6f0a",
+                                     "details":  {
+                                                     "internal_name":  "Buying technology [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/government-technology-and-digital-services",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/government-technology-and-digital-services",
+                                                                             "base_path":  "/government/government-technology-and-digital-services",
+                                                                             "content_id":  "90c9b9f1-0a4f-4639-b1e9-2bfb23d611bd",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Government technology and digital services",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/government/all",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/government/all",
+                                                                                                                     "base_path":  "/government/all",
+                                                                                                                     "content_id":  "e48ab80a-de80-4e83-bf59-26316856a5f9",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Government",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:29:39Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Government",
+                                                                                                                     "web_url":  "https://www.gov.uk/government/all",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "beta",
+                                                                             "public_updated_at":  "2018-08-28T10:56:47Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Government technology and digital services",
+                                                                             "web_url":  "https://www.gov.uk/government/government-technology-and-digital-services",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "beta",
+                                     "public_updated_at":  "2018-08-20T09:26:14Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Buying technology",
+                                     "web_url":  "https://www.gov.uk/government/technology-guidance-technology-guidance-buying-technology",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/government/data",
+                                     "api_url":  "https://www.gov.uk/api/content/government/data",
+                                     "base_path":  "/government/data",
+                                     "content_id":  "b7374969-dfdf-46eb-97f3-7772c011c10d",
+                                     "description":  "",
+                                     "details":  {
+                                                     "internal_name":  "Data",
+                                                     "notes_for_editors":  "",
+                                                     "url_override":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/all",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/all",
+                                                                             "base_path":  "/government/all",
+                                                                             "content_id":  "e48ab80a-de80-4e83-bf59-26316856a5f9",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Government",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:29:39Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Government",
+                                                                             "web_url":  "https://www.gov.uk/government/all",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "beta",
+                                     "public_updated_at":  "2022-03-08T08:06:55Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Data",
+                                     "web_url":  "https://www.gov.uk/government/data",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/government/technology-guidance-digital-security",
+                                     "api_url":  "https://www.gov.uk/api/content/government/technology-guidance-digital-security",
+                                     "base_path":  "/government/technology-guidance-digital-security",
+                                     "content_id":  "578871e4-b755-4664-b0e6-1b2e8b841600",
+                                     "details":  {
+                                                     "internal_name":  "Digital security",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/government-technology-and-digital-services",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/government-technology-and-digital-services",
+                                                                             "base_path":  "/government/government-technology-and-digital-services",
+                                                                             "content_id":  "90c9b9f1-0a4f-4639-b1e9-2bfb23d611bd",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Government technology and digital services",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/government/all",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/government/all",
+                                                                                                                     "base_path":  "/government/all",
+                                                                                                                     "content_id":  "e48ab80a-de80-4e83-bf59-26316856a5f9",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Government",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:29:39Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Government",
+                                                                                                                     "web_url":  "https://www.gov.uk/government/all",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "beta",
+                                                                             "public_updated_at":  "2018-08-28T10:56:47Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Government technology and digital services",
+                                                                             "web_url":  "https://www.gov.uk/government/government-technology-and-digital-services",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "beta",
+                                     "public_updated_at":  "2018-08-20T09:26:15Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Digital security",
+                                     "web_url":  "https://www.gov.uk/government/technology-guidance-digital-security",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/government/networks-and-telecommunications",
+                                     "api_url":  "https://www.gov.uk/api/content/government/networks-and-telecommunications",
+                                     "base_path":  "/government/networks-and-telecommunications",
+                                     "content_id":  "130c100c-189d-49a7-af2d-ebcf69d04759",
+                                     "details":  {
+                                                     "internal_name":  "Networks and telecommunications",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/government-technology-and-digital-services",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/government-technology-and-digital-services",
+                                                                             "base_path":  "/government/government-technology-and-digital-services",
+                                                                             "content_id":  "90c9b9f1-0a4f-4639-b1e9-2bfb23d611bd",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Government technology and digital services",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/government/all",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/government/all",
+                                                                                                                     "base_path":  "/government/all",
+                                                                                                                     "content_id":  "e48ab80a-de80-4e83-bf59-26316856a5f9",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Government",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:29:39Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Government",
+                                                                                                                     "web_url":  "https://www.gov.uk/government/all",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "beta",
+                                                                             "public_updated_at":  "2018-08-28T10:56:47Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Government technology and digital services",
+                                                                             "web_url":  "https://www.gov.uk/government/government-technology-and-digital-services",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "beta",
+                                     "public_updated_at":  "2018-08-20T09:26:16Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Networks and telecommunications",
+                                     "web_url":  "https://www.gov.uk/government/networks-and-telecommunications",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/government/open-source-and-open-standards",
+                                     "api_url":  "https://www.gov.uk/api/content/government/open-source-and-open-standards",
+                                     "base_path":  "/government/open-source-and-open-standards",
+                                     "content_id":  "9ea62430-3c48-440d-b29d-32f0d75878a3",
+                                     "details":  {
+                                                     "internal_name":  "Open source and open standards",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/government-technology-and-digital-services",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/government-technology-and-digital-services",
+                                                                             "base_path":  "/government/government-technology-and-digital-services",
+                                                                             "content_id":  "90c9b9f1-0a4f-4639-b1e9-2bfb23d611bd",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Government technology and digital services",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/government/all",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/government/all",
+                                                                                                                     "base_path":  "/government/all",
+                                                                                                                     "content_id":  "e48ab80a-de80-4e83-bf59-26316856a5f9",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Government",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:29:39Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Government",
+                                                                                                                     "web_url":  "https://www.gov.uk/government/all",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "beta",
+                                                                             "public_updated_at":  "2018-08-28T10:56:47Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Government technology and digital services",
+                                                                             "web_url":  "https://www.gov.uk/government/government-technology-and-digital-services",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "beta",
+                                     "public_updated_at":  "2018-08-20T09:26:15Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Open source and open standards",
+                                     "web_url":  "https://www.gov.uk/government/open-source-and-open-standards",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/government/technology-guidance-technology-guidance-psn",
+                                     "api_url":  "https://www.gov.uk/api/content/government/technology-guidance-technology-guidance-psn",
+                                     "base_path":  "/government/technology-guidance-technology-guidance-psn",
+                                     "content_id":  "7cc28ee9-706f-4bbf-99ec-2b26f7d94621",
+                                     "details":  {
+                                                     "internal_name":  "Public Service Network (PSN) [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/government-technology-and-digital-services",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/government-technology-and-digital-services",
+                                                                             "base_path":  "/government/government-technology-and-digital-services",
+                                                                             "content_id":  "90c9b9f1-0a4f-4639-b1e9-2bfb23d611bd",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Government technology and digital services",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/government/all",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/government/all",
+                                                                                                                     "base_path":  "/government/all",
+                                                                                                                     "content_id":  "e48ab80a-de80-4e83-bf59-26316856a5f9",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Government",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:29:39Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Government",
+                                                                                                                     "web_url":  "https://www.gov.uk/government/all",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "beta",
+                                                                             "public_updated_at":  "2018-08-28T10:56:47Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Government technology and digital services",
+                                                                             "web_url":  "https://www.gov.uk/government/government-technology-and-digital-services",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "beta",
+                                     "public_updated_at":  "2018-08-20T09:26:14Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Public Service Network (PSN)",
+                                     "web_url":  "https://www.gov.uk/government/technology-guidance-technology-guidance-psn",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/government/technology-guidance-technology-guidance-user-research",
+                                     "api_url":  "https://www.gov.uk/api/content/government/technology-guidance-technology-guidance-user-research",
+                                     "base_path":  "/government/technology-guidance-technology-guidance-user-research",
+                                     "content_id":  "9e404eb0-5a2a-41ec-bace-c62407a604bc",
+                                     "details":  {
+                                                     "internal_name":  "User research [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/government-technology-and-digital-services",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/government-technology-and-digital-services",
+                                                                             "base_path":  "/government/government-technology-and-digital-services",
+                                                                             "content_id":  "90c9b9f1-0a4f-4639-b1e9-2bfb23d611bd",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Government technology and digital services",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/government/all",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/government/all",
+                                                                                                                     "base_path":  "/government/all",
+                                                                                                                     "content_id":  "e48ab80a-de80-4e83-bf59-26316856a5f9",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Government",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:29:39Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Government",
+                                                                                                                     "web_url":  "https://www.gov.uk/government/all",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "beta",
+                                                                             "public_updated_at":  "2018-08-28T10:56:47Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Government technology and digital services",
+                                                                             "web_url":  "https://www.gov.uk/government/government-technology-and-digital-services",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "beta",
+                                     "public_updated_at":  "2018-08-20T09:26:14Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "User research",
+                                     "web_url":  "https://www.gov.uk/government/technology-guidance-technology-guidance-user-research",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2023-10-05T10:00:07+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1696342202.865-10.13.20.4-2691",
+    "publishing_scheduled_at":  "2023-10-05T10:00:00+01:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  7,
+    "schema_name":  "detailed_guide",
+    "title":  "Government technology standards and guidance",
+    "updated_at":  "2024-12-12T10:27:39+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

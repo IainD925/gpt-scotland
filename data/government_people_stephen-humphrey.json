@@ -1,0 +1,221 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/government/people/stephen-humphrey",
+    "content_id":  "817e3252-197f-49d7-99e8-2fdbeefd8a40",
+    "description":  "Steve is Actuarial Director responsible for Quality, Compliance and Risk. He is a member of GAD’s Management Board and Executive. He provides Management Board oversight of the Insurance and Investment team. Steve joined GAD in 1994 having previously worked at a large private sector consultancy.",
+    "details":  {
+                    "body":  "\u003cp\u003eSteve is Actuarial Director responsible for Quality, Compliance and Risk. He is a member of GAD’s Management Board and Executive. He provides Management Board oversight of the Insurance and Investment team. Steve joined GAD in 1994 having previously worked at a large private sector consultancy.\u003c/p\u003e\n",
+                    "full_name":  "Stephen Humphrey",
+                    "image":  {
+                                  "alt_text":  "Stephen Humphrey",
+                                  "url":  "https://assets.publishing.service.gov.uk/media/660c108c67958c001f365a61/s465_STEPHEN_HUMPHREY_-_ACTUARIAL_DIRECTOR.jpg"
+                              },
+                    "privy_counsellor":  false
+                },
+    "document_type":  "person",
+    "first_published_at":  "2016-03-31T10:39:12+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/government/people/stephen-humphrey",
+                                                     "api_url":  "https://www.gov.uk/api/content/government/people/stephen-humphrey",
+                                                     "base_path":  "/government/people/stephen-humphrey",
+                                                     "content_id":  "817e3252-197f-49d7-99e8-2fdbeefd8a40",
+                                                     "document_type":  "person",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2020-04-29T09:15:39Z",
+                                                     "schema_name":  "person",
+                                                     "title":  "Stephen Humphrey",
+                                                     "web_url":  "https://www.gov.uk/government/people/stephen-humphrey",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "role_appointments":  [
+                                            {
+                                                "content_id":  "76c4e82e-5456-4a52-abf9-4f28cd9ee730",
+                                                "details":  {
+                                                                "current":  false,
+                                                                "ended_on":  "2020-03-31T00:00:00+01:00",
+                                                                "person_appointment_order":  3247,
+                                                                "started_on":  "2016-03-31T00:00:00+01:00"
+                                                            },
+                                                "document_type":  "role_appointment",
+                                                "links":  {
+                                                              "person":  [
+                                                                             {
+                                                                                 "api_path":  "/api/content/government/people/stephen-humphrey",
+                                                                                 "api_url":  "https://www.gov.uk/api/content/government/people/stephen-humphrey",
+                                                                                 "base_path":  "/government/people/stephen-humphrey",
+                                                                                 "content_id":  "817e3252-197f-49d7-99e8-2fdbeefd8a40",
+                                                                                 "details":  {
+                                                                                                 "body":  "\u003cp\u003eSteve is Actuarial Director responsible for Quality, Compliance and Risk. He is a member of GAD’s Management Board and Executive. He provides Management Board oversight of the Insurance and Investment team. Steve joined GAD in 1994 having previously worked at a large private sector consultancy.\u003c/p\u003e\n",
+                                                                                                 "image":  {
+                                                                                                               "alt_text":  "Stephen Humphrey",
+                                                                                                               "url":  "https://assets.publishing.service.gov.uk/media/660c108c67958c001f365a61/s465_STEPHEN_HUMPHREY_-_ACTUARIAL_DIRECTOR.jpg"
+                                                                                                           }
+                                                                                             },
+                                                                                 "document_type":  "person",
+                                                                                 "links":  {
+
+                                                                                           },
+                                                                                 "locale":  "en",
+                                                                                 "public_updated_at":  "2020-04-29T09:15:39Z",
+                                                                                 "schema_name":  "person",
+                                                                                 "title":  "Stephen Humphrey",
+                                                                                 "web_url":  "https://www.gov.uk/government/people/stephen-humphrey",
+                                                                                 "withdrawn":  false
+                                                                             }
+                                                                         ],
+                                                              "role":  [
+                                                                           {
+                                                                               "content_id":  "6483994e-6cd1-453f-b802-8bcaeaccb8f9",
+                                                                               "details":  {
+                                                                                               "body":  "\n",
+                                                                                               "role_payment_type":  null
+                                                                                           },
+                                                                               "document_type":  "board_member_role",
+                                                                               "links":  {
+                                                                                             "ordered_parent_organisations":  [
+                                                                                                                                  {
+                                                                                                                                      "analytics_identifier":  "D103",
+                                                                                                                                      "api_path":  "/api/content/government/organisations/government-actuarys-department",
+                                                                                                                                      "api_url":  "https://www.gov.uk/api/content/government/organisations/government-actuarys-department",
+                                                                                                                                      "base_path":  "/government/organisations/government-actuarys-department",
+                                                                                                                                      "content_id":  "02e01dc9-a4c4-46d9-b496-a618c89afe62",
+                                                                                                                                      "details":  {
+                                                                                                                                                      "acronym":  "GAD",
+                                                                                                                                                      "brand":  "hm-treasury",
+                                                                                                                                                      "default_news_image":  null,
+                                                                                                                                                      "logo":  "@{crest=single-identity; formatted_title=Government \u003cbr/\u003eActuary\u0026#39;s \u003cbr/\u003eDepartment}",
+                                                                                                                                                      "organisation_govuk_status":  "@{status=live; updated_at=; url=}"
+                                                                                                                                                  },
+                                                                                                                                      "document_type":  "organisation",
+                                                                                                                                      "links":  {
+
+                                                                                                                                                },
+                                                                                                                                      "locale":  "en",
+                                                                                                                                      "schema_name":  "organisation",
+                                                                                                                                      "title":  "Government Actuary\u0027s Department",
+                                                                                                                                      "web_url":  "https://www.gov.uk/government/organisations/government-actuarys-department",
+                                                                                                                                      "withdrawn":  false
+                                                                                                                                  }
+                                                                                                                              ]
+                                                                                         },
+                                                                               "locale":  "en",
+                                                                               "public_updated_at":  "2017-03-31T14:44:06Z",
+                                                                               "schema_name":  "role",
+                                                                               "title":  "Head of Specialist Actuarial",
+                                                                               "withdrawn":  false
+                                                                           }
+                                                                       ]
+                                                          },
+                                                "locale":  "en",
+                                                "public_updated_at":  "2020-04-28T12:39:54Z",
+                                                "schema_name":  "role_appointment",
+                                                "title":  "Stephen Humphrey - Head of Specialist Actuarial",
+                                                "withdrawn":  false
+                                            },
+                                            {
+                                                "content_id":  "63c454e3-1382-44c6-9898-7b5f62920ccb",
+                                                "details":  {
+                                                                "current":  true,
+                                                                "ended_on":  null,
+                                                                "person_appointment_order":  6188,
+                                                                "started_on":  "2020-04-01T00:00:00+01:00"
+                                                            },
+                                                "document_type":  "role_appointment",
+                                                "links":  {
+                                                              "person":  [
+                                                                             {
+                                                                                 "api_path":  "/api/content/government/people/stephen-humphrey",
+                                                                                 "api_url":  "https://www.gov.uk/api/content/government/people/stephen-humphrey",
+                                                                                 "base_path":  "/government/people/stephen-humphrey",
+                                                                                 "content_id":  "817e3252-197f-49d7-99e8-2fdbeefd8a40",
+                                                                                 "details":  {
+                                                                                                 "body":  "\u003cp\u003eSteve is Actuarial Director responsible for Quality, Compliance and Risk. He is a member of GAD’s Management Board and Executive. He provides Management Board oversight of the Insurance and Investment team. Steve joined GAD in 1994 having previously worked at a large private sector consultancy.\u003c/p\u003e\n",
+                                                                                                 "image":  {
+                                                                                                               "alt_text":  "Stephen Humphrey",
+                                                                                                               "url":  "https://assets.publishing.service.gov.uk/media/660c108c67958c001f365a61/s465_STEPHEN_HUMPHREY_-_ACTUARIAL_DIRECTOR.jpg"
+                                                                                                           }
+                                                                                             },
+                                                                                 "document_type":  "person",
+                                                                                 "links":  {
+
+                                                                                           },
+                                                                                 "locale":  "en",
+                                                                                 "public_updated_at":  "2020-04-29T09:15:39Z",
+                                                                                 "schema_name":  "person",
+                                                                                 "title":  "Stephen Humphrey",
+                                                                                 "web_url":  "https://www.gov.uk/government/people/stephen-humphrey",
+                                                                                 "withdrawn":  false
+                                                                             }
+                                                                         ],
+                                                              "role":  [
+                                                                           {
+                                                                               "content_id":  "781ca453-e71f-4032-af99-d547396aa720",
+                                                                               "details":  {
+                                                                                               "body":  "\n",
+                                                                                               "role_payment_type":  null
+                                                                                           },
+                                                                               "document_type":  "board_member_role",
+                                                                               "links":  {
+                                                                                             "ordered_parent_organisations":  [
+                                                                                                                                  {
+                                                                                                                                      "analytics_identifier":  "D103",
+                                                                                                                                      "api_path":  "/api/content/government/organisations/government-actuarys-department",
+                                                                                                                                      "api_url":  "https://www.gov.uk/api/content/government/organisations/government-actuarys-department",
+                                                                                                                                      "base_path":  "/government/organisations/government-actuarys-department",
+                                                                                                                                      "content_id":  "02e01dc9-a4c4-46d9-b496-a618c89afe62",
+                                                                                                                                      "details":  {
+                                                                                                                                                      "acronym":  "GAD",
+                                                                                                                                                      "brand":  "hm-treasury",
+                                                                                                                                                      "default_news_image":  null,
+                                                                                                                                                      "logo":  "@{crest=single-identity; formatted_title=Government \u003cbr/\u003eActuary\u0026#39;s \u003cbr/\u003eDepartment}",
+                                                                                                                                                      "organisation_govuk_status":  "@{status=live; updated_at=; url=}"
+                                                                                                                                                  },
+                                                                                                                                      "document_type":  "organisation",
+                                                                                                                                      "links":  {
+
+                                                                                                                                                },
+                                                                                                                                      "locale":  "en",
+                                                                                                                                      "schema_name":  "organisation",
+                                                                                                                                      "title":  "Government Actuary\u0027s Department",
+                                                                                                                                      "web_url":  "https://www.gov.uk/government/organisations/government-actuarys-department",
+                                                                                                                                      "withdrawn":  false
+                                                                                                                                  }
+                                                                                                                              ]
+                                                                                         },
+                                                                               "locale":  "en",
+                                                                               "public_updated_at":  "2020-04-28T12:43:27Z",
+                                                                               "schema_name":  "role",
+                                                                               "title":  "Actuarial Director (Quality, Compliance and Risk)",
+                                                                               "withdrawn":  false
+                                                                           }
+                                                                       ]
+                                                          },
+                                                "locale":  "en",
+                                                "public_updated_at":  "2020-04-28T12:45:23Z",
+                                                "schema_name":  "role_appointment",
+                                                "title":  "Stephen Humphrey - Actuarial Director (Quality, Compliance and Risk)",
+                                                "withdrawn":  false
+                                            }
+                                        ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2020-04-29T10:15:39+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1712066668.827-10.13.21.244-24833",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "collections",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "person",
+    "title":  "Stephen Humphrey",
+    "updated_at":  "2024-12-19T10:39:02+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

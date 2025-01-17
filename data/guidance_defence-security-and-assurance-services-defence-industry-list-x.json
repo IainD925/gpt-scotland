@@ -1,0 +1,436 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/defence-security-and-assurance-services-defence-industry-list-x",
+    "content_id":  "5c8f48eb-7631-11e4-a3cb-005056011aef",
+    "description":  "Cyber Defence and Resilience (CyDR) Defence Industry Cyber Security Assurance and Risk Balance Case (RBC) processes.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003ch2 id=\"cydr-service\"\u003e\n\u003cabbr title=\"Cyber Defence and Risk\"\u003eCyDR\u003c/abbr\u003e service\u003c/h2\u003e\n\n\u003cp\u003e\u003cabbr title=\"Cyber Defence and Risk\"\u003eCyDR\u003c/abbr\u003e provides a range of support to Defence in the area of Cyber Security, including:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eoversight, tracking and provision of management information for all Cyber Security activity\u003c/li\u003e\n  \u003cli\u003eadvice and guidance on the Secure by Design (SbD) process\u003c/li\u003e\n  \u003cli\u003eSecond Line Assessments of selected projects\u003c/li\u003e\n  \u003cli\u003eprovision of Cyber Risk Consultancy \u0026amp; Advice\u003c/li\u003e\n  \u003cli\u003eTechnical Assurance Consultancy\u003c/li\u003e\n  \u003cli\u003eDefence Assurance Risk Tool (\u003cabbr title=\"Defence Assurance Risk Tool\"\u003eDART\u003c/abbr\u003e) service administration\u003c/li\u003e\n  \u003cli\u003eprovision of Management Information (MI) in support of the Cyber Security Assurance process\u003c/li\u003e\n  \u003cli\u003eprogression and review of Risk Balance Cases (\u003cabbr title=\"risk balance case\"\u003eRBC\u003c/abbr\u003e) prior to sign-off by Ministry of Defence (\u003cabbr title=\"Ministry of Defence\"\u003eMOD\u003c/abbr\u003e) Senior Information Risk Owner (\u003cabbr title=\"Senior Information Risk Owner\"\u003eSIRO\u003c/abbr\u003e)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"sbd-and-cessation-of-accreditation\"\u003eSbD and cessation of accreditation\u003c/h2\u003e\n\n\u003cp\u003eOn 28 July 2023, \u003cabbr title=\"Ministry of Defence\"\u003eMOD\u003c/abbr\u003e launched its new SbD approach for programmes and projects to continuously assess and assure their Cyber Risk. As a consequence, \u003cabbr title=\"Ministry of Defence\"\u003eMOD\u003c/abbr\u003e will no longer apply accreditation to new projects. Instead,\n\u003ca href=\"https://www.gov.uk/government/publications/industry-security-notices-isns\" class=\"govuk-link\"\u003eIndustry Security Notice (ISN) 2023/10\u003c/a\u003e provides guidance for \u003cabbr title=\"Ministry of Defence\"\u003eMOD\u003c/abbr\u003e project teams to register their projects and programmes involving industry partners for SbD, and the subsequent removal of the need for industry to register themselves with Cyber Security Assessment \u0026amp; Advisory Services (CySAAS).\u003c/p\u003e\n\n\u003cp\u003eThe ISN defines criteria for \u003cabbr title=\"Ministry of Defence\"\u003eMOD\u003c/abbr\u003e programmes and projects to determine their potential Registration Category. Those assessed as Category 2 or 3 will not require registration with CySAAS; instead they are required to continue following the \u003ca href=\"https://www.gov.uk/guidance/defence-cyber-protection-partnership\" class=\"govuk-link\"\u003eDefence Cyber Protection Partnership\u003c/a\u003e (DCPP) process in accordance with the Cyber Security Model (CSM).\u003c/p\u003e\n\n\u003cp\u003eThe next version of the CSM is due for publication in 2024. Those considered by the \u003cabbr title=\"Ministry of Defence\"\u003eMOD\u003c/abbr\u003e Delivery Team to be Category 1 will liaise with their industry partners to assist in registering the programme or project as SbD.\u003c/p\u003e\n\n\u003cp\u003eIn the meantime, all industry-owned registrations not currently holding any form of accreditation will have been retired, and the relevant industry partners advised to comply with the aforementioned ISN.\u003c/p\u003e\n\n\u003cp\u003eThose with current accreditation will be permitted to progress to their Expiry Date without any further CySAAS Assessor engagement, at which point ISN 2023/10 will apply. Any enquiries concerning this process should be addressed with your \u003cabbr title=\"Ministry of Defence\"\u003eMOD\u003c/abbr\u003e Delivery Team.\u003c/p\u003e\n\n\u003ch2 id=\"risk-balance-cases-rbc\"\u003eRisk Balance Cases (\u003cabbr title=\"risk balance case\"\u003eRBC\u003c/abbr\u003e)\u003c/h2\u003e\n\n\u003cp\u003eWhere circumstances dictate that it is necessary to carry out action that is outside of the scope of standard policy, a \u003cabbr title=\"risk balance case\"\u003eRBC\u003c/abbr\u003e must be raised. All \u003cabbr title=\"risk balance cases\"\u003eRBCs\u003c/abbr\u003e are registered through \u003cabbr title=\"Defence Assurance Risk Tool\"\u003eDART\u003c/abbr\u003e, providing the user is able to connect to the \u003cabbr title=\"Ministry of Defence\"\u003eMOD\u003c/abbr\u003e Core Network (MCN) or the SECRET LAN Interconnect (SLI), depending on the classification of the content of the \u003cabbr title=\"risk balance case\"\u003eRBC\u003c/abbr\u003e and/or the data being processed by the associated programme, project or system.\u003c/p\u003e\n\n\u003cp\u003e\u003cabbr title=\"risk balance cases\"\u003eRBCs\u003c/abbr\u003e are divided into 2 main categories:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eMovements: involving the transfer of information between various locations; these were formerly referred to as ‘Fast Tracks’\u003c/li\u003e\n  \u003cli\u003eInformation: all other \u003cabbr title=\"risk balance cases\"\u003eRBCs\u003c/abbr\u003e (previously called ‘Supp 12’s’)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe generic pathway for an \u003cabbr title=\"risk balance case\"\u003eRBC\u003c/abbr\u003e is:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003einitial triage by \u003cabbr title=\"Cyber Defence and Risk\"\u003eCyDR\u003c/abbr\u003e  to determine who needs to be involved\u003c/li\u003e\n  \u003cli\u003ereview and comment by nominated stakeholders; e.g. the Network Technical Authority or local security staff\u003c/li\u003e\n  \u003cli\u003ereview and comment by a \u003cabbr title=\"Cyber Defence and Risk\"\u003eCyDR\u003c/abbr\u003e Cyber Security Assessor\u003c/li\u003e\n  \u003cli\u003ea final assessment by the \u003cabbr title=\"Cyber Defence and Risk\"\u003eCyDR\u003c/abbr\u003e  \u003cabbr title=\"risk balance case\"\u003eRBC\u003c/abbr\u003e lead\u003c/li\u003e\n  \u003cli\u003eapproval by \u003cabbr title=\"Ministry of Defence\"\u003eMOD\u003c/abbr\u003e \u003cabbr title=\"Senior Information Risk Owner\"\u003eSIRO\u003c/abbr\u003e or delegated authority\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"registering-an-rbc-under-legacy-accreditation\"\u003eRegistering an \u003cabbr title=\"risk balance case\"\u003eRBC\u003c/abbr\u003e under Legacy Accreditation\u003c/h2\u003e\n\n\u003cp\u003eIf you have access to the MCN, you can contact \u003ca href=\"mailto:UKStratComDD-CyDR-DART-Help@mod.gov.uk\" class=\"govuk-link\"\u003eUKStratComDD-\u003cabbr title=\"Cyber Defence and Risk\"\u003eCyDR\u003c/abbr\u003e-\u003cabbr title=\"Defence Assurance Risk Tool\"\u003eDART\u003c/abbr\u003e-Help@mod.gov.uk\u003c/a\u003e and request a link to \u003cabbr title=\"Defence Assurance Risk Tool\"\u003eDART\u003c/abbr\u003e.\u003c/p\u003e\n\n\u003cp\u003eIf you do not have access to the MCN, you will not be able to access \u003cabbr title=\"Defence Assurance Risk Tool\"\u003eDART\u003c/abbr\u003e directly. In this circumstance:\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003eSave a copy of the relevant \u003ca href=\"https://www.gov.uk/government/publications/industry-accreditation-request-form\" class=\"govuk-link\"\u003e\u003cabbr title=\"Cyber Defence and Risk\"\u003eCyDR\u003c/abbr\u003e accreditation request or off-line \u003cabbr title=\"risk balance case\"\u003eRBC\u003c/abbr\u003e form to a suitable location\u003c/a\u003e.\u003c/li\u003e\n  \u003cli\u003eRemember that information categorised as OFFICIAL-SENSITIVE or above must not be transmitted in clear over the internet.\u003c/li\u003e\n  \u003cli\u003ePost the completed accreditation request forms to:\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cdiv class=\"address\"\u003e\u003cdiv class=\"adr org fn\"\u003e\u003cp\u003e\n\nService Delivery Team\n\u003cbr\u003eCyDR, Room X007\n\u003cbr\u003eBazalgette Pavilion,\n\u003cbr\u003eRAF Wyton\n\u003cbr\u003eHuntingdon \n\u003cbr\u003eCambs\n\u003cbr\u003ePE28 2EA\n\u003cbr\u003e\n\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e\n\n\u003ch3 id=\"get-advice-and-guidance-on-the-cyber-security-assurance-or-rbc-processes-in-general\"\u003eGet advice and guidance on the Cyber Security Assurance or \u003cabbr title=\"risk balance case\"\u003eRBC\u003c/abbr\u003e processes in general\u003c/h3\u003e\n\n\u003cp\u003eEmail our customer support team at \u003ca href=\"mailto:UKStratComDD-CyDR-DART-Help@mod.gov.uk\" class=\"govuk-link\"\u003eUKStratComDD-\u003cabbr title=\"Cyber Defence and Risk\"\u003eCyDR\u003c/abbr\u003e-\u003cabbr title=\"Defence Assurance Risk Tool\"\u003eDART\u003c/abbr\u003e-Help@mod.gov.uk\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eGet advice and guidance on SbD polices and procedures: \u003ca href=\"mailto:UKStratComDD-CyDR-SbD-Help@mod.gov.uk\" class=\"govuk-link\"\u003eUKStratComDD-\u003cabbr title=\"Cyber Defence and Risk\"\u003eCyDR\u003c/abbr\u003e-SbD-Help@mod.gov.uk\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"joint-security-co-ordination-centre\"\u003eJoint Security Co-ordination Centre\u003c/h2\u003e\n\n\u003cp\u003eThe Joint Security Co-ordination (\u003cabbr title=\"Joint Security Co-ordination Centre\"\u003eJSyCC\u003c/abbr\u003e) enables ‘Defence Information Assurance’ assessment through the conduct and coordination of \u003cabbr title=\"Ministry of Defence\"\u003eMOD\u003c/abbr\u003e information security incident management and related risk analysis activity.\u003c/p\u003e\n\n\u003cp\u003eAdditionally, it is a focal point for ‘information security alerts’ and associated ‘warning and response’ activities.\u003c/p\u003e\n\n\u003cp\u003e\u003cabbr title=\"Joint Security Co-ordination Centre\"\u003eJSyCC\u003c/abbr\u003e are responsible for:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eoperational co-ordination and management of the immediate response, warning and reporting, including the investigative oversight and follow-up actions, for all reported Defence Information Assurance/Information Security incidents involving the loss, compromise or leakage of protectively marked official information and/or equipment\u003c/li\u003e\n  \u003cli\u003eoperational information security risk management, trend analysis and related policy. This includes the management of the \u003cabbr title=\"Ministry of Defence\"\u003eMOD\u003c/abbr\u003e Information Security Incident Reporting Scheme (\u003cabbr title=\"MoD Information Security Incident Reporting Scheme\"\u003eMISIRS\u003c/abbr\u003e) and supporting database, together with the drafting of responses to Parliamentary Questions, Freedom of Information (FOI) requests etc\u003c/li\u003e\n  \u003cli\u003ethe provision of the Defence Industry Warning and Reporting Point (\u003cabbr title=\"Defence Industry Warning and Reporting\"\u003eWARP\u003c/abbr\u003e), responsible for the coordination of the response and management of all Defence Industry Information Security incidents, including List X\u003c/li\u003e\n  \u003cli\u003ethe coordination of all law enforcement and counter intelligence for information security incidents\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"contact-details\"\u003eContact details\u003c/h3\u003e\n\n\u003cp\u003eIf you want to know more about \u003cabbr title=\"Joint Security Co-ordination Centre\"\u003eJSyCC\u003c/abbr\u003e, use the contact details below:\u003c/p\u003e\n\n\u003cdiv class=\"address\"\u003e\u003cdiv class=\"adr org fn\"\u003e\u003cp\u003e\n\nJSyCC \n\u003cbr\u003eX017, Bazelgette Pavilion \n\u003cbr\u003eRAF Wyton \n\u003cbr\u003eHuntingdon \n\u003cbr\u003eCambs, PE28 2EA \n\u003cbr\u003e\n\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e\n\n\u003cp\u003e\u003cabbr title=\"Joint Security Co-ordination Centre\"\u003eJSyCC\u003c/abbr\u003e Ops: 0306 770 2187\u003c/p\u003e\n\n\u003cp\u003e\u003cabbr title=\"Joint Security Co-ordination Centre\"\u003eJSyCC\u003c/abbr\u003e Duty Officer (out of hours): 07768 558 863\u003c/p\u003e\n\n\u003cp\u003eEmail: \u003ca href=\"mailto:COO-DSR-JSyCCOperations@mod.gov.uk\" class=\"govuk-link\"\u003eCOO-DSR-JSyCCOperations@mod.gov.uk\u003c/a\u003e\u003c/p\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "Updated webpage with latest information on CyDR processes.",
+                                               "public_timestamp":  "2024-06-06T16:11:59.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated the email address under \u0027Start accrediting your ICT system or registering an RBC\u0027.",
+                                               "public_timestamp":  "2021-12-08T15:35:18.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated organisation name throughout page. ",
+                                               "public_timestamp":  "2020-06-30T16:17:20.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Guidance has been updated with further contact details.",
+                                               "public_timestamp":  "2019-02-28T10:09:00.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Updated DAIS information.",
+                                               "public_timestamp":  "2017-11-14T12:22:13.000+00:00"
+                                           },
+                                           {
+                                               "note":  "Added updated information on DAIS defence industry ICT accreditation.",
+                                               "public_timestamp":  "2017-08-07T15:39:08.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated contact details.",
+                                               "public_timestamp":  "2016-10-11T15:34:03.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated DAIS content.",
+                                               "public_timestamp":  "2015-08-26T14:00:21.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated name of organisation to Defence Assurance and Information Security (DAIS).",
+                                               "public_timestamp":  "2014-09-24T13:03:35.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Updated contact details",
+                                               "public_timestamp":  "2014-03-07T15:47:38.000+00:00"
+                                           },
+                                           {
+                                               "note":  "New form added",
+                                               "public_timestamp":  "2013-02-07T16:29:55.000+00:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2012-12-12T00:00:00.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "d994e55c-48c9-4795-b872-58d8ec98af12"
+                                                 ],
+                    "first_public_at":  "2012-12-12T00:00:00.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2012-12-12T00:00:00+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/defence-security-and-assurance-services-defence-industry-list-x",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/defence-security-and-assurance-services-defence-industry-list-x",
+                                                     "base_path":  "/guidance/defence-security-and-assurance-services-defence-industry-list-x",
+                                                     "content_id":  "5c8f48eb-7631-11e4-a3cb-005056011aef",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2024-06-06T15:11:59Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "CyDR Defence Industry Cyber Security Assurance and Risk Balance Case processes",
+                                                     "web_url":  "https://www.gov.uk/guidance/defence-security-and-assurance-services-defence-industry-list-x",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "base_path":  "/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government",
+                                         "content_id":  "591c83aa-3b74-437d-a342-612bddd97572",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2015-05-08T00:00:00+00:00",
+                                                         "started_on":  "2010-05-12T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2010 to 2015 Conservative and Liberal Democrat coalition government",
+                                         "web_url":  "https://www.gov.uk/government/2010-to-2015-conservative-and-liberal-democrat-coalition-government"
+                                     }
+                                 ],
+                  "lead_organisations":  [
+                                             {
+                                                 "analytics_identifier":  "D17",
+                                                 "api_path":  "/api/content/government/organisations/ministry-of-defence",
+                                                 "api_url":  "https://www.gov.uk/api/content/government/organisations/ministry-of-defence",
+                                                 "base_path":  "/government/organisations/ministry-of-defence",
+                                                 "content_id":  "d994e55c-48c9-4795-b872-58d8ec98af12",
+                                                 "details":  {
+                                                                 "acronym":  "MOD",
+                                                                 "brand":  "ministry-of-defence",
+                                                                 "default_news_image":  {
+                                                                                            "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/63495d46d3bf7f618eda94d2/s960_ministry-of-defence-building.jpg",
+                                                                                            "url":  "https://assets.publishing.service.gov.uk/media/63495d468fa8f5346732690e/s300_ministry-of-defence-building.jpg"
+                                                                                        },
+                                                                 "logo":  {
+                                                                              "crest":  "mod",
+                                                                              "formatted_title":  "Ministry\u003cbr/\u003eof Defence"
+                                                                          },
+                                                                 "organisation_govuk_status":  {
+                                                                                                   "status":  "live",
+                                                                                                   "updated_at":  null,
+                                                                                                   "url":  null
+                                                                                               }
+                                                             },
+                                                 "document_type":  "organisation",
+                                                 "links":  {
+
+                                                           },
+                                                 "locale":  "en",
+                                                 "schema_name":  "organisation",
+                                                 "title":  "Ministry of Defence",
+                                                 "web_url":  "https://www.gov.uk/government/organisations/ministry-of-defence",
+                                                 "withdrawn":  false
+                                             }
+                                         ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D17",
+                                            "api_path":  "/api/content/government/organisations/ministry-of-defence",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/ministry-of-defence",
+                                            "base_path":  "/government/organisations/ministry-of-defence",
+                                            "content_id":  "d994e55c-48c9-4795-b872-58d8ec98af12",
+                                            "details":  {
+                                                            "acronym":  "MOD",
+                                                            "brand":  "ministry-of-defence",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/63495d46d3bf7f618eda94d2/s960_ministry-of-defence-building.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/63495d468fa8f5346732690e/s300_ministry-of-defence-building.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "mod",
+                                                                         "formatted_title":  "Ministry\u003cbr/\u003eof Defence"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Ministry of Defence",
+                                            "web_url":  "https://www.gov.uk/government/organisations/ministry-of-defence",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "D17",
+                                                                       "api_path":  "/api/content/government/organisations/ministry-of-defence",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/ministry-of-defence",
+                                                                       "base_path":  "/government/organisations/ministry-of-defence",
+                                                                       "content_id":  "d994e55c-48c9-4795-b872-58d8ec98af12",
+                                                                       "details":  {
+                                                                                       "acronym":  "MOD",
+                                                                                       "brand":  "ministry-of-defence",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/63495d46d3bf7f618eda94d2/s960_ministry-of-defence-building.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/63495d468fa8f5346732690e/s300_ministry-of-defence-building.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "crest":  "mod",
+                                                                                                    "formatted_title":  "Ministry\u003cbr/\u003eof Defence"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Ministry of Defence",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/ministry-of-defence",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D17",
+                                                              "api_path":  "/api/content/government/organisations/ministry-of-defence",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/ministry-of-defence",
+                                                              "base_path":  "/government/organisations/ministry-of-defence",
+                                                              "content_id":  "d994e55c-48c9-4795-b872-58d8ec98af12",
+                                                              "details":  {
+                                                                              "acronym":  "MOD",
+                                                                              "brand":  "ministry-of-defence",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/63495d46d3bf7f618eda94d2/s960_ministry-of-defence-building.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/63495d468fa8f5346732690e/s300_ministry-of-defence-building.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "mod",
+                                                                                           "formatted_title":  "Ministry\u003cbr/\u003eof Defence"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Ministry of Defence",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/ministry-of-defence",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related_guides":  [
+                                         {
+                                             "api_path":  "/api/content/guidance/defence-equipment-and-support-principal-security-advisor",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/defence-equipment-and-support-principal-security-advisor",
+                                             "base_path":  "/guidance/defence-equipment-and-support-principal-security-advisor",
+                                             "content_id":  "5c90485c-7631-11e4-a3cb-005056011aef",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2024-03-25T12:23:48Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Industry Security Assurance Centre",
+                                             "web_url":  "https://www.gov.uk/guidance/defence-equipment-and-support-principal-security-advisor",
+                                             "withdrawn":  false
+                                         }
+                                     ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/industry-accreditation-request-form",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/industry-accreditation-request-form",
+                                                              "base_path":  "/government/publications/industry-accreditation-request-form",
+                                                              "content_id":  "5c903932-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "form",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-12-05T10:49:50Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "CyDR off-line forms",
+                                                              "web_url":  "https://www.gov.uk/government/publications/industry-accreditation-request-form",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/defence-equipment-and-support-principal-security-advisor",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/defence-equipment-and-support-principal-security-advisor",
+                                                              "base_path":  "/guidance/defence-equipment-and-support-principal-security-advisor",
+                                                              "content_id":  "5c90485c-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-03-25T12:23:48Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Industry Security Assurance Centre",
+                                                              "web_url":  "https://www.gov.uk/guidance/defence-equipment-and-support-principal-security-advisor",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/security-requirements-for-list-x-contractors",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/security-requirements-for-list-x-contractors",
+                                                              "base_path":  "/government/publications/security-requirements-for-list-x-contractors",
+                                                              "content_id":  "6027fac3-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2014-03-31T23:00:00Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Security requirements for List X contractors",
+                                                              "web_url":  "https://www.gov.uk/government/publications/security-requirements-for-list-x-contractors",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/publications/defence-contractors-guidance-notes",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/publications/defence-contractors-guidance-notes",
+                                                              "base_path":  "/government/publications/defence-contractors-guidance-notes",
+                                                              "content_id":  "5c9042ac-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "guidance",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2015-05-20T08:30:46Z",
+                                                              "schema_name":  "publication",
+                                                              "title":  "Defence contractors guidance notes",
+                                                              "web_url":  "https://www.gov.uk/government/publications/defence-contractors-guidance-notes",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/collections/industry-security-notices-isn",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/collections/industry-security-notices-isn",
+                                                              "base_path":  "/government/collections/industry-security-notices-isn",
+                                                              "content_id":  "5eb66d9f-7631-11e4-a3cb-005056011aef",
+                                                              "document_type":  "document_collection",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2010-09-07T00:00:00Z",
+                                                              "schema_name":  "document_collection",
+                                                              "title":  "Industry Security Notices (ISN)",
+                                                              "web_url":  "https://www.gov.uk/government/collections/industry-security-notices-isn",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/defence/military-equipment-logistics-technology",
+                                     "api_url":  "https://www.gov.uk/api/content/defence/military-equipment-logistics-technology",
+                                     "base_path":  "/defence/military-equipment-logistics-technology",
+                                     "content_id":  "ac5d432a-11a9-40e1-bb83-0de26106b9d6",
+                                     "details":  {
+                                                     "internal_name":  "Military equipment, logistics and technology [T] (level 2, defence theme)",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/defence-and-armed-forces",
+                                                                             "api_url":  "https://www.gov.uk/api/content/defence-and-armed-forces",
+                                                                             "base_path":  "/defence-and-armed-forces",
+                                                                             "content_id":  "e491505c-77ae-45b2-84be-8c94b94f6a2b",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Defence and armed forces",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:34:16Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Defence and armed forces",
+                                                                             "web_url":  "https://www.gov.uk/defence-and-armed-forces",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-05T16:16:53Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Military equipment, logistics and technology",
+                                     "web_url":  "https://www.gov.uk/defence/military-equipment-logistics-technology",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2024-06-06T16:11:59+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1717686719.239-10.13.21.71-2629",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "CyDR Defence Industry Cyber Security Assurance and Risk Balance Case processes",
+    "updated_at":  "2024-12-12T14:25:49+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

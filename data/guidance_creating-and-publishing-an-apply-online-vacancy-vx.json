@@ -1,0 +1,503 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/creating-and-publishing-an-apply-online-vacancy-vx",
+    "content_id":  "29b9438f-5aa9-46d1-889e-5668e4ca8aaa",
+    "description":  "The process for recruiters to review, publish and update an apply online vacancy in Civil Service Jobs vX.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003ch2 id=\"creating-a-vacancy\"\u003eCreating a vacancy\u003c/h2\u003e\n\n\u003cp\u003eSelect the \u003cstrong\u003eCreate new vacancy\u003c/strong\u003e button and complete the Create New Vacancy form:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eselect a template to load the remaining sections of the form\u003c/li\u003e\n  \u003cli\u003equestions marked with an asterisk (*) are mandatory\u003c/li\u003e\n  \u003cli\u003eyou must complete all mandatory fields before saving\u003c/li\u003e\n  \u003cli\u003ethe system will timeout after 60 minutes of inactivity\u003c/li\u003e\n  \u003cli\u003eonce saved, you can edit any details before posting\u003c/li\u003e\n  \u003cli\u003equestions highlighted in green will be visible to candidates on the job advert\u003c/li\u003e\n  \u003cli\u003eIf you click \u003cstrong\u003eSave\u003c/strong\u003e before completing all mandatory fields, incomplete ones will be\nhighlighted in red.\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThere is separate guidance for \u003ca href=\"https://www.gov.uk/guidance/create-and-publish-job-adverts\" class=\"govuk-link\"\u003ecreating an advert-only\nvacancy\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eSome sections will have pre-set answers, which you can override.\u003c/p\u003e\n\n\u003ch3 id=\"non-standard-eligibility\"\u003eNon-standard eligibility\u003c/h3\u003e\n\n\u003cp\u003eOnly select \u003cstrong\u003eYes\u003c/strong\u003e when there is an exceptional business need, such as advertising an internal\njob on promotion.\u003c/p\u003e\n\n\u003ch3 id=\"success-profiles\"\u003eSuccess profiles\u003c/h3\u003e\n\n\u003cp\u003eThe sift and interview evaluation forms are dynamic, and change depending on which\nSuccess Profiles you select within the vacancy. Make sure these are correct.\u003c/p\u003e\n\n\u003ch3 id=\"turning-off-onboarding-actions\"\u003eTurning off onboarding actions\u003c/h3\u003e\n\n\u003cp\u003eYou can turn onboarding access off in the \u003cstrong\u003ePre-employment check forms\u003c/strong\u003e section:\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003eRemove entries shown in the \u003cstrong\u003eNew entrant notification check (NEN)\u003c/strong\u003e field, and\nselect \u003cstrong\u003eNot Applicable\u003c/strong\u003e from the dropdown.\u003c/li\u003e\n  \u003cli\u003eRemove entries shown in the \u003cstrong\u003ePosting request check\u003c/strong\u003e field, and select \u003cstrong\u003eNot\nApplicable\u003c/strong\u003e from the dropdown.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eSave\u003c/strong\u003e.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eYou can turn off onboarding actions at any time before the ‘Provisional Offer’ status. To do\nthis, follow the \u003ca href=\"#editing-a-vacancy\" class=\"govuk-link\"\u003eEditing a vacancy\u003c/a\u003e steps.\u003c/p\u003e\n\n\u003ch3 id=\"adding-or-removing-panel-members\"\u003eAdding or removing panel members\u003c/h3\u003e\n\n\u003col\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003ePanel\u003c/strong\u003e tab.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eAdd Participant\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eEnter the user’s name in \u003cstrong\u003eUser / Profile\u003c/strong\u003e.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eIf the user has no account, they must \u003ca href=\"https://www.gov.uk/guidance/accessing-the-civil-service-jobs-vx-system\" class=\"govuk-link\"\u003erequest one\u003c/a\u003e before you can add them.\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003eSelect the user’s \u003cstrong\u003eCategory\u003c/strong\u003e, for example Recruiter or Vacancy Holder.\nYou can only select categories that have been assigned to the user’s profile.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eIs Coordinator\u003c/strong\u003e and \u003cstrong\u003eCan view applications\u003c/strong\u003e as appropriate.\u003c/li\u003e\n  \u003cli\u003e\u003cstrong\u003eAdd Participant\u003c/strong\u003e\u003c/li\u003e\n  \u003cli\u003eYou can also \u003cstrong\u003eEdit\u003c/strong\u003e or \u003cstrong\u003eRemove\u003c/strong\u003e a user’s access in the \u003cstrong\u003ePanel\u003c/strong\u003e tab.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eThe vacancy may need to reach a certain status before some users can access it.\u003c/p\u003e\n\n\u003ch3 id=\"sending-to-recruitment\"\u003eSending to recruitment\u003c/h3\u003e\n\n\u003cp\u003eWhen your vacancy is ready to be advertised, select \u003cstrong\u003eReview your vacancy, then click to\nsend to Recruitment\u003c/strong\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"welsh-language-support\"\u003eWelsh language support\u003c/h2\u003e\n\n\u003cp\u003eYou have the option to provide a Welsh version of your advert. This will allow Welsh-speaking candidates to see the job details and apply in Welsh.\u003c/p\u003e\n\n\u003cp\u003eYou will need to obtain the Welsh translation of the advert yourself.\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eFree text fields visible to candidates have a Translate button. Use this to enter the Welsh version of the same content\u003c/li\u003e\n  \u003cli\u003eUse the Job Preview to see the advert from a candidate’s perspective, and ensure that all relevant fields have been translated\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"posting-a-vacancy-created-by-a-recruiter\"\u003ePosting a vacancy created by a recruiter\u003c/h2\u003e\n\n\u003col\u003e\n  \u003cli\u003eOn the \u003cstrong\u003eSummary\u003c/strong\u003e tab, check that the Preferred Go Live Date and Preferred Vacancy\nClosing Date are correct. To change these, select \u003cstrong\u003eEdit\u003c/strong\u003e,then \u003cstrong\u003eSave\u003c/strong\u003e the changes.\u003c/li\u003e\n  \u003cli\u003eOn the \u003cstrong\u003eVacancy Forms\u003c/strong\u003e tab, check all information is correct. To make a change,\nselect \u003cstrong\u003eEdit\u003c/strong\u003e, then \u003cstrong\u003eSave\u003c/strong\u003e any changes.\u003c/li\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003ePreview advert\u003c/strong\u003e button from the right hand side of the \u003cstrong\u003eVacancy Forms\u003c/strong\u003e tab and check the layout of the advert in a new window.\u003c/li\u003e\n  \u003cli\u003eReturn to the vacancy and select the \u003cstrong\u003eMandatory fields checked\u003c/strong\u003e button.\u003c/li\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003eExternal Postings\u003c/strong\u003e tab.\u003c/li\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003eAdd\u003c/strong\u003e button.\u003c/li\u003e\n  \u003cli\u003eFrom the Destination list, select \u003cstrong\u003ePost to Civil Service Jobs\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eNext\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eEnter the \u003cstrong\u003eLive Date\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eEnter the \u003cstrong\u003ePosting Closing Date\u003c/strong\u003e - use 23:55 for the closing time.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eNext\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eOn the New Posting screen, select \u003cstrong\u003eNext\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003ePost vacancy\u003c/strong\u003e button to change the vacancy status\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eA confirmation email will be sent to the Vacancy Holder, saying that the vacancy has been\nposted.\u003c/p\u003e\n\n\u003ch3 id=\"setting-a-vacancy-to-publish-on-a-date-in-the-future\"\u003eSetting a vacancy to publish on a date in the future\u003c/h3\u003e\n\n\u003col\u003e\n  \u003cli\u003eOn the \u003cstrong\u003eSummary\u003c/strong\u003e tab, set \u003cstrong\u003ePreferred go live date\u003c/strong\u003e to be today, or in the past.\u003c/li\u003e\n  \u003cli\u003eIn \u003cstrong\u003eExternal Postings\u003c/strong\u003e set the \u003cstrong\u003eLive Date\u003c/strong\u003e to be your future date.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003ch2 id=\"posting-a-vacancy-created-by-a-vacancy-holder\"\u003ePosting a vacancy created by a vacancy holder\u003c/h2\u003e\n\n\u003ch3 id=\"reviewing-the-vacancy\"\u003eReviewing the vacancy\u003c/h3\u003e\n\n\u003col\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003eVacancies awaiting recruitment review\u003c/strong\u003e button on your \u003cstrong\u003eDashboard\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eUse \u003cstrong\u003eFilter\u003c/strong\u003e to find the vacancy you want to post\u003c/li\u003e\n  \u003cli\u003eOn the \u003cstrong\u003eSummary\u003c/strong\u003e tab, check that the Preferred Go Live Date and Preferred Vacancy\nClosing Date are correct. To change these, select \u003cstrong\u003eEdit\u003c/strong\u003e, then \u003cstrong\u003eSave\u003c/strong\u003e the changes.\u003c/li\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003eVacancy Forms\u003c/strong\u003e tab followed by \u003cstrong\u003eEdit\u003c/strong\u003e to review the vacancy.\u003c/li\u003e\n  \u003cli\u003eCheck the vacancy holder has provided appropriate approval.\u003c/li\u003e\n  \u003cli\u003eInsert any standard wording used by your department.\u003c/li\u003e\n  \u003cli\u003eCheck any attachments in the \u003cstrong\u003eFurther information\u003c/strong\u003e section, and add more if needed.\u003c/li\u003e\n  \u003cli\u003eComplete all remaining mandatory fields.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eSave\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003ePreview advert\u003c/strong\u003e button from the right hand side of the \u003cstrong\u003eVacancy Forms\u003c/strong\u003e tab and check the layout of the advert in a new window.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eIf the vacancy holder has not provided all required information, select \u003cstrong\u003eVacancy Holder\nUpdate Needed\u003c/strong\u003e. This will create an email which you can edit before selecting \u003cstrong\u003eSend\nCorrespondence\u003c/strong\u003e.\u003c/p\u003e\n\n\u003cp\u003eOnce the vacancy holder has updated the vacancy, it will return to the \u003cstrong\u003eVacancies awaiting recruitment review\u003c/strong\u003e list on your dashboard.\u003c/p\u003e\n\n\u003ch3 id=\"posting-the-vacancy\"\u003ePosting the vacancy\u003c/h3\u003e\n\n\u003col\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003eMandatory fields checked\u003c/strong\u003e button.\u003c/li\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003eExternal Postings\u003c/strong\u003e tab.\u003c/li\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003eAdd\u003c/strong\u003e button.\u003c/li\u003e\n  \u003cli\u003eFrom the Destination list, select \u003cstrong\u003ePost to Civil Service Jobs\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eNext\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eEnter the \u003cstrong\u003eLive Date\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eEnter the \u003cstrong\u003ePosting Closing Date\u003c/strong\u003e - use 23:55 for the closing time.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eNext\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eOn the New Posting screen, select \u003cstrong\u003eNext\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003ePost vacancy\u003c/strong\u003e to change the vacancy status.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eA confirmation email will be sent to the Vacancy Holder, saying that the vacancy has been\nposted.\u003c/p\u003e\n\n\u003ch3 id=\"setting-a-vacancy-to-publish-on-a-future-date\"\u003eSetting a vacancy to publish on a future date\u003c/h3\u003e\n\n\u003col\u003e\n  \u003cli\u003eOn the \u003cstrong\u003eSummary\u003c/strong\u003e tab, set \u003cstrong\u003ePreferred go live date\u003c/strong\u003e to be today, or in the past.\u003c/li\u003e\n  \u003cli\u003eIn \u003cstrong\u003eExternal Postings\u003c/strong\u003e set the \u003cstrong\u003eLive Date\u003c/strong\u003e to be your future date\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003ch2 id=\"checking-your-posting\"\u003eChecking your posting\u003c/h2\u003e\n\n\u003cp\u003eConfirm your advert has been correctly posted by searching \u003ca rel=\"external\" href=\"https://www.civilservicejobs.service.gov.uk/csr/index.cgi\" class=\"govuk-link\"\u003eCivil Service Jobs\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eIf your vacancy is using Internal or Across Government approaches you will need to log in as\na civil servant to see it.\u003c/p\u003e\n\n\u003cp\u003eVacancies posted from the vX system will have a three to six-digit number allocated when\nthe vacancy was created.\u003c/p\u003e\n\n\u003ch2 id=\"editing-a-vacancy\"\u003eEditing a vacancy\u003c/h2\u003e\n\n\u003cp\u003eCorrections can be made before or after a vacancy has been posted.\u003c/p\u003e\n\n\u003ch3 id=\"find-the-vacancy\"\u003eFind the vacancy\u003c/h3\u003e\n\n\u003cp\u003eTo use the search box in the top right of the screen:\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eSearch Vacancies\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eEnter the vacancy title or ID number - these have between 3 and 6 digits.\u003c/li\u003e\n  \u003cli\u003e\n\u003cstrong\u003eSearch\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eFrom the results, select the \u003cstrong\u003eGo to Vacancy\u003c/strong\u003e link.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003ch3 id=\"make-the-changes\"\u003eMake the changes\u003c/h3\u003e\n\n\u003col\u003e\n  \u003cli\u003eIn the \u003cstrong\u003eSummary\u003c/strong\u003e or \u003cstrong\u003eVacancy Forms\u003c/strong\u003e tab, select the \u003cstrong\u003eEdit\u003c/strong\u003e button\u003c/li\u003e\n  \u003cli\u003eMake your corrections.\u003c/li\u003e\n  \u003cli\u003e\n\u003cstrong\u003eSave\u003c/strong\u003e any changes.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003ch3 id=\"update-the-posting\"\u003eUpdate the posting\u003c/h3\u003e\n\n\u003cp\u003eIf the vacancy has already been posted:\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003eExternal Postings\u003c/strong\u003e tab.\u003c/li\u003e\n  \u003cli\u003eHighlight the table row and select the \u003cstrong\u003eEdit\u003c/strong\u003e button.\u003c/li\u003e\n  \u003cli\u003eIf you have edited dates in your vacancy, ensure the posting dates still match.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eSave\u003c/strong\u003e.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eCheck your posting has updated correctly by searching Civil Service Jobs.\u003c/p\u003e\n\n\u003ch2 id=\"copying-an-existing-vacancy\"\u003eCopying an existing vacancy\u003c/h2\u003e\n\n\u003ch3 id=\"find-the-original-vacancy\"\u003eFind the original vacancy\u003c/h3\u003e\n\n\u003cp\u003eUse the search box in the top right of the page:\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eSearch Vacancies\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eEnter the vacancy title or ID number - these have between 3 and 6 digits.\u003c/li\u003e\n  \u003cli\u003e\n\u003cstrong\u003eSearch\u003c/strong\u003e.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003ch3 id=\"select-and-copy\"\u003eSelect and copy\u003c/h3\u003e\n\n\u003col\u003e\n  \u003cli\u003eSelect the correct vacancy from the results.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eCopy\u003c/strong\u003e from the menu bar, then confirm.\u003c/li\u003e\n  \u003cli\u003eFollow the create a vacancy steps to review, edit, and save your vacancy.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003ch2 id=\"closing-a-vacancy\"\u003eClosing a vacancy\u003c/h2\u003e\n\n\u003cp\u003eYou may need to remove a vacancy before the closing date.\u003c/p\u003e\n\n\u003ch3 id=\"find-the-vacancy-1\"\u003eFind the vacancy\u003c/h3\u003e\n\n\u003cp\u003eUse the search box in the top right of the screen:\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eSearch Vacancies\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eEnter the vacancy title or ID number - these have between 3 and 6 digits.\u003c/li\u003e\n  \u003cli\u003e\n\u003cstrong\u003eSearch\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eFrom the results, select \u003cstrong\u003eGo to Vacancy\u003c/strong\u003e.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003ch3 id=\"change-the-approach\"\u003eChange the approach\u003c/h3\u003e\n\n\u003col\u003e\n  \u003cli\u003eGo to the \u003cstrong\u003eVacancy Forms\u003c/strong\u003e tab and select \u003cstrong\u003eEdit\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eIn the \u003cstrong\u003eApproach\u003c/strong\u003e section, change to \u003cstrong\u003ePre-release\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003e\n\u003cstrong\u003eSave\u003c/strong\u003e your changes.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003ch3 id=\"update-the-posting-1\"\u003eUpdate the posting\u003c/h3\u003e\n\n\u003col\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003eExternal Postings\u003c/strong\u003e tab.\u003c/li\u003e\n  \u003cli\u003eHighlight the table row, and select \u003cstrong\u003eEdit\u003c/strong\u003e.\u003c/li\u003e\n  \u003cli\u003eSelect \u003cstrong\u003eSave\u003c/strong\u003e.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eThe posting status will still show as online, but candidates will be unable to view it. Check that the advert is not visible on Civil Service Jobs before you make any further changes to the vacancy.\u003c/p\u003e\n\n\u003ch3 id=\"update-vacancy-status\"\u003eUpdate vacancy status\u003c/h3\u003e\n\n\u003col\u003e\n  \u003cli\u003eSelect the \u003cstrong\u003eConfirm vacancy withdrawn\u003c/strong\u003e button\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eFurther changes can be made to the vacancy if required. To repost, select \u003cstrong\u003eReinstate vacancy\u003c/strong\u003e, change the approach from Pre-release, and update the posting again.\u003c/p\u003e\n\n\u003ch2 id=\"help-and-support\"\u003eHelp and support\u003c/h2\u003e\n\n\u003cp\u003eContact the Product and Support Team if you have a technical problem:\n\u003ca href=\"mailto:support.csjobs@cabinetoffice.gov.uk\" class=\"govuk-link\"\u003esupport.csjobs@cabinetoffice.gov.uk\u003c/a\u003e.\u003c/p\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "How to add a Welsh translation to a job advert.",
+                                               "public_timestamp":  "2022-06-22T12:14:48.000+01:00"
+                                           },
+                                           {
+                                               "note":  "Minor addition to the Closing a vacancy section.",
+                                               "public_timestamp":  "2020-07-03T10:56:25.000+01:00"
+                                           },
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2019-07-11T00:00:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "2c9232a2-04c0-4694-95e5-73004da6dc51"
+                                                 ],
+                    "first_public_at":  "2019-07-11T00:00:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2019-07-11T00:00:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/creating-and-publishing-an-apply-online-vacancy-vx",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/creating-and-publishing-an-apply-online-vacancy-vx",
+                                                     "base_path":  "/guidance/creating-and-publishing-an-apply-online-vacancy-vx",
+                                                     "content_id":  "29b9438f-5aa9-46d1-889e-5668e4ca8aaa",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2022-06-22T11:14:48Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Creating and publishing an apply online vacancy (vX)",
+                                                     "web_url":  "https://www.gov.uk/guidance/creating-and-publishing-an-apply-online-vacancy-vx",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/guidance-for-recruiters-using-civil-service-jobs-vx",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/guidance-for-recruiters-using-civil-service-jobs-vx",
+                                                   "base_path":  "/government/collections/guidance-for-recruiters-using-civil-service-jobs-vx",
+                                                   "content_id":  "80c87be4-74ef-4fd6-946a-0aa6962e629f",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/creating-and-publishing-an-apply-online-vacancy-vx",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/creating-and-publishing-an-apply-online-vacancy-vx",
+                                                                                       "base_path":  "/guidance/creating-and-publishing-an-apply-online-vacancy-vx",
+                                                                                       "content_id":  "29b9438f-5aa9-46d1-889e-5668e4ca8aaa",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2022-06-22T11:14:48Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Creating and publishing an apply online vacancy (vX)",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/creating-and-publishing-an-apply-online-vacancy-vx",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2024-03-01T11:37:05Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Guidance for recruiters using Civil Service Jobs vX",
+                                                   "web_url":  "https://www.gov.uk/government/collections/guidance-for-recruiters-using-civil-service-jobs-vx",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "OT1076",
+                                            "api_path":  "/api/content/government/organisations/civil-service-resourcing",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/civil-service-resourcing",
+                                            "base_path":  "/government/organisations/civil-service-resourcing",
+                                            "content_id":  "2c9232a2-04c0-4694-95e5-73004da6dc51",
+                                            "details":  {
+                                                            "acronym":  "",
+                                                            "brand":  "cabinet-office",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Civil Service Resourcing"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "replaced",
+                                                                                              "updated_at":  "2017-09-01T00:00:00.000+01:00",
+                                                                                              "url":  ""
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Civil Service Resourcing",
+                                            "web_url":  "https://www.gov.uk/government/organisations/civil-service-resourcing",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "OT1076",
+                                                                       "api_path":  "/api/content/government/organisations/civil-service-resourcing",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/civil-service-resourcing",
+                                                                       "base_path":  "/government/organisations/civil-service-resourcing",
+                                                                       "content_id":  "2c9232a2-04c0-4694-95e5-73004da6dc51",
+                                                                       "details":  {
+                                                                                       "acronym":  "",
+                                                                                       "brand":  "cabinet-office",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Civil Service Resourcing"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "replaced",
+                                                                                                                         "updated_at":  "2017-09-01T00:00:00.000+01:00",
+                                                                                                                         "url":  ""
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Civil Service Resourcing",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/civil-service-resourcing",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "OT1076",
+                                                              "api_path":  "/api/content/government/organisations/civil-service-resourcing",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/civil-service-resourcing",
+                                                              "base_path":  "/government/organisations/civil-service-resourcing",
+                                                              "content_id":  "2c9232a2-04c0-4694-95e5-73004da6dc51",
+                                                              "details":  {
+                                                                              "acronym":  "",
+                                                                              "brand":  "cabinet-office",
+                                                                              "default_news_image":  null,
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Civil Service Resourcing"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "replaced",
+                                                                                                                "updated_at":  "2017-09-01T00:00:00.000+01:00",
+                                                                                                                "url":  ""
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Civil Service Resourcing",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/civil-service-resourcing",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related_guides":  [
+                                         {
+                                             "api_path":  "/api/content/guidance/basic-navigation-and-search-for-recruiters-vx",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/basic-navigation-and-search-for-recruiters-vx",
+                                             "base_path":  "/guidance/basic-navigation-and-search-for-recruiters-vx",
+                                             "content_id":  "85b249e1-0a4a-4383-9b51-3d0a14f686de",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2022-10-10T07:58:08Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Basic navigation and search for recruiters (vX)",
+                                             "web_url":  "https://www.gov.uk/guidance/basic-navigation-and-search-for-recruiters-vx",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/supporting-candidates-who-need-help-during-the-recruitment-process-vx",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/supporting-candidates-who-need-help-during-the-recruitment-process-vx",
+                                             "base_path":  "/guidance/supporting-candidates-who-need-help-during-the-recruitment-process-vx",
+                                             "content_id":  "7b343302-6366-4dbf-9345-e03099895fa3",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2019-10-08T14:49:49Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Supporting candidates who need help during the recruitment process (vX)",
+                                             "web_url":  "https://www.gov.uk/guidance/supporting-candidates-who-need-help-during-the-recruitment-process-vx",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/sifting-job-applications-and-issuing-results-vx",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/sifting-job-applications-and-issuing-results-vx",
+                                             "base_path":  "/guidance/sifting-job-applications-and-issuing-results-vx",
+                                             "content_id":  "ccbdaec1-e54f-4d93-8e09-a4089e9f62eb",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2021-01-07T18:22:50Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Sifting job applications and issuing results (vX)",
+                                             "web_url":  "https://www.gov.uk/guidance/sifting-job-applications-and-issuing-results-vx",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/submitting-and-issuing-job-interview-results-vx",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/submitting-and-issuing-job-interview-results-vx",
+                                             "base_path":  "/guidance/submitting-and-issuing-job-interview-results-vx",
+                                             "content_id":  "230bd5a6-d875-4f52-8432-0117ee15040f",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2023-04-21T12:42:36Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Submitting and issuing job interview results (vX)",
+                                             "web_url":  "https://www.gov.uk/guidance/submitting-and-issuing-job-interview-results-vx",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/managing-online-tests-vx",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/managing-online-tests-vx",
+                                             "base_path":  "/guidance/managing-online-tests-vx",
+                                             "content_id":  "50508703-7772-4cb1-ab00-2da6c9a6b212",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2024-09-06T15:01:54Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Managing online tests (vX)",
+                                             "web_url":  "https://www.gov.uk/guidance/managing-online-tests-vx",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/selecting-pre-employment-checks-for-vacancies-and-candidates-vx",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/selecting-pre-employment-checks-for-vacancies-and-candidates-vx",
+                                             "base_path":  "/guidance/selecting-pre-employment-checks-for-vacancies-and-candidates-vx",
+                                             "content_id":  "281984a0-f4c3-437c-8465-8f36821f3ca9",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2022-01-05T14:03:59Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Selecting pre-employment checks for vacancies and candidates (vX)",
+                                             "web_url":  "https://www.gov.uk/guidance/selecting-pre-employment-checks-for-vacancies-and-candidates-vx",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/creating-job-interview-schedules-and-inviting-candidates-vx",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/creating-job-interview-schedules-and-inviting-candidates-vx",
+                                             "base_path":  "/guidance/creating-job-interview-schedules-and-inviting-candidates-vx",
+                                             "content_id":  "c8f3b920-4182-4aa9-90b1-e4f9e1ff6ccb",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2020-05-19T09:52:36Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Creating job interview schedules and inviting candidates (vX)",
+                                             "web_url":  "https://www.gov.uk/guidance/creating-job-interview-schedules-and-inviting-candidates-vx",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/managing-candidate-reserve-lists-vx",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/managing-candidate-reserve-lists-vx",
+                                             "base_path":  "/guidance/managing-candidate-reserve-lists-vx",
+                                             "content_id":  "3d19e880-d5a7-4a50-a924-b6a5f546047b",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2024-05-08T12:46:11Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Managing candidate reserve lists (vX)",
+                                             "web_url":  "https://www.gov.uk/guidance/managing-candidate-reserve-lists-vx",
+                                             "withdrawn":  false
+                                         }
+                                     ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/create-and-publish-job-adverts",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/create-and-publish-job-adverts",
+                                                              "base_path":  "/guidance/create-and-publish-job-adverts",
+                                                              "content_id":  "fedbed69-cc33-4fef-8446-4610a034992f",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-06-22T11:16:33Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Create and publish job adverts (vX)",
+                                                              "web_url":  "https://www.gov.uk/guidance/create-and-publish-job-adverts",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/collections/dvsa-strategy-plans-and-reports",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/collections/dvsa-strategy-plans-and-reports",
+                                                              "base_path":  "/government/collections/dvsa-strategy-plans-and-reports",
+                                                              "content_id":  "5042df1d-4c11-4094-98c9-b6e74074f7ff",
+                                                              "document_type":  "document_collection",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-12-18T16:18:04Z",
+                                                              "schema_name":  "document_collection",
+                                                              "title":  "DVSA vision, plans and reports",
+                                                              "web_url":  "https://www.gov.uk/government/collections/dvsa-strategy-plans-and-reports",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/selecting-online-tests-vx",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/selecting-online-tests-vx",
+                                                              "base_path":  "/guidance/selecting-online-tests-vx",
+                                                              "content_id":  "45bb7ccf-e329-48d2-aa52-5da060cc3636",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2023-08-18T14:56:46Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Selecting online tests (vX)",
+                                                              "web_url":  "https://www.gov.uk/guidance/selecting-online-tests-vx",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/creating-an-apply-online-vacancy-vx",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/creating-an-apply-online-vacancy-vx",
+                                                              "base_path":  "/guidance/creating-an-apply-online-vacancy-vx",
+                                                              "content_id":  "bfb638fe-0f15-40bc-aacb-320ed6ca5842",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2022-06-22T11:15:35Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Creating an apply online vacancy (vX)",
+                                                              "web_url":  "https://www.gov.uk/guidance/creating-an-apply-online-vacancy-vx",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/accessing-the-civil-service-jobs-vx-system",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/accessing-the-civil-service-jobs-vx-system",
+                                                              "base_path":  "/guidance/accessing-the-civil-service-jobs-vx-system",
+                                                              "content_id":  "b7b63928-7af1-421b-83a0-83c1195325bb",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2024-01-11T11:47:58Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Accessing the Civil Service Jobs vX system",
+                                                              "web_url":  "https://www.gov.uk/guidance/accessing-the-civil-service-jobs-vx-system",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/government/government-efficiency-transparency-and-accountability",
+                                     "api_url":  "https://www.gov.uk/api/content/government/government-efficiency-transparency-and-accountability",
+                                     "base_path":  "/government/government-efficiency-transparency-and-accountability",
+                                     "content_id":  "f3f4b5d3-49c4-487b-bd5b-be75f11ec8c5",
+                                     "details":  {
+                                                     "internal_name":  "Government efficiency, transparency and accountability [PA] (level 2)",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/all",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/all",
+                                                                             "base_path":  "/government/all",
+                                                                             "content_id":  "e48ab80a-de80-4e83-bf59-26316856a5f9",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Government",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T20:29:39Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Government",
+                                                                             "web_url":  "https://www.gov.uk/government/all",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-08-17T15:32:41Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Government efficiency, transparency and accountability",
+                                     "web_url":  "https://www.gov.uk/government/government-efficiency-transparency-and-accountability",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2022-06-22T12:14:48+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1712918093.674-10.13.20.95-2319",
+    "publishing_scheduled_at":  null,
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  null,
+    "schema_name":  "detailed_guide",
+    "title":  "Creating and publishing an apply online vacancy (vX)",
+    "updated_at":  "2024-12-18T16:18:05+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

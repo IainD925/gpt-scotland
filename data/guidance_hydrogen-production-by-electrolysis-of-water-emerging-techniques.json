@@ -1,0 +1,468 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/hydrogen-production-by-electrolysis-of-water-emerging-techniques",
+    "content_id":  "5f6b531b-ba78-4771-af49-bf90c42ec60e",
+    "description":  "Emerging techniques on how to prevent or minimise the environmental impacts of hydrogen production by electrolysis of water.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eEmerging techniques are novel techniques for an industrial activity that, if commercially developed, could provide one of the following:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ea higher general level of protection of the environment\u003c/li\u003e\n  \u003cli\u003eat least the same level of protection of the environment and higher cost savings than existing best available techniques\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThis guidance is for production of hydrogen by electrolysis of water. This is an emerging technique.\u003c/p\u003e\n\n\u003cp\u003eYou may need to prepare the hydrogen for:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003euse on site\u003c/li\u003e\n  \u003cli\u003eexport as a product\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThese activities are outside the scope of the guidance and you should discuss other permitting requirements with your regulator.\u003c/p\u003e\n\n\u003cp\u003eThese environmental regulators (referred to as ‘the regulators’) worked with industry and other stakeholders to develop a \u003ca href=\"https://www.gov.uk/government/publications/review-of-emerging-techniques-for-hydrogen-production-from-electrolysis-of-water\" class=\"govuk-link\"\u003ereview of emerging techniques\u003c/a\u003e which informs this guidance:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eEnvironment Agency\u003c/li\u003e\n  \u003cli\u003eNatural Resources Wales\u003c/li\u003e\n  \u003cli\u003eScottish Environment Protection Agency\u003c/li\u003e\n  \u003cli\u003eNorthern Ireland Environment Agency (an executive agency of the Department of Agriculture, Environment and Rural Affairs)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eExcept where regulations apply, this guidance on emerging techniques is not a regulatory requirement but identifies best practice to address important environmental issues.\u003c/p\u003e\n\n\u003cp\u003eThe regulators expect operators to follow this guidance, or to propose an alternative approach to provide the same or greater level of protection for the environment.\u003c/p\u003e\n\n\u003ch2 id=\"who-this-guidance-is-for\"\u003e1. Who this guidance is for \u003c/h2\u003e\n\n\u003cp\u003eThis guidance is for:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eoperators when designing and operating their plants and preparing their application for an environmental permit\u003c/li\u003e\n  \u003cli\u003eregulatory staff when determining environmental permit applications\u003c/li\u003e\n  \u003cli\u003eany other organisation or members of the public who want to understand how the environmental regulations and standards are being applied\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThis guidance covers all sizes of industrial plant (installations) producing hydrogen by electrolysis of water.\u003c/p\u003e\n\n\u003cp\u003eThe guidance covers both new plants and variations (changes) to existing plants.\u003c/p\u003e\n\n\u003cp\u003eWhen you apply for an environmental permit for this activity, you must tell your regulator whether you are going to follow this guidance. If not, you must propose an alternative approach which will provide the same or greater level of protection for the environment.\u003c/p\u003e\n\n\u003cp\u003eIn the \u003cabbr title=\"United Kingdom\"\u003eUK\u003c/abbr\u003e, these installations are permitted under the:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eEnvironmental Permitting (England and Wales) Regulations 2016\u003c/li\u003e\n  \u003cli\u003ePollution Prevention and Control (Scotland) Regulations 2012\u003c/li\u003e\n  \u003cli\u003ePollution Prevention and Control (Industrial Emissions) Regulations (NI) 2013\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFor environmental permitting purposes, the hydrogen production plant is a:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ePart A (1) 4.2 (a)(i) inorganic chemicals activity in England and Wales\u003c/li\u003e\n  \u003cli\u003eSchedule 1, Part A 4.2 (a)(i) inorganic chemicals activity in Scotland and Northern Ireland\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eSome plant may be eligible for a simplified permitting process, a low impact installation or standard rules permit, where available. You can check with the environmental regulator for your plant location. For relevant guidance:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ein England, use \u003ca href=\"https://www.gov.uk/guidance/a1-installations-environmental-permits\" class=\"govuk-link\"\u003ethe Environment Agency’s guidance on A1 installations: environmental permits\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003ein Wales, use \u003ca rel=\"external\" href=\"https://naturalresources.wales/permits-and-permissions/installations\" class=\"govuk-link\"\u003eNatural Resources Wales guidance on installations\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003ein Scotland, use the \u003ca rel=\"external\" href=\"https://www.sepa.org.uk/regulations/pollution-prevention-and-control/guidance/\" class=\"govuk-link\"\u003eScottish Environment Protection Agency’s guidance for part A installations\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003ein Northern Ireland, use the \u003ca rel=\"external\" href=\"https://www.daera-ni.gov.uk/articles/ippc-guidance-and-application-forms\" class=\"govuk-link\"\u003eDepartment of Agriculture, Environment and Rural Affairs’ guidance on Integrated Pollution Prevention and Control (\u003cabbr title=\"Integrated Pollution Prevention and Control\"\u003eIPPC\u003c/abbr\u003e)\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThere are no existing best available techniques (\u003cabbr title=\"best available techniques\"\u003eBAT\u003c/abbr\u003e) reference documents (\u003cabbr title=\"best available techniques reference documents\"\u003eBREFs\u003c/abbr\u003e) or guidance which specifically cover the production of hydrogen from water by electrolysis.\u003c/p\u003e\n\n\u003cp\u003eWhere \u003cabbr title=\"best available techniques\"\u003eBAT\u003c/abbr\u003e for an activity is not covered in existing \u003cabbr title=\"best available techniques reference documents\"\u003eBREFs\u003c/abbr\u003e or where all the potential environmental effects are not addressed, the regulator must follow \u003ca rel=\"external\" href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010L0075#d1e1666-17-1\" class=\"govuk-link\"\u003eArticle 14(6) of the Industrial Emissions Directive (\u003cabbr title=\"Industrial Emissions Directive\"\u003eIED\u003c/abbr\u003e)\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eThis means that the regulator must set permit conditions including emission limit values (\u003cabbr title=\"emission limit values\"\u003eELVs\u003c/abbr\u003e) for direct emissions to the environment, together with other permit conditions. These conditions must be based on the regulator’s own assessment of emerging techniques using the criteria listed in \u003ca rel=\"external\" href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010L0075\u0026amp;from=EN#d1e32-57-1\" class=\"govuk-link\"\u003eAnnex III of the \u003cabbr title=\"Industrial Emissions Directive\"\u003eIED\u003c/abbr\u003e\u003c/a\u003e. They should also consult with operators before setting these conditions. The regulators consulted industry and other stakeholders when developing the \u003ca href=\"https://www.gov.uk/government/publications/review-of-emerging-techniques-for-hydrogen-production-from-electrolysis-of-water\" class=\"govuk-link\"\u003ereview of emerging techniques\u003c/a\u003e on which this guidance is based.\u003c/p\u003e\n\n\u003cp\u003ePermits must protect the environment by setting conditions to make sure operators do not breach any environmental quality standards (\u003ca rel=\"external\" href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010L0075\u0026amp;from=EN#d1e1918-17-1\" class=\"govuk-link\"\u003eArticle 18 of the \u003cabbr title=\"Industrial Emissions Directive\"\u003eIED\u003c/abbr\u003e\u003c/a\u003e).\u003c/p\u003e\n\n\u003cp\u003eYour regulator may grant a \u003ca href=\"https://www.gov.uk/guidance/best-available-techniques-environmental-permits\" class=\"govuk-link\"\u003etemporary derogation\u003c/a\u003e of \u003cabbr title=\"best available techniques\"\u003eBAT\u003c/abbr\u003e-associated emission levels (\u003cabbr title=\"best available techniques\"\u003eBAT\u003c/abbr\u003e \u003cabbr title=\"associated emission levels\"\u003eAELs\u003c/abbr\u003e) for up to 9 months, on the basis that hydrogen production by electrolysis of water is using an emerging technique (see \u003ca rel=\"external\" href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010L0075\u0026amp;from=EN#d1e1802-17-1\" class=\"govuk-link\"\u003eArticle 15(5) of \u003cabbr title=\"Industrial Emissions Directive\"\u003eIED\u003c/abbr\u003e\u003c/a\u003e). (Derogation means having less strict emission limit values in the permit than the emission levels associated with the best available techniques.) You should discuss this with your regulator if this is likely to apply. \u003c/p\u003e\n\n\u003cp\u003eYour regulator will decide on the emission limits and other permit conditions that will apply on a case-by-case basis. They will do this based on the elements outlined in this guidance and the most appropriate source of reference. This is unless you can show that you can comply with an appropriate standard rules permit, where available.\u003c/p\u003e\n\n\u003cp\u003eThe \u003ca href=\"https://www.gov.uk/government/publications/review-of-emerging-techniques-for-hydrogen-production-from-electrolysis-of-water\" class=\"govuk-link\"\u003ereview of emerging techniques\u003c/a\u003e summarises the available evidence used to inform this guidance. We refer to the relevant sections of the review in this guidance. \u003c/p\u003e\n\n\u003ch2 id=\"technique-selection\"\u003e2. Technique selection\u003c/h2\u003e\n\n\u003cp\u003eWhen designing a hydrogen production plant and its associated activities, you should consider its overall environmental performance.\u003c/p\u003e\n\n\u003cp\u003eYou should justify your choice of technology at each stage using the principles of ‘best available techniques’ throughout your permit application including:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eenergy demand and efficiency\u003c/li\u003e\n  \u003cli\u003ewater demand, efficiency and evaluation for re-use\u003c/li\u003e\n  \u003cli\u003eemissions to the environment\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThese are the hydrogen production by electrolysis methods the regulators considered when producing this guidance:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ealkaline electrolysis (\u003cabbr title=\"alkaline electrolysis\"\u003eALK\u003c/abbr\u003e)\u003c/li\u003e\n  \u003cli\u003epolymer or proton electrolyte membrane (\u003cabbr title=\"polymer or proton electrolyte membrane\"\u003ePEM\u003c/abbr\u003e)\u003c/li\u003e\n  \u003cli\u003esolid oxide electrolyser cell (\u003cabbr title=\"solid oxide electrolyser cell\"\u003eSOEC\u003c/abbr\u003e)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe guidance may also be generally applicable to other types of electrolysers using water for hydrogen production. Consider it where appropriate.\u003c/p\u003e\n\n\u003cp\u003eThe choice of technology will determine, for example, the energy required for compression. The selection will depend on the difference between the electrolyser system operating pressure and the pressure required by the user.\u003c/p\u003e\n\n\u003cp\u003eThis guidance covers activities to prepare hydrogen ready for:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003euse of hydrogen on site\u003c/li\u003e\n  \u003cli\u003eexport of hydrogen as a product\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThese activities are outside the scope of the guidance and you should discuss other permitting requirements with your regulator.\u003c/p\u003e\n\n\u003cp\u003eOther associated activities may include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003efeed water treatment\u003c/li\u003e\n  \u003cli\u003ehydrogen purification and compression\u003c/li\u003e\n  \u003cli\u003estorage of hydrogen\u003c/li\u003e\n  \u003cli\u003eelectrolyte treatment and recovery (where \u003cabbr title=\"alkaline electrolysis\"\u003eALK\u003c/abbr\u003e technology employed)\u003c/li\u003e\n  \u003cli\u003eeffluent treatment\u003c/li\u003e\n  \u003cli\u003eflaring and venting\u003c/li\u003e\n  \u003cli\u003ecooling and heat recovery\u003c/li\u003e\n  \u003cli\u003esteam systems (where \u003cabbr title=\"solid oxide electrolyser cell\"\u003eSOEC\u003c/abbr\u003e technology employed)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFor more information, see the \u003ca href=\"https://www.gov.uk/government/publications/review-of-emerging-techniques-for-hydrogen-production-from-electrolysis-of-water\" class=\"govuk-link\"\u003ereview of emerging techniques\u003c/a\u003e section 4.2 on overall system design and integration. \u003c/p\u003e\n\n\u003ch2 id=\"plant-design-and-operation\"\u003e3. Plant design and operation\u003c/h2\u003e\n\n\u003ch3 id=\"operation\"\u003e3.1 Operation\u003c/h3\u003e\n\n\u003cp\u003eYou must consider whether your hydrogen production plant may need to operate in steady state or on a flexible basis to balance variations in, for example:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003esupply of power to the plant\u003c/li\u003e\n  \u003cli\u003edemand from hydrogen users\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou should consider whether this need for flexibility will affect the design, operation and maintenance of the plant.\u003c/p\u003e\n\n\u003cp\u003eYou should identify all operating scenarios. Include those due to providing flexible operations where environmental performance could be affected, or where additional emissions are expected. For example, these could be because of changes in demand, or start-up and shutdown.\u003c/p\u003e\n\n\u003cp\u003eYou should describe measures you would take to minimise the environmental impact of these scenarios. These could result in, for example:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ereduced energy efficiency\u003c/li\u003e\n  \u003cli\u003ereduced water efficiency\u003c/li\u003e\n  \u003cli\u003eincreased emissions to air, including venting and flaring\u003c/li\u003e\n  \u003cli\u003eincreased effluent or wastes produced\u003c/li\u003e\n  \u003cli\u003eincreased risk of accidents in non-steady state conditions\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"reliability-and-availability\"\u003e3.2 Reliability and availability\u003c/h3\u003e\n\n\u003cp\u003eYou will need to identify the equipment and systems, and their associated operating and maintenance techniques, that are critical in avoiding emissions or minimising environmental impact. You will need to design, operate and maintain these to make sure they are reliable and available. This should include providing installed back-up equipment, where necessary.\u003c/p\u003e\n\n\u003cp\u003eYou should implement a risk-based other than normal operating conditions (\u003cabbr title=\"other than normal operating conditions\"\u003eOTNOC\u003c/abbr\u003e) management plan. This should identify potential scenarios, mitigation measures, monitoring and periodic assessment of the \u003cabbr title=\"other than normal operating conditions\"\u003eOTNOC\u003c/abbr\u003e management plan. This should be part of your environmental management system.\u003c/p\u003e\n\n\u003ch3 id=\"energy-efficiency-process-efficiency-cooling\"\u003e3.3 Energy efficiency, process efficiency, cooling\u003c/h3\u003e\n\n\u003cp\u003eYou should design, operate and maintain your hydrogen production plant to maximise:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eenergy efficiency (minimise the energy needed to produce each tonne of hydrogen)\u003c/li\u003e\n  \u003cli\u003eprocess efficiency (minimise the raw materials needed to produce each tonne of hydrogen)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou should consider the use or recovery of oxygen by-product when this is commercially and technically viable.\u003c/p\u003e\n\n\u003cp\u003eTo decide on best available techniques for your plant, you will have to balance how you achieve these efficiencies to optimise the environmental and economic requirements. You must explain how you have done this and what your considerations were.\u003c/p\u003e\n\n\u003cp\u003eMain energy users will include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eelectrolysers\u003c/li\u003e\n  \u003cli\u003ehydrogen compressors\u003c/li\u003e\n  \u003cli\u003ehydrogen purification\u003c/li\u003e\n  \u003cli\u003epumping or fan systems\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou should consider:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eelectrical power needs and whether you will import or generate on site\u003c/li\u003e\n  \u003cli\u003ehigh pressure steam need and availability (\u003cabbr title=\"solid oxide electrolyser cell\"\u003eSOEC\u003c/abbr\u003e)\u003c/li\u003e\n  \u003cli\u003emaximising any residual waste heat recovery\u003c/li\u003e\n  \u003cli\u003ecooling needs\u003c/li\u003e\n  \u003cli\u003ecooling type and medium\u003c/li\u003e\n  \u003cli\u003eenergy recovery devices on high pressure fluids, for example, reverse osmosis effluent, where applicable\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFor more on this, see section 3.4 on water supply and use.\u003c/p\u003e\n\n\u003cp\u003eYou should also consider heat integration optimisation. For example, heat recovery at higher temperatures from hydrogen compression systems for power generation or drives, where this is feasible.\u003c/p\u003e\n\n\u003cp\u003eYou should reference the BREF documents, where appropriate:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://eippcb.jrc.ec.europa.eu/reference/industrial-cooling-systems\" class=\"govuk-link\"\u003eIndustrial Cooling Systems\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://eippcb.jrc.ec.europa.eu/reference/energy-efficiency\" class=\"govuk-link\"\u003eEnergy Efficiency\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFor more information, see the \u003ca href=\"https://www.gov.uk/government/publications/review-of-emerging-techniques-for-hydrogen-production-from-electrolysis-of-water\" class=\"govuk-link\"\u003ereview of emerging techniques\u003c/a\u003e:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003esection 4.8.1 on electrolyser operation and performance\u003c/li\u003e\n  \u003cli\u003esection 4.9 on heat recovery and cooling systems\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"water-supply-and-use\"\u003e3.4 Water supply and use\u003c/h3\u003e\n\n\u003cp\u003eWater supply and its efficient use is a fundamental aspect of hydrogen production by electrolysis of water.\u003c/p\u003e\n\n\u003cp\u003eThe quality of the water supply will determine the treatment needed before it can be used as a:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eraw material in hydrogen production by electrolysis\u003c/li\u003e\n  \u003cli\u003eheating medium (such as steam)\u003c/li\u003e\n  \u003cli\u003ecooling medium\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eWater is consumed in the process to make hydrogen in a minimum ratio of 9kg of pure water per 1kg of hydrogen gas produced. The remaining 8kg is oxygen as a gas.\u003c/p\u003e\n\n\u003cp\u003eHowever, the gross quantity of water you bring into the installation needed per kg of hydrogen will be dependent on:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eyour choice of electrolysis method\u003c/li\u003e\n  \u003cli\u003ethe quality of the water which you use as your supply for the electrolysis process\u003c/li\u003e\n  \u003cli\u003ethe quantity of water you recover, recycle and re-use\u003c/li\u003e\n  \u003cli\u003ethe quantity of water which is discharged as a liquid effluent or gaseous emission to atmosphere\u003c/li\u003e\n  \u003cli\u003ethe cooling technique you use\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou should:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eminimise the quantity of water you use\u003c/li\u003e\n  \u003cli\u003esegregate, treat and re-use water where possible\u003c/li\u003e\n  \u003cli\u003eidentify how much contaminant needs to be removed to maintain the water quality necessary for effective operation\u003c/li\u003e\n  \u003cli\u003edetermine the quantity of water to be purged, the characteristics of that purged water, and design the treatment process accordingly\u003c/li\u003e\n  \u003cli\u003eeliminate, minimise or treat any emissions to air or wastes that may result from the water treatment process\u003c/li\u003e\n  \u003cli\u003echoose a cooling method that takes account of the impact of temperature on process performance, energy efficiency and environmental impact on the receiving medium\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFor more on this, see section 5 on emissions to water.\u003c/p\u003e\n\n\u003cp\u003eThe \u003ca href=\"https://www.gov.uk/government/publications/review-of-emerging-techniques-for-hydrogen-production-from-electrolysis-of-water\" class=\"govuk-link\"\u003ereview of emerging techniques\u003c/a\u003e also has more information on this in section 4.3 on water.\u003c/p\u003e\n\n\u003ch3 id=\"electricity-supply\"\u003e3.5 Electricity supply\u003c/h3\u003e\n\n\u003cp\u003eThe source of power supply is not within the scope of this guidance. However, supply issues can affect the environmental performance of the hydrogen production process, such as through availability and variability. You should take this into account when you design and operate the hydrogen plant to eliminate or mitigate any environmental impact. \u003c/p\u003e\n\n\u003cp\u003eIt is likely that transformers and rectifiers, where needed as associated activities, would be considered part of the installation.\u003c/p\u003e\n\n\u003cp\u003eFor more information, see the \u003ca href=\"https://www.gov.uk/government/publications/review-of-emerging-techniques-for-hydrogen-production-from-electrolysis-of-water\" class=\"govuk-link\"\u003ereview of emerging techniques\u003c/a\u003e section 4.5 on electricity.\u003c/p\u003e\n\n\u003ch3 id=\"hydrogen-purification\"\u003e3.6 Hydrogen purification\u003c/h3\u003e\n\n\u003cp\u003eYour hydrogen purification requirements will depend on:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe hydrogen product quality specification\u003c/li\u003e\n  \u003cli\u003ethe production technique chosen\u003c/li\u003e\n  \u003cli\u003eresidual impurities in the hydrogen\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe impurities may include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eoxygen\u003c/li\u003e\n  \u003cli\u003ewater\u003c/li\u003e\n  \u003cli\u003eother trace gases\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou should consider which other purification processes are appropriate, depending on the specification of hydrogen required. These may include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003edeoxidiser system\u003c/li\u003e\n  \u003cli\u003edehydration system\u003c/li\u003e\n  \u003cli\u003eother purification processes\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou should describe and justify your choice of techniques and the relevant aspects which will affect environmental criteria. For example:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003econsequential wastes and emissions\u003c/li\u003e\n  \u003cli\u003eany recovery or treatment required\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFor more information, see the \u003ca href=\"https://www.gov.uk/government/publications/review-of-emerging-techniques-for-hydrogen-production-from-electrolysis-of-water\" class=\"govuk-link\"\u003ereview of emerging techniques\u003c/a\u003e section 4.7 on hydrogen product specification.\u003c/p\u003e\n\n\u003ch2 id=\"emissions-to-air\"\u003e4. Emissions to air\u003c/h2\u003e\n\n\u003cp\u003eYou should identify, eliminate, minimise or reduce any emissions to air that could cause pollution.\u003c/p\u003e\n\n\u003cp\u003eYou should carry out a risk assessment, including detailed air quality modelling where appropriate, to assess the impact of these emissions.\u003c/p\u003e\n\n\u003cp\u003eYou should refer to the guidance relevant to the location of your plant in the \u003cabbr title=\"United Kingdom\"\u003eUK\u003c/abbr\u003e through the information on \u003ca href=\"https://www.gov.uk/guidance/air-emissions-risk-assessment-for-your-environmental-permit\" class=\"govuk-link\"\u003eair emissions risk assessment for your environmental permit\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"emissions-of-hydrogen\"\u003e4.1 Emissions of hydrogen\u003c/h3\u003e\n\n\u003cp\u003eHydrogen has been identified as an indirect greenhouse gas and so is considered a pollutant.\u003c/p\u003e\n\n\u003cp\u003eYou should design and operate your plant to achieve the following, which are listed in priority order. (Where technically and economically viable, and ensuring safety is not compromised.)\u003c/p\u003e\n\n\u003col\u003e\n  \u003cli\u003ePrevent or avoid emissions of hydrogen.\u003c/li\u003e\n  \u003cli\u003eRecover or recycle hydrogen.\u003c/li\u003e\n  \u003cli\u003eAvoid or minimise continuous or intermittent flaring of hydrogen.\u003c/li\u003e\n  \u003cli\u003eAvoid or minimise continuous or intermittent venting of hydrogen, whether for operational or safety reasons.\u003c/li\u003e\n\u003c/ol\u003e\n\n\u003cp\u003eYou should consider using these techniques to achieve this:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003edesigning and operating your plant to maximise equipment availability and reliability\u003c/li\u003e\n  \u003cli\u003edesigning and operating your plant to minimise the frequency of and amount of hydrogen purged, including during change of production rate, start-up and shutdown, abnormal operations and preparation for maintenance\u003c/li\u003e\n  \u003cli\u003euse of buffer storage of out of specification hydrogen or hydrogen product during start-up and shutdown to minimise intermittent operation\u003c/li\u003e\n  \u003cli\u003erecovery of hydrogen\u003c/li\u003e\n  \u003cli\u003etreatment of hydrogen, for example, by recombination with oxygen or storage and purification of purged hydrogen\u003c/li\u003e\n  \u003cli\u003eflaring rather than venting of hydrogen, where emissions cannot be eliminated and where practicable\u003c/li\u003e\n  \u003cli\u003edesigning flaring devices to ensure efficient combustion of hydrogen\u003c/li\u003e\n  \u003cli\u003eventing hydrogen safely, where the above techniques are not practicable\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou should explain your design and operational considerations behind your proposed techniques, including how you have considered overall environmental impact of their use.\u003c/p\u003e\n\n\u003ch3 id=\"other-emissions-from-venting-or-purging\"\u003e4.2 Other emissions from venting or purging\u003c/h3\u003e\n\n\u003cp\u003eYou should quantify and assess other venting and purging requirements, identifying any pollutants that are expected to be present.\u003c/p\u003e\n\n\u003cp\u003eRequirements for other continuous venting during normal operations may include, for example:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ewaste oxygen (which may contain hydrogen)\u003c/li\u003e\n  \u003cli\u003ewater vapour\u003c/li\u003e\n  \u003cli\u003edeaeration of steam condensate\u003c/li\u003e\n  \u003cli\u003egases from processing wastewater streams\u003c/li\u003e\n  \u003cli\u003epurge of tanks, vent or flare headers\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eRequirements for intermittent venting may include, for example, venting needed as part of the process of purging equipment for maintenance activities. Such as nitrogen purges which may contain hydrogen.\u003c/p\u003e\n\n\u003ch3 id=\"other-pollutants\"\u003e4.3 Other pollutants\u003c/h3\u003e\n\n\u003cp\u003eYou should identify, quantify and assess other pollutants. These may include, for example, nitrogen oxides (\u003cabbr title=\"nitrogen oxides\"\u003eNOx\u003c/abbr\u003e) and hydrogen from flaring of hydrogen.\u003c/p\u003e\n\n\u003cp\u003eFor more information, see the \u003ca href=\"https://www.gov.uk/government/publications/review-of-emerging-techniques-for-hydrogen-production-from-electrolysis-of-water\" class=\"govuk-link\"\u003ereview of emerging techniques\u003c/a\u003e:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003esection 4.4 on flaring and venting\u003c/li\u003e\n  \u003cli\u003esection 4.8.2 on lifetime, reliability and availability\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"emissions-to-water\"\u003e5. Emissions to water\u003c/h2\u003e\n\n\u003cp\u003eYou must identify and eliminate, minimise, recycle or treat any emissions to water that could cause pollution.\u003c/p\u003e\n\n\u003cp\u003eYou should carry out a risk assessment, including detailed modelling where appropriate, to assess the impact of these emissions.\u003c/p\u003e\n\n\u003cp\u003eFor emissions to surface water, you should refer to the guidance relevant to the location of your plant in \u003cabbr title=\"United Kingdom\"\u003eUK\u003c/abbr\u003e through the information on \u003ca href=\"https://www.gov.uk/guidance/surface-water-pollution-risk-assessment-for-your-environmental-permit\" class=\"govuk-link\"\u003esurface water pollution: risk assessment for your environmental permit\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"wastewater-treatment\"\u003e5.1 Wastewater treatment\u003c/h3\u003e\n\n\u003cp\u003eYou should identify continuous and periodic effluent streams from the process and determine whether effluent treatment is required. These streams may include waste streams from water pre-treatment processes, cooling and steam systems, including:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eeffluent from reverse osmosis containing ions from the feed water\u003c/li\u003e\n  \u003cli\u003eeffluent from continuous deionisation\u003c/li\u003e\n  \u003cli\u003eeffluent from desalination\u003c/li\u003e\n  \u003cli\u003epurges from cooling water systems\u003c/li\u003e\n  \u003cli\u003epurges from condensed water from steam systems\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThese will contain contaminants, which may need treatment or removal before discharge, for example:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ehigh salinity effluents\u003c/li\u003e\n  \u003cli\u003emetal ions\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou should decide how much water to treat and how to treat it before it is:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ere-used\u003c/li\u003e\n  \u003cli\u003edischarged to surface water or sewage undertaker\u003c/li\u003e\n  \u003cli\u003edisposed of\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou should identify how much contaminant can be removed to comply with discharge requirements and design the treatment process accordingly.\u003c/p\u003e\n\n\u003cp\u003eYou should identify any unavoidable emissions to air or wastes that may result from the water treatment process. Ensure they are minimised or treated appropriately.\u003c/p\u003e\n\n\u003cp\u003eYou should treat water for re-use, where practicable.\u003c/p\u003e\n\n\u003cp\u003eYou should refer to the appropriate BREF, \u003cabbr title=\"best available techniques conclusions\"\u003eBATC\u003c/abbr\u003e and guidance:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://eippcb.jrc.ec.europa.eu/reference/common-waste-water-and-waste-gas-treatmentmanagement-systems-chemical-sector-0\" class=\"govuk-link\"\u003eBREF and \u003cabbr title=\"best available techniques conclusions\"\u003eBATC\u003c/abbr\u003e for common wastewater and waste gas treatment/management systems in the chemical sector\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://consult.environment-agency.gov.uk/psc/permit-reviews-for-food-drink-milk-industries/supporting_documents/UK%20Cross%20Cutting%20BATc%20Interpretation%20Guidance.pdf\" class=\"govuk-link\"\u003e\u003cabbr title=\"United Kingdom\"\u003eUK\u003c/abbr\u003e cross-cutting interpretation guidance and permitting advice on the best available techniques (\u003cabbr title=\"best available techniques\"\u003eBAT\u003c/abbr\u003e) conclusions published under the Industrial Emissions Directive (\u003cabbr title=\"Industrial Emissions Directive\"\u003eIED\u003c/abbr\u003e)\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\n\u003cabbr title=\"United Kingdom\"\u003eUK\u003c/abbr\u003e interpretation guidance and permitting advice on the best available techniques (\u003cabbr title=\"best available techniques\"\u003eBAT\u003c/abbr\u003e) conclusions for common waste water/waste gas treatment/management in the chemical sector (\u003cabbr title=\"common waste water\"\u003eCWW\u003c/abbr\u003e) – available on request from your regulator\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"emissions-to-ground-and-groundwater\"\u003e6. Emissions to ground and groundwater\u003c/h2\u003e\n\n\u003cp\u003eYou must design your process to avoid emissions to ground and groundwater.\u003c/p\u003e\n\n\u003cp\u003eFor more information, see section 8.3 on monitoring emissions to ground and groundwater.\u003c/p\u003e\n\n\u003ch2 id=\"waste\"\u003e7. Waste\u003c/h2\u003e\n\n\u003cp\u003eBefore considering waste disposal, as far as practicable you must follow the waste hierarchy and:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eprevent\u003c/li\u003e\n  \u003cli\u003eminimise\u003c/li\u003e\n  \u003cli\u003ere-use\u003c/li\u003e\n  \u003cli\u003erecycle\u003c/li\u003e\n  \u003cli\u003erecover\u003c/li\u003e\n  \u003cli\u003etreat\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou should consider how to deal with the following wastes that may be generated and justify your choice following this waste hierarchy.\u003c/p\u003e\n\n\u003ch3 id=\"liquid-wastes\"\u003e7.1 Liquid wastes\u003c/h3\u003e\n\n\u003cp\u003eLiquid wastes such as:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ewaste alkaline solutions, for example, potassium hydroxide\u003c/li\u003e\n  \u003cli\u003eany residual liquid wastes from the water treatment processes\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"solid-wastes\"\u003e7.2 Solid wastes\u003c/h3\u003e\n\n\u003cp\u003eSolid wastes such as:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003espent adsorbent materials from gas treatment, dehydration, hydrogen purification\u003c/li\u003e\n  \u003cli\u003espent or damaged membranes\u003c/li\u003e\n  \u003cli\u003ecatalyst materials\u003c/li\u003e\n  \u003cli\u003eother solid consumables, for example, electrolyser components such as seals\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"monitoring-and-reporting\"\u003e8. Monitoring and reporting\u003c/h2\u003e\n\n\u003cp\u003eThe main purpose of monitoring is to:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eappropriately control the process to ensure compliance with the permit\u003c/li\u003e\n  \u003cli\u003eshow that emissions to air, water or land from the process are not causing harm to the environment\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou must also carry out process monitoring to show that resources are being used efficiently. This may include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eenergy efficiency\u003c/li\u003e\n  \u003cli\u003ewater efficiency\u003c/li\u003e\n  \u003cli\u003eresource efficiency, for example, electrolyser consumables\u003c/li\u003e\n  \u003cli\u003everifying (when applicable) compliance with low carbon hydrogen standards, including any requirements relating to emissions of hydrogen\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYour permit application should include a monitoring plan for:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eroutine operation\u003c/li\u003e\n  \u003cli\u003ecommissioning, where appropriate\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou may need to do more extensive monitoring during the commissioning phase than during routine operation. As these production techniques for hydrogen by electrolysis of water are emerging techniques, you may need to develop monitoring methods and standards.\u003c/p\u003e\n\n\u003cp\u003eWhere relevant, during the commissioning phase, you will need to assess any monitoring results and optimise the operation of the process. You may need to report on:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eyour commissioning phase monitoring results\u003c/li\u003e\n  \u003cli\u003eyour assessment of the results\u003c/li\u003e\n  \u003cli\u003eany changes you want to make to the operation\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou must report on emissions and process monitoring as stated in your permit.\u003c/p\u003e\n\n\u003ch3 id=\"monitoring-point-source-emissions-to-air\"\u003e8.1 Monitoring point source emissions to air\u003c/h3\u003e\n\n\u003cp\u003eYou should eliminate or minimise emissions of hydrogen due to their global warming potential.\u003c/p\u003e\n\n\u003cp\u003eYou should provide a monitoring plan for monitoring emissions to air, based on expected pollutants such as hydrogen.\u003c/p\u003e\n\n\u003cp\u003eYou should do this using appropriate methods and measuring techniques.\u003c/p\u003e\n\n\u003cp\u003eYour monitoring should consider, for example, any other sources of hydrogen emissions, such as venting and fugitive emissions, including vented oxygen.\u003c/p\u003e\n\n\u003ch3 id=\"monitoring-emissions-to-water\"\u003e8.2 Monitoring emissions to water\u003c/h3\u003e\n\n\u003cp\u003eYou must monitor emissions to water based on expected impurities using appropriate methods and measuring techniques.\u003c/p\u003e\n\n\u003cp\u003eYou should use monitoring standards for discharges to water following \u003ca rel=\"external\" href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1579188127132\u0026amp;uri=CELEX%3A32016D0902\" class=\"govuk-link\"\u003e\u003cabbr title=\"best available techniques conclusions\"\u003eBATC\u003c/abbr\u003e for common waste water and waste gas treatment/management system in the chemical sector\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"monitoringemissions-to-ground-and-groundwater\"\u003e8.3 Monitoring emissions to ground and groundwater\u003c/h3\u003e\n\n\u003cp\u003eThough the life of the permit, your regulator may require a:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003esite condition and baseline report\u003c/li\u003e\n  \u003cli\u003esoil and groundwater monitoring plan\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou should seek advice from the appropriate regulator.\u003c/p\u003e\n\n\u003ch3 id=\"monitoring-standards\"\u003e8.4 Monitoring standards\u003c/h3\u003e\n\n\u003cp\u003eThe person who carries out your monitoring must be competent and work to recognised standards, such as the \u003ca href=\"https://www.gov.uk/government/collections/monitoring-emissions-to-air-land-and-water-mcerts\" class=\"govuk-link\"\u003emonitoring certification scheme (\u003cabbr title=\"monitoring certification scheme\"\u003eMCERTS\u003c/abbr\u003e)\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003e\u003cabbr title=\"monitoring certification scheme\"\u003eMCERTS\u003c/abbr\u003e sets the monitoring standards you should meet. You can use another certified monitoring standard, but you must provide evidence that it is equivalent to the \u003cabbr title=\"monitoring certification scheme\"\u003eMCERTS\u003c/abbr\u003e standards.\u003c/p\u003e\n\n\u003cp\u003eYou must use a laboratory accredited for the required analysis method by the \u003ca rel=\"external\" href=\"https://www.ukas.com/\" class=\"govuk-link\"\u003eUnited Kingdom Accreditation Service (\u003cabbr title=\"United Kingdom Accreditation Service\"\u003eUKAS\u003c/abbr\u003e)\u003c/a\u003e to carry out analysis for your monitoring.\u003c/p\u003e\n\n\u003cp\u003eYou should also refer to the \u003ca rel=\"external\" href=\"https://eippcb.jrc.ec.europa.eu/reference/monitoring-emissions-air-and-water-ied-installations-0\" class=\"govuk-link\"\u003e\u003cabbr title=\"Joint Research Centre\"\u003eJRC\u003c/abbr\u003e reference report on monitoring for \u003cabbr title=\"Industrial Emissions Directive\"\u003eIED\u003c/abbr\u003e installations\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"monitoring-process-performance\"\u003e8.5 Monitoring process performance\u003c/h3\u003e\n\n\u003cp\u003eYou should identify the main requirements for monitoring process operations where these ultimately impact on environmental performance. This includes:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eenergy consumption per kg of hydrogen product\u003c/li\u003e\n  \u003cli\u003ewater consumption per kg of hydrogen product\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou should monitor energy efficiency in the hydrogen production by measuring energy consumption per kg of hydrogen produced to calculate overall energy consumption.\u003c/p\u003e\n\n\u003cp\u003eYou should monitor overall water use by quality of water and purpose of use by carrying out a water balance across the installation. This is to:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eidentify opportunities for reduction in water use, where technically and economically feasible\u003c/li\u003e\n  \u003cli\u003econsider other environmental impacts, such as energy efficiency\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eRequirements for process performance monitoring which relate to environmental performance, either continuous or periodic, may also be a condition of the permit. For example, frequency of operations leading to additional emissions.\u003c/p\u003e\n\n\u003ch2 id=\"unplannedemissions-and-accidents\"\u003e9. Unplanned emissions and accidents\u003c/h2\u003e\n\n\u003cp\u003eYou should design your plant to:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003einherently avoid leaks by good design practice\u003c/li\u003e\n  \u003cli\u003eensure the plant is operated and maintained to appropriate industry standards\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou should propose a risk-based leak detection and repair (\u003cabbr title=\"leak detection and repair\"\u003eLDAR\u003c/abbr\u003e) programme that is appropriate for the fluids and their composition. This should use available industry best practice to minimise releases, including from:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ejoints\u003c/li\u003e\n  \u003cli\u003eflanges\u003c/li\u003e\n  \u003cli\u003eseals\u003c/li\u003e\n  \u003cli\u003eglands\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou should include how you will use the principles of \u003cabbr title=\"leak detection and repair\"\u003eLDAR\u003c/abbr\u003e to eliminate or reduce fugitive emissions of hydrogen due to its global warming potential.\u003c/p\u003e\n\n\u003cp\u003eYour hazard assessment and mitigation for the plant must consider the risks of accidental releases to the environment.\u003c/p\u003e\n\n\u003ch2 id=\"noise\"\u003e10. Noise\u003c/h2\u003e\n\n\u003cp\u003eYou should consider sources that have potential for noise and vibration. Hydrogen compression, pumps and fans could be significant sources.\u003c/p\u003e\n\n\u003cp\u003ePlease refer to the guidance on \u003ca href=\"https://www.gov.uk/government/publications/noise-and-vibration-management-environmental-permits\" class=\"govuk-link\"\u003enoise and vibration management: environmental permits\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"for-more-advice-from-your-regulator\"\u003e11. For more advice from your regulator\u003c/h2\u003e\n\n\u003cp\u003eYou can \u003ca href=\"https://www.gov.uk/guidance/get-advice-before-you-apply-for-an-environmental-permit\" class=\"govuk-link\"\u003erequest advice before applying for your permit\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eFor more advice from your regulator, in:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eEngland, contact the Environment Agency: \u003ca href=\"mailto:enquiries@environment-agency.gov.uk\" class=\"govuk-link\"\u003eenquiries@environment-agency.gov.uk\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003eWales, contact Natural Resources Wales: \u003ca href=\"mailto:enquiries@naturalresourceswales.gov.uk\" class=\"govuk-link\"\u003eenquiries@naturalresourceswales.gov.uk\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003eScotland, contact the Scottish Environment Protection Agency: \u003ca href=\"mailto:ppcpermitting@sepa.org.uk\" class=\"govuk-link\"\u003eppcpermitting@sepa.org.uk\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003eNorthern Ireland, contact the Northern Ireland Environment Agency: \u003ca href=\"mailto:IPRI@daera-ni.gov.uk\" class=\"govuk-link\"\u003eIPRI@daera-ni.gov.uk\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2024-03-28T09:30:02.000+00:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "16628142-57b2-4611-bc03-5912785acee3"
+                                                 ],
+                    "first_public_at":  "2024-03-28T09:30:02.000+00:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2024-03-28T09:30:02+00:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/hydrogen-production-by-electrolysis-of-water-emerging-techniques",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/hydrogen-production-by-electrolysis-of-water-emerging-techniques",
+                                                     "base_path":  "/guidance/hydrogen-production-by-electrolysis-of-water-emerging-techniques",
+                                                     "content_id":  "5f6b531b-ba78-4771-af49-bf90c42ec60e",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2024-03-28T09:30:02Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Hydrogen production by electrolysis of water: emerging techniques",
+                                                     "web_url":  "https://www.gov.uk/guidance/hydrogen-production-by-electrolysis-of-water-emerging-techniques",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/technical-guidance-for-regulated-industry-sectors-environmental-permitting",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/technical-guidance-for-regulated-industry-sectors-environmental-permitting",
+                                                   "base_path":  "/government/collections/technical-guidance-for-regulated-industry-sectors-environmental-permitting",
+                                                   "content_id":  "5f445af3-7631-11e4-a3cb-005056011aef",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/hydrogen-production-by-electrolysis-of-water-emerging-techniques",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/hydrogen-production-by-electrolysis-of-water-emerging-techniques",
+                                                                                       "base_path":  "/guidance/hydrogen-production-by-electrolysis-of-water-emerging-techniques",
+                                                                                       "content_id":  "5f6b531b-ba78-4771-af49-bf90c42ec60e",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2024-03-28T09:30:02Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Hydrogen production by electrolysis of water: emerging techniques",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/hydrogen-production-by-electrolysis-of-water-emerging-techniques",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2024-10-14T08:17:51Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "Technical guidance for regulated industry sectors: environmental permitting",
+                                                   "web_url":  "https://www.gov.uk/government/collections/technical-guidance-for-regulated-industry-sectors-environmental-permitting",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "EA199",
+                                            "api_path":  "/api/content/government/organisations/environment-agency",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/environment-agency",
+                                            "base_path":  "/government/organisations/environment-agency",
+                                            "content_id":  "16628142-57b2-4611-bc03-5912785acee3",
+                                            "details":  {
+                                                            "acronym":  "EA",
+                                                            "brand":  "department-for-environment-food-rural-affairs",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/62c56ed9e90e0774833f5583/s960_EA-officer-high-viz-jacket_960x640.jpg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/62c56ed9d3bf7f30034430da/s300_EA-officer-high-viz-jacket_960x640.jpg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "formatted_title":  "Environment Agency",
+                                                                         "image":  {
+                                                                                       "alt_text":  "Environment Agency",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/61fd3365e90e0768a8e97523/environment-agency-logo-480w.png"
+                                                                                   }
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Environment Agency",
+                                            "web_url":  "https://www.gov.uk/government/organisations/environment-agency",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "EA199",
+                                                                       "api_path":  "/api/content/government/organisations/environment-agency",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/environment-agency",
+                                                                       "base_path":  "/government/organisations/environment-agency",
+                                                                       "content_id":  "16628142-57b2-4611-bc03-5912785acee3",
+                                                                       "details":  {
+                                                                                       "acronym":  "EA",
+                                                                                       "brand":  "department-for-environment-food-rural-affairs",
+                                                                                       "default_news_image":  {
+                                                                                                                  "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/62c56ed9e90e0774833f5583/s960_EA-officer-high-viz-jacket_960x640.jpg",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/62c56ed9d3bf7f30034430da/s300_EA-officer-high-viz-jacket_960x640.jpg"
+                                                                                                              },
+                                                                                       "logo":  {
+                                                                                                    "formatted_title":  "Environment Agency",
+                                                                                                    "image":  {
+                                                                                                                  "alt_text":  "Environment Agency",
+                                                                                                                  "url":  "https://assets.publishing.service.gov.uk/media/61fd3365e90e0768a8e97523/environment-agency-logo-480w.png"
+                                                                                                              }
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Environment Agency",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/environment-agency",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "EA199",
+                                                              "api_path":  "/api/content/government/organisations/environment-agency",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/environment-agency",
+                                                              "base_path":  "/government/organisations/environment-agency",
+                                                              "content_id":  "16628142-57b2-4611-bc03-5912785acee3",
+                                                              "details":  {
+                                                                              "acronym":  "EA",
+                                                                              "brand":  "department-for-environment-food-rural-affairs",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/62c56ed9e90e0774833f5583/s960_EA-officer-high-viz-jacket_960x640.jpg",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/62c56ed9d3bf7f30034430da/s300_EA-officer-high-viz-jacket_960x640.jpg"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "formatted_title":  "Environment Agency",
+                                                                                           "image":  {
+                                                                                                         "alt_text":  "Environment Agency",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/61fd3365e90e0768a8e97523/environment-agency-logo-480w.png"
+                                                                                                     }
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Environment Agency",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/environment-agency",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "related_guides":  [
+                                         {
+                                             "api_path":  "/api/content/guidance/hydrogen-production-with-carbon-capture-emerging-techniques",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/hydrogen-production-with-carbon-capture-emerging-techniques",
+                                             "base_path":  "/guidance/hydrogen-production-with-carbon-capture-emerging-techniques",
+                                             "content_id":  "32d5247f-3a3e-4509-9235-8f05065fc9c0",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2023-02-03T00:00:00Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Hydrogen production with carbon capture: emerging techniques",
+                                             "web_url":  "https://www.gov.uk/guidance/hydrogen-production-with-carbon-capture-emerging-techniques",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/post-combustion-carbon-dioxide-capture-best-available-techniques-bat",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/post-combustion-carbon-dioxide-capture-best-available-techniques-bat",
+                                             "base_path":  "/guidance/post-combustion-carbon-dioxide-capture-best-available-techniques-bat",
+                                             "content_id":  "4cbd7d57-34b4-40db-b312-8c81ba8422bf",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2024-03-27T09:30:05Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Post-combustion carbon dioxide capture: emerging techniques",
+                                             "web_url":  "https://www.gov.uk/guidance/post-combustion-carbon-dioxide-capture-best-available-techniques-bat",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/get-advice-before-you-apply-for-an-environmental-permit",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/get-advice-before-you-apply-for-an-environmental-permit",
+                                             "base_path":  "/guidance/get-advice-before-you-apply-for-an-environmental-permit",
+                                             "content_id":  "a72ede17-797b-4e85-80a1-217ae8d0a7fc",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2024-08-23T12:49:23Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Get advice before you apply for an environmental permit",
+                                             "web_url":  "https://www.gov.uk/guidance/get-advice-before-you-apply-for-an-environmental-permit",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/a1-installations-environmental-permits",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/a1-installations-environmental-permits",
+                                             "base_path":  "/guidance/a1-installations-environmental-permits",
+                                             "content_id":  "ee70352f-6467-4659-adc2-14811377f7fd",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2024-07-16T15:40:11Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "A1 installations: environmental permits",
+                                             "web_url":  "https://www.gov.uk/guidance/a1-installations-environmental-permits",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/air-emissions-risk-assessment-for-your-environmental-permit",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/air-emissions-risk-assessment-for-your-environmental-permit",
+                                             "base_path":  "/guidance/air-emissions-risk-assessment-for-your-environmental-permit",
+                                             "content_id":  "0effacfd-6f1c-4bd9-b549-e62abaabb237",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2025-01-07T16:59:31Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Air emissions risk assessment for your environmental permit",
+                                             "web_url":  "https://www.gov.uk/guidance/air-emissions-risk-assessment-for-your-environmental-permit",
+                                             "withdrawn":  false
+                                         },
+                                         {
+                                             "api_path":  "/api/content/guidance/surface-water-pollution-risk-assessment-for-your-environmental-permit",
+                                             "api_url":  "https://www.gov.uk/api/content/guidance/surface-water-pollution-risk-assessment-for-your-environmental-permit",
+                                             "base_path":  "/guidance/surface-water-pollution-risk-assessment-for-your-environmental-permit",
+                                             "content_id":  "7e00dac4-5833-4b87-8e92-7c4a78e4acf4",
+                                             "document_type":  "detailed_guide",
+                                             "links":  {
+
+                                                       },
+                                             "locale":  "en",
+                                             "public_updated_at":  "2022-02-25T09:36:49Z",
+                                             "schema_name":  "detailed_guide",
+                                             "title":  "Surface water pollution risk assessment for your environmental permit",
+                                             "web_url":  "https://www.gov.uk/guidance/surface-water-pollution-risk-assessment-for-your-environmental-permit",
+                                             "withdrawn":  false
+                                         }
+                                     ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/environment/low-carbon-technologies",
+                                     "api_url":  "https://www.gov.uk/api/content/environment/low-carbon-technologies",
+                                     "base_path":  "/environment/low-carbon-technologies",
+                                     "content_id":  "5812ef82-6a5c-43b8-9d76-b3f7d8019945",
+                                     "details":  {
+                                                     "internal_name":  "Low carbon technologies [P]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/environment/climate-change-energy-energy-infrastructure",
+                                                                             "api_url":  "https://www.gov.uk/api/content/environment/climate-change-energy-energy-infrastructure",
+                                                                             "base_path":  "/environment/climate-change-energy-energy-infrastructure",
+                                                                             "content_id":  "899d76d6-4d59-409e-a7a4-2a7e47c9361b",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Energy infrastructure [T]",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/environment",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/environment",
+                                                                                                                     "base_path":  "/environment",
+                                                                                                                     "content_id":  "3cf97f69-84de-41ae-bc7b-7e2cc238fa58",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Environment",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T13:39:00Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Environment",
+                                                                                                                     "web_url":  "https://www.gov.uk/environment",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-05T16:13:09Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Energy infrastructure",
+                                                                             "web_url":  "https://www.gov.uk/environment/climate-change-energy-energy-infrastructure",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-05T16:13:09Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Low carbon technologies",
+                                     "web_url":  "https://www.gov.uk/environment/low-carbon-technologies",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/environment/environmental-permits",
+                                     "api_url":  "https://www.gov.uk/api/content/environment/environmental-permits",
+                                     "base_path":  "/environment/environmental-permits",
+                                     "content_id":  "4e561949-4a26-49c2-918d-6ad2972c4d33",
+                                     "details":  {
+                                                     "internal_name":  "Environmental permits [T] (level 2, environment theme)",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/environment",
+                                                                             "api_url":  "https://www.gov.uk/api/content/environment",
+                                                                             "base_path":  "/environment",
+                                                                             "content_id":  "3cf97f69-84de-41ae-bc7b-7e2cc238fa58",
+                                                                             "description":  "",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Environment",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  true
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "root_taxon":  [
+                                                                                                              {
+                                                                                                                  "api_path":  "/api/content/",
+                                                                                                                  "api_url":  "https://www.gov.uk/api/content/",
+                                                                                                                  "base_path":  "/",
+                                                                                                                  "content_id":  "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                                                                                                  "document_type":  "homepage",
+                                                                                                                  "links":  {
+
+                                                                                                                            },
+                                                                                                                  "locale":  "en",
+                                                                                                                  "public_updated_at":  "2023-06-28T09:32:34Z",
+                                                                                                                  "schema_name":  "homepage",
+                                                                                                                  "title":  "GOV.UK homepage",
+                                                                                                                  "web_url":  "https://www.gov.uk/",
+                                                                                                                  "withdrawn":  false
+                                                                                                              }
+                                                                                                          ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "live",
+                                                                             "public_updated_at":  "2018-09-16T13:39:00Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Environment",
+                                                                             "web_url":  "https://www.gov.uk/environment",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "live",
+                                     "public_updated_at":  "2018-09-05T16:13:05Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Environmental permits",
+                                     "web_url":  "https://www.gov.uk/environment/environmental-permits",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2024-03-28T09:30:02+00:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1711618354.623-10.13.22.55-2791",
+    "publishing_scheduled_at":  "2024-03-28T09:30:00+00:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  4,
+    "schema_name":  "detailed_guide",
+    "title":  "Hydrogen production by electrolysis of water: emerging techniques",
+    "updated_at":  "2025-01-07T16:59:32+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}

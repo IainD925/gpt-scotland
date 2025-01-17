@@ -1,0 +1,579 @@
+﻿{
+    "analytics_identifier":  null,
+    "base_path":  "/guidance/assessing-if-artificial-intelligence-is-the-right-solution",
+    "content_id":  "927759dc-d8fa-4535-8470-e44ace2b3dc4",
+    "description":  "Guidance to help you assess if artificial intelligence (AI) is the right technology for your challenge.",
+    "details":  {
+                    "attachments":  [
+
+                                    ],
+                    "body":  "\u003cdiv class=\"govspeak\"\u003e\n\u003cdiv class=\"example\"\u003e\n\u003cp\u003eThis guidance is part of a wider collection about \u003ca href=\"https://www.gov.uk/government/collections/a-guide-to-using-artificial-intelligence-in-the-public-sector\" class=\"govuk-link\"\u003eusing artificial intelligence (AI) in the public sector\u003c/a\u003e.\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cp\u003eThis guidance will help you assess if artificial intelligence (AI) is the \u003ca href=\"https://www.gov.uk/service-manual/technology/choosing-technology-an-introduction\" class=\"govuk-link\"\u003eright technology to help you meet user needs\u003c/a\u003e. As with all technology projects, you should make sure you can change your mind at a later stage and you can adapt the technology as your understanding of user needs changes.\u003c/p\u003e\n\n\u003cp\u003eThis guidance is relevant for anyone responsible for choosing technology in a public sector organisation.\u003c/p\u003e\n\n\u003ch2 id=\"assessing-if-ai-is-the-right-solution-for-your-users-needs\"\u003eAssessing if AI is the right solution for your users’ needs\u003c/h2\u003e\n\n\u003cp\u003eAI is just another tool to help deliver services. Designing any service starts with \u003ca href=\"https://www.gov.uk/service-manual/user-research/start-by-learning-user-needs\" class=\"govuk-link\"\u003eidentifying user needs\u003c/a\u003e. If you think AI may be an appropriate technology choice to help you meet user needs, you will need to consider your data and the specific technology you want to use. Your \u003ca href=\"https://www.gov.uk/government/publications/data-scientist-role-description\" class=\"govuk-link\"\u003edata scientists\u003c/a\u003e will then use your data to build and train an AI model.\u003c/p\u003e\n\n\u003cp\u003eWhen assessing if AI could help you meet users’ needs, consider if:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethere’s data containing the information you need, even if disguised or buried\u003c/li\u003e\n  \u003cli\u003eit’s ethical and safe to use the data - refer to \u003ca href=\"https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework\" class=\"govuk-link\"\u003ethe Data Ethics Framework\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003eyou have a large quantity of data for the model to learn from\u003c/li\u003e\n  \u003cli\u003ethe task is large scale and repetitive enough that a human would struggle to carry it out\u003c/li\u003e\n  \u003cli\u003eit would provide information a team could use to achieve outcomes in the real world\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIt’s important to remember that AI is not an all-purpose solution. Unlike a human, AI cannot infer, and can only produce an output based on the data a team inputs to the model.\u003c/p\u003e\n\n\u003ch2 id=\"working-with-the-right-skills-to-assess-ai\"\u003eWorking with the right skills to assess AI\u003c/h2\u003e\n\n\u003cp\u003eWhen identifying whether AI is the right solution, it’s important that you work with:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003especialists who have a good knowledge of your data and the problem you’re trying to solve, such as \u003ca href=\"https://www.gov.uk/government/publications/data-scientist-role-description\" class=\"govuk-link\"\u003edata scientists\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003eat least one domain knowledge expert who knows the environment where you will be deploying the AI model results\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"consider-your-current-data-state\"\u003eConsider your current data state\u003c/h2\u003e\n\n\u003cp\u003eFor your AI model to work, it needs access to a large quantity of data. Work with specialists who have the knowledge of your data, such as data scientists, to assess your data state. You can assess whether your data is high enough quality for AI using a combination of:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eaccuracy\u003c/li\u003e\n  \u003cli\u003ecompleteness\u003c/li\u003e\n  \u003cli\u003euniqueness\u003c/li\u003e\n  \u003cli\u003etimeliness\u003c/li\u003e\n  \u003cli\u003evalidity\u003c/li\u003e\n  \u003cli\u003esufficiency\u003c/li\u003e\n  \u003cli\u003erelevancy\u003c/li\u003e\n  \u003cli\u003erepresentativeness\u003c/li\u003e\n  \u003cli\u003econsistency\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIf your problem involves supporting an ongoing business decision process, you will need to plan to establish ongoing, up-to-date access to data. Remember to \u003ca href=\"https://www.gov.uk/guidance/2-be-aware-of-relevant-legislation-and-codes-of-practice#what-the-law-says\" class=\"govuk-link\"\u003efollow data protection laws\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"choosing-ai-technology-for-your-challenge\"\u003eChoosing AI technology for your challenge\u003c/h2\u003e\n\n\u003cp\u003eThere is no one ‘AI technology’. Currently, widely-available AI technologies are mostly either supervised, unsupervised or reinforcement machine learning. The machine learning techniques that can provide you with the best insight depends on the problem you’re trying to solve.\u003c/p\u003e\n\n\u003ctable\u003e\n  \u003cthead\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"col\"\u003eMachine learning technique\u003c/th\u003e\n      \u003cth scope=\"col\"\u003eDescription\u003c/th\u003e\n      \u003cth scope=\"col\"\u003eExamples of machine learning technique\u003c/th\u003e\n    \u003c/tr\u003e\n  \u003c/thead\u003e\n  \u003ctbody\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eClassification\u003c/td\u003e\n      \u003ctd\u003eLearns the characteristics of a given category, allowing the model to classify unknown data points into existing categories\u003c/td\u003e\n      \u003ctd\u003e- deciding if a consignment of goods undergoes border inspection\u003cbr\u003e\u003cbr\u003e- deciding if an email is spam or not\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eRegression\u003c/td\u003e\n      \u003ctd\u003ePredicts a value for an unknown data point\u003c/td\u003e\n      \u003ctd\u003e- predicting the market value of a house from information such as its size, location, or age\u003cbr\u003e\u003cbr\u003e- forecasting the concentrations of air pollutants in cities\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eClustering\u003c/td\u003e\n      \u003ctd\u003eIdentifies groups of similar data points in a dataset\u003c/td\u003e\n      \u003ctd\u003e- grouping retail customers to find subgroups with specific spending habits\u003cbr\u003e\u003cbr\u003e- clustering smart-meter data to identify groups of electrical appliances, and generate itemised electricity bills\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eDimensionality Reduction or Manifold Learning\u003c/td\u003e\n      \u003ctd\u003eNarrows down the data to the most relevant variables to make models more accurate, or make it possible to visualise the data\u003c/td\u003e\n      \u003ctd\u003e- used by data scientists when evaluating and developing other types of machine learning algorithms\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eRanking\u003c/td\u003e\n      \u003ctd\u003eTrains a model to rank new data based on previously-seen lists\u003c/td\u003e\n      \u003ctd\u003e- returning pages by order of relevance when a user searches a website\u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e\n\n\u003ch3 id=\"common-applications-of-machine-learning\"\u003eCommon applications of machine learning\u003c/h3\u003e\n\n\u003cp\u003eThere are certain types of problems for which machine learning is commonly used. For some of these you will be able to buy or adapt commercially available products.\u003c/p\u003e\n\n\u003ctable\u003e\n  \u003cthead\u003e\n    \u003ctr\u003e\n      \u003cth scope=\"col\"\u003eMachine learning application\u003c/th\u003e\n      \u003cth scope=\"col\"\u003eDescription\u003c/th\u003e\n      \u003cth scope=\"col\"\u003eExamples of machine learning application\u003c/th\u003e\n    \u003c/tr\u003e\n  \u003c/thead\u003e\n  \u003ctbody\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eNatural language processing (NLP)\u003c/td\u003e\n      \u003ctd\u003eProcesses and analyses natural language, recognising words, their meaning, context and the narrative\u003c/td\u003e\n      \u003ctd\u003e- converting speech into text for automatic subtitles generation\u003cbr\u003e\u003cbr\u003e- automatically generating a reply to a customer’s email\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eComputer vision\u003c/td\u003e\n      \u003ctd\u003eThe ability of a machine or program to emulate human vision\u003c/td\u003e\n      \u003ctd\u003e- identification of road signs for self-driving vehicles\u003cbr\u003e\u003cbr\u003e- face recognition for automated passport controls\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eAnomaly detection\u003c/td\u003e\n      \u003ctd\u003eFinds anomalous data points within a data set\u003c/td\u003e\n      \u003ctd\u003e- identifying fraudulent activity in a user’s bank account\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eTime-series analysis\u003c/td\u003e\n      \u003ctd\u003eUnderstanding how data varies over time to conduct forecasting and monitoring\u003c/td\u003e\n      \u003ctd\u003e- conducting budget analyses\u003cbr\u003e\u003cbr\u003e- forecasting economic indicators\u003c/td\u003e\n    \u003c/tr\u003e\n    \u003ctr\u003e\n      \u003ctd\u003eRecommender systems\u003c/td\u003e\n      \u003ctd\u003ePredicts how a user will rate a given item to make new recommendations\u003c/td\u003e\n      \u003ctd\u003e- suggesting relevant pages on a website, given the articles a user has previously viewed\u003c/td\u003e\n    \u003c/tr\u003e\n  \u003c/tbody\u003e\n\u003c/table\u003e\n\n\u003ch2 id=\"getting-approval-to-spend\"\u003eGetting approval to spend\u003c/h2\u003e\n\n\u003cp\u003eBecause of its experimental and iterative nature, it can be difficult to specify the precise benefits which could come from an AI project. To explore this uncertainty and provide the right level of information around the potential benefits, you can:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ecarry out some initial analysis on your data to help you understand how hard the problem is and how likely the project’s success would be\u003c/li\u003e\n  \u003cli\u003ebuild your business case around a small-scale proof of concept (PoC) and use its results to prove your hypothesis\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eOnce you have secured budget, you’ll need to allow enough time and resources to \u003ca href=\"https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works\" class=\"govuk-link\"\u003econduct a substantial discovery\u003c/a\u003e to show feasibility. Discovery for projects using AI can often takes longer for similar projects that do not use AI.\u003c/p\u003e\n\n\u003cp\u003eIf your organisation is a central government department, you may have to \u003ca href=\"https://www.gov.uk/service-manual/agile-delivery/spend-controls-check-if-you-need-approval-to-spend-money-on-a-service\" class=\"govuk-link\"\u003eget approval from the Government Digital Service (GDS) to spend money\u003c/a\u003e on AI. At this point most \u003ca href=\"https://www.gov.uk/service-manual/agile-delivery/spend-controls-pipeline-process\" class=\"govuk-link\"\u003eAI projects are classified as ‘novel’\u003c/a\u003e, which requires a high level of scrutiny. You should contact the \u003ca href=\"mailto:%20gdsapprovals@digital.cabinet-office.gov.uk\" class=\"govuk-link\"\u003eGDS Standards Assurance\u003c/a\u003e team for help on the spend controls process.\u003c/p\u003e\n\n\u003ch2 id=\"deciding-whether-to-build-or-buy\"\u003eDeciding whether to build or buy\u003c/h2\u003e\n\n\u003cp\u003eWhen assessing if AI could help you meet user needs, consider how you will procure the technology. You should \u003ca href=\"https://www.gov.uk/guidance/define-your-purchasing-strategy\" class=\"govuk-link\"\u003edefine your purchasing strategy\u003c/a\u003e in the same way as you would for any other technology. Whether you build, buy or reuse (or combine these approaches) will depend on a number of considerations, including:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ewhether the needs you’re trying to meet are unique to your organisation or you could fulfil users’ needs with generic components\u003c/li\u003e\n  \u003cli\u003ethe maturity of commercially available products that meet those needs\u003c/li\u003e\n  \u003cli\u003ehow your product needs to integrate with your existing infrastructure\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eIt’s also important to \u003ca href=\"https://www.gov.uk/guidance/understanding-artificial-intelligence-ethics-and-safety\" class=\"govuk-link\"\u003eaddress ethical concerns\u003c/a\u003e about the use of AI from the start of the procurement process.\u003c/p\u003e\n\n\u003cp\u003eThe Office for AI and the World Economic Forum are developing further \u003ca rel=\"external\" href=\"https://www.weforum.org/projects/unlocking-public-sector-artificial-intelligence\" class=\"govuk-link\"\u003eguidance on AI procurement\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"build-your-ai-solution\"\u003eBuild your AI solution\u003c/h3\u003e\n\n\u003cp\u003eYour team can build or adapt off-the-shelf AI models or open source algorithms in-house.\u003c/p\u003e\n\n\u003cp\u003eWhen making this decision, you should work with data scientists to consider whether:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eyour team has the skills to build an AI project in-house\u003c/li\u003e\n  \u003cli\u003eyour operations team can run and maintain an in-house AI solution\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"buy-your-ai-solution\"\u003eBuy your AI solution\u003c/h3\u003e\n\n\u003cp\u003eYou may be able to buy your AI technology as an off-the-shelf product. This is most suitable if you are looking for a common application of AI, for example optical character recognition. However, buying your AI technology may not always be suitable as the specifics of your data and needs could mean the supplier would have to build from scratch or significantly customise an existing model.\u003c/p\u003e\n\n\u003cp\u003eYour AI solution will still need to be integrated into an end-to-end service for your users, even if you are able to buy significant components off the shelf.\u003c/p\u003e\n\n\u003ch2 id=\"allocating-responsibility-and-governance-for-ai-projects\"\u003eAllocating responsibility and governance for AI projects\u003c/h2\u003e\n\n\u003cp\u003eWhen using AI it’s important to understand who is responsible if the system fails, as the problem may lie in a number of areas. For example, failures with the data chosen to train the model, design of the model, coding of the software, or deployment.\u003c/p\u003e\n\n\u003cp\u003eYou should establish a responsibility record which sets out who is responsible for different areas of the AI. It would be useful to consider whether:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe models are achieving their purpose and business objectives\u003c/li\u003e\n  \u003cli\u003ethere is a clear accountability framework for models in production\u003c/li\u003e\n  \u003cli\u003ethere is a clear testing and monitoring framework in place\u003c/li\u003e\n  \u003cli\u003eyour team has reviewed and validated the code\u003c/li\u003e\n  \u003cli\u003ethe algorithms are robust, unbiased, fair and explainable\u003c/li\u003e\n  \u003cli\u003ethe project fits with how citizens and users expect their data to be used\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eDepending on your organisation’s maturity, it may be useful to set up a dedicated board, committee or forum to handle AI data and model governance.\u003c/p\u003e\n\n\u003ch3 id=\"recording-accountability\"\u003eRecording accountability\u003c/h3\u003e\n\n\u003cp\u003eIt can be useful to keep a central record of all AI technologies you use, listing:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ewhere AI is in use\u003c/li\u003e\n  \u003cli\u003ewhat the AI is used for\u003c/li\u003e\n  \u003cli\u003ewho’s involved\u003c/li\u003e\n  \u003cli\u003ehow it’s assessed or checked\u003c/li\u003e\n  \u003cli\u003ewhat other teams rely on the technology\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"related-guides\"\u003eRelated guides\u003c/h2\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/publications/understanding-artificial-intelligence/a-guide-to-using-artificial-intelligence-in-the-public-sector\" class=\"govuk-link\"\u003eUnderstanding artificial intelligence\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/planning-and-preparing-for-artificial-intelligence-implementation\" class=\"govuk-link\"\u003ePlanning and preparing for artificial intelligence implementation\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/managing-your-artificial-intelligence-project\" class=\"govuk-link\"\u003eManaging your artificial intelligence project\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/guidance/understanding-artificial-intelligence-ethics-and-safety\" class=\"govuk-link\"\u003eUnderstanding artificial intelligence ethics and safety\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\u003ca href=\"https://www.gov.uk/government/collections/a-guide-to-using-artificial-intelligence-in-the-public-sector#examples-of-artificial-intelligence-use\" class=\"govuk-link\"\u003eExamples of real-world artificial intelligence use\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003eNational Cyber Security Centre \u003ca rel=\"external\" href=\"https://www.ncsc.gov.uk/collection/intelligent-security-tools\" class=\"govuk-link\"\u003eguidance for assessing intelligent tools for cyber security\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003eThe \u003ca href=\"https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework\" class=\"govuk-link\"\u003eData Ethics Framework\u003c/a\u003e\n\u003c/li\u003e\n  \u003cli\u003eThe \u003ca href=\"https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice\" class=\"govuk-link\"\u003eTechnology Code of Practice\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/div\u003e",
+                    "change_history":  [
+                                           {
+                                               "note":  "First published.",
+                                               "public_timestamp":  "2019-06-10T00:00:00.000+01:00"
+                                           }
+                                       ],
+                    "emphasised_organisations":  [
+                                                     "c352c234-8083-47ec-8a4b-0edd45c31263"
+                                                 ],
+                    "first_public_at":  "2019-06-10T00:00:00.000+01:00",
+                    "political":  false,
+                    "related_mainstream_content":  [
+
+                                                   ],
+                    "tags":  {
+                                 "browse_pages":  [
+
+                                                  ],
+                                 "topics":  [
+
+                                            ]
+                             }
+                },
+    "document_type":  "detailed_guide",
+    "first_published_at":  "2019-06-10T00:00:00+01:00",
+    "links":  {
+                  "available_translations":  [
+                                                 {
+                                                     "api_path":  "/api/content/guidance/assessing-if-artificial-intelligence-is-the-right-solution",
+                                                     "api_url":  "https://www.gov.uk/api/content/guidance/assessing-if-artificial-intelligence-is-the-right-solution",
+                                                     "base_path":  "/guidance/assessing-if-artificial-intelligence-is-the-right-solution",
+                                                     "content_id":  "927759dc-d8fa-4535-8470-e44ace2b3dc4",
+                                                     "document_type":  "detailed_guide",
+                                                     "links":  {
+
+                                                               },
+                                                     "locale":  "en",
+                                                     "public_updated_at":  "2019-06-09T23:00:00Z",
+                                                     "schema_name":  "detailed_guide",
+                                                     "title":  "Assessing if artificial intelligence is the right solution",
+                                                     "web_url":  "https://www.gov.uk/guidance/assessing-if-artificial-intelligence-is-the-right-solution",
+                                                     "withdrawn":  false
+                                                 }
+                                             ],
+                  "document_collections":  [
+                                               {
+                                                   "api_path":  "/api/content/government/collections/a-guide-to-using-artificial-intelligence-in-the-public-sector",
+                                                   "api_url":  "https://www.gov.uk/api/content/government/collections/a-guide-to-using-artificial-intelligence-in-the-public-sector",
+                                                   "base_path":  "/government/collections/a-guide-to-using-artificial-intelligence-in-the-public-sector",
+                                                   "content_id":  "9ef358c1-1f51-41fc-83d7-5daf2a1fe489",
+                                                   "document_type":  "document_collection",
+                                                   "links":  {
+                                                                 "documents":  [
+                                                                                   {
+                                                                                       "api_path":  "/api/content/guidance/assessing-if-artificial-intelligence-is-the-right-solution",
+                                                                                       "api_url":  "https://www.gov.uk/api/content/guidance/assessing-if-artificial-intelligence-is-the-right-solution",
+                                                                                       "base_path":  "/guidance/assessing-if-artificial-intelligence-is-the-right-solution",
+                                                                                       "content_id":  "927759dc-d8fa-4535-8470-e44ace2b3dc4",
+                                                                                       "document_type":  "detailed_guide",
+                                                                                       "links":  {
+
+                                                                                                 },
+                                                                                       "locale":  "en",
+                                                                                       "public_updated_at":  "2019-06-09T23:00:00Z",
+                                                                                       "schema_name":  "detailed_guide",
+                                                                                       "title":  "Assessing if artificial intelligence is the right solution",
+                                                                                       "web_url":  "https://www.gov.uk/guidance/assessing-if-artificial-intelligence-is-the-right-solution",
+                                                                                       "withdrawn":  false
+                                                                                   }
+                                                                               ]
+                                                             },
+                                                   "locale":  "en",
+                                                   "public_updated_at":  "2019-10-18T11:16:59Z",
+                                                   "schema_name":  "document_collection",
+                                                   "title":  "A guide to using artificial intelligence in the public sector",
+                                                   "web_url":  "https://www.gov.uk/government/collections/a-guide-to-using-artificial-intelligence-in-the-public-sector",
+                                                   "withdrawn":  false
+                                               }
+                                           ],
+                  "government":  [
+                                     {
+                                         "api_path":  "/api/content/government/2015-conservative-government",
+                                         "api_url":  "https://www.gov.uk/api/content/government/2015-conservative-government",
+                                         "base_path":  "/government/2015-conservative-government",
+                                         "content_id":  "d4fbc1b9-d47d-4386-af04-ac909f868f92",
+                                         "details":  {
+                                                         "current":  false,
+                                                         "ended_on":  "2016-07-13T00:00:00+00:00",
+                                                         "started_on":  "2015-05-08T00:00:00+00:00"
+                                                     },
+                                         "document_type":  "government",
+                                         "links":  {
+
+                                                   },
+                                         "locale":  "en",
+                                         "title":  "2015 to 2016 Cameron Conservative government",
+                                         "web_url":  "https://www.gov.uk/government/2015-conservative-government"
+                                     }
+                                 ],
+                  "organisations":  [
+                                        {
+                                            "analytics_identifier":  "D1381",
+                                            "api_path":  "/api/content/government/organisations/department-for-science-innovation-and-technology",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-science-innovation-and-technology",
+                                            "base_path":  "/government/organisations/department-for-science-innovation-and-technology",
+                                            "content_id":  "c352c234-8083-47ec-8a4b-0edd45c31263",
+                                            "details":  {
+                                                            "acronym":  "DSIT",
+                                                            "brand":  "department-for-science-innovation-technology",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/66fe47acc71e42688b65f069/s960_dsit_govuk.png",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/66fe47ac3b919067bb482b52/s300_dsit_govuk.png"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Department for\u003cbr/\u003eScience, Innovation\u003cbr/\u003e\u0026amp; Technology"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "live",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  null
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Department for Science, Innovation and Technology",
+                                            "web_url":  "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology",
+                                            "withdrawn":  false
+                                        },
+                                        {
+                                            "analytics_identifier":  "OT1278",
+                                            "api_path":  "/api/content/government/organisations/office-for-artificial-intelligence",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/office-for-artificial-intelligence",
+                                            "base_path":  "/government/organisations/office-for-artificial-intelligence",
+                                            "content_id":  "485a7163-751f-43a8-a837-af4755d9cf6d",
+                                            "details":  {
+                                                            "acronym":  "",
+                                                            "brand":  "cabinet-office",
+                                                            "default_news_image":  null,
+                                                            "logo":  {
+                                                                         "crest":  "single-identity",
+                                                                         "formatted_title":  "Office for Artificial Intelligence"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "merged",
+                                                                                              "updated_at":  "2024-02-06T00:00:00.000+00:00",
+                                                                                              "url":  ""
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Office for Artificial Intelligence",
+                                            "web_url":  "https://www.gov.uk/government/organisations/office-for-artificial-intelligence",
+                                            "withdrawn":  false
+                                        },
+                                        {
+                                            "analytics_identifier":  "OT1280",
+                                            "api_path":  "/api/content/government/organisations/centre-for-data-ethics-and-innovation",
+                                            "api_url":  "https://www.gov.uk/api/content/government/organisations/centre-for-data-ethics-and-innovation",
+                                            "base_path":  "/government/organisations/centre-for-data-ethics-and-innovation",
+                                            "content_id":  "1405edcb-943d-42d2-8ec8-c51cd58335a5",
+                                            "details":  {
+                                                            "acronym":  "CDEI",
+                                                            "brand":  "cabinet-office",
+                                                            "default_news_image":  {
+                                                                                       "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/5d4070e2e5274a4010e34055/s960_notebook.jpeg",
+                                                                                       "url":  "https://assets.publishing.service.gov.uk/media/5d4070e2ed915d0d044688ee/s300_notebook.jpeg"
+                                                                                   },
+                                                            "logo":  {
+                                                                         "formatted_title":  "Centre for\u003cbr/\u003eData Ethics\u003cbr/\u003eand Innovation"
+                                                                     },
+                                                            "organisation_govuk_status":  {
+                                                                                              "status":  "merged",
+                                                                                              "updated_at":  null,
+                                                                                              "url":  ""
+                                                                                          }
+                                                        },
+                                            "document_type":  "organisation",
+                                            "links":  {
+
+                                                      },
+                                            "locale":  "en",
+                                            "schema_name":  "organisation",
+                                            "title":  "Centre for Data Ethics and Innovation",
+                                            "web_url":  "https://www.gov.uk/government/organisations/centre-for-data-ethics-and-innovation",
+                                            "withdrawn":  false
+                                        }
+                                    ],
+                  "original_primary_publishing_organisation":  [
+                                                                   {
+                                                                       "analytics_identifier":  "OT1329",
+                                                                       "api_path":  "/api/content/government/organisations/central-digital-and-data-office",
+                                                                       "api_url":  "https://www.gov.uk/api/content/government/organisations/central-digital-and-data-office",
+                                                                       "base_path":  "/government/organisations/central-digital-and-data-office",
+                                                                       "content_id":  "2fb482e7-3c4d-496f-887d-f8a55a15e89a",
+                                                                       "details":  {
+                                                                                       "acronym":  "CDDO",
+                                                                                       "brand":  "department-for-science-innovation-and-technology",
+                                                                                       "default_news_image":  null,
+                                                                                       "logo":  {
+                                                                                                    "crest":  "single-identity",
+                                                                                                    "formatted_title":  "Central Digital \u003cbr/\u003e\u0026amp; Data Office"
+                                                                                                },
+                                                                                       "organisation_govuk_status":  {
+                                                                                                                         "status":  "live",
+                                                                                                                         "updated_at":  null,
+                                                                                                                         "url":  null
+                                                                                                                     }
+                                                                                   },
+                                                                       "document_type":  "organisation",
+                                                                       "links":  {
+
+                                                                                 },
+                                                                       "locale":  "en",
+                                                                       "schema_name":  "organisation",
+                                                                       "title":  "Central Digital and Data Office",
+                                                                       "web_url":  "https://www.gov.uk/government/organisations/central-digital-and-data-office",
+                                                                       "withdrawn":  false
+                                                                   }
+                                                               ],
+                  "primary_publishing_organisation":  [
+                                                          {
+                                                              "analytics_identifier":  "D1381",
+                                                              "api_path":  "/api/content/government/organisations/department-for-science-innovation-and-technology",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/organisations/department-for-science-innovation-and-technology",
+                                                              "base_path":  "/government/organisations/department-for-science-innovation-and-technology",
+                                                              "content_id":  "c352c234-8083-47ec-8a4b-0edd45c31263",
+                                                              "details":  {
+                                                                              "acronym":  "DSIT",
+                                                                              "brand":  "department-for-science-innovation-technology",
+                                                                              "default_news_image":  {
+                                                                                                         "high_resolution_url":  "https://assets.publishing.service.gov.uk/media/66fe47acc71e42688b65f069/s960_dsit_govuk.png",
+                                                                                                         "url":  "https://assets.publishing.service.gov.uk/media/66fe47ac3b919067bb482b52/s300_dsit_govuk.png"
+                                                                                                     },
+                                                                              "logo":  {
+                                                                                           "crest":  "single-identity",
+                                                                                           "formatted_title":  "Department for\u003cbr/\u003eScience, Innovation\u003cbr/\u003e\u0026amp; Technology"
+                                                                                       },
+                                                                              "organisation_govuk_status":  {
+                                                                                                                "status":  "live",
+                                                                                                                "updated_at":  null,
+                                                                                                                "url":  null
+                                                                                                            }
+                                                                          },
+                                                              "document_type":  "organisation",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "schema_name":  "organisation",
+                                                              "title":  "Department for Science, Innovation and Technology",
+                                                              "web_url":  "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "suggested_ordered_related_items":  [
+                                                          {
+                                                              "api_path":  "/api/content/guidance/managing-your-artificial-intelligence-project",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/managing-your-artificial-intelligence-project",
+                                                              "base_path":  "/guidance/managing-your-artificial-intelligence-project",
+                                                              "content_id":  "f32b5a0c-b44e-4cc5-9bb0-2acedb11d807",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2019-06-09T23:00:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Managing your artificial intelligence project",
+                                                              "web_url":  "https://www.gov.uk/guidance/managing-your-artificial-intelligence-project",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/understanding-artificial-intelligence-ethics-and-safety",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/understanding-artificial-intelligence-ethics-and-safety",
+                                                              "base_path":  "/guidance/understanding-artificial-intelligence-ethics-and-safety",
+                                                              "content_id":  "e0dc05e3-104f-48e9-a1b9-46b033b83334",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2019-06-09T23:00:00Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Understanding artificial intelligence ethics and safety",
+                                                              "web_url":  "https://www.gov.uk/guidance/understanding-artificial-intelligence-ethics-and-safety",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/case-studies/natural-language-processing-for-land-registry-documentation-in-sweden",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/case-studies/natural-language-processing-for-land-registry-documentation-in-sweden",
+                                                              "base_path":  "/government/case-studies/natural-language-processing-for-land-registry-documentation-in-sweden",
+                                                              "content_id":  "29cc97d5-9f5c-4a28-96f0-94cfac01109b",
+                                                              "document_type":  "case_study",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2019-06-09T23:00:00Z",
+                                                              "schema_name":  "case_study",
+                                                              "title":  "Natural language processing for Land Registry documentation in Sweden",
+                                                              "web_url":  "https://www.gov.uk/government/case-studies/natural-language-processing-for-land-registry-documentation-in-sweden",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/guidance/define-your-purchasing-strategy",
+                                                              "api_url":  "https://www.gov.uk/api/content/guidance/define-your-purchasing-strategy",
+                                                              "base_path":  "/guidance/define-your-purchasing-strategy",
+                                                              "content_id":  "3c75c13c-8ddd-4b9d-ae98-e4db440b8660",
+                                                              "document_type":  "detailed_guide",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2023-11-29T08:00:01Z",
+                                                              "schema_name":  "detailed_guide",
+                                                              "title":  "Define your purchasing strategy",
+                                                              "web_url":  "https://www.gov.uk/guidance/define-your-purchasing-strategy",
+                                                              "withdrawn":  false
+                                                          },
+                                                          {
+                                                              "api_path":  "/api/content/government/collections/a-guide-to-using-artificial-intelligence-in-the-public-sector",
+                                                              "api_url":  "https://www.gov.uk/api/content/government/collections/a-guide-to-using-artificial-intelligence-in-the-public-sector",
+                                                              "base_path":  "/government/collections/a-guide-to-using-artificial-intelligence-in-the-public-sector",
+                                                              "content_id":  "9ef358c1-1f51-41fc-83d7-5daf2a1fe489",
+                                                              "document_type":  "document_collection",
+                                                              "links":  {
+
+                                                                        },
+                                                              "locale":  "en",
+                                                              "public_updated_at":  "2019-10-18T11:16:59Z",
+                                                              "schema_name":  "document_collection",
+                                                              "title":  "A guide to using artificial intelligence in the public sector",
+                                                              "web_url":  "https://www.gov.uk/government/collections/a-guide-to-using-artificial-intelligence-in-the-public-sector",
+                                                              "withdrawn":  false
+                                                          }
+                                                      ],
+                  "taxons":  [
+                                 {
+                                     "api_path":  "/api/content/government/technology-guidance-technology-guidance-buying-technology",
+                                     "api_url":  "https://www.gov.uk/api/content/government/technology-guidance-technology-guidance-buying-technology",
+                                     "base_path":  "/government/technology-guidance-technology-guidance-buying-technology",
+                                     "content_id":  "685d131a-5bcc-46e0-b952-8d9a3ffc6f0a",
+                                     "details":  {
+                                                     "internal_name":  "Buying technology [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/government-technology-and-digital-services",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/government-technology-and-digital-services",
+                                                                             "base_path":  "/government/government-technology-and-digital-services",
+                                                                             "content_id":  "90c9b9f1-0a4f-4639-b1e9-2bfb23d611bd",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Government technology and digital services",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/government/all",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/government/all",
+                                                                                                                     "base_path":  "/government/all",
+                                                                                                                     "content_id":  "e48ab80a-de80-4e83-bf59-26316856a5f9",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Government",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:29:39Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Government",
+                                                                                                                     "web_url":  "https://www.gov.uk/government/all",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "beta",
+                                                                             "public_updated_at":  "2018-08-28T10:56:47Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Government technology and digital services",
+                                                                             "web_url":  "https://www.gov.uk/government/government-technology-and-digital-services",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "beta",
+                                     "public_updated_at":  "2018-08-20T09:26:14Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Buying technology",
+                                     "web_url":  "https://www.gov.uk/government/technology-guidance-technology-guidance-buying-technology",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/government/design-and-build-of-government-services",
+                                     "api_url":  "https://www.gov.uk/api/content/government/design-and-build-of-government-services",
+                                     "base_path":  "/government/design-and-build-of-government-services",
+                                     "content_id":  "f4f8cd96-0d45-49fe-8996-c82154b168ee",
+                                     "details":  {
+                                                     "internal_name":  "Design and build of government services",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/government-technology-and-digital-services",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/government-technology-and-digital-services",
+                                                                             "base_path":  "/government/government-technology-and-digital-services",
+                                                                             "content_id":  "90c9b9f1-0a4f-4639-b1e9-2bfb23d611bd",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Government technology and digital services",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/government/all",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/government/all",
+                                                                                                                     "base_path":  "/government/all",
+                                                                                                                     "content_id":  "e48ab80a-de80-4e83-bf59-26316856a5f9",
+                                                                                                                     "description":  "",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Government",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  true
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "root_taxon":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "live",
+                                                                                                                     "public_updated_at":  "2018-09-16T20:29:39Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Government",
+                                                                                                                     "web_url":  "https://www.gov.uk/government/all",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "beta",
+                                                                             "public_updated_at":  "2018-08-28T10:56:47Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Government technology and digital services",
+                                                                             "web_url":  "https://www.gov.uk/government/government-technology-and-digital-services",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "beta",
+                                     "public_updated_at":  "2018-08-20T09:26:16Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Design and build of government services",
+                                     "web_url":  "https://www.gov.uk/government/design-and-build-of-government-services",
+                                     "withdrawn":  false
+                                 },
+                                 {
+                                     "api_path":  "/api/content/government/technology-guidance-technology-guidance-smarter-working",
+                                     "api_url":  "https://www.gov.uk/api/content/government/technology-guidance-technology-guidance-smarter-working",
+                                     "base_path":  "/government/technology-guidance-technology-guidance-smarter-working",
+                                     "content_id":  "5c2be44d-4007-446a-99c4-a45f92923314",
+                                     "details":  {
+                                                     "internal_name":  "Smarter working [T]",
+                                                     "notes_for_editors":  "",
+                                                     "visible_to_departmental_editors":  false
+                                                 },
+                                     "document_type":  "taxon",
+                                     "links":  {
+                                                   "parent_taxons":  [
+                                                                         {
+                                                                             "api_path":  "/api/content/government/technology-guidance-technology-guidance-digital-transformation",
+                                                                             "api_url":  "https://www.gov.uk/api/content/government/technology-guidance-technology-guidance-digital-transformation",
+                                                                             "base_path":  "/government/technology-guidance-technology-guidance-digital-transformation",
+                                                                             "content_id":  "93549580-c134-41a7-9cbc-1797ebc10200",
+                                                                             "details":  {
+                                                                                             "internal_name":  "Digital transformation [T]",
+                                                                                             "notes_for_editors":  "",
+                                                                                             "visible_to_departmental_editors":  false
+                                                                                         },
+                                                                             "document_type":  "taxon",
+                                                                             "links":  {
+                                                                                           "parent_taxons":  [
+                                                                                                                 {
+                                                                                                                     "api_path":  "/api/content/government/government-technology-and-digital-services",
+                                                                                                                     "api_url":  "https://www.gov.uk/api/content/government/government-technology-and-digital-services",
+                                                                                                                     "base_path":  "/government/government-technology-and-digital-services",
+                                                                                                                     "content_id":  "90c9b9f1-0a4f-4639-b1e9-2bfb23d611bd",
+                                                                                                                     "details":  {
+                                                                                                                                     "internal_name":  "Government technology and digital services",
+                                                                                                                                     "notes_for_editors":  "",
+                                                                                                                                     "visible_to_departmental_editors":  false
+                                                                                                                                 },
+                                                                                                                     "document_type":  "taxon",
+                                                                                                                     "links":  {
+                                                                                                                                   "parent_taxons":  ""
+                                                                                                                               },
+                                                                                                                     "locale":  "en",
+                                                                                                                     "phase":  "beta",
+                                                                                                                     "public_updated_at":  "2018-08-28T10:56:47Z",
+                                                                                                                     "schema_name":  "taxon",
+                                                                                                                     "title":  "Government technology and digital services",
+                                                                                                                     "web_url":  "https://www.gov.uk/government/government-technology-and-digital-services",
+                                                                                                                     "withdrawn":  false
+                                                                                                                 }
+                                                                                                             ]
+                                                                                       },
+                                                                             "locale":  "en",
+                                                                             "phase":  "beta",
+                                                                             "public_updated_at":  "2018-08-20T09:26:15Z",
+                                                                             "schema_name":  "taxon",
+                                                                             "title":  "Digital transformation",
+                                                                             "web_url":  "https://www.gov.uk/government/technology-guidance-technology-guidance-digital-transformation",
+                                                                             "withdrawn":  false
+                                                                         }
+                                                                     ]
+                                               },
+                                     "locale":  "en",
+                                     "phase":  "beta",
+                                     "public_updated_at":  "2018-08-20T09:26:14Z",
+                                     "schema_name":  "taxon",
+                                     "title":  "Smarter working",
+                                     "web_url":  "https://www.gov.uk/government/technology-guidance-technology-guidance-smarter-working",
+                                     "withdrawn":  false
+                                 }
+                             ]
+              },
+    "locale":  "en",
+    "phase":  "live",
+    "public_updated_at":  "2019-06-10T00:00:00+01:00",
+    "publishing_app":  "whitehall",
+    "publishing_request_id":  "21-1707211384.944-10.13.21.38-2676",
+    "publishing_scheduled_at":  "2019-06-10T10:15:00+01:00",
+    "rendering_app":  "government-frontend",
+    "scheduled_publishing_delay_seconds":  1,
+    "schema_name":  "detailed_guide",
+    "title":  "Assessing if artificial intelligence is the right solution",
+    "updated_at":  "2025-01-15T15:24:21+00:00",
+    "withdrawn_notice":  {
+
+                         }
+}
